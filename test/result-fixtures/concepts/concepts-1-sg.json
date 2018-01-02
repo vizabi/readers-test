@@ -1,0 +1,50 @@
+[
+  {
+    "concept": "country",
+    "concept_type": "entity_set",
+    "name": "Country",
+    "color": ""
+  },
+  {
+    "concept": "g77_and_oecd_countries",
+    "concept_type": "entity_set",
+    "name": "G77 and OECD countries",
+    "color": "{\"palette\":{\"g77\":\"#7487ef\",\"others\":\"#f05656\",\"oecd\":\"#71c44c\"}}"
+  },
+  {
+    "concept": "global",
+    "concept_type": "entity_set",
+    "name": "World",
+    "color": ""
+  },
+  {
+    "concept": "income_groups",
+    "concept_type": "entity_set",
+    "name": "Income groups",
+    "color": "{\"palette\":{\"lower_middle_income\":\"#7ea1d1\",\"upper_middle_income\":\"#a7cb7d\",\"high_income\":\"#7bc135\",\"low_income\":\"#4366f4\"}}"
+  },
+  {
+    "concept": "landlocked",
+    "concept_type": "entity_set",
+    "name": "Landlocked",
+    "color": "{\"palette\":{\"coastline\":\"#7487ef\",\"landlocked\":\"#f05656\"}}"
+  },
+  {
+    "concept": "main_religion_2008",
+    "concept_type": "entity_set",
+    "name": "Main religion 2008",
+    "color": "{\"palette\":{\"muslim\":\"#71c44c\",\"eastern_religions\":\"#f05656\",\"christian\":\"#7487ef\"},\"selectable\":false}"
+  },
+  {
+    "concept": "world_4region",
+    "concept_type": "entity_set",
+    "name": "World Regions",
+    "color": "{\"palette\":{\"asia\":[\"#ff5872\",\"#ff5178\",\"#ff658a\",\"#da0025\",\"#fa4e73\",\"#b2043a\"],\"africa\":[\"#00d5e9\",\"#00c8ec\",\"#00e1ec\",\"#0098df\",\"#77dff7\",\"#0586c6\"],\"_default\":[\"#ffb600\",\"#ffaa14\",\"#ffc500\",\"#fb6d19\",\"#ffb600\",\"#9b4838\"],\"europe\":[\"#ffe700\",\"#fbdd00\",\"#fff400\",\"#fbaf09\",\"#ffe700\",\"#b17f4a\"],\"americas\":[\"#7feb00\",\"#5de200\",\"#81f201\",\"#00b900\",\"#b5ea32\",\"#008d36\"]},\"shades\":{\"fill3\":2,\"fill2\":1,\"print_fill\":4,\"print_stroke\":5,\"fill1\":0,\"shade\":3},\"selectable\":false}"
+  },
+  {
+    "concept": "world_6region",
+    "concept_type": "entity_set",
+    "name": "World Regions (6 colors)",
+    "color": "{\"palette\":{\"america\":\"#ebcc21\",\"middle_east_north_africa\":\"#5be56b\",\"south_asia\":\"#35d1d1\",\"europe_central_asia\":\"#f49d37\",\"sub_saharan_africa\":\"#4e7af0\",\"east_asia_pacific\":\"#f03838\"},\"selectable\":false}"
+  }
+]

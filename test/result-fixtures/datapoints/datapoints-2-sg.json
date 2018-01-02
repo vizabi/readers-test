@@ -1,0 +1,8744 @@
+[
+  {
+    "geo": "asm",
+    "time": "1991",
+    "life_expectancy_years": 70.2,
+    "population_total": 48375
+  },
+  {
+    "geo": "asm",
+    "time": "1992",
+    "life_expectancy_years": 70.2,
+    "population_total": 49593
+  },
+  {
+    "geo": "asm",
+    "time": "1993",
+    "life_expectancy_years": 70.5,
+    "population_total": 50720
+  },
+  {
+    "geo": "asm",
+    "time": "1994",
+    "life_expectancy_years": 70.5,
+    "population_total": 51803
+  },
+  {
+    "geo": "asm",
+    "time": "1995",
+    "life_expectancy_years": 70.6,
+    "population_total": 52868
+  },
+  {
+    "geo": "asm",
+    "time": "1996",
+    "life_expectancy_years": 70.7,
+    "population_total": 53929
+  },
+  {
+    "geo": "asm",
+    "time": "1997",
+    "life_expectancy_years": 70.8,
+    "population_total": 54941
+  },
+  {
+    "geo": "asm",
+    "time": "1998",
+    "life_expectancy_years": 71,
+    "population_total": 55901
+  },
+  {
+    "geo": "asm",
+    "time": "1999",
+    "life_expectancy_years": 71.4,
+    "population_total": 56770
+  },
+  {
+    "geo": "asm",
+    "time": "2000",
+    "life_expectancy_years": 71.7,
+    "population_total": 57521
+  },
+  {
+    "geo": "asm",
+    "time": "2001",
+    "life_expectancy_years": 71.7,
+    "population_total": 58175
+  },
+  {
+    "geo": "asm",
+    "time": "2002",
+    "life_expectancy_years": 71.7,
+    "population_total": 58731
+  },
+  {
+    "geo": "asm",
+    "time": "2003",
+    "life_expectancy_years": 71.7,
+    "population_total": 59117
+  },
+  {
+    "geo": "asm",
+    "time": "2004",
+    "life_expectancy_years": 71.8,
+    "population_total": 59264
+  },
+  {
+    "geo": "asm",
+    "time": "2005",
+    "life_expectancy_years": 72,
+    "population_total": 59118
+  },
+  {
+    "geo": "asm",
+    "time": "2006",
+    "life_expectancy_years": 72.2,
+    "population_total": 58650
+  },
+  {
+    "geo": "asm",
+    "time": "2007",
+    "life_expectancy_years": 72.4,
+    "population_total": 57903
+  },
+  {
+    "geo": "asm",
+    "time": "2008",
+    "life_expectancy_years": 72.7,
+    "population_total": 57030
+  },
+  {
+    "geo": "asm",
+    "time": "2009",
+    "life_expectancy_years": 71.3,
+    "population_total": 56227
+  },
+  {
+    "geo": "asm",
+    "time": "2010",
+    "life_expectancy_years": 72.8,
+    "population_total": 55637
+  },
+  {
+    "geo": "asm",
+    "time": "2011",
+    "life_expectancy_years": 72.6,
+    "population_total": 55320
+  },
+  {
+    "geo": "asm",
+    "time": "2012",
+    "life_expectancy_years": 72.6,
+    "population_total": 55230
+  },
+  {
+    "geo": "asm",
+    "time": "2013",
+    "life_expectancy_years": 72.7,
+    "population_total": 55307
+  },
+  {
+    "geo": "asm",
+    "time": "2014",
+    "life_expectancy_years": 72.8,
+    "population_total": 55437
+  },
+  {
+    "geo": "asm",
+    "time": "2015",
+    "life_expectancy_years": 72.9,
+    "population_total": 55537
+  },
+  {
+    "geo": "ago",
+    "time": "1991",
+    "life_expectancy_years": 49.3,
+    "population_total": 12553446
+  },
+  {
+    "geo": "ago",
+    "time": "1992",
+    "life_expectancy_years": 49.6,
+    "population_total": 12968345
+  },
+  {
+    "geo": "ago",
+    "time": "1993",
+    "life_expectancy_years": 48.4,
+    "population_total": 13403734
+  },
+  {
+    "geo": "ago",
+    "time": "1994",
+    "life_expectancy_years": 50,
+    "population_total": 13841301
+  },
+  {
+    "geo": "ago",
+    "time": "1995",
+    "life_expectancy_years": 50.9,
+    "population_total": 14268994
+  },
+  {
+    "geo": "ago",
+    "time": "1996",
+    "life_expectancy_years": 51.3,
+    "population_total": 14682284
+  },
+  {
+    "geo": "ago",
+    "time": "1997",
+    "life_expectancy_years": 51.7,
+    "population_total": 15088981
+  },
+  {
+    "geo": "ago",
+    "time": "1998",
+    "life_expectancy_years": 51.8,
+    "population_total": 15504318
+  },
+  {
+    "geo": "ago",
+    "time": "1999",
+    "life_expectancy_years": 51.8,
+    "population_total": 15949766
+  },
+  {
+    "geo": "ago",
+    "time": "2000",
+    "life_expectancy_years": 52.3,
+    "population_total": 16440924
+  },
+  {
+    "geo": "ago",
+    "time": "2001",
+    "life_expectancy_years": 52.5,
+    "population_total": 16983266
+  },
+  {
+    "geo": "ago",
+    "time": "2002",
+    "life_expectancy_years": 53.3,
+    "population_total": 17572649
+  },
+  {
+    "geo": "ago",
+    "time": "2003",
+    "life_expectancy_years": 53.9,
+    "population_total": 18203369
+  },
+  {
+    "geo": "ago",
+    "time": "2004",
+    "life_expectancy_years": 54.5,
+    "population_total": 18865716
+  },
+  {
+    "geo": "ago",
+    "time": "2005",
+    "life_expectancy_years": 55.2,
+    "population_total": 19552542
+  },
+  {
+    "geo": "ago",
+    "time": "2006",
+    "life_expectancy_years": 55.7,
+    "population_total": 20262399
+  },
+  {
+    "geo": "ago",
+    "time": "2007",
+    "life_expectancy_years": 56.2,
+    "population_total": 20997687
+  },
+  {
+    "geo": "ago",
+    "time": "2008",
+    "life_expectancy_years": 56.7,
+    "population_total": 21759420
+  },
+  {
+    "geo": "ago",
+    "time": "2009",
+    "life_expectancy_years": 57.1,
+    "population_total": 22549547
+  },
+  {
+    "geo": "ago",
+    "time": "2010",
+    "life_expectancy_years": 57.6,
+    "population_total": 23369131
+  },
+  {
+    "geo": "ago",
+    "time": "2011",
+    "life_expectancy_years": 58.1,
+    "population_total": 24218565
+  },
+  {
+    "geo": "ago",
+    "time": "2012",
+    "life_expectancy_years": 58.5,
+    "population_total": 25096150
+  },
+  {
+    "geo": "ago",
+    "time": "2013",
+    "life_expectancy_years": 58.8,
+    "population_total": 25998340
+  },
+  {
+    "geo": "ago",
+    "time": "2014",
+    "life_expectancy_years": 59.2,
+    "population_total": 26920466
+  },
+  {
+    "geo": "ago",
+    "time": "2015",
+    "life_expectancy_years": 59.6,
+    "population_total": 27859305
+  },
+  {
+    "geo": "arg",
+    "time": "1991",
+    "life_expectancy_years": 72.7,
+    "population_total": 33193918
+  },
+  {
+    "geo": "arg",
+    "time": "1992",
+    "life_expectancy_years": 72.8,
+    "population_total": 33655151
+  },
+  {
+    "geo": "arg",
+    "time": "1993",
+    "life_expectancy_years": 73.1,
+    "population_total": 34110917
+  },
+  {
+    "geo": "arg",
+    "time": "1994",
+    "life_expectancy_years": 73.4,
+    "population_total": 34558115
+  },
+  {
+    "geo": "arg",
+    "time": "1995",
+    "life_expectancy_years": 73.5,
+    "population_total": 34994814
+  },
+  {
+    "geo": "arg",
+    "time": "1996",
+    "life_expectancy_years": 73.5,
+    "population_total": 35419682
+  },
+  {
+    "geo": "arg",
+    "time": "1997",
+    "life_expectancy_years": 73.6,
+    "population_total": 35833969
+  },
+  {
+    "geo": "arg",
+    "time": "1998",
+    "life_expectancy_years": 73.8,
+    "population_total": 36241590
+  },
+  {
+    "geo": "arg",
+    "time": "1999",
+    "life_expectancy_years": 73.9,
+    "population_total": 36648068
+  },
+  {
+    "geo": "arg",
+    "time": "2000",
+    "life_expectancy_years": 74.2,
+    "population_total": 37057452
+  },
+  {
+    "geo": "arg",
+    "time": "2001",
+    "life_expectancy_years": 74.3,
+    "population_total": 37471509
+  },
+  {
+    "geo": "arg",
+    "time": "2002",
+    "life_expectancy_years": 74.3,
+    "population_total": 37889370
+  },
+  {
+    "geo": "arg",
+    "time": "2003",
+    "life_expectancy_years": 74.5,
+    "population_total": 38309379
+  },
+  {
+    "geo": "arg",
+    "time": "2004",
+    "life_expectancy_years": 75,
+    "population_total": 38728696
+  },
+  {
+    "geo": "arg",
+    "time": "2005",
+    "life_expectancy_years": 75.3,
+    "population_total": 39145488
+  },
+  {
+    "geo": "arg",
+    "time": "2006",
+    "life_expectancy_years": 75.3,
+    "population_total": 39558890
+  },
+  {
+    "geo": "arg",
+    "time": "2007",
+    "life_expectancy_years": 75.2,
+    "population_total": 39970224
+  },
+  {
+    "geo": "arg",
+    "time": "2008",
+    "life_expectancy_years": 75.4,
+    "population_total": 40382389
+  },
+  {
+    "geo": "arg",
+    "time": "2009",
+    "life_expectancy_years": 75.6,
+    "population_total": 40799407
+  },
+  {
+    "geo": "arg",
+    "time": "2010",
+    "life_expectancy_years": 75.8,
+    "population_total": 41223889
+  },
+  {
+    "geo": "arg",
+    "time": "2011",
+    "life_expectancy_years": 76,
+    "population_total": 41656879
+  },
+  {
+    "geo": "arg",
+    "time": "2012",
+    "life_expectancy_years": 76.1,
+    "population_total": 42096739
+  },
+  {
+    "geo": "arg",
+    "time": "2013",
+    "life_expectancy_years": 76.2,
+    "population_total": 42539925
+  },
+  {
+    "geo": "arg",
+    "time": "2014",
+    "life_expectancy_years": 76.3,
+    "population_total": 42981515
+  },
+  {
+    "geo": "arg",
+    "time": "2015",
+    "life_expectancy_years": 76.5,
+    "population_total": 43417765
+  },
+  {
+    "geo": "aus",
+    "time": "1991",
+    "life_expectancy_years": 77.4,
+    "population_total": 17271874
+  },
+  {
+    "geo": "aus",
+    "time": "1992",
+    "life_expectancy_years": 77.6,
+    "population_total": 17485948
+  },
+  {
+    "geo": "aus",
+    "time": "1993",
+    "life_expectancy_years": 77.9,
+    "population_total": 17687479
+  },
+  {
+    "geo": "aus",
+    "time": "1994",
+    "life_expectancy_years": 78.1,
+    "population_total": 17882737
+  },
+  {
+    "geo": "aus",
+    "time": "1995",
+    "life_expectancy_years": 78.3,
+    "population_total": 18076743
+  },
+  {
+    "geo": "aus",
+    "time": "1996",
+    "life_expectancy_years": 78.5,
+    "population_total": 18271685
+  },
+  {
+    "geo": "aus",
+    "time": "1997",
+    "life_expectancy_years": 78.8,
+    "population_total": 18467588
+  },
+  {
+    "geo": "aus",
+    "time": "1998",
+    "life_expectancy_years": 79.2,
+    "population_total": 18665045
+  },
+  {
+    "geo": "aus",
+    "time": "1999",
+    "life_expectancy_years": 79.4,
+    "population_total": 18864112
+  },
+  {
+    "geo": "aus",
+    "time": "2000",
+    "life_expectancy_years": 79.8,
+    "population_total": 19065837
+  },
+  {
+    "geo": "aus",
+    "time": "2001",
+    "life_expectancy_years": 80.1,
+    "population_total": 19268533
+  },
+  {
+    "geo": "aus",
+    "time": "2002",
+    "life_expectancy_years": 80.3,
+    "population_total": 19475191
+  },
+  {
+    "geo": "aus",
+    "time": "2003",
+    "life_expectancy_years": 80.6,
+    "population_total": 19696972
+  },
+  {
+    "geo": "aus",
+    "time": "2004",
+    "life_expectancy_years": 80.9,
+    "population_total": 19948429
+  },
+  {
+    "geo": "aus",
+    "time": "2005",
+    "life_expectancy_years": 81.2,
+    "population_total": 20238903
+  },
+  {
+    "geo": "aus",
+    "time": "2006",
+    "life_expectancy_years": 81.4,
+    "population_total": 20573606
+  },
+  {
+    "geo": "aus",
+    "time": "2007",
+    "life_expectancy_years": 81.5,
+    "population_total": 20946664
+  },
+  {
+    "geo": "aus",
+    "time": "2008",
+    "life_expectancy_years": 81.6,
+    "population_total": 21342493
+  },
+  {
+    "geo": "aus",
+    "time": "2009",
+    "life_expectancy_years": 81.8,
+    "population_total": 21739040
+  },
+  {
+    "geo": "aus",
+    "time": "2010",
+    "life_expectancy_years": 82,
+    "population_total": 22120064
+  },
+  {
+    "geo": "aus",
+    "time": "2011",
+    "life_expectancy_years": 82.2,
+    "population_total": 22479799
+  },
+  {
+    "geo": "aus",
+    "time": "2012",
+    "life_expectancy_years": 82.4,
+    "population_total": 22821849
+  },
+  {
+    "geo": "aus",
+    "time": "2013",
+    "life_expectancy_years": 82.4,
+    "population_total": 23150729
+  },
+  {
+    "geo": "aus",
+    "time": "2014",
+    "life_expectancy_years": 82.3,
+    "population_total": 23474668
+  },
+  {
+    "geo": "aus",
+    "time": "2015",
+    "life_expectancy_years": 82.3,
+    "population_total": 23799556
+  },
+  {
+    "geo": "bol",
+    "time": "1991",
+    "life_expectancy_years": 62.2,
+    "population_total": 6992521
+  },
+  {
+    "geo": "bol",
+    "time": "1992",
+    "life_expectancy_years": 62.7,
+    "population_total": 7131707
+  },
+  {
+    "geo": "bol",
+    "time": "1993",
+    "life_expectancy_years": 63.2,
+    "population_total": 7273825
+  },
+  {
+    "geo": "bol",
+    "time": "1994",
+    "life_expectancy_years": 63.8,
+    "population_total": 7418861
+  },
+  {
+    "geo": "bol",
+    "time": "1995",
+    "life_expectancy_years": 64.4,
+    "population_total": 7566714
+  },
+  {
+    "geo": "bol",
+    "time": "1996",
+    "life_expectancy_years": 65.1,
+    "population_total": 7717443
+  },
+  {
+    "geo": "bol",
+    "time": "1997",
+    "life_expectancy_years": 65.6,
+    "population_total": 7870855
+  },
+  {
+    "geo": "bol",
+    "time": "1998",
+    "life_expectancy_years": 66.3,
+    "population_total": 8026254
+  },
+  {
+    "geo": "bol",
+    "time": "1999",
+    "life_expectancy_years": 66.9,
+    "population_total": 8182712
+  },
+  {
+    "geo": "bol",
+    "time": "2000",
+    "life_expectancy_years": 67.6,
+    "population_total": 8339512
+  },
+  {
+    "geo": "bol",
+    "time": "2001",
+    "life_expectancy_years": 68.3,
+    "population_total": 8496375
+  },
+  {
+    "geo": "bol",
+    "time": "2002",
+    "life_expectancy_years": 68.7,
+    "population_total": 8653345
+  },
+  {
+    "geo": "bol",
+    "time": "2003",
+    "life_expectancy_years": 69.3,
+    "population_total": 8810420
+  },
+  {
+    "geo": "bol",
+    "time": "2004",
+    "life_expectancy_years": 69.8,
+    "population_total": 8967741
+  },
+  {
+    "geo": "bol",
+    "time": "2005",
+    "life_expectancy_years": 70.2,
+    "population_total": 9125409
+  },
+  {
+    "geo": "bol",
+    "time": "2006",
+    "life_expectancy_years": 70.6,
+    "population_total": 9283334
+  },
+  {
+    "geo": "bol",
+    "time": "2007",
+    "life_expectancy_years": 70.9,
+    "population_total": 9441444
+  },
+  {
+    "geo": "bol",
+    "time": "2008",
+    "life_expectancy_years": 71.2,
+    "population_total": 9599855
+  },
+  {
+    "geo": "bol",
+    "time": "2009",
+    "life_expectancy_years": 71.6,
+    "population_total": 9758748
+  },
+  {
+    "geo": "bol",
+    "time": "2010",
+    "life_expectancy_years": 71.8,
+    "population_total": 9918242
+  },
+  {
+    "geo": "bol",
+    "time": "2011",
+    "life_expectancy_years": 72.1,
+    "population_total": 10078343
+  },
+  {
+    "geo": "bol",
+    "time": "2012",
+    "life_expectancy_years": 72.4,
+    "population_total": 10239004
+  },
+  {
+    "geo": "bol",
+    "time": "2013",
+    "life_expectancy_years": 72.7,
+    "population_total": 10400264
+  },
+  {
+    "geo": "bol",
+    "time": "2014",
+    "life_expectancy_years": 72.9,
+    "population_total": 10562159
+  },
+  {
+    "geo": "bol",
+    "time": "2015",
+    "life_expectancy_years": 73.2,
+    "population_total": 10724705
+  },
+  {
+    "geo": "bwa",
+    "time": "1991",
+    "life_expectancy_years": 62,
+    "population_total": 1416731
+  },
+  {
+    "geo": "bwa",
+    "time": "1992",
+    "life_expectancy_years": 61.2,
+    "population_total": 1455833
+  },
+  {
+    "geo": "bwa",
+    "time": "1993",
+    "life_expectancy_years": 60.1,
+    "population_total": 1494693
+  },
+  {
+    "geo": "bwa",
+    "time": "1994",
+    "life_expectancy_years": 58.6,
+    "population_total": 1532622
+  },
+  {
+    "geo": "bwa",
+    "time": "1995",
+    "life_expectancy_years": 56.8,
+    "population_total": 1569094
+  },
+  {
+    "geo": "bwa",
+    "time": "1996",
+    "life_expectancy_years": 54.8,
+    "population_total": 1604060
+  },
+  {
+    "geo": "bwa",
+    "time": "1997",
+    "life_expectancy_years": 52.9,
+    "population_total": 1637635
+  },
+  {
+    "geo": "bwa",
+    "time": "1998",
+    "life_expectancy_years": 50.9,
+    "population_total": 1669625
+  },
+  {
+    "geo": "bwa",
+    "time": "1999",
+    "life_expectancy_years": 49.2,
+    "population_total": 1699862
+  },
+  {
+    "geo": "bwa",
+    "time": "2000",
+    "life_expectancy_years": 47.6,
+    "population_total": 1728340
+  },
+  {
+    "geo": "bwa",
+    "time": "2001",
+    "life_expectancy_years": 46.5,
+    "population_total": 1754935
+  },
+  {
+    "geo": "bwa",
+    "time": "2002",
+    "life_expectancy_years": 45.6,
+    "population_total": 1779953
+  },
+  {
+    "geo": "bwa",
+    "time": "2003",
+    "life_expectancy_years": 45.7,
+    "population_total": 1804339
+  },
+  {
+    "geo": "bwa",
+    "time": "2004",
+    "life_expectancy_years": 46.9,
+    "population_total": 1829330
+  },
+  {
+    "geo": "bwa",
+    "time": "2005",
+    "life_expectancy_years": 49.3,
+    "population_total": 1855852
+  },
+  {
+    "geo": "bwa",
+    "time": "2006",
+    "life_expectancy_years": 51.2,
+    "population_total": 1884238
+  },
+  {
+    "geo": "bwa",
+    "time": "2007",
+    "life_expectancy_years": 52.4,
+    "population_total": 1914414
+  },
+  {
+    "geo": "bwa",
+    "time": "2008",
+    "life_expectancy_years": 53.2,
+    "population_total": 1946351
+  },
+  {
+    "geo": "bwa",
+    "time": "2009",
+    "life_expectancy_years": 54.3,
+    "population_total": 1979882
+  },
+  {
+    "geo": "bwa",
+    "time": "2010",
+    "life_expectancy_years": 55.6,
+    "population_total": 2014866
+  },
+  {
+    "geo": "bwa",
+    "time": "2011",
+    "life_expectancy_years": 56.5,
+    "population_total": 2051339
+  },
+  {
+    "geo": "bwa",
+    "time": "2012",
+    "life_expectancy_years": 56.5,
+    "population_total": 2089315
+  },
+  {
+    "geo": "bwa",
+    "time": "2013",
+    "life_expectancy_years": 56.9,
+    "population_total": 2128507
+  },
+  {
+    "geo": "bwa",
+    "time": "2014",
+    "life_expectancy_years": 57.3,
+    "population_total": 2168573
+  },
+  {
+    "geo": "bwa",
+    "time": "2015",
+    "life_expectancy_years": 58.7,
+    "population_total": 2209197
+  },
+  {
+    "geo": "bra",
+    "time": "1991",
+    "life_expectancy_years": 68.1,
+    "population_total": 151976577
+  },
+  {
+    "geo": "bra",
+    "time": "1992",
+    "life_expectancy_years": 68.3,
+    "population_total": 154564278
+  },
+  {
+    "geo": "bra",
+    "time": "1993",
+    "life_expectancy_years": 68.5,
+    "population_total": 157132682
+  },
+  {
+    "geo": "bra",
+    "time": "1994",
+    "life_expectancy_years": 68.8,
+    "population_total": 159705123
+  },
+  {
+    "geo": "bra",
+    "time": "1995",
+    "life_expectancy_years": 69,
+    "population_total": 162296612
+  },
+  {
+    "geo": "bra",
+    "time": "1996",
+    "life_expectancy_years": 69.3,
+    "population_total": 164913306
+  },
+  {
+    "geo": "bra",
+    "time": "1997",
+    "life_expectancy_years": 69.6,
+    "population_total": 167545164
+  },
+  {
+    "geo": "bra",
+    "time": "1998",
+    "life_expectancy_years": 69.9,
+    "population_total": 170170640
+  },
+  {
+    "geo": "bra",
+    "time": "1999",
+    "life_expectancy_years": 70.3,
+    "population_total": 172759243
+  },
+  {
+    "geo": "bra",
+    "time": "2000",
+    "life_expectancy_years": 70.7,
+    "population_total": 175287587
+  },
+  {
+    "geo": "bra",
+    "time": "2001",
+    "life_expectancy_years": 71.1,
+    "population_total": 177750670
+  },
+  {
+    "geo": "bra",
+    "time": "2002",
+    "life_expectancy_years": 71.4,
+    "population_total": 180151021
+  },
+  {
+    "geo": "bra",
+    "time": "2003",
+    "life_expectancy_years": 71.7,
+    "population_total": 182482149
+  },
+  {
+    "geo": "bra",
+    "time": "2004",
+    "life_expectancy_years": 72,
+    "population_total": 184738458
+  },
+  {
+    "geo": "bra",
+    "time": "2005",
+    "life_expectancy_years": 72.4,
+    "population_total": 186917361
+  },
+  {
+    "geo": "bra",
+    "time": "2006",
+    "life_expectancy_years": 72.7,
+    "population_total": 189012412
+  },
+  {
+    "geo": "bra",
+    "time": "2007",
+    "life_expectancy_years": 73,
+    "population_total": 191026637
+  },
+  {
+    "geo": "bra",
+    "time": "2008",
+    "life_expectancy_years": 73.2,
+    "population_total": 192979029
+  },
+  {
+    "geo": "bra",
+    "time": "2009",
+    "life_expectancy_years": 73.4,
+    "population_total": 194895996
+  },
+  {
+    "geo": "bra",
+    "time": "2010",
+    "life_expectancy_years": 73.6,
+    "population_total": 196796269
+  },
+  {
+    "geo": "bra",
+    "time": "2011",
+    "life_expectancy_years": 73.8,
+    "population_total": 198686688
+  },
+  {
+    "geo": "bra",
+    "time": "2012",
+    "life_expectancy_years": 74,
+    "population_total": 200560983
+  },
+  {
+    "geo": "bra",
+    "time": "2013",
+    "life_expectancy_years": 74.1,
+    "population_total": 202408632
+  },
+  {
+    "geo": "bra",
+    "time": "2014",
+    "life_expectancy_years": 74.3,
+    "population_total": 204213133
+  },
+  {
+    "geo": "bra",
+    "time": "2015",
+    "life_expectancy_years": 74.4,
+    "population_total": 205962108
+  },
+  {
+    "geo": "bdi",
+    "time": "1991",
+    "life_expectancy_years": 45.4,
+    "population_total": 5542048
+  },
+  {
+    "geo": "bdi",
+    "time": "1992",
+    "life_expectancy_years": 45.3,
+    "population_total": 5661139
+  },
+  {
+    "geo": "bdi",
+    "time": "1993",
+    "life_expectancy_years": 45.1,
+    "population_total": 5771398
+  },
+  {
+    "geo": "bdi",
+    "time": "1994",
+    "life_expectancy_years": 45,
+    "population_total": 5871607
+  },
+  {
+    "geo": "bdi",
+    "time": "1995",
+    "life_expectancy_years": 44.5,
+    "population_total": 5962058
+  },
+  {
+    "geo": "bdi",
+    "time": "1996",
+    "life_expectancy_years": 44.3,
+    "population_total": 6041112
+  },
+  {
+    "geo": "bdi",
+    "time": "1997",
+    "life_expectancy_years": 45,
+    "population_total": 6112097
+  },
+  {
+    "geo": "bdi",
+    "time": "1998",
+    "life_expectancy_years": 45.5,
+    "population_total": 6186352
+  },
+  {
+    "geo": "bdi",
+    "time": "1999",
+    "life_expectancy_years": 46.3,
+    "population_total": 6278940
+  },
+  {
+    "geo": "bdi",
+    "time": "2000",
+    "life_expectancy_years": 46.7,
+    "population_total": 6400706
+  },
+  {
+    "geo": "bdi",
+    "time": "2001",
+    "life_expectancy_years": 48.4,
+    "population_total": 6555829
+  },
+  {
+    "geo": "bdi",
+    "time": "2002",
+    "life_expectancy_years": 49.8,
+    "population_total": 6741569
+  },
+  {
+    "geo": "bdi",
+    "time": "2003",
+    "life_expectancy_years": 51.3,
+    "population_total": 6953113
+  },
+  {
+    "geo": "bdi",
+    "time": "2004",
+    "life_expectancy_years": 53,
+    "population_total": 7182451
+  },
+  {
+    "geo": "bdi",
+    "time": "2005",
+    "life_expectancy_years": 54.7,
+    "population_total": 7423289
+  },
+  {
+    "geo": "bdi",
+    "time": "2006",
+    "life_expectancy_years": 56.4,
+    "population_total": 7675338
+  },
+  {
+    "geo": "bdi",
+    "time": "2007",
+    "life_expectancy_years": 57.9,
+    "population_total": 7939573
+  },
+  {
+    "geo": "bdi",
+    "time": "2008",
+    "life_expectancy_years": 59.1,
+    "population_total": 8212264
+  },
+  {
+    "geo": "bdi",
+    "time": "2009",
+    "life_expectancy_years": 60,
+    "population_total": 8489031
+  },
+  {
+    "geo": "bdi",
+    "time": "2010",
+    "life_expectancy_years": 60.4,
+    "population_total": 8766930
+  },
+  {
+    "geo": "bdi",
+    "time": "2011",
+    "life_expectancy_years": 60.8,
+    "population_total": 9043508
+  },
+  {
+    "geo": "bdi",
+    "time": "2012",
+    "life_expectancy_years": 61.1,
+    "population_total": 9319710
+  },
+  {
+    "geo": "bdi",
+    "time": "2013",
+    "life_expectancy_years": 61.3,
+    "population_total": 9600186
+  },
+  {
+    "geo": "bdi",
+    "time": "2014",
+    "life_expectancy_years": 61.4,
+    "population_total": 9891790
+  },
+  {
+    "geo": "bdi",
+    "time": "2015",
+    "life_expectancy_years": 61.4,
+    "population_total": 10199270
+  },
+  {
+    "geo": "chanisl",
+    "time": "1991",
+    "life_expectancy_years": 75.73,
+    "population_total": 141568
+  },
+  {
+    "geo": "chanisl",
+    "time": "1992",
+    "life_expectancy_years": 75.94,
+    "population_total": 142258
+  },
+  {
+    "geo": "chanisl",
+    "time": "1993",
+    "life_expectancy_years": 76.14,
+    "population_total": 142819
+  },
+  {
+    "geo": "chanisl",
+    "time": "1994",
+    "life_expectancy_years": 76.34,
+    "population_total": 143384
+  },
+  {
+    "geo": "chanisl",
+    "time": "1995",
+    "life_expectancy_years": 76.53,
+    "population_total": 144046
+  },
+  {
+    "geo": "chanisl",
+    "time": "1996",
+    "life_expectancy_years": 76.72,
+    "population_total": 144829
+  },
+  {
+    "geo": "chanisl",
+    "time": "1997",
+    "life_expectancy_years": 76.92,
+    "population_total": 145715
+  },
+  {
+    "geo": "chanisl",
+    "time": "1998",
+    "life_expectancy_years": 77.14,
+    "population_total": 146671
+  },
+  {
+    "geo": "chanisl",
+    "time": "1999",
+    "life_expectancy_years": 77.37,
+    "population_total": 147687
+  },
+  {
+    "geo": "chanisl",
+    "time": "2000",
+    "life_expectancy_years": 77.61,
+    "population_total": 148725
+  },
+  {
+    "geo": "chanisl",
+    "time": "2001",
+    "life_expectancy_years": 77.87,
+    "population_total": 149793
+  },
+  {
+    "geo": "chanisl",
+    "time": "2002",
+    "life_expectancy_years": 78.14,
+    "population_total": 150901
+  },
+  {
+    "geo": "chanisl",
+    "time": "2003",
+    "life_expectancy_years": 78.41,
+    "population_total": 152038
+  },
+  {
+    "geo": "chanisl",
+    "time": "2004",
+    "life_expectancy_years": 78.67,
+    "population_total": 153170
+  },
+  {
+    "geo": "chanisl",
+    "time": "2005",
+    "life_expectancy_years": 78.93,
+    "population_total": 154294
+  },
+  {
+    "geo": "chanisl",
+    "time": "2006",
+    "life_expectancy_years": 79.16,
+    "population_total": 155411
+  },
+  {
+    "geo": "chanisl",
+    "time": "2007",
+    "life_expectancy_years": 79.38,
+    "population_total": 156513
+  },
+  {
+    "geo": "chanisl",
+    "time": "2008",
+    "life_expectancy_years": 79.57,
+    "population_total": 157581
+  },
+  {
+    "geo": "chanisl",
+    "time": "2009",
+    "life_expectancy_years": 79.75,
+    "population_total": 158603
+  },
+  {
+    "geo": "chanisl",
+    "time": "2010",
+    "life_expectancy_years": 79.9,
+    "population_total": 159581
+  },
+  {
+    "geo": "chanisl",
+    "time": "2011",
+    "life_expectancy_years": 80.05,
+    "population_total": 160497
+  },
+  {
+    "geo": "chanisl",
+    "time": "2012",
+    "life_expectancy_years": 80.19,
+    "population_total": 161358
+  },
+  {
+    "geo": "chanisl",
+    "time": "2013",
+    "life_expectancy_years": 80.32,
+    "population_total": 162180
+  },
+  {
+    "geo": "chanisl",
+    "time": "2014",
+    "life_expectancy_years": 80.47,
+    "population_total": 162969
+  },
+  {
+    "geo": "chanisl",
+    "time": "2015",
+    "life_expectancy_years": 80.61,
+    "population_total": 163758
+  },
+  {
+    "geo": "chl",
+    "time": "1991",
+    "life_expectancy_years": 74.1,
+    "population_total": 13457244
+  },
+  {
+    "geo": "chl",
+    "time": "1992",
+    "life_expectancy_years": 75,
+    "population_total": 13671033
+  },
+  {
+    "geo": "chl",
+    "time": "1993",
+    "life_expectancy_years": 75.2,
+    "population_total": 13882668
+  },
+  {
+    "geo": "chl",
+    "time": "1994",
+    "life_expectancy_years": 75.3,
+    "population_total": 14091389
+  },
+  {
+    "geo": "chl",
+    "time": "1995",
+    "life_expectancy_years": 75.4,
+    "population_total": 14296613
+  },
+  {
+    "geo": "chl",
+    "time": "1996",
+    "life_expectancy_years": 75.7,
+    "population_total": 14497826
+  },
+  {
+    "geo": "chl",
+    "time": "1997",
+    "life_expectancy_years": 76.2,
+    "population_total": 14694835
+  },
+  {
+    "geo": "chl",
+    "time": "1998",
+    "life_expectancy_years": 76.6,
+    "population_total": 14887756
+  },
+  {
+    "geo": "chl",
+    "time": "1999",
+    "life_expectancy_years": 76.9,
+    "population_total": 15076952
+  },
+  {
+    "geo": "chl",
+    "time": "2000",
+    "life_expectancy_years": 77.3,
+    "population_total": 15262754
+  },
+  {
+    "geo": "chl",
+    "time": "2001",
+    "life_expectancy_years": 77.4,
+    "population_total": 15444969
+  },
+  {
+    "geo": "chl",
+    "time": "2002",
+    "life_expectancy_years": 77.7,
+    "population_total": 15623635
+  },
+  {
+    "geo": "chl",
+    "time": "2003",
+    "life_expectancy_years": 77.8,
+    "population_total": 15799542
+  },
+  {
+    "geo": "chl",
+    "time": "2004",
+    "life_expectancy_years": 78,
+    "population_total": 15973778
+  },
+  {
+    "geo": "chl",
+    "time": "2005",
+    "life_expectancy_years": 78.2,
+    "population_total": 16147064
+  },
+  {
+    "geo": "chl",
+    "time": "2006",
+    "life_expectancy_years": 78.2,
+    "population_total": 16319792
+  },
+  {
+    "geo": "chl",
+    "time": "2007",
+    "life_expectancy_years": 78.3,
+    "population_total": 16491687
+  },
+  {
+    "geo": "chl",
+    "time": "2008",
+    "life_expectancy_years": 78.5,
+    "population_total": 16661942
+  },
+  {
+    "geo": "chl",
+    "time": "2009",
+    "life_expectancy_years": 78.5,
+    "population_total": 16829442
+  },
+  {
+    "geo": "chl",
+    "time": "2010",
+    "life_expectancy_years": 78.5,
+    "population_total": 16993354
+  },
+  {
+    "geo": "chl",
+    "time": "2011",
+    "life_expectancy_years": 78.9,
+    "population_total": 17153357
+  },
+  {
+    "geo": "chl",
+    "time": "2012",
+    "life_expectancy_years": 79.1,
+    "population_total": 17309746
+  },
+  {
+    "geo": "chl",
+    "time": "2013",
+    "life_expectancy_years": 79.1,
+    "population_total": 17462982
+  },
+  {
+    "geo": "chl",
+    "time": "2014",
+    "life_expectancy_years": 79.2,
+    "population_total": 17613798
+  },
+  {
+    "geo": "chl",
+    "time": "2015",
+    "life_expectancy_years": 79.4,
+    "population_total": 17762681
+  },
+  {
+    "geo": "com",
+    "time": "1991",
+    "life_expectancy_years": 57.4,
+    "population_total": 423872
+  },
+  {
+    "geo": "com",
+    "time": "1992",
+    "life_expectancy_years": 57.8,
+    "population_total": 436448
+  },
+  {
+    "geo": "com",
+    "time": "1993",
+    "life_expectancy_years": 58.2,
+    "population_total": 449274
+  },
+  {
+    "geo": "com",
+    "time": "1994",
+    "life_expectancy_years": 58.5,
+    "population_total": 462277
+  },
+  {
+    "geo": "com",
+    "time": "1995",
+    "life_expectancy_years": 58.9,
+    "population_total": 475394
+  },
+  {
+    "geo": "com",
+    "time": "1996",
+    "life_expectancy_years": 58.4,
+    "population_total": 488627
+  },
+  {
+    "geo": "com",
+    "time": "1997",
+    "life_expectancy_years": 59.4,
+    "population_total": 501953
+  },
+  {
+    "geo": "com",
+    "time": "1998",
+    "life_expectancy_years": 60,
+    "population_total": 515385
+  },
+  {
+    "geo": "com",
+    "time": "1999",
+    "life_expectancy_years": 61.4,
+    "population_total": 528848
+  },
+  {
+    "geo": "com",
+    "time": "2000",
+    "life_expectancy_years": 62.1,
+    "population_total": 542357
+  },
+  {
+    "geo": "com",
+    "time": "2001",
+    "life_expectancy_years": 63,
+    "population_total": 555888
+  },
+  {
+    "geo": "com",
+    "time": "2002",
+    "life_expectancy_years": 63.8,
+    "population_total": 569479
+  },
+  {
+    "geo": "com",
+    "time": "2003",
+    "life_expectancy_years": 64.8,
+    "population_total": 583211
+  },
+  {
+    "geo": "com",
+    "time": "2004",
+    "life_expectancy_years": 65.5,
+    "population_total": 597228
+  },
+  {
+    "geo": "com",
+    "time": "2005",
+    "life_expectancy_years": 66,
+    "population_total": 611627
+  },
+  {
+    "geo": "com",
+    "time": "2006",
+    "life_expectancy_years": 66.3,
+    "population_total": 626425
+  },
+  {
+    "geo": "com",
+    "time": "2007",
+    "life_expectancy_years": 66.6,
+    "population_total": 641620
+  },
+  {
+    "geo": "com",
+    "time": "2008",
+    "life_expectancy_years": 67.1,
+    "population_total": 657229
+  },
+  {
+    "geo": "com",
+    "time": "2009",
+    "life_expectancy_years": 66.7,
+    "population_total": 673252
+  },
+  {
+    "geo": "com",
+    "time": "2010",
+    "life_expectancy_years": 67.7,
+    "population_total": 689692
+  },
+  {
+    "geo": "com",
+    "time": "2011",
+    "life_expectancy_years": 67.2,
+    "population_total": 706569
+  },
+  {
+    "geo": "com",
+    "time": "2012",
+    "life_expectancy_years": 67.6,
+    "population_total": 723868
+  },
+  {
+    "geo": "com",
+    "time": "2013",
+    "life_expectancy_years": 67.8,
+    "population_total": 741500
+  },
+  {
+    "geo": "com",
+    "time": "2014",
+    "life_expectancy_years": 68,
+    "population_total": 759385
+  },
+  {
+    "geo": "com",
+    "time": "2015",
+    "life_expectancy_years": 68.1,
+    "population_total": 777424
+  },
+  {
+    "geo": "cod",
+    "time": "1991",
+    "life_expectancy_years": 54.4,
+    "population_total": 35914825
+  },
+  {
+    "geo": "cod",
+    "time": "1992",
+    "life_expectancy_years": 54.3,
+    "population_total": 37346147
+  },
+  {
+    "geo": "cod",
+    "time": "1993",
+    "life_expectancy_years": 54.3,
+    "population_total": 38833595
+  },
+  {
+    "geo": "cod",
+    "time": "1994",
+    "life_expectancy_years": 54.3,
+    "population_total": 40273701
+  },
+  {
+    "geo": "cod",
+    "time": "1995",
+    "life_expectancy_years": 54,
+    "population_total": 41595744
+  },
+  {
+    "geo": "cod",
+    "time": "1996",
+    "life_expectancy_years": 51.8,
+    "population_total": 42770544
+  },
+  {
+    "geo": "cod",
+    "time": "1997",
+    "life_expectancy_years": 53.2,
+    "population_total": 43830146
+  },
+  {
+    "geo": "cod",
+    "time": "1998",
+    "life_expectancy_years": 53.5,
+    "population_total": 44840529
+  },
+  {
+    "geo": "cod",
+    "time": "1999",
+    "life_expectancy_years": 54,
+    "population_total": 45898667
+  },
+  {
+    "geo": "cod",
+    "time": "2000",
+    "life_expectancy_years": 54.3,
+    "population_total": 47076387
+  },
+  {
+    "geo": "cod",
+    "time": "2001",
+    "life_expectancy_years": 54.5,
+    "population_total": 48394338
+  },
+  {
+    "geo": "cod",
+    "time": "2002",
+    "life_expectancy_years": 54.7,
+    "population_total": 49835756
+  },
+  {
+    "geo": "cod",
+    "time": "2003",
+    "life_expectancy_years": 54.9,
+    "population_total": 51390033
+  },
+  {
+    "geo": "cod",
+    "time": "2004",
+    "life_expectancy_years": 55.9,
+    "population_total": 53034217
+  },
+  {
+    "geo": "cod",
+    "time": "2005",
+    "life_expectancy_years": 56.4,
+    "population_total": 54751476
+  },
+  {
+    "geo": "cod",
+    "time": "2006",
+    "life_expectancy_years": 56.8,
+    "population_total": 56543011
+  },
+  {
+    "geo": "cod",
+    "time": "2007",
+    "life_expectancy_years": 57.1,
+    "population_total": 58417562
+  },
+  {
+    "geo": "cod",
+    "time": "2008",
+    "life_expectancy_years": 57.5,
+    "population_total": 60373608
+  },
+  {
+    "geo": "cod",
+    "time": "2009",
+    "life_expectancy_years": 57.9,
+    "population_total": 62409435
+  },
+  {
+    "geo": "cod",
+    "time": "2010",
+    "life_expectancy_years": 58.4,
+    "population_total": 64523263
+  },
+  {
+    "geo": "cod",
+    "time": "2011",
+    "life_expectancy_years": 58.8,
+    "population_total": 66713597
+  },
+  {
+    "geo": "cod",
+    "time": "2012",
+    "life_expectancy_years": 59.1,
+    "population_total": 68978682
+  },
+  {
+    "geo": "cod",
+    "time": "2013",
+    "life_expectancy_years": 59.6,
+    "population_total": 71316033
+  },
+  {
+    "geo": "cod",
+    "time": "2014",
+    "life_expectancy_years": 60.1,
+    "population_total": 73722860
+  },
+  {
+    "geo": "cod",
+    "time": "2015",
+    "life_expectancy_years": 60.8,
+    "population_total": 76196619
+  },
+  {
+    "geo": "cog",
+    "time": "1991",
+    "life_expectancy_years": 54.4,
+    "population_total": 2507772
+  },
+  {
+    "geo": "cog",
+    "time": "1992",
+    "life_expectancy_years": 54.4,
+    "population_total": 2577035
+  },
+  {
+    "geo": "cog",
+    "time": "1993",
+    "life_expectancy_years": 53.5,
+    "population_total": 2648507
+  },
+  {
+    "geo": "cog",
+    "time": "1994",
+    "life_expectancy_years": 53.2,
+    "population_total": 2722497
+  },
+  {
+    "geo": "cog",
+    "time": "1995",
+    "life_expectancy_years": 52.6,
+    "population_total": 2799255
+  },
+  {
+    "geo": "cog",
+    "time": "1996",
+    "life_expectancy_years": 52.2,
+    "population_total": 2879222
+  },
+  {
+    "geo": "cog",
+    "time": "1997",
+    "life_expectancy_years": 46.3,
+    "population_total": 2962470
+  },
+  {
+    "geo": "cog",
+    "time": "1998",
+    "life_expectancy_years": 49.9,
+    "population_total": 3048453
+  },
+  {
+    "geo": "cog",
+    "time": "1999",
+    "life_expectancy_years": 51.6,
+    "population_total": 3136344
+  },
+  {
+    "geo": "cog",
+    "time": "2000",
+    "life_expectancy_years": 52.5,
+    "population_total": 3225727
+  },
+  {
+    "geo": "cog",
+    "time": "2001",
+    "life_expectancy_years": 53.5,
+    "population_total": 3315806
+  },
+  {
+    "geo": "cog",
+    "time": "2002",
+    "life_expectancy_years": 54.3,
+    "population_total": 3407180
+  },
+  {
+    "geo": "cog",
+    "time": "2003",
+    "life_expectancy_years": 55,
+    "population_total": 3502519
+  },
+  {
+    "geo": "cog",
+    "time": "2004",
+    "life_expectancy_years": 55.8,
+    "population_total": 3605439
+  },
+  {
+    "geo": "cog",
+    "time": "2005",
+    "life_expectancy_years": 56.7,
+    "population_total": 3718243
+  },
+  {
+    "geo": "cog",
+    "time": "2006",
+    "life_expectancy_years": 57.8,
+    "population_total": 3842365
+  },
+  {
+    "geo": "cog",
+    "time": "2007",
+    "life_expectancy_years": 58.3,
+    "population_total": 3976246
+  },
+  {
+    "geo": "cog",
+    "time": "2008",
+    "life_expectancy_years": 58.8,
+    "population_total": 4115435
+  },
+  {
+    "geo": "cog",
+    "time": "2009",
+    "life_expectancy_years": 59.8,
+    "population_total": 4253712
+  },
+  {
+    "geo": "cog",
+    "time": "2010",
+    "life_expectancy_years": 60.4,
+    "population_total": 4386693
+  },
+  {
+    "geo": "cog",
+    "time": "2011",
+    "life_expectancy_years": 60.9,
+    "population_total": 4512730
+  },
+  {
+    "geo": "cog",
+    "time": "2012",
+    "life_expectancy_years": 61.3,
+    "population_total": 4633363
+  },
+  {
+    "geo": "cog",
+    "time": "2013",
+    "life_expectancy_years": 61.5,
+    "population_total": 4751393
+  },
+  {
+    "geo": "cog",
+    "time": "2014",
+    "life_expectancy_years": 61.5,
+    "population_total": 4871101
+  },
+  {
+    "geo": "cog",
+    "time": "2015",
+    "life_expectancy_years": 61.5,
+    "population_total": 4995648
+  },
+  {
+    "geo": "ecu",
+    "time": "1991",
+    "life_expectancy_years": 71.4,
+    "population_total": 10460990
+  },
+  {
+    "geo": "ecu",
+    "time": "1992",
+    "life_expectancy_years": 71.7,
+    "population_total": 10705667
+  },
+  {
+    "geo": "ecu",
+    "time": "1993",
+    "life_expectancy_years": 71.8,
+    "population_total": 10951202
+  },
+  {
+    "geo": "ecu",
+    "time": "1994",
+    "life_expectancy_years": 72.2,
+    "population_total": 11196479
+  },
+  {
+    "geo": "ecu",
+    "time": "1995",
+    "life_expectancy_years": 72.3,
+    "population_total": 11440583
+  },
+  {
+    "geo": "ecu",
+    "time": "1996",
+    "life_expectancy_years": 72.5,
+    "population_total": 11683479
+  },
+  {
+    "geo": "ecu",
+    "time": "1997",
+    "life_expectancy_years": 72.7,
+    "population_total": 11924993
+  },
+  {
+    "geo": "ecu",
+    "time": "1998",
+    "life_expectancy_years": 72.8,
+    "population_total": 12163885
+  },
+  {
+    "geo": "ecu",
+    "time": "1999",
+    "life_expectancy_years": 73.1,
+    "population_total": 12398691
+  },
+  {
+    "geo": "ecu",
+    "time": "2000",
+    "life_expectancy_years": 73.2,
+    "population_total": 12628596
+  },
+  {
+    "geo": "ecu",
+    "time": "2001",
+    "life_expectancy_years": 73.4,
+    "population_total": 12852755
+  },
+  {
+    "geo": "ecu",
+    "time": "2002",
+    "life_expectancy_years": 73.6,
+    "population_total": 13072060
+  },
+  {
+    "geo": "ecu",
+    "time": "2003",
+    "life_expectancy_years": 73.7,
+    "population_total": 13289601
+  },
+  {
+    "geo": "ecu",
+    "time": "2004",
+    "life_expectancy_years": 73.9,
+    "population_total": 13509647
+  },
+  {
+    "geo": "ecu",
+    "time": "2005",
+    "life_expectancy_years": 74.1,
+    "population_total": 13735233
+  },
+  {
+    "geo": "ecu",
+    "time": "2006",
+    "life_expectancy_years": 74.3,
+    "population_total": 13967480
+  },
+  {
+    "geo": "ecu",
+    "time": "2007",
+    "life_expectancy_years": 74.5,
+    "population_total": 14205453
+  },
+  {
+    "geo": "ecu",
+    "time": "2008",
+    "life_expectancy_years": 74.7,
+    "population_total": 14447562
+  },
+  {
+    "geo": "ecu",
+    "time": "2009",
+    "life_expectancy_years": 74.9,
+    "population_total": 14691275
+  },
+  {
+    "geo": "ecu",
+    "time": "2010",
+    "life_expectancy_years": 75.1,
+    "population_total": 14934690
+  },
+  {
+    "geo": "ecu",
+    "time": "2011",
+    "life_expectancy_years": 75.3,
+    "population_total": 15177355
+  },
+  {
+    "geo": "ecu",
+    "time": "2012",
+    "life_expectancy_years": 75.5,
+    "population_total": 15419666
+  },
+  {
+    "geo": "ecu",
+    "time": "2013",
+    "life_expectancy_years": 75.6,
+    "population_total": 15661547
+  },
+  {
+    "geo": "ecu",
+    "time": "2014",
+    "life_expectancy_years": 75.8,
+    "population_total": 15903112
+  },
+  {
+    "geo": "ecu",
+    "time": "2015",
+    "life_expectancy_years": 75.9,
+    "population_total": 16144368
+  },
+  {
+    "geo": "fji",
+    "time": "1991",
+    "life_expectancy_years": 65.1,
+    "population_total": 735473
+  },
+  {
+    "geo": "fji",
+    "time": "1992",
+    "life_expectancy_years": 65,
+    "population_total": 744531
+  },
+  {
+    "geo": "fji",
+    "time": "1993",
+    "life_expectancy_years": 64.8,
+    "population_total": 755026
+  },
+  {
+    "geo": "fji",
+    "time": "1994",
+    "life_expectancy_years": 64.7,
+    "population_total": 765667
+  },
+  {
+    "geo": "fji",
+    "time": "1995",
+    "life_expectancy_years": 64.5,
+    "population_total": 775498
+  },
+  {
+    "geo": "fji",
+    "time": "1996",
+    "life_expectancy_years": 64.3,
+    "population_total": 784476
+  },
+  {
+    "geo": "fji",
+    "time": "1997",
+    "life_expectancy_years": 64.1,
+    "population_total": 792860
+  },
+  {
+    "geo": "fji",
+    "time": "1998",
+    "life_expectancy_years": 64.2,
+    "population_total": 800315
+  },
+  {
+    "geo": "fji",
+    "time": "1999",
+    "life_expectancy_years": 64.1,
+    "population_total": 806494
+  },
+  {
+    "geo": "fji",
+    "time": "2000",
+    "life_expectancy_years": 64.2,
+    "population_total": 811223
+  },
+  {
+    "geo": "fji",
+    "time": "2001",
+    "life_expectancy_years": 64.4,
+    "population_total": 814218
+  },
+  {
+    "geo": "fji",
+    "time": "2002",
+    "life_expectancy_years": 64.5,
+    "population_total": 815691
+  },
+  {
+    "geo": "fji",
+    "time": "2003",
+    "life_expectancy_years": 64.6,
+    "population_total": 816628
+  },
+  {
+    "geo": "fji",
+    "time": "2004",
+    "life_expectancy_years": 64.7,
+    "population_total": 818354
+  },
+  {
+    "geo": "fji",
+    "time": "2005",
+    "life_expectancy_years": 64.8,
+    "population_total": 821817
+  },
+  {
+    "geo": "fji",
+    "time": "2006",
+    "life_expectancy_years": 64.8,
+    "population_total": 827411
+  },
+  {
+    "geo": "fji",
+    "time": "2007",
+    "life_expectancy_years": 64.9,
+    "population_total": 834812
+  },
+  {
+    "geo": "fji",
+    "time": "2008",
+    "life_expectancy_years": 64.9,
+    "population_total": 843340
+  },
+  {
+    "geo": "fji",
+    "time": "2009",
+    "life_expectancy_years": 64.9,
+    "population_total": 851967
+  },
+  {
+    "geo": "fji",
+    "time": "2010",
+    "life_expectancy_years": 65.2,
+    "population_total": 859950
+  },
+  {
+    "geo": "fji",
+    "time": "2011",
+    "life_expectancy_years": 65.3,
+    "population_total": 867086
+  },
+  {
+    "geo": "fji",
+    "time": "2012",
+    "life_expectancy_years": 65.4,
+    "population_total": 873596
+  },
+  {
+    "geo": "fji",
+    "time": "2013",
+    "life_expectancy_years": 65.6,
+    "population_total": 879715
+  },
+  {
+    "geo": "fji",
+    "time": "2014",
+    "life_expectancy_years": 65.7,
+    "population_total": 885806
+  },
+  {
+    "geo": "fji",
+    "time": "2015",
+    "life_expectancy_years": 65.8,
+    "population_total": 892149
+  },
+  {
+    "geo": "pyf",
+    "time": "1991",
+    "life_expectancy_years": 69.01,
+    "population_total": 202016
+  },
+  {
+    "geo": "pyf",
+    "time": "1992",
+    "life_expectancy_years": 69.33,
+    "population_total": 205266
+  },
+  {
+    "geo": "pyf",
+    "time": "1993",
+    "life_expectancy_years": 69.68,
+    "population_total": 208345
+  },
+  {
+    "geo": "pyf",
+    "time": "1994",
+    "life_expectancy_years": 70.05,
+    "population_total": 211579
+  },
+  {
+    "geo": "pyf",
+    "time": "1995",
+    "life_expectancy_years": 70.43,
+    "population_total": 215196
+  },
+  {
+    "geo": "pyf",
+    "time": "1996",
+    "life_expectancy_years": 70.82,
+    "population_total": 219283
+  },
+  {
+    "geo": "pyf",
+    "time": "1997",
+    "life_expectancy_years": 71.21,
+    "population_total": 223731
+  },
+  {
+    "geo": "pyf",
+    "time": "1998",
+    "life_expectancy_years": 71.59,
+    "population_total": 228376
+  },
+  {
+    "geo": "pyf",
+    "time": "1999",
+    "life_expectancy_years": 71.96,
+    "population_total": 232952
+  },
+  {
+    "geo": "pyf",
+    "time": "2000",
+    "life_expectancy_years": 72.31,
+    "population_total": 237258
+  },
+  {
+    "geo": "pyf",
+    "time": "2001",
+    "life_expectancy_years": 72.67,
+    "population_total": 241273
+  },
+  {
+    "geo": "pyf",
+    "time": "2002",
+    "life_expectancy_years": 73.03,
+    "population_total": 245006
+  },
+  {
+    "geo": "pyf",
+    "time": "2003",
+    "life_expectancy_years": 73.4,
+    "population_total": 248499
+  },
+  {
+    "geo": "pyf",
+    "time": "2004",
+    "life_expectancy_years": 73.77,
+    "population_total": 251775
+  },
+  {
+    "geo": "pyf",
+    "time": "2005",
+    "life_expectancy_years": 74.13,
+    "population_total": 254886
+  },
+  {
+    "geo": "pyf",
+    "time": "2006",
+    "life_expectancy_years": 74.48,
+    "population_total": 257832
+  },
+  {
+    "geo": "pyf",
+    "time": "2007",
+    "life_expectancy_years": 74.81,
+    "population_total": 260594
+  },
+  {
+    "geo": "pyf",
+    "time": "2008",
+    "life_expectancy_years": 75.11,
+    "population_total": 263179
+  },
+  {
+    "geo": "pyf",
+    "time": "2009",
+    "life_expectancy_years": 75.38,
+    "population_total": 265581
+  },
+  {
+    "geo": "pyf",
+    "time": "2010",
+    "life_expectancy_years": 75.62,
+    "population_total": 267820
+  },
+  {
+    "geo": "pyf",
+    "time": "2011",
+    "life_expectancy_years": 75.84,
+    "population_total": 269843
+  },
+  {
+    "geo": "pyf",
+    "time": "2012",
+    "life_expectancy_years": 76.05,
+    "population_total": 271703
+  },
+  {
+    "geo": "pyf",
+    "time": "2013",
+    "life_expectancy_years": 76.26,
+    "population_total": 273528
+  },
+  {
+    "geo": "pyf",
+    "time": "2014",
+    "life_expectancy_years": 76.47,
+    "population_total": 275484
+  },
+  {
+    "geo": "pyf",
+    "time": "2015",
+    "life_expectancy_years": 76.69,
+    "population_total": 277690
+  },
+  {
+    "geo": "gab",
+    "time": "1991",
+    "life_expectancy_years": 59.8,
+    "population_total": 978223
+  },
+  {
+    "geo": "gab",
+    "time": "1992",
+    "life_expectancy_years": 60.2,
+    "population_total": 1004676
+  },
+  {
+    "geo": "gab",
+    "time": "1993",
+    "life_expectancy_years": 60.1,
+    "population_total": 1031504
+  },
+  {
+    "geo": "gab",
+    "time": "1994",
+    "life_expectancy_years": 59.9,
+    "population_total": 1058663
+  },
+  {
+    "geo": "gab",
+    "time": "1995",
+    "life_expectancy_years": 59.8,
+    "population_total": 1086137
+  },
+  {
+    "geo": "gab",
+    "time": "1996",
+    "life_expectancy_years": 59.6,
+    "population_total": 1113994
+  },
+  {
+    "geo": "gab",
+    "time": "1997",
+    "life_expectancy_years": 59.9,
+    "population_total": 1142324
+  },
+  {
+    "geo": "gab",
+    "time": "1998",
+    "life_expectancy_years": 60,
+    "population_total": 1171224
+  },
+  {
+    "geo": "gab",
+    "time": "1999",
+    "life_expectancy_years": 59.7,
+    "population_total": 1200773
+  },
+  {
+    "geo": "gab",
+    "time": "2000",
+    "life_expectancy_years": 59.3,
+    "population_total": 1231122
+  },
+  {
+    "geo": "gab",
+    "time": "2001",
+    "life_expectancy_years": 59,
+    "population_total": 1262259
+  },
+  {
+    "geo": "gab",
+    "time": "2002",
+    "life_expectancy_years": 59.4,
+    "population_total": 1294409
+  },
+  {
+    "geo": "gab",
+    "time": "2003",
+    "life_expectancy_years": 59.4,
+    "population_total": 1328146
+  },
+  {
+    "geo": "gab",
+    "time": "2004",
+    "life_expectancy_years": 59.4,
+    "population_total": 1364205
+  },
+  {
+    "geo": "gab",
+    "time": "2005",
+    "life_expectancy_years": 60.1,
+    "population_total": 1403126
+  },
+  {
+    "geo": "gab",
+    "time": "2006",
+    "life_expectancy_years": 60.9,
+    "population_total": 1444844
+  },
+  {
+    "geo": "gab",
+    "time": "2007",
+    "life_expectancy_years": 61.6,
+    "population_total": 1489193
+  },
+  {
+    "geo": "gab",
+    "time": "2008",
+    "life_expectancy_years": 61.7,
+    "population_total": 1536411
+  },
+  {
+    "geo": "gab",
+    "time": "2009",
+    "life_expectancy_years": 62.1,
+    "population_total": 1586754
+  },
+  {
+    "geo": "gab",
+    "time": "2010",
+    "life_expectancy_years": 63,
+    "population_total": 1640210
+  },
+  {
+    "geo": "gab",
+    "time": "2011",
+    "life_expectancy_years": 63.3,
+    "population_total": 1697101
+  },
+  {
+    "geo": "gab",
+    "time": "2012",
+    "life_expectancy_years": 63.9,
+    "population_total": 1756817
+  },
+  {
+    "geo": "gab",
+    "time": "2013",
+    "life_expectancy_years": 64.4,
+    "population_total": 1817271
+  },
+  {
+    "geo": "gab",
+    "time": "2014",
+    "life_expectancy_years": 65,
+    "population_total": 1875713
+  },
+  {
+    "geo": "gab",
+    "time": "2015",
+    "life_expectancy_years": 65.9,
+    "population_total": 1930175
+  },
+  {
+    "geo": "idn",
+    "time": "1991",
+    "life_expectancy_years": 64.5,
+    "population_total": 184615979
+  },
+  {
+    "geo": "idn",
+    "time": "1992",
+    "life_expectancy_years": 64.9,
+    "population_total": 187766086
+  },
+  {
+    "geo": "idn",
+    "time": "1993",
+    "life_expectancy_years": 65.3,
+    "population_total": 190879523
+  },
+  {
+    "geo": "idn",
+    "time": "1994",
+    "life_expectancy_years": 65.7,
+    "population_total": 193945272
+  },
+  {
+    "geo": "idn",
+    "time": "1995",
+    "life_expectancy_years": 66.1,
+    "population_total": 196957849
+  },
+  {
+    "geo": "idn",
+    "time": "1996",
+    "life_expectancy_years": 66.4,
+    "population_total": 199914831
+  },
+  {
+    "geo": "idn",
+    "time": "1997",
+    "life_expectancy_years": 66.7,
+    "population_total": 202826465
+  },
+  {
+    "geo": "idn",
+    "time": "1998",
+    "life_expectancy_years": 67,
+    "population_total": 205715544
+  },
+  {
+    "geo": "idn",
+    "time": "1999",
+    "life_expectancy_years": 67.2,
+    "population_total": 208612556
+  },
+  {
+    "geo": "idn",
+    "time": "2000",
+    "life_expectancy_years": 67.5,
+    "population_total": 211540429
+  },
+  {
+    "geo": "idn",
+    "time": "2001",
+    "life_expectancy_years": 67.8,
+    "population_total": 214506502
+  },
+  {
+    "geo": "idn",
+    "time": "2002",
+    "life_expectancy_years": 68,
+    "population_total": 217508059
+  },
+  {
+    "geo": "idn",
+    "time": "2003",
+    "life_expectancy_years": 68.2,
+    "population_total": 220545214
+  },
+  {
+    "geo": "idn",
+    "time": "2004",
+    "life_expectancy_years": 66.7,
+    "population_total": 223614649
+  },
+  {
+    "geo": "idn",
+    "time": "2005",
+    "life_expectancy_years": 68.7,
+    "population_total": 226712730
+  },
+  {
+    "geo": "idn",
+    "time": "2006",
+    "life_expectancy_years": 68.9,
+    "population_total": 229838202
+  },
+  {
+    "geo": "idn",
+    "time": "2007",
+    "life_expectancy_years": 69.2,
+    "population_total": 232989141
+  },
+  {
+    "geo": "idn",
+    "time": "2008",
+    "life_expectancy_years": 69.4,
+    "population_total": 236159276
+  },
+  {
+    "geo": "idn",
+    "time": "2009",
+    "life_expectancy_years": 69.6,
+    "population_total": 239340478
+  },
+  {
+    "geo": "idn",
+    "time": "2010",
+    "life_expectancy_years": 69.8,
+    "population_total": 242524123
+  },
+  {
+    "geo": "idn",
+    "time": "2011",
+    "life_expectancy_years": 70.1,
+    "population_total": 245707511
+  },
+  {
+    "geo": "idn",
+    "time": "2012",
+    "life_expectancy_years": 70.3,
+    "population_total": 248883232
+  },
+  {
+    "geo": "idn",
+    "time": "2013",
+    "life_expectancy_years": 70.6,
+    "population_total": 252032263
+  },
+  {
+    "geo": "idn",
+    "time": "2014",
+    "life_expectancy_years": 70.8,
+    "population_total": 255131116
+  },
+  {
+    "geo": "idn",
+    "time": "2015",
+    "life_expectancy_years": 71.1,
+    "population_total": 258162113
+  },
+  {
+    "geo": "lso",
+    "time": "1991",
+    "life_expectancy_years": 60.6,
+    "population_total": 1634517
+  },
+  {
+    "geo": "lso",
+    "time": "1992",
+    "life_expectancy_years": 60.4,
+    "population_total": 1667121
+  },
+  {
+    "geo": "lso",
+    "time": "1993",
+    "life_expectancy_years": 60.1,
+    "population_total": 1700362
+  },
+  {
+    "geo": "lso",
+    "time": "1994",
+    "life_expectancy_years": 59.2,
+    "population_total": 1732257
+  },
+  {
+    "geo": "lso",
+    "time": "1995",
+    "life_expectancy_years": 58.7,
+    "population_total": 1761359
+  },
+  {
+    "geo": "lso",
+    "time": "1996",
+    "life_expectancy_years": 57.9,
+    "population_total": 1787273
+  },
+  {
+    "geo": "lso",
+    "time": "1997",
+    "life_expectancy_years": 56.6,
+    "population_total": 1810453
+  },
+  {
+    "geo": "lso",
+    "time": "1998",
+    "life_expectancy_years": 54.6,
+    "population_total": 1831298
+  },
+  {
+    "geo": "lso",
+    "time": "1999",
+    "life_expectancy_years": 52.9,
+    "population_total": 1850527
+  },
+  {
+    "geo": "lso",
+    "time": "2000",
+    "life_expectancy_years": 50.7,
+    "population_total": 1868699
+  },
+  {
+    "geo": "lso",
+    "time": "2001",
+    "life_expectancy_years": 48.9,
+    "population_total": 1885955
+  },
+  {
+    "geo": "lso",
+    "time": "2002",
+    "life_expectancy_years": 47,
+    "population_total": 1902312
+  },
+  {
+    "geo": "lso",
+    "time": "2003",
+    "life_expectancy_years": 45.4,
+    "population_total": 1918097
+  },
+  {
+    "geo": "lso",
+    "time": "2004",
+    "life_expectancy_years": 44.2,
+    "population_total": 1933728
+  },
+  {
+    "geo": "lso",
+    "time": "2005",
+    "life_expectancy_years": 43.1,
+    "population_total": 1949543
+  },
+  {
+    "geo": "lso",
+    "time": "2006",
+    "life_expectancy_years": 43.1,
+    "population_total": 1965662
+  },
+  {
+    "geo": "lso",
+    "time": "2007",
+    "life_expectancy_years": 43.3,
+    "population_total": 1982287
+  },
+  {
+    "geo": "lso",
+    "time": "2008",
+    "life_expectancy_years": 44.5,
+    "population_total": 1999930
+  },
+  {
+    "geo": "lso",
+    "time": "2009",
+    "life_expectancy_years": 45.5,
+    "population_total": 2019209
+  },
+  {
+    "geo": "lso",
+    "time": "2010",
+    "life_expectancy_years": 46.4,
+    "population_total": 2040551
+  },
+  {
+    "geo": "lso",
+    "time": "2011",
+    "life_expectancy_years": 46.7,
+    "population_total": 2064166
+  },
+  {
+    "geo": "lso",
+    "time": "2012",
+    "life_expectancy_years": 46.1,
+    "population_total": 2089928
+  },
+  {
+    "geo": "lso",
+    "time": "2013",
+    "life_expectancy_years": 45.6,
+    "population_total": 2117361
+  },
+  {
+    "geo": "lso",
+    "time": "2014",
+    "life_expectancy_years": 45.4,
+    "population_total": 2145785
+  },
+  {
+    "geo": "lso",
+    "time": "2015",
+    "life_expectancy_years": 47.1,
+    "population_total": 2174645
+  },
+  {
+    "geo": "mdg",
+    "time": "1991",
+    "life_expectancy_years": 56.2,
+    "population_total": 11942819
+  },
+  {
+    "geo": "mdg",
+    "time": "1992",
+    "life_expectancy_years": 56.4,
+    "population_total": 12301336
+  },
+  {
+    "geo": "mdg",
+    "time": "1993",
+    "life_expectancy_years": 56.3,
+    "population_total": 12675460
+  },
+  {
+    "geo": "mdg",
+    "time": "1994",
+    "life_expectancy_years": 56.8,
+    "population_total": 13066543
+  },
+  {
+    "geo": "mdg",
+    "time": "1995",
+    "life_expectancy_years": 57.2,
+    "population_total": 13475400
+  },
+  {
+    "geo": "mdg",
+    "time": "1996",
+    "life_expectancy_years": 57.6,
+    "population_total": 13902688
+  },
+  {
+    "geo": "mdg",
+    "time": "1997",
+    "life_expectancy_years": 58,
+    "population_total": 14347854
+  },
+  {
+    "geo": "mdg",
+    "time": "1998",
+    "life_expectancy_years": 58.3,
+    "population_total": 14808791
+  },
+  {
+    "geo": "mdg",
+    "time": "1999",
+    "life_expectancy_years": 58.8,
+    "population_total": 15282521
+  },
+  {
+    "geo": "mdg",
+    "time": "2000",
+    "life_expectancy_years": 59.1,
+    "population_total": 15766806
+  },
+  {
+    "geo": "mdg",
+    "time": "2001",
+    "life_expectancy_years": 59.6,
+    "population_total": 16260932
+  },
+  {
+    "geo": "mdg",
+    "time": "2002",
+    "life_expectancy_years": 59.8,
+    "population_total": 16765117
+  },
+  {
+    "geo": "mdg",
+    "time": "2003",
+    "life_expectancy_years": 60.1,
+    "population_total": 17279141
+  },
+  {
+    "geo": "mdg",
+    "time": "2004",
+    "life_expectancy_years": 60.6,
+    "population_total": 17802997
+  },
+  {
+    "geo": "mdg",
+    "time": "2005",
+    "life_expectancy_years": 61.2,
+    "population_total": 18336724
+  },
+  {
+    "geo": "mdg",
+    "time": "2006",
+    "life_expectancy_years": 61.7,
+    "population_total": 18880268
+  },
+  {
+    "geo": "mdg",
+    "time": "2007",
+    "life_expectancy_years": 62,
+    "population_total": 19433523
+  },
+  {
+    "geo": "mdg",
+    "time": "2008",
+    "life_expectancy_years": 62.2,
+    "population_total": 19996469
+  },
+  {
+    "geo": "mdg",
+    "time": "2009",
+    "life_expectancy_years": 62.3,
+    "population_total": 20569121
+  },
+  {
+    "geo": "mdg",
+    "time": "2010",
+    "life_expectancy_years": 62.4,
+    "population_total": 21151640
+  },
+  {
+    "geo": "mdg",
+    "time": "2011",
+    "life_expectancy_years": 62.6,
+    "population_total": 21743949
+  },
+  {
+    "geo": "mdg",
+    "time": "2012",
+    "life_expectancy_years": 62.8,
+    "population_total": 22346573
+  },
+  {
+    "geo": "mdg",
+    "time": "2013",
+    "life_expectancy_years": 63,
+    "population_total": 22961146
+  },
+  {
+    "geo": "mdg",
+    "time": "2014",
+    "life_expectancy_years": 63.3,
+    "population_total": 23589801
+  },
+  {
+    "geo": "mdg",
+    "time": "2015",
+    "life_expectancy_years": 63.5,
+    "population_total": 24234088
+  },
+  {
+    "geo": "mwi",
+    "time": "1991",
+    "life_expectancy_years": 48.6,
+    "population_total": 9641153
+  },
+  {
+    "geo": "mwi",
+    "time": "1992",
+    "life_expectancy_years": 48.3,
+    "population_total": 9729717
+  },
+  {
+    "geo": "mwi",
+    "time": "1993",
+    "life_expectancy_years": 48,
+    "population_total": 9755857
+  },
+  {
+    "geo": "mwi",
+    "time": "1994",
+    "life_expectancy_years": 47.4,
+    "population_total": 9796976
+  },
+  {
+    "geo": "mwi",
+    "time": "1995",
+    "life_expectancy_years": 46.9,
+    "population_total": 9909088
+  },
+  {
+    "geo": "mwi",
+    "time": "1996",
+    "life_expectancy_years": 46.3,
+    "population_total": 10109789
+  },
+  {
+    "geo": "mwi",
+    "time": "1997",
+    "life_expectancy_years": 45.8,
+    "population_total": 10381862
+  },
+  {
+    "geo": "mwi",
+    "time": "1998",
+    "life_expectancy_years": 45.3,
+    "population_total": 10704744
+  },
+  {
+    "geo": "mwi",
+    "time": "1999",
+    "life_expectancy_years": 45.1,
+    "population_total": 11044356
+  },
+  {
+    "geo": "mwi",
+    "time": "2000",
+    "life_expectancy_years": 45.4,
+    "population_total": 11376172
+  },
+  {
+    "geo": "mwi",
+    "time": "2001",
+    "life_expectancy_years": 45.9,
+    "population_total": 11695863
+  },
+  {
+    "geo": "mwi",
+    "time": "2002",
+    "life_expectancy_years": 46.4,
+    "population_total": 12013711
+  },
+  {
+    "geo": "mwi",
+    "time": "2003",
+    "life_expectancy_years": 47,
+    "population_total": 12336687
+  },
+  {
+    "geo": "mwi",
+    "time": "2004",
+    "life_expectancy_years": 47.5,
+    "population_total": 12676038
+  },
+  {
+    "geo": "mwi",
+    "time": "2005",
+    "life_expectancy_years": 48.5,
+    "population_total": 13039711
+  },
+  {
+    "geo": "mwi",
+    "time": "2006",
+    "life_expectancy_years": 49.6,
+    "population_total": 13429262
+  },
+  {
+    "geo": "mwi",
+    "time": "2007",
+    "life_expectancy_years": 51,
+    "population_total": 13840969
+  },
+  {
+    "geo": "mwi",
+    "time": "2008",
+    "life_expectancy_years": 52.4,
+    "population_total": 14271234
+  },
+  {
+    "geo": "mwi",
+    "time": "2009",
+    "life_expectancy_years": 53.9,
+    "population_total": 14714602
+  },
+  {
+    "geo": "mwi",
+    "time": "2010",
+    "life_expectancy_years": 55.4,
+    "population_total": 15167095
+  },
+  {
+    "geo": "mwi",
+    "time": "2011",
+    "life_expectancy_years": 56.6,
+    "population_total": 15627618
+  },
+  {
+    "geo": "mwi",
+    "time": "2012",
+    "life_expectancy_years": 58,
+    "population_total": 16097305
+  },
+  {
+    "geo": "mwi",
+    "time": "2013",
+    "life_expectancy_years": 59.3,
+    "population_total": 16577147
+  },
+  {
+    "geo": "mwi",
+    "time": "2014",
+    "life_expectancy_years": 60.1,
+    "population_total": 17068838
+  },
+  {
+    "geo": "mwi",
+    "time": "2015",
+    "life_expectancy_years": 60.5,
+    "population_total": 17573607
+  },
+  {
+    "geo": "mus",
+    "time": "1991",
+    "life_expectancy_years": 69.6,
+    "population_total": 1068439
+  },
+  {
+    "geo": "mus",
+    "time": "1992",
+    "life_expectancy_years": 69.7,
+    "population_total": 1082956
+  },
+  {
+    "geo": "mus",
+    "time": "1993",
+    "life_expectancy_years": 69.8,
+    "population_total": 1098592
+  },
+  {
+    "geo": "mus",
+    "time": "1994",
+    "life_expectancy_years": 70,
+    "population_total": 1114137
+  },
+  {
+    "geo": "mus",
+    "time": "1995",
+    "life_expectancy_years": 70.3,
+    "population_total": 1128673
+  },
+  {
+    "geo": "mus",
+    "time": "1996",
+    "life_expectancy_years": 70.5,
+    "population_total": 1141948
+  },
+  {
+    "geo": "mus",
+    "time": "1997",
+    "life_expectancy_years": 70.7,
+    "population_total": 1154140
+  },
+  {
+    "geo": "mus",
+    "time": "1998",
+    "life_expectancy_years": 71,
+    "population_total": 1165283
+  },
+  {
+    "geo": "mus",
+    "time": "1999",
+    "life_expectancy_years": 71.2,
+    "population_total": 1175574
+  },
+  {
+    "geo": "mus",
+    "time": "2000",
+    "life_expectancy_years": 71.4,
+    "population_total": 1185145
+  },
+  {
+    "geo": "mus",
+    "time": "2001",
+    "life_expectancy_years": 71.6,
+    "population_total": 1193917
+  },
+  {
+    "geo": "mus",
+    "time": "2002",
+    "life_expectancy_years": 71.7,
+    "population_total": 1201812
+  },
+  {
+    "geo": "mus",
+    "time": "2003",
+    "life_expectancy_years": 71.9,
+    "population_total": 1208994
+  },
+  {
+    "geo": "mus",
+    "time": "2004",
+    "life_expectancy_years": 72.1,
+    "population_total": 1215677
+  },
+  {
+    "geo": "mus",
+    "time": "2005",
+    "life_expectancy_years": 72.4,
+    "population_total": 1222003
+  },
+  {
+    "geo": "mus",
+    "time": "2006",
+    "life_expectancy_years": 72.5,
+    "population_total": 1228098
+  },
+  {
+    "geo": "mus",
+    "time": "2007",
+    "life_expectancy_years": 72.7,
+    "population_total": 1233911
+  },
+  {
+    "geo": "mus",
+    "time": "2008",
+    "life_expectancy_years": 72.9,
+    "population_total": 1239293
+  },
+  {
+    "geo": "mus",
+    "time": "2009",
+    "life_expectancy_years": 73.2,
+    "population_total": 1244024
+  },
+  {
+    "geo": "mus",
+    "time": "2010",
+    "life_expectancy_years": 73.4,
+    "population_total": 1247955
+  },
+  {
+    "geo": "mus",
+    "time": "2011",
+    "life_expectancy_years": 73.7,
+    "population_total": 1251023
+  },
+  {
+    "geo": "mus",
+    "time": "2012",
+    "life_expectancy_years": 74.1,
+    "population_total": 1253371
+  },
+  {
+    "geo": "mus",
+    "time": "2013",
+    "life_expectancy_years": 74.2,
+    "population_total": 1255290
+  },
+  {
+    "geo": "mus",
+    "time": "2014",
+    "life_expectancy_years": 74.3,
+    "population_total": 1257219
+  },
+  {
+    "geo": "mus",
+    "time": "2015",
+    "life_expectancy_years": 74.5,
+    "population_total": 1259456
+  },
+  {
+    "geo": "myt",
+    "time": "1991",
+    "life_expectancy_years": 72.53,
+    "population_total": 100166
+  },
+  {
+    "geo": "myt",
+    "time": "1992",
+    "life_expectancy_years": 72.91,
+    "population_total": 105827
+  },
+  {
+    "geo": "myt",
+    "time": "1993",
+    "life_expectancy_years": 73.28,
+    "population_total": 111643
+  },
+  {
+    "geo": "myt",
+    "time": "1994",
+    "life_expectancy_years": 73.64,
+    "population_total": 117462
+  },
+  {
+    "geo": "myt",
+    "time": "1995",
+    "life_expectancy_years": 74,
+    "population_total": 123181
+  },
+  {
+    "geo": "myt",
+    "time": "1996",
+    "life_expectancy_years": 74.35,
+    "population_total": 128758
+  },
+  {
+    "geo": "myt",
+    "time": "1997",
+    "life_expectancy_years": 74.7,
+    "population_total": 134216
+  },
+  {
+    "geo": "myt",
+    "time": "1998",
+    "life_expectancy_years": 75.03,
+    "population_total": 139579
+  },
+  {
+    "geo": "myt",
+    "time": "1999",
+    "life_expectancy_years": 75.36,
+    "population_total": 144940
+  },
+  {
+    "geo": "myt",
+    "time": "2000",
+    "life_expectancy_years": 75.69,
+    "population_total": 150331
+  },
+  {
+    "geo": "myt",
+    "time": "2001",
+    "life_expectancy_years": 76.01,
+    "population_total": 155754
+  },
+  {
+    "geo": "myt",
+    "time": "2002",
+    "life_expectancy_years": 76.33,
+    "population_total": 161205
+  },
+  {
+    "geo": "myt",
+    "time": "2003",
+    "life_expectancy_years": 76.64,
+    "population_total": 166721
+  },
+  {
+    "geo": "myt",
+    "time": "2004",
+    "life_expectancy_years": 76.95,
+    "population_total": 172339
+  },
+  {
+    "geo": "myt",
+    "time": "2005",
+    "life_expectancy_years": 77.24,
+    "population_total": 178098
+  },
+  {
+    "geo": "myt",
+    "time": "2006",
+    "life_expectancy_years": 77.53,
+    "population_total": 184031
+  },
+  {
+    "geo": "myt",
+    "time": "2007",
+    "life_expectancy_years": 77.8,
+    "population_total": 190098
+  },
+  {
+    "geo": "myt",
+    "time": "2008",
+    "life_expectancy_years": 78.05,
+    "population_total": 196279
+  },
+  {
+    "geo": "myt",
+    "time": "2009",
+    "life_expectancy_years": 78.29,
+    "population_total": 202503
+  },
+  {
+    "geo": "myt",
+    "time": "2010",
+    "life_expectancy_years": 78.52,
+    "population_total": 208718
+  },
+  {
+    "geo": "myt",
+    "time": "2011",
+    "life_expectancy_years": 78.74,
+    "population_total": 214923
+  },
+  {
+    "geo": "myt",
+    "time": "2012",
+    "life_expectancy_years": 78.96,
+    "population_total": 221122
+  },
+  {
+    "geo": "myt",
+    "time": "2013",
+    "life_expectancy_years": 79.19,
+    "population_total": 227351
+  },
+  {
+    "geo": "myt",
+    "time": "2014",
+    "life_expectancy_years": 79.42,
+    "population_total": 233638
+  },
+  {
+    "geo": "myt",
+    "time": "2015",
+    "life_expectancy_years": 79.65,
+    "population_total": 240020
+  },
+  {
+    "geo": "moz",
+    "time": "1991",
+    "life_expectancy_years": 51.7,
+    "population_total": 13591970
+  },
+  {
+    "geo": "moz",
+    "time": "1992",
+    "life_expectancy_years": 52.1,
+    "population_total": 14071231
+  },
+  {
+    "geo": "moz",
+    "time": "1993",
+    "life_expectancy_years": 52.3,
+    "population_total": 14636995
+  },
+  {
+    "geo": "moz",
+    "time": "1994",
+    "life_expectancy_years": 52.6,
+    "population_total": 15217044
+  },
+  {
+    "geo": "moz",
+    "time": "1995",
+    "life_expectancy_years": 52.7,
+    "population_total": 15759132
+  },
+  {
+    "geo": "moz",
+    "time": "1996",
+    "life_expectancy_years": 52.6,
+    "population_total": 16248232
+  },
+  {
+    "geo": "moz",
+    "time": "1997",
+    "life_expectancy_years": 52.5,
+    "population_total": 16701351
+  },
+  {
+    "geo": "moz",
+    "time": "1998",
+    "life_expectancy_years": 52.6,
+    "population_total": 17136780
+  },
+  {
+    "geo": "moz",
+    "time": "1999",
+    "life_expectancy_years": 52.6,
+    "population_total": 17584869
+  },
+  {
+    "geo": "moz",
+    "time": "2000",
+    "life_expectancy_years": 52.3,
+    "population_total": 18067687
+  },
+  {
+    "geo": "moz",
+    "time": "2001",
+    "life_expectancy_years": 52.8,
+    "population_total": 18588758
+  },
+  {
+    "geo": "moz",
+    "time": "2002",
+    "life_expectancy_years": 52.7,
+    "population_total": 19139658
+  },
+  {
+    "geo": "moz",
+    "time": "2003",
+    "life_expectancy_years": 52.9,
+    "population_total": 19716598
+  },
+  {
+    "geo": "moz",
+    "time": "2004",
+    "life_expectancy_years": 53,
+    "population_total": 20312705
+  },
+  {
+    "geo": "moz",
+    "time": "2005",
+    "life_expectancy_years": 52.9,
+    "population_total": 20923070
+  },
+  {
+    "geo": "moz",
+    "time": "2006",
+    "life_expectancy_years": 53,
+    "population_total": 21547463
+  },
+  {
+    "geo": "moz",
+    "time": "2007",
+    "life_expectancy_years": 53.2,
+    "population_total": 22188387
+  },
+  {
+    "geo": "moz",
+    "time": "2008",
+    "life_expectancy_years": 54,
+    "population_total": 22846758
+  },
+  {
+    "geo": "moz",
+    "time": "2009",
+    "life_expectancy_years": 54.4,
+    "population_total": 23524063
+  },
+  {
+    "geo": "moz",
+    "time": "2010",
+    "life_expectancy_years": 54.4,
+    "population_total": 24221405
+  },
+  {
+    "geo": "moz",
+    "time": "2011",
+    "life_expectancy_years": 54.5,
+    "population_total": 24939005
+  },
+  {
+    "geo": "moz",
+    "time": "2012",
+    "life_expectancy_years": 54.5,
+    "population_total": 25676606
+  },
+  {
+    "geo": "moz",
+    "time": "2013",
+    "life_expectancy_years": 54.8,
+    "population_total": 26434372
+  },
+  {
+    "geo": "moz",
+    "time": "2014",
+    "life_expectancy_years": 56.1,
+    "population_total": 27212382
+  },
+  {
+    "geo": "moz",
+    "time": "2015",
+    "life_expectancy_years": 57.1,
+    "population_total": 28010691
+  },
+  {
+    "geo": "nam",
+    "time": "1991",
+    "life_expectancy_years": 61.9,
+    "population_total": 1465740
+  },
+  {
+    "geo": "nam",
+    "time": "1992",
+    "life_expectancy_years": 62,
+    "population_total": 1513721
+  },
+  {
+    "geo": "nam",
+    "time": "1993",
+    "life_expectancy_years": 62,
+    "population_total": 1559983
+  },
+  {
+    "geo": "nam",
+    "time": "1994",
+    "life_expectancy_years": 61.5,
+    "population_total": 1606718
+  },
+  {
+    "geo": "nam",
+    "time": "1995",
+    "life_expectancy_years": 60.5,
+    "population_total": 1655359
+  },
+  {
+    "geo": "nam",
+    "time": "1996",
+    "life_expectancy_years": 59.3,
+    "population_total": 1706489
+  },
+  {
+    "geo": "nam",
+    "time": "1997",
+    "life_expectancy_years": 58.1,
+    "population_total": 1758994
+  },
+  {
+    "geo": "nam",
+    "time": "1998",
+    "life_expectancy_years": 56.7,
+    "population_total": 1810566
+  },
+  {
+    "geo": "nam",
+    "time": "1999",
+    "life_expectancy_years": 55.4,
+    "population_total": 1858042
+  },
+  {
+    "geo": "nam",
+    "time": "2000",
+    "life_expectancy_years": 54,
+    "population_total": 1899257
+  },
+  {
+    "geo": "nam",
+    "time": "2001",
+    "life_expectancy_years": 53.4,
+    "population_total": 1933596
+  },
+  {
+    "geo": "nam",
+    "time": "2002",
+    "life_expectancy_years": 52.7,
+    "population_total": 1962147
+  },
+  {
+    "geo": "nam",
+    "time": "2003",
+    "life_expectancy_years": 52.4,
+    "population_total": 1986535
+  },
+  {
+    "geo": "nam",
+    "time": "2004",
+    "life_expectancy_years": 52.5,
+    "population_total": 2009228
+  },
+  {
+    "geo": "nam",
+    "time": "2005",
+    "life_expectancy_years": 53.1,
+    "population_total": 2032196
+  },
+  {
+    "geo": "nam",
+    "time": "2006",
+    "life_expectancy_years": 54.9,
+    "population_total": 2055734
+  },
+  {
+    "geo": "nam",
+    "time": "2007",
+    "life_expectancy_years": 57.5,
+    "population_total": 2079915
+  },
+  {
+    "geo": "nam",
+    "time": "2008",
+    "life_expectancy_years": 59.1,
+    "population_total": 2106375
+  },
+  {
+    "geo": "nam",
+    "time": "2009",
+    "life_expectancy_years": 60.3,
+    "population_total": 2137040
+  },
+  {
+    "geo": "nam",
+    "time": "2010",
+    "life_expectancy_years": 61.4,
+    "population_total": 2173170
+  },
+  {
+    "geo": "nam",
+    "time": "2011",
+    "life_expectancy_years": 62.6,
+    "population_total": 2215621
+  },
+  {
+    "geo": "nam",
+    "time": "2012",
+    "life_expectancy_years": 63.6,
+    "population_total": 2263934
+  },
+  {
+    "geo": "nam",
+    "time": "2013",
+    "life_expectancy_years": 63.9,
+    "population_total": 2316520
+  },
+  {
+    "geo": "nam",
+    "time": "2014",
+    "life_expectancy_years": 64.1,
+    "population_total": 2370992
+  },
+  {
+    "geo": "nam",
+    "time": "2015",
+    "life_expectancy_years": 64.2,
+    "population_total": 2425561
+  },
+  {
+    "geo": "ant",
+    "time": "1991",
+    "life_expectancy_years": 74.53,
+    "population_total": 191402
+  },
+  {
+    "geo": "ant",
+    "time": "1992",
+    "life_expectancy_years": 74.52,
+    "population_total": 191888
+  },
+  {
+    "geo": "ant",
+    "time": "1993",
+    "life_expectancy_years": 74.5,
+    "population_total": 191899
+  },
+  {
+    "geo": "ant",
+    "time": "1994",
+    "life_expectancy_years": 74.49,
+    "population_total": 191325
+  },
+  {
+    "geo": "ant",
+    "time": "1995",
+    "life_expectancy_years": 74.48,
+    "population_total": 190124
+  },
+  {
+    "geo": "ant",
+    "time": "1996",
+    "life_expectancy_years": 74.48,
+    "population_total": 188225
+  },
+  {
+    "geo": "ant",
+    "time": "1997",
+    "life_expectancy_years": 74.5,
+    "population_total": 185762
+  },
+  {
+    "geo": "ant",
+    "time": "1998",
+    "life_expectancy_years": 74.53,
+    "population_total": 183172
+  },
+  {
+    "geo": "ant",
+    "time": "1999",
+    "life_expectancy_years": 74.57,
+    "population_total": 181033
+  },
+  {
+    "geo": "ant",
+    "time": "2000",
+    "life_expectancy_years": 74.65,
+    "population_total": 179769
+  },
+  {
+    "geo": "ant",
+    "time": "2001",
+    "life_expectancy_years": 74.76,
+    "population_total": 179516
+  },
+  {
+    "geo": "ant",
+    "time": "2002",
+    "life_expectancy_years": 74.91,
+    "population_total": 180170
+  },
+  {
+    "geo": "ant",
+    "time": "2003",
+    "life_expectancy_years": 75.09,
+    "population_total": 181607
+  },
+  {
+    "geo": "ant",
+    "time": "2004",
+    "life_expectancy_years": 75.3,
+    "population_total": 183603
+  },
+  {
+    "geo": "ant",
+    "time": "2005",
+    "life_expectancy_years": 75.53,
+    "population_total": 185967
+  },
+  {
+    "geo": "ant",
+    "time": "2006",
+    "life_expectancy_years": 75.76,
+    "population_total": 188700
+  },
+  {
+    "geo": "ant",
+    "time": "2007",
+    "life_expectancy_years": 75.98,
+    "population_total": 191788
+  },
+  {
+    "geo": "ant",
+    "time": "2008",
+    "life_expectancy_years": 76.18,
+    "population_total": 194999
+  },
+  {
+    "geo": "ant",
+    "time": "2009",
+    "life_expectancy_years": 76.36,
+    "population_total": 198037
+  },
+  {
+    "geo": "ant",
+    "time": "2010",
+    "life_expectancy_years": 76.52,
+    "population_total": 200689
+  },
+  {
+    "geo": "ant",
+    "time": "2011",
+    "life_expectancy_years": 76.65,
+    "population_total": 202847
+  },
+  {
+    "geo": "ant",
+    "time": "2012",
+    "life_expectancy_years": 76.77,
+    "population_total": 204538
+  },
+  {
+    "geo": "ant",
+    "time": "2013",
+    "life_expectancy_years": 76.89,
+    "population_total": 205860
+  },
+  {
+    "geo": "ant",
+    "time": "2014",
+    "life_expectancy_years": 77.01,
+    "population_total": 206981
+  },
+  {
+    "geo": "ant",
+    "time": "2015",
+    "life_expectancy_years": 77.14,
+    "population_total": 208023
+  },
+  {
+    "geo": "ncl",
+    "time": "1991",
+    "life_expectancy_years": 71.01,
+    "population_total": 173488
+  },
+  {
+    "geo": "ncl",
+    "time": "1992",
+    "life_expectancy_years": 71.31,
+    "population_total": 177525
+  },
+  {
+    "geo": "ncl",
+    "time": "1993",
+    "life_expectancy_years": 71.6,
+    "population_total": 181825
+  },
+  {
+    "geo": "ncl",
+    "time": "1994",
+    "life_expectancy_years": 71.89,
+    "population_total": 186264
+  },
+  {
+    "geo": "ncl",
+    "time": "1995",
+    "life_expectancy_years": 72.16,
+    "population_total": 190732
+  },
+  {
+    "geo": "ncl",
+    "time": "1996",
+    "life_expectancy_years": 72.43,
+    "population_total": 195216
+  },
+  {
+    "geo": "ncl",
+    "time": "1997",
+    "life_expectancy_years": 72.7,
+    "population_total": 199715
+  },
+  {
+    "geo": "ncl",
+    "time": "1998",
+    "life_expectancy_years": 72.95,
+    "population_total": 204180
+  },
+  {
+    "geo": "ncl",
+    "time": "1999",
+    "life_expectancy_years": 73.21,
+    "population_total": 208582
+  },
+  {
+    "geo": "ncl",
+    "time": "2000",
+    "life_expectancy_years": 73.46,
+    "population_total": 212871
+  },
+  {
+    "geo": "ncl",
+    "time": "2001",
+    "life_expectancy_years": 73.7,
+    "population_total": 217040
+  },
+  {
+    "geo": "ncl",
+    "time": "2002",
+    "life_expectancy_years": 73.94,
+    "population_total": 221088
+  },
+  {
+    "geo": "ncl",
+    "time": "2003",
+    "life_expectancy_years": 74.17,
+    "population_total": 225026
+  },
+  {
+    "geo": "ncl",
+    "time": "2004",
+    "life_expectancy_years": 74.4,
+    "population_total": 228883
+  },
+  {
+    "geo": "ncl",
+    "time": "2005",
+    "life_expectancy_years": 74.62,
+    "population_total": 232686
+  },
+  {
+    "geo": "ncl",
+    "time": "2006",
+    "life_expectancy_years": 74.84,
+    "population_total": 236435
+  },
+  {
+    "geo": "ncl",
+    "time": "2007",
+    "life_expectancy_years": 75.05,
+    "population_total": 240129
+  },
+  {
+    "geo": "ncl",
+    "time": "2008",
+    "life_expectancy_years": 75.26,
+    "population_total": 243786
+  },
+  {
+    "geo": "ncl",
+    "time": "2009",
+    "life_expectancy_years": 75.47,
+    "population_total": 247413
+  },
+  {
+    "geo": "ncl",
+    "time": "2010",
+    "life_expectancy_years": 75.67,
+    "population_total": 251037
+  },
+  {
+    "geo": "ncl",
+    "time": "2011",
+    "life_expectancy_years": 75.88,
+    "population_total": 254657
+  },
+  {
+    "geo": "ncl",
+    "time": "2012",
+    "life_expectancy_years": 76.09,
+    "population_total": 258275
+  },
+  {
+    "geo": "ncl",
+    "time": "2013",
+    "life_expectancy_years": 76.31,
+    "population_total": 261889
+  },
+  {
+    "geo": "ncl",
+    "time": "2014",
+    "life_expectancy_years": 76.52,
+    "population_total": 265497
+  },
+  {
+    "geo": "ncl",
+    "time": "2015",
+    "life_expectancy_years": 76.74,
+    "population_total": 269091
+  },
+  {
+    "geo": "nzl",
+    "time": "1991",
+    "life_expectancy_years": 75.9,
+    "population_total": 3446170
+  },
+  {
+    "geo": "nzl",
+    "time": "1992",
+    "life_expectancy_years": 76.2,
+    "population_total": 3503181
+  },
+  {
+    "geo": "nzl",
+    "time": "1993",
+    "life_expectancy_years": 76.5,
+    "population_total": 3564464
+  },
+  {
+    "geo": "nzl",
+    "time": "1994",
+    "life_expectancy_years": 76.7,
+    "population_total": 3623279
+  },
+  {
+    "geo": "nzl",
+    "time": "1995",
+    "life_expectancy_years": 77,
+    "population_total": 3674936
+  },
+  {
+    "geo": "nzl",
+    "time": "1996",
+    "life_expectancy_years": 77.3,
+    "population_total": 3717349
+  },
+  {
+    "geo": "nzl",
+    "time": "1997",
+    "life_expectancy_years": 77.6,
+    "population_total": 3752362
+  },
+  {
+    "geo": "nzl",
+    "time": "1998",
+    "life_expectancy_years": 78,
+    "population_total": 3783974
+  },
+  {
+    "geo": "nzl",
+    "time": "1999",
+    "life_expectancy_years": 78.2,
+    "population_total": 3818131
+  },
+  {
+    "geo": "nzl",
+    "time": "2000",
+    "life_expectancy_years": 78.4,
+    "population_total": 3858999
+  },
+  {
+    "geo": "nzl",
+    "time": "2001",
+    "life_expectancy_years": 78.6,
+    "population_total": 3907933
+  },
+  {
+    "geo": "nzl",
+    "time": "2002",
+    "life_expectancy_years": 78.9,
+    "population_total": 3963206
+  },
+  {
+    "geo": "nzl",
+    "time": "2003",
+    "life_expectancy_years": 79.1,
+    "population_total": 4022069
+  },
+  {
+    "geo": "nzl",
+    "time": "2004",
+    "life_expectancy_years": 79.4,
+    "population_total": 4080438
+  },
+  {
+    "geo": "nzl",
+    "time": "2005",
+    "life_expectancy_years": 79.8,
+    "population_total": 4135355
+  },
+  {
+    "geo": "nzl",
+    "time": "2006",
+    "life_expectancy_years": 79.9,
+    "population_total": 4185917
+  },
+  {
+    "geo": "nzl",
+    "time": "2007",
+    "life_expectancy_years": 80.1,
+    "population_total": 4233151
+  },
+  {
+    "geo": "nzl",
+    "time": "2008",
+    "life_expectancy_years": 80.3,
+    "population_total": 4278325
+  },
+  {
+    "geo": "nzl",
+    "time": "2009",
+    "life_expectancy_years": 80.5,
+    "population_total": 4323482
+  },
+  {
+    "geo": "nzl",
+    "time": "2010",
+    "life_expectancy_years": 80.8,
+    "population_total": 4370062
+  },
+  {
+    "geo": "nzl",
+    "time": "2011",
+    "life_expectancy_years": 80.8,
+    "population_total": 4418365
+  },
+  {
+    "geo": "nzl",
+    "time": "2012",
+    "life_expectancy_years": 81.1,
+    "population_total": 4467743
+  },
+  {
+    "geo": "nzl",
+    "time": "2013",
+    "life_expectancy_years": 81.4,
+    "population_total": 4517527
+  },
+  {
+    "geo": "nzl",
+    "time": "2014",
+    "life_expectancy_years": 81.4,
+    "population_total": 4566700
+  },
+  {
+    "geo": "nzl",
+    "time": "2015",
+    "life_expectancy_years": 81.4,
+    "population_total": 4614532
+  },
+  {
+    "geo": "png",
+    "time": "1991",
+    "life_expectancy_years": 56,
+    "population_total": 4423007
+  },
+  {
+    "geo": "png",
+    "time": "1992",
+    "life_expectancy_years": 56.2,
+    "population_total": 4535520
+  },
+  {
+    "geo": "png",
+    "time": "1993",
+    "life_expectancy_years": 56.4,
+    "population_total": 4651169
+  },
+  {
+    "geo": "png",
+    "time": "1994",
+    "life_expectancy_years": 56.7,
+    "population_total": 4770606
+  },
+  {
+    "geo": "png",
+    "time": "1995",
+    "life_expectancy_years": 56.9,
+    "population_total": 4894276
+  },
+  {
+    "geo": "png",
+    "time": "1996",
+    "life_expectancy_years": 57,
+    "population_total": 5022437
+  },
+  {
+    "geo": "png",
+    "time": "1997",
+    "life_expectancy_years": 57.2,
+    "population_total": 5154910
+  },
+  {
+    "geo": "png",
+    "time": "1998",
+    "life_expectancy_years": 56.5,
+    "population_total": 5291178
+  },
+  {
+    "geo": "png",
+    "time": "1999",
+    "life_expectancy_years": 57.4,
+    "population_total": 5430479
+  },
+  {
+    "geo": "png",
+    "time": "2000",
+    "life_expectancy_years": 57.5,
+    "population_total": 5572222
+  },
+  {
+    "geo": "png",
+    "time": "2001",
+    "life_expectancy_years": 57.6,
+    "population_total": 5716152
+  },
+  {
+    "geo": "png",
+    "time": "2002",
+    "life_expectancy_years": 57.6,
+    "population_total": 5862316
+  },
+  {
+    "geo": "png",
+    "time": "2003",
+    "life_expectancy_years": 57.7,
+    "population_total": 6010724
+  },
+  {
+    "geo": "png",
+    "time": "2004",
+    "life_expectancy_years": 57.7,
+    "population_total": 6161517
+  },
+  {
+    "geo": "png",
+    "time": "2005",
+    "life_expectancy_years": 57.9,
+    "population_total": 6314709
+  },
+  {
+    "geo": "png",
+    "time": "2006",
+    "life_expectancy_years": 58,
+    "population_total": 6470272
+  },
+  {
+    "geo": "png",
+    "time": "2007",
+    "life_expectancy_years": 58.2,
+    "population_total": 6627922
+  },
+  {
+    "geo": "png",
+    "time": "2008",
+    "life_expectancy_years": 58.6,
+    "population_total": 6787187
+  },
+  {
+    "geo": "png",
+    "time": "2009",
+    "life_expectancy_years": 58.8,
+    "population_total": 6947447
+  },
+  {
+    "geo": "png",
+    "time": "2010",
+    "life_expectancy_years": 59.1,
+    "population_total": 7108239
+  },
+  {
+    "geo": "png",
+    "time": "2011",
+    "life_expectancy_years": 59.4,
+    "population_total": 7269348
+  },
+  {
+    "geo": "png",
+    "time": "2012",
+    "life_expectancy_years": 59.7,
+    "population_total": 7430836
+  },
+  {
+    "geo": "png",
+    "time": "2013",
+    "life_expectancy_years": 60.2,
+    "population_total": 7592865
+  },
+  {
+    "geo": "png",
+    "time": "2014",
+    "life_expectancy_years": 60.5,
+    "population_total": 7755785
+  },
+  {
+    "geo": "png",
+    "time": "2015",
+    "life_expectancy_years": 60.9,
+    "population_total": 7919825
+  },
+  {
+    "geo": "pry",
+    "time": "1991",
+    "life_expectancy_years": 74.2,
+    "population_total": 4323410
+  },
+  {
+    "geo": "pry",
+    "time": "1992",
+    "life_expectancy_years": 74.1,
+    "population_total": 4432736
+  },
+  {
+    "geo": "pry",
+    "time": "1993",
+    "life_expectancy_years": 74.1,
+    "population_total": 4541902
+  },
+  {
+    "geo": "pry",
+    "time": "1994",
+    "life_expectancy_years": 74,
+    "population_total": 4651225
+  },
+  {
+    "geo": "pry",
+    "time": "1995",
+    "life_expectancy_years": 74.1,
+    "population_total": 4760850
+  },
+  {
+    "geo": "pry",
+    "time": "1996",
+    "life_expectancy_years": 74.1,
+    "population_total": 4870694
+  },
+  {
+    "geo": "pry",
+    "time": "1997",
+    "life_expectancy_years": 74.2,
+    "population_total": 4980344
+  },
+  {
+    "geo": "pry",
+    "time": "1998",
+    "life_expectancy_years": 74.2,
+    "population_total": 5089310
+  },
+  {
+    "geo": "pry",
+    "time": "1999",
+    "life_expectancy_years": 74.3,
+    "population_total": 5196937
+  },
+  {
+    "geo": "pry",
+    "time": "2000",
+    "life_expectancy_years": 74.2,
+    "population_total": 5302700
+  },
+  {
+    "geo": "pry",
+    "time": "2001",
+    "life_expectancy_years": 74.2,
+    "population_total": 5406624
+  },
+  {
+    "geo": "pry",
+    "time": "2002",
+    "life_expectancy_years": 74.1,
+    "population_total": 5508611
+  },
+  {
+    "geo": "pry",
+    "time": "2003",
+    "life_expectancy_years": 74.1,
+    "population_total": 5607950
+  },
+  {
+    "geo": "pry",
+    "time": "2004",
+    "life_expectancy_years": 73.8,
+    "population_total": 5703740
+  },
+  {
+    "geo": "pry",
+    "time": "2005",
+    "life_expectancy_years": 74,
+    "population_total": 5795494
+  },
+  {
+    "geo": "pry",
+    "time": "2006",
+    "life_expectancy_years": 74,
+    "population_total": 5882796
+  },
+  {
+    "geo": "pry",
+    "time": "2007",
+    "life_expectancy_years": 74,
+    "population_total": 5966159
+  },
+  {
+    "geo": "pry",
+    "time": "2008",
+    "life_expectancy_years": 74,
+    "population_total": 6047117
+  },
+  {
+    "geo": "pry",
+    "time": "2009",
+    "life_expectancy_years": 74,
+    "population_total": 6127837
+  },
+  {
+    "geo": "pry",
+    "time": "2010",
+    "life_expectancy_years": 74,
+    "population_total": 6209877
+  },
+  {
+    "geo": "pry",
+    "time": "2011",
+    "life_expectancy_years": 74,
+    "population_total": 6293783
+  },
+  {
+    "geo": "pry",
+    "time": "2012",
+    "life_expectancy_years": 74.1,
+    "population_total": 6379219
+  },
+  {
+    "geo": "pry",
+    "time": "2013",
+    "life_expectancy_years": 74.1,
+    "population_total": 6465740
+  },
+  {
+    "geo": "pry",
+    "time": "2014",
+    "life_expectancy_years": 74.3,
+    "population_total": 6552584
+  },
+  {
+    "geo": "pry",
+    "time": "2015",
+    "life_expectancy_years": 74.4,
+    "population_total": 6639119
+  },
+  {
+    "geo": "per",
+    "time": "1991",
+    "life_expectancy_years": 69.2,
+    "population_total": 22283128
+  },
+  {
+    "geo": "per",
+    "time": "1992",
+    "life_expectancy_years": 69.5,
+    "population_total": 22737056
+  },
+  {
+    "geo": "per",
+    "time": "1993",
+    "life_expectancy_years": 70,
+    "population_total": 23184228
+  },
+  {
+    "geo": "per",
+    "time": "1994",
+    "life_expectancy_years": 70.5,
+    "population_total": 23619356
+  },
+  {
+    "geo": "per",
+    "time": "1995",
+    "life_expectancy_years": 71.1,
+    "population_total": 24038760
+  },
+  {
+    "geo": "per",
+    "time": "1996",
+    "life_expectancy_years": 71.7,
+    "population_total": 24441074
+  },
+  {
+    "geo": "per",
+    "time": "1997",
+    "life_expectancy_years": 72.4,
+    "population_total": 24827406
+  },
+  {
+    "geo": "per",
+    "time": "1998",
+    "life_expectancy_years": 73.1,
+    "population_total": 25199748
+  },
+  {
+    "geo": "per",
+    "time": "1999",
+    "life_expectancy_years": 73.9,
+    "population_total": 25561299
+  },
+  {
+    "geo": "per",
+    "time": "2000",
+    "life_expectancy_years": 74.6,
+    "population_total": 25914879
+  },
+  {
+    "geo": "per",
+    "time": "2001",
+    "life_expectancy_years": 75.2,
+    "population_total": 26261363
+  },
+  {
+    "geo": "per",
+    "time": "2002",
+    "life_expectancy_years": 75.7,
+    "population_total": 26601467
+  },
+  {
+    "geo": "per",
+    "time": "2003",
+    "life_expectancy_years": 76.2,
+    "population_total": 26937738
+  },
+  {
+    "geo": "per",
+    "time": "2004",
+    "life_expectancy_years": 76.7,
+    "population_total": 27273194
+  },
+  {
+    "geo": "per",
+    "time": "2005",
+    "life_expectancy_years": 77.2,
+    "population_total": 27610410
+  },
+  {
+    "geo": "per",
+    "time": "2006",
+    "life_expectancy_years": 77.7,
+    "population_total": 27949944
+  },
+  {
+    "geo": "per",
+    "time": "2007",
+    "life_expectancy_years": 77.9,
+    "population_total": 28292724
+  },
+  {
+    "geo": "per",
+    "time": "2008",
+    "life_expectancy_years": 78.2,
+    "population_total": 28641980
+  },
+  {
+    "geo": "per",
+    "time": "2009",
+    "life_expectancy_years": 78.2,
+    "population_total": 29001507
+  },
+  {
+    "geo": "per",
+    "time": "2010",
+    "life_expectancy_years": 78.4,
+    "population_total": 29373646
+  },
+  {
+    "geo": "per",
+    "time": "2011",
+    "life_expectancy_years": 78.5,
+    "population_total": 29759989
+  },
+  {
+    "geo": "per",
+    "time": "2012",
+    "life_expectancy_years": 78.7,
+    "population_total": 30158966
+  },
+  {
+    "geo": "per",
+    "time": "2013",
+    "life_expectancy_years": 79.1,
+    "population_total": 30565716
+  },
+  {
+    "geo": "per",
+    "time": "2014",
+    "life_expectancy_years": 79.3,
+    "population_total": 30973354
+  },
+  {
+    "geo": "per",
+    "time": "2015",
+    "life_expectancy_years": 79.5,
+    "population_total": 31376671
+  },
+  {
+    "geo": "reu",
+    "time": "1991",
+    "life_expectancy_years": 73.06,
+    "population_total": 622418
+  },
+  {
+    "geo": "reu",
+    "time": "1992",
+    "life_expectancy_years": 73.41,
+    "population_total": 634793
+  },
+  {
+    "geo": "reu",
+    "time": "1993",
+    "life_expectancy_years": 73.77,
+    "population_total": 647588
+  },
+  {
+    "geo": "reu",
+    "time": "1994",
+    "life_expectancy_years": 74.11,
+    "population_total": 660563
+  },
+  {
+    "geo": "reu",
+    "time": "1995",
+    "life_expectancy_years": 74.45,
+    "population_total": 673541
+  },
+  {
+    "geo": "reu",
+    "time": "1996",
+    "life_expectancy_years": 74.79,
+    "population_total": 686463
+  },
+  {
+    "geo": "reu",
+    "time": "1997",
+    "life_expectancy_years": 75.12,
+    "population_total": 699299
+  },
+  {
+    "geo": "reu",
+    "time": "1998",
+    "life_expectancy_years": 75.44,
+    "population_total": 711992
+  },
+  {
+    "geo": "reu",
+    "time": "1999",
+    "life_expectancy_years": 75.76,
+    "population_total": 724484
+  },
+  {
+    "geo": "reu",
+    "time": "2000",
+    "life_expectancy_years": 76.08,
+    "population_total": 736710
+  },
+  {
+    "geo": "reu",
+    "time": "2001",
+    "life_expectancy_years": 76.38,
+    "population_total": 748658
+  },
+  {
+    "geo": "reu",
+    "time": "2002",
+    "life_expectancy_years": 76.68,
+    "population_total": 760258
+  },
+  {
+    "geo": "reu",
+    "time": "2003",
+    "life_expectancy_years": 76.97,
+    "population_total": 771384
+  },
+  {
+    "geo": "reu",
+    "time": "2004",
+    "life_expectancy_years": 77.26,
+    "population_total": 781864
+  },
+  {
+    "geo": "reu",
+    "time": "2005",
+    "life_expectancy_years": 77.53,
+    "population_total": 791598
+  },
+  {
+    "geo": "reu",
+    "time": "2006",
+    "life_expectancy_years": 77.81,
+    "population_total": 800543
+  },
+  {
+    "geo": "reu",
+    "time": "2007",
+    "life_expectancy_years": 78.08,
+    "population_total": 808735
+  },
+  {
+    "geo": "reu",
+    "time": "2008",
+    "life_expectancy_years": 78.35,
+    "population_total": 816335
+  },
+  {
+    "geo": "reu",
+    "time": "2009",
+    "life_expectancy_years": 78.62,
+    "population_total": 823537
+  },
+  {
+    "geo": "reu",
+    "time": "2010",
+    "life_expectancy_years": 78.88,
+    "population_total": 830519
+  },
+  {
+    "geo": "reu",
+    "time": "2011",
+    "life_expectancy_years": 79.14,
+    "population_total": 837304
+  },
+  {
+    "geo": "reu",
+    "time": "2012",
+    "life_expectancy_years": 79.4,
+    "population_total": 843907
+  },
+  {
+    "geo": "reu",
+    "time": "2013",
+    "life_expectancy_years": 79.65,
+    "population_total": 850400
+  },
+  {
+    "geo": "reu",
+    "time": "2014",
+    "life_expectancy_years": 79.89,
+    "population_total": 856867
+  },
+  {
+    "geo": "reu",
+    "time": "2015",
+    "life_expectancy_years": 80.12,
+    "population_total": 863363
+  },
+  {
+    "geo": "rwa",
+    "time": "1991",
+    "life_expectancy_years": 49.3,
+    "population_total": 7051759
+  },
+  {
+    "geo": "rwa",
+    "time": "1992",
+    "life_expectancy_years": 48,
+    "population_total": 6701851
+  },
+  {
+    "geo": "rwa",
+    "time": "1993",
+    "life_expectancy_years": 46.7,
+    "population_total": 6299909
+  },
+  {
+    "geo": "rwa",
+    "time": "1994",
+    "life_expectancy_years": 13.2,
+    "population_total": 6005095
+  },
+  {
+    "geo": "rwa",
+    "time": "1995",
+    "life_expectancy_years": 43.8,
+    "population_total": 5928078
+  },
+  {
+    "geo": "rwa",
+    "time": "1996",
+    "life_expectancy_years": 44.6,
+    "population_total": 6115168
+  },
+  {
+    "geo": "rwa",
+    "time": "1997",
+    "life_expectancy_years": 44,
+    "population_total": 6522382
+  },
+  {
+    "geo": "rwa",
+    "time": "1998",
+    "life_expectancy_years": 45.6,
+    "population_total": 7059813
+  },
+  {
+    "geo": "rwa",
+    "time": "1999",
+    "life_expectancy_years": 47.2,
+    "population_total": 7593239
+  },
+  {
+    "geo": "rwa",
+    "time": "2000",
+    "life_expectancy_years": 49.2,
+    "population_total": 8025703
+  },
+  {
+    "geo": "rwa",
+    "time": "2001",
+    "life_expectancy_years": 51,
+    "population_total": 8329406
+  },
+  {
+    "geo": "rwa",
+    "time": "2002",
+    "life_expectancy_years": 53.5,
+    "population_total": 8536205
+  },
+  {
+    "geo": "rwa",
+    "time": "2003",
+    "life_expectancy_years": 55.5,
+    "population_total": 8680346
+  },
+  {
+    "geo": "rwa",
+    "time": "2004",
+    "life_expectancy_years": 57.6,
+    "population_total": 8818438
+  },
+  {
+    "geo": "rwa",
+    "time": "2005",
+    "life_expectancy_years": 59.6,
+    "population_total": 8991735
+  },
+  {
+    "geo": "rwa",
+    "time": "2006",
+    "life_expectancy_years": 61.6,
+    "population_total": 9206580
+  },
+  {
+    "geo": "rwa",
+    "time": "2007",
+    "life_expectancy_years": 63.1,
+    "population_total": 9447402
+  },
+  {
+    "geo": "rwa",
+    "time": "2008",
+    "life_expectancy_years": 64.1,
+    "population_total": 9708169
+  },
+  {
+    "geo": "rwa",
+    "time": "2009",
+    "life_expectancy_years": 64.3,
+    "population_total": 9977446
+  },
+  {
+    "geo": "rwa",
+    "time": "2010",
+    "life_expectancy_years": 65.1,
+    "population_total": 10246842
+  },
+  {
+    "geo": "rwa",
+    "time": "2011",
+    "life_expectancy_years": 65.3,
+    "population_total": 10516071
+  },
+  {
+    "geo": "rwa",
+    "time": "2012",
+    "life_expectancy_years": 65.5,
+    "population_total": 10788853
+  },
+  {
+    "geo": "rwa",
+    "time": "2013",
+    "life_expectancy_years": 65.6,
+    "population_total": 11065151
+  },
+  {
+    "geo": "rwa",
+    "time": "2014",
+    "life_expectancy_years": 65.7,
+    "population_total": 11345357
+  },
+  {
+    "geo": "rwa",
+    "time": "2015",
+    "life_expectancy_years": 65.9,
+    "population_total": 11629553
+  },
+  {
+    "geo": "wsm",
+    "time": "1991",
+    "life_expectancy_years": 69.1,
+    "population_total": 164076
+  },
+  {
+    "geo": "wsm",
+    "time": "1992",
+    "life_expectancy_years": 69.5,
+    "population_total": 165570
+  },
+  {
+    "geo": "wsm",
+    "time": "1993",
+    "life_expectancy_years": 69.7,
+    "population_total": 167207
+  },
+  {
+    "geo": "wsm",
+    "time": "1994",
+    "life_expectancy_years": 69.8,
+    "population_total": 168788
+  },
+  {
+    "geo": "wsm",
+    "time": "1995",
+    "life_expectancy_years": 70,
+    "population_total": 170157
+  },
+  {
+    "geo": "wsm",
+    "time": "1996",
+    "life_expectancy_years": 70.2,
+    "population_total": 171283
+  },
+  {
+    "geo": "wsm",
+    "time": "1997",
+    "life_expectancy_years": 70.4,
+    "population_total": 172198
+  },
+  {
+    "geo": "wsm",
+    "time": "1998",
+    "life_expectancy_years": 70.6,
+    "population_total": 172981
+  },
+  {
+    "geo": "wsm",
+    "time": "1999",
+    "life_expectancy_years": 70.7,
+    "population_total": 173755
+  },
+  {
+    "geo": "wsm",
+    "time": "2000",
+    "life_expectancy_years": 70.8,
+    "population_total": 174610
+  },
+  {
+    "geo": "wsm",
+    "time": "2001",
+    "life_expectancy_years": 71,
+    "population_total": 175566
+  },
+  {
+    "geo": "wsm",
+    "time": "2002",
+    "life_expectancy_years": 71.2,
+    "population_total": 176582
+  },
+  {
+    "geo": "wsm",
+    "time": "2003",
+    "life_expectancy_years": 71.4,
+    "population_total": 177662
+  },
+  {
+    "geo": "wsm",
+    "time": "2004",
+    "life_expectancy_years": 71.6,
+    "population_total": 178781
+  },
+  {
+    "geo": "wsm",
+    "time": "2005",
+    "life_expectancy_years": 71.8,
+    "population_total": 179929
+  },
+  {
+    "geo": "wsm",
+    "time": "2006",
+    "life_expectancy_years": 72,
+    "population_total": 181094
+  },
+  {
+    "geo": "wsm",
+    "time": "2007",
+    "life_expectancy_years": 72.1,
+    "population_total": 182286
+  },
+  {
+    "geo": "wsm",
+    "time": "2008",
+    "life_expectancy_years": 72.3,
+    "population_total": 183526
+  },
+  {
+    "geo": "wsm",
+    "time": "2009",
+    "life_expectancy_years": 70.4,
+    "population_total": 184826
+  },
+  {
+    "geo": "wsm",
+    "time": "2010",
+    "life_expectancy_years": 72.6,
+    "population_total": 186205
+  },
+  {
+    "geo": "wsm",
+    "time": "2011",
+    "life_expectancy_years": 72.7,
+    "population_total": 187665
+  },
+  {
+    "geo": "wsm",
+    "time": "2012",
+    "life_expectancy_years": 72.7,
+    "population_total": 189194
+  },
+  {
+    "geo": "wsm",
+    "time": "2013",
+    "life_expectancy_years": 73,
+    "population_total": 190757
+  },
+  {
+    "geo": "wsm",
+    "time": "2014",
+    "life_expectancy_years": 73.1,
+    "population_total": 192290
+  },
+  {
+    "geo": "wsm",
+    "time": "2015",
+    "life_expectancy_years": 73.2,
+    "population_total": 193759
+  },
+  {
+    "geo": "syc",
+    "time": "1991",
+    "life_expectancy_years": 69.1,
+    "population_total": 71500
+  },
+  {
+    "geo": "syc",
+    "time": "1992",
+    "life_expectancy_years": 69.2,
+    "population_total": 72712
+  },
+  {
+    "geo": "syc",
+    "time": "1993",
+    "life_expectancy_years": 69.3,
+    "population_total": 74114
+  },
+  {
+    "geo": "syc",
+    "time": "1994",
+    "life_expectancy_years": 69.6,
+    "population_total": 75491
+  },
+  {
+    "geo": "syc",
+    "time": "1995",
+    "life_expectancy_years": 69.8,
+    "population_total": 76703
+  },
+  {
+    "geo": "syc",
+    "time": "1996",
+    "life_expectancy_years": 69.9,
+    "population_total": 77675
+  },
+  {
+    "geo": "syc",
+    "time": "1997",
+    "life_expectancy_years": 70.1,
+    "population_total": 78459
+  },
+  {
+    "geo": "syc",
+    "time": "1998",
+    "life_expectancy_years": 70.4,
+    "population_total": 79188
+  },
+  {
+    "geo": "syc",
+    "time": "1999",
+    "life_expectancy_years": 70.7,
+    "population_total": 80051
+  },
+  {
+    "geo": "syc",
+    "time": "2000",
+    "life_expectancy_years": 70.9,
+    "population_total": 81151
+  },
+  {
+    "geo": "syc",
+    "time": "2001",
+    "life_expectancy_years": 71.1,
+    "population_total": 82567
+  },
+  {
+    "geo": "syc",
+    "time": "2002",
+    "life_expectancy_years": 71.3,
+    "population_total": 84203
+  },
+  {
+    "geo": "syc",
+    "time": "2003",
+    "life_expectancy_years": 71.5,
+    "population_total": 85910
+  },
+  {
+    "geo": "syc",
+    "time": "2004",
+    "life_expectancy_years": 71.7,
+    "population_total": 87484
+  },
+  {
+    "geo": "syc",
+    "time": "2005",
+    "life_expectancy_years": 72,
+    "population_total": 88744
+  },
+  {
+    "geo": "syc",
+    "time": "2006",
+    "life_expectancy_years": 72.3,
+    "population_total": 89659
+  },
+  {
+    "geo": "syc",
+    "time": "2007",
+    "life_expectancy_years": 72.6,
+    "population_total": 90281
+  },
+  {
+    "geo": "syc",
+    "time": "2008",
+    "life_expectancy_years": 72.9,
+    "population_total": 90686
+  },
+  {
+    "geo": "syc",
+    "time": "2009",
+    "life_expectancy_years": 73,
+    "population_total": 91034
+  },
+  {
+    "geo": "syc",
+    "time": "2010",
+    "life_expectancy_years": 73.1,
+    "population_total": 91405
+  },
+  {
+    "geo": "syc",
+    "time": "2011",
+    "life_expectancy_years": 73.4,
+    "population_total": 91834
+  },
+  {
+    "geo": "syc",
+    "time": "2012",
+    "life_expectancy_years": 73.7,
+    "population_total": 92285
+  },
+  {
+    "geo": "syc",
+    "time": "2013",
+    "life_expectancy_years": 73.8,
+    "population_total": 92765
+  },
+  {
+    "geo": "syc",
+    "time": "2014",
+    "life_expectancy_years": 74,
+    "population_total": 93254
+  },
+  {
+    "geo": "syc",
+    "time": "2015",
+    "life_expectancy_years": 74.1,
+    "population_total": 93742
+  },
+  {
+    "geo": "slb",
+    "time": "1991",
+    "life_expectancy_years": 60,
+    "population_total": 320753
+  },
+  {
+    "geo": "slb",
+    "time": "1992",
+    "life_expectancy_years": 60.4,
+    "population_total": 329953
+  },
+  {
+    "geo": "slb",
+    "time": "1993",
+    "life_expectancy_years": 60.6,
+    "population_total": 339456
+  },
+  {
+    "geo": "slb",
+    "time": "1994",
+    "life_expectancy_years": 60.9,
+    "population_total": 349225
+  },
+  {
+    "geo": "slb",
+    "time": "1995",
+    "life_expectancy_years": 61.1,
+    "population_total": 359225
+  },
+  {
+    "geo": "slb",
+    "time": "1996",
+    "life_expectancy_years": 61.4,
+    "population_total": 369469
+  },
+  {
+    "geo": "slb",
+    "time": "1997",
+    "life_expectancy_years": 61.5,
+    "population_total": 379947
+  },
+  {
+    "geo": "slb",
+    "time": "1998",
+    "life_expectancy_years": 61.6,
+    "population_total": 390643
+  },
+  {
+    "geo": "slb",
+    "time": "1999",
+    "life_expectancy_years": 61.7,
+    "population_total": 401538
+  },
+  {
+    "geo": "slb",
+    "time": "2000",
+    "life_expectancy_years": 61.7,
+    "population_total": 412609
+  },
+  {
+    "geo": "slb",
+    "time": "2001",
+    "life_expectancy_years": 61.7,
+    "population_total": 423853
+  },
+  {
+    "geo": "slb",
+    "time": "2002",
+    "life_expectancy_years": 61.7,
+    "population_total": 435262
+  },
+  {
+    "geo": "slb",
+    "time": "2003",
+    "life_expectancy_years": 61.7,
+    "population_total": 446769
+  },
+  {
+    "geo": "slb",
+    "time": "2004",
+    "life_expectancy_years": 61.7,
+    "population_total": 458324
+  },
+  {
+    "geo": "slb",
+    "time": "2005",
+    "life_expectancy_years": 61.8,
+    "population_total": 469885
+  },
+  {
+    "geo": "slb",
+    "time": "2006",
+    "life_expectancy_years": 61.9,
+    "population_total": 481422
+  },
+  {
+    "geo": "slb",
+    "time": "2007",
+    "life_expectancy_years": 61.9,
+    "population_total": 492940
+  },
+  {
+    "geo": "slb",
+    "time": "2008",
+    "life_expectancy_years": 62.3,
+    "population_total": 504477
+  },
+  {
+    "geo": "slb",
+    "time": "2009",
+    "life_expectancy_years": 62.4,
+    "population_total": 516079
+  },
+  {
+    "geo": "slb",
+    "time": "2010",
+    "life_expectancy_years": 62.7,
+    "population_total": 527790
+  },
+  {
+    "geo": "slb",
+    "time": "2011",
+    "life_expectancy_years": 63,
+    "population_total": 539614
+  },
+  {
+    "geo": "slb",
+    "time": "2012",
+    "life_expectancy_years": 63.3,
+    "population_total": 551531
+  },
+  {
+    "geo": "slb",
+    "time": "2013",
+    "life_expectancy_years": 63.5,
+    "population_total": 563513
+  },
+  {
+    "geo": "slb",
+    "time": "2014",
+    "life_expectancy_years": 63.6,
+    "population_total": 575504
+  },
+  {
+    "geo": "slb",
+    "time": "2015",
+    "life_expectancy_years": 64,
+    "population_total": 587482
+  },
+  {
+    "geo": "zaf",
+    "time": "1991",
+    "life_expectancy_years": 62.5,
+    "population_total": 38437855
+  },
+  {
+    "geo": "zaf",
+    "time": "1992",
+    "life_expectancy_years": 62.4,
+    "population_total": 39360225
+  },
+  {
+    "geo": "zaf",
+    "time": "1993",
+    "life_expectancy_years": 63,
+    "population_total": 40300161
+  },
+  {
+    "geo": "zaf",
+    "time": "1994",
+    "life_expectancy_years": 62.8,
+    "population_total": 41218901
+  },
+  {
+    "geo": "zaf",
+    "time": "1995",
+    "life_expectancy_years": 62.7,
+    "population_total": 42088165
+  },
+  {
+    "geo": "zaf",
+    "time": "1996",
+    "life_expectancy_years": 61.6,
+    "population_total": 42898520
+  },
+  {
+    "geo": "zaf",
+    "time": "1997",
+    "life_expectancy_years": 60,
+    "population_total": 43657024
+  },
+  {
+    "geo": "zaf",
+    "time": "1998",
+    "life_expectancy_years": 58.9,
+    "population_total": 44372112
+  },
+  {
+    "geo": "zaf",
+    "time": "1999",
+    "life_expectancy_years": 57.9,
+    "population_total": 45058775
+  },
+  {
+    "geo": "zaf",
+    "time": "2000",
+    "life_expectancy_years": 56.4,
+    "population_total": 45728315
+  },
+  {
+    "geo": "zaf",
+    "time": "2001",
+    "life_expectancy_years": 55.9,
+    "population_total": 46385006
+  },
+  {
+    "geo": "zaf",
+    "time": "2002",
+    "life_expectancy_years": 54.8,
+    "population_total": 47026173
+  },
+  {
+    "geo": "zaf",
+    "time": "2003",
+    "life_expectancy_years": 53.7,
+    "population_total": 47648727
+  },
+  {
+    "geo": "zaf",
+    "time": "2004",
+    "life_expectancy_years": 52.8,
+    "population_total": 48247395
+  },
+  {
+    "geo": "zaf",
+    "time": "2005",
+    "life_expectancy_years": 52.7,
+    "population_total": 48820586
+  },
+  {
+    "geo": "zaf",
+    "time": "2006",
+    "life_expectancy_years": 52.5,
+    "population_total": 49364582
+  },
+  {
+    "geo": "zaf",
+    "time": "2007",
+    "life_expectancy_years": 53,
+    "population_total": 49887181
+  },
+  {
+    "geo": "zaf",
+    "time": "2008",
+    "life_expectancy_years": 53.4,
+    "population_total": 50412129
+  },
+  {
+    "geo": "zaf",
+    "time": "2009",
+    "life_expectancy_years": 53.9,
+    "population_total": 50970818
+  },
+  {
+    "geo": "zaf",
+    "time": "2010",
+    "life_expectancy_years": 54.9,
+    "population_total": 51584663
+  },
+  {
+    "geo": "zaf",
+    "time": "2011",
+    "life_expectancy_years": 56.6,
+    "population_total": 52263516
+  },
+  {
+    "geo": "zaf",
+    "time": "2012",
+    "life_expectancy_years": 59,
+    "population_total": 52998213
+  },
+  {
+    "geo": "zaf",
+    "time": "2013",
+    "life_expectancy_years": 60.7,
+    "population_total": 53767396
+  },
+  {
+    "geo": "zaf",
+    "time": "2014",
+    "life_expectancy_years": 61.2,
+    "population_total": 54539571
+  },
+  {
+    "geo": "zaf",
+    "time": "2015",
+    "life_expectancy_years": 61.3,
+    "population_total": 55291225
+  },
+  {
+    "geo": "swz",
+    "time": "1991",
+    "life_expectancy_years": 60.7,
+    "population_total": 885623
+  },
+  {
+    "geo": "swz",
+    "time": "1992",
+    "life_expectancy_years": 61,
+    "population_total": 906034
+  },
+  {
+    "geo": "swz",
+    "time": "1993",
+    "life_expectancy_years": 61.3,
+    "population_total": 924025
+  },
+  {
+    "geo": "swz",
+    "time": "1994",
+    "life_expectancy_years": 60.7,
+    "population_total": 941774
+  },
+  {
+    "geo": "swz",
+    "time": "1995",
+    "life_expectancy_years": 59.1,
+    "population_total": 960792
+  },
+  {
+    "geo": "swz",
+    "time": "1996",
+    "life_expectancy_years": 57.1,
+    "population_total": 981764
+  },
+  {
+    "geo": "swz",
+    "time": "1997",
+    "life_expectancy_years": 55.8,
+    "population_total": 1003995
+  },
+  {
+    "geo": "swz",
+    "time": "1998",
+    "life_expectancy_years": 53.5,
+    "population_total": 1026009
+  },
+  {
+    "geo": "swz",
+    "time": "1999",
+    "life_expectancy_years": 51.4,
+    "population_total": 1045629
+  },
+  {
+    "geo": "swz",
+    "time": "2000",
+    "life_expectancy_years": 48.8,
+    "population_total": 1061468
+  },
+  {
+    "geo": "swz",
+    "time": "2001",
+    "life_expectancy_years": 46.6,
+    "population_total": 1072927
+  },
+  {
+    "geo": "swz",
+    "time": "2002",
+    "life_expectancy_years": 45.1,
+    "population_total": 1080930
+  },
+  {
+    "geo": "swz",
+    "time": "2003",
+    "life_expectancy_years": 44,
+    "population_total": 1087392
+  },
+  {
+    "geo": "swz",
+    "time": "2004",
+    "life_expectancy_years": 43,
+    "population_total": 1095053
+  },
+  {
+    "geo": "swz",
+    "time": "2005",
+    "life_expectancy_years": 42.5,
+    "population_total": 1105873
+  },
+  {
+    "geo": "swz",
+    "time": "2006",
+    "life_expectancy_years": 43.1,
+    "population_total": 1120514
+  },
+  {
+    "geo": "swz",
+    "time": "2007",
+    "life_expectancy_years": 44.3,
+    "population_total": 1138434
+  },
+  {
+    "geo": "swz",
+    "time": "2008",
+    "life_expectancy_years": 45.1,
+    "population_total": 1158897
+  },
+  {
+    "geo": "swz",
+    "time": "2009",
+    "life_expectancy_years": 45.9,
+    "population_total": 1180675
+  },
+  {
+    "geo": "swz",
+    "time": "2010",
+    "life_expectancy_years": 46.4,
+    "population_total": 1202843
+  },
+  {
+    "geo": "swz",
+    "time": "2011",
+    "life_expectancy_years": 48,
+    "population_total": 1225258
+  },
+  {
+    "geo": "swz",
+    "time": "2012",
+    "life_expectancy_years": 49.1,
+    "population_total": 1248158
+  },
+  {
+    "geo": "swz",
+    "time": "2013",
+    "life_expectancy_years": 49.4,
+    "population_total": 1271456
+  },
+  {
+    "geo": "swz",
+    "time": "2014",
+    "life_expectancy_years": 49.8,
+    "population_total": 1295097
+  },
+  {
+    "geo": "swz",
+    "time": "2015",
+    "life_expectancy_years": 51.8,
+    "population_total": 1319011
+  },
+  {
+    "geo": "tza",
+    "time": "1991",
+    "life_expectancy_years": 55.1,
+    "population_total": 26315013
+  },
+  {
+    "geo": "tza",
+    "time": "1992",
+    "life_expectancy_years": 54.7,
+    "population_total": 27219619
+  },
+  {
+    "geo": "tza",
+    "time": "1993",
+    "life_expectancy_years": 54.5,
+    "population_total": 28149328
+  },
+  {
+    "geo": "tza",
+    "time": "1994",
+    "life_expectancy_years": 54,
+    "population_total": 29070615
+  },
+  {
+    "geo": "tza",
+    "time": "1995",
+    "life_expectancy_years": 53.9,
+    "population_total": 29960776
+  },
+  {
+    "geo": "tza",
+    "time": "1996",
+    "life_expectancy_years": 53.8,
+    "population_total": 30811854
+  },
+  {
+    "geo": "tza",
+    "time": "1997",
+    "life_expectancy_years": 53.8,
+    "population_total": 31635251
+  },
+  {
+    "geo": "tza",
+    "time": "1998",
+    "life_expectancy_years": 53.7,
+    "population_total": 32451713
+  },
+  {
+    "geo": "tza",
+    "time": "1999",
+    "life_expectancy_years": 53.8,
+    "population_total": 33291540
+  },
+  {
+    "geo": "tza",
+    "time": "2000",
+    "life_expectancy_years": 54.3,
+    "population_total": 34178042
+  },
+  {
+    "geo": "tza",
+    "time": "2001",
+    "life_expectancy_years": 54.8,
+    "population_total": 35117019
+  },
+  {
+    "geo": "tza",
+    "time": "2002",
+    "life_expectancy_years": 55.4,
+    "population_total": 36105808
+  },
+  {
+    "geo": "tza",
+    "time": "2003",
+    "life_expectancy_years": 55.9,
+    "population_total": 37149072
+  },
+  {
+    "geo": "tza",
+    "time": "2004",
+    "life_expectancy_years": 56.5,
+    "population_total": 38249984
+  },
+  {
+    "geo": "tza",
+    "time": "2005",
+    "life_expectancy_years": 57.1,
+    "population_total": 39410545
+  },
+  {
+    "geo": "tza",
+    "time": "2006",
+    "life_expectancy_years": 57.9,
+    "population_total": 40634948
+  },
+  {
+    "geo": "tza",
+    "time": "2007",
+    "life_expectancy_years": 59.1,
+    "population_total": 41923715
+  },
+  {
+    "geo": "tza",
+    "time": "2008",
+    "life_expectancy_years": 60.4,
+    "population_total": 43270144
+  },
+  {
+    "geo": "tza",
+    "time": "2009",
+    "life_expectancy_years": 60.8,
+    "population_total": 44664231
+  },
+  {
+    "geo": "tza",
+    "time": "2010",
+    "life_expectancy_years": 61.4,
+    "population_total": 46098591
+  },
+  {
+    "geo": "tza",
+    "time": "2011",
+    "life_expectancy_years": 61.7,
+    "population_total": 47570902
+  },
+  {
+    "geo": "tza",
+    "time": "2012",
+    "life_expectancy_years": 61.9,
+    "population_total": 49082997
+  },
+  {
+    "geo": "tza",
+    "time": "2013",
+    "life_expectancy_years": 62.7,
+    "population_total": 50636595
+  },
+  {
+    "geo": "tza",
+    "time": "2014",
+    "life_expectancy_years": 63.3,
+    "population_total": 52234869
+  },
+  {
+    "geo": "tza",
+    "time": "2015",
+    "life_expectancy_years": 64.1,
+    "population_total": 53879957
+  },
+  {
+    "geo": "tls",
+    "time": "1991",
+    "life_expectancy_years": 59.2,
+    "population_total": 777011
+  },
+  {
+    "geo": "tls",
+    "time": "1992",
+    "life_expectancy_years": 59.9,
+    "population_total": 805435
+  },
+  {
+    "geo": "tls",
+    "time": "1993",
+    "life_expectancy_years": 60.6,
+    "population_total": 833611
+  },
+  {
+    "geo": "tls",
+    "time": "1994",
+    "life_expectancy_years": 61.3,
+    "population_total": 856684
+  },
+  {
+    "geo": "tls",
+    "time": "1995",
+    "life_expectancy_years": 61.8,
+    "population_total": 871447
+  },
+  {
+    "geo": "tls",
+    "time": "1996",
+    "life_expectancy_years": 62.3,
+    "population_total": 875916
+  },
+  {
+    "geo": "tls",
+    "time": "1997",
+    "life_expectancy_years": 62.4,
+    "population_total": 871994
+  },
+  {
+    "geo": "tls",
+    "time": "1998",
+    "life_expectancy_years": 62.8,
+    "population_total": 865194
+  },
+  {
+    "geo": "tls",
+    "time": "1999",
+    "life_expectancy_years": 62.3,
+    "population_total": 863269
+  },
+  {
+    "geo": "tls",
+    "time": "2000",
+    "life_expectancy_years": 60.7,
+    "population_total": 871607
+  },
+  {
+    "geo": "tls",
+    "time": "2001",
+    "life_expectancy_years": 64.4,
+    "population_total": 892531
+  },
+  {
+    "geo": "tls",
+    "time": "2002",
+    "life_expectancy_years": 65.3,
+    "population_total": 923825
+  },
+  {
+    "geo": "tls",
+    "time": "2003",
+    "life_expectancy_years": 65.7,
+    "population_total": 960852
+  },
+  {
+    "geo": "tls",
+    "time": "2004",
+    "life_expectancy_years": 66.5,
+    "population_total": 996698
+  },
+  {
+    "geo": "tls",
+    "time": "2005",
+    "life_expectancy_years": 67.5,
+    "population_total": 1026484
+  },
+  {
+    "geo": "tls",
+    "time": "2006",
+    "life_expectancy_years": 68.5,
+    "population_total": 1048621
+  },
+  {
+    "geo": "tls",
+    "time": "2007",
+    "life_expectancy_years": 69.2,
+    "population_total": 1064973
+  },
+  {
+    "geo": "tls",
+    "time": "2008",
+    "life_expectancy_years": 69.9,
+    "population_total": 1078110
+  },
+  {
+    "geo": "tls",
+    "time": "2009",
+    "life_expectancy_years": 70.4,
+    "population_total": 1092021
+  },
+  {
+    "geo": "tls",
+    "time": "2010",
+    "life_expectancy_years": 70.8,
+    "population_total": 1109591
+  },
+  {
+    "geo": "tls",
+    "time": "2011",
+    "life_expectancy_years": 71.3,
+    "population_total": 1131523
+  },
+  {
+    "geo": "tls",
+    "time": "2012",
+    "life_expectancy_years": 71.7,
+    "population_total": 1156760
+  },
+  {
+    "geo": "tls",
+    "time": "2013",
+    "life_expectancy_years": 72,
+    "population_total": 1184366
+  },
+  {
+    "geo": "tls",
+    "time": "2014",
+    "life_expectancy_years": 72.3,
+    "population_total": 1212814
+  },
+  {
+    "geo": "tls",
+    "time": "2015",
+    "life_expectancy_years": 72.4,
+    "population_total": 1240977
+  },
+  {
+    "geo": "tkl",
+    "time": "2006",
+    "life_expectancy_years": 69,
+    "population_total": 1167
+  },
+  {
+    "geo": "ton",
+    "time": "1991",
+    "life_expectancy_years": 69.3,
+    "population_total": 95333
+  },
+  {
+    "geo": "ton",
+    "time": "1992",
+    "life_expectancy_years": 69.4,
+    "population_total": 95496
+  },
+  {
+    "geo": "ton",
+    "time": "1993",
+    "life_expectancy_years": 69.5,
+    "population_total": 95644
+  },
+  {
+    "geo": "ton",
+    "time": "1994",
+    "life_expectancy_years": 69.5,
+    "population_total": 95833
+  },
+  {
+    "geo": "ton",
+    "time": "1995",
+    "life_expectancy_years": 69.6,
+    "population_total": 96076
+  },
+  {
+    "geo": "ton",
+    "time": "1996",
+    "life_expectancy_years": 69.7,
+    "population_total": 96369
+  },
+  {
+    "geo": "ton",
+    "time": "1997",
+    "life_expectancy_years": 69.7,
+    "population_total": 96725
+  },
+  {
+    "geo": "ton",
+    "time": "1998",
+    "life_expectancy_years": 69.7,
+    "population_total": 97135
+  },
+  {
+    "geo": "ton",
+    "time": "1999",
+    "life_expectancy_years": 69.6,
+    "population_total": 97591
+  },
+  {
+    "geo": "ton",
+    "time": "2000",
+    "life_expectancy_years": 69.6,
+    "population_total": 98082
+  },
+  {
+    "geo": "ton",
+    "time": "2001",
+    "life_expectancy_years": 69.6,
+    "population_total": 98611
+  },
+  {
+    "geo": "ton",
+    "time": "2002",
+    "life_expectancy_years": 69.7,
+    "population_total": 99184
+  },
+  {
+    "geo": "ton",
+    "time": "2003",
+    "life_expectancy_years": 69.6,
+    "population_total": 99789
+  },
+  {
+    "geo": "ton",
+    "time": "2004",
+    "life_expectancy_years": 69.8,
+    "population_total": 100406
+  },
+  {
+    "geo": "ton",
+    "time": "2005",
+    "life_expectancy_years": 70,
+    "population_total": 101041
+  },
+  {
+    "geo": "ton",
+    "time": "2006",
+    "life_expectancy_years": 70.1,
+    "population_total": 101689
+  },
+  {
+    "geo": "ton",
+    "time": "2007",
+    "life_expectancy_years": 70.2,
+    "population_total": 102357
+  },
+  {
+    "geo": "ton",
+    "time": "2008",
+    "life_expectancy_years": 70.3,
+    "population_total": 103005
+  },
+  {
+    "geo": "ton",
+    "time": "2009",
+    "life_expectancy_years": 68.6,
+    "population_total": 103604
+  },
+  {
+    "geo": "ton",
+    "time": "2010",
+    "life_expectancy_years": 70.7,
+    "population_total": 104137
+  },
+  {
+    "geo": "ton",
+    "time": "2011",
+    "life_expectancy_years": 70.8,
+    "population_total": 104577
+  },
+  {
+    "geo": "ton",
+    "time": "2012",
+    "life_expectancy_years": 71,
+    "population_total": 104951
+  },
+  {
+    "geo": "ton",
+    "time": "2013",
+    "life_expectancy_years": 71.2,
+    "population_total": 105328
+  },
+  {
+    "geo": "ton",
+    "time": "2014",
+    "life_expectancy_years": 71.3,
+    "population_total": 105782
+  },
+  {
+    "geo": "ton",
+    "time": "2015",
+    "life_expectancy_years": 71.5,
+    "population_total": 106364
+  },
+  {
+    "geo": "ury",
+    "time": "1991",
+    "life_expectancy_years": 72.6,
+    "population_total": 3132050
+  },
+  {
+    "geo": "ury",
+    "time": "1992",
+    "life_expectancy_years": 73.2,
+    "population_total": 3154855
+  },
+  {
+    "geo": "ury",
+    "time": "1993",
+    "life_expectancy_years": 73.2,
+    "population_total": 3178155
+  },
+  {
+    "geo": "ury",
+    "time": "1994",
+    "life_expectancy_years": 73.3,
+    "population_total": 3201607
+  },
+  {
+    "geo": "ury",
+    "time": "1995",
+    "life_expectancy_years": 73.4,
+    "population_total": 3224804
+  },
+  {
+    "geo": "ury",
+    "time": "1996",
+    "life_expectancy_years": 73.5,
+    "population_total": 3248035
+  },
+  {
+    "geo": "ury",
+    "time": "1997",
+    "life_expectancy_years": 73.7,
+    "population_total": 3271010
+  },
+  {
+    "geo": "ury",
+    "time": "1998",
+    "life_expectancy_years": 74,
+    "population_total": 3292138
+  },
+  {
+    "geo": "ury",
+    "time": "1999",
+    "life_expectancy_years": 74.3,
+    "population_total": 3309318
+  },
+  {
+    "geo": "ury",
+    "time": "2000",
+    "life_expectancy_years": 74.6,
+    "population_total": 3321245
+  },
+  {
+    "geo": "ury",
+    "time": "2001",
+    "life_expectancy_years": 74.8,
+    "population_total": 3327103
+  },
+  {
+    "geo": "ury",
+    "time": "2002",
+    "life_expectancy_years": 75,
+    "population_total": 3327773
+  },
+  {
+    "geo": "ury",
+    "time": "2003",
+    "life_expectancy_years": 75,
+    "population_total": 3325637
+  },
+  {
+    "geo": "ury",
+    "time": "2004",
+    "life_expectancy_years": 75.3,
+    "population_total": 3324096
+  },
+  {
+    "geo": "ury",
+    "time": "2005",
+    "life_expectancy_years": 75.5,
+    "population_total": 3325612
+  },
+  {
+    "geo": "ury",
+    "time": "2006",
+    "life_expectancy_years": 75.7,
+    "population_total": 3331043
+  },
+  {
+    "geo": "ury",
+    "time": "2007",
+    "life_expectancy_years": 75.7,
+    "population_total": 3339741
+  },
+  {
+    "geo": "ury",
+    "time": "2008",
+    "life_expectancy_years": 76,
+    "population_total": 3350824
+  },
+  {
+    "geo": "ury",
+    "time": "2009",
+    "life_expectancy_years": 76.2,
+    "population_total": 3362755
+  },
+  {
+    "geo": "ury",
+    "time": "2010",
+    "life_expectancy_years": 76.2,
+    "population_total": 3374415
+  },
+  {
+    "geo": "ury",
+    "time": "2011",
+    "life_expectancy_years": 76.3,
+    "population_total": 3385624
+  },
+  {
+    "geo": "ury",
+    "time": "2012",
+    "life_expectancy_years": 76.3,
+    "population_total": 3396777
+  },
+  {
+    "geo": "ury",
+    "time": "2013",
+    "life_expectancy_years": 76.4,
+    "population_total": 3408005
+  },
+  {
+    "geo": "ury",
+    "time": "2014",
+    "life_expectancy_years": 76.6,
+    "population_total": 3419546
+  },
+  {
+    "geo": "ury",
+    "time": "2015",
+    "life_expectancy_years": 76.8,
+    "population_total": 3431552
+  },
+  {
+    "geo": "vut",
+    "time": "1991",
+    "life_expectancy_years": 62,
+    "population_total": 150778
+  },
+  {
+    "geo": "vut",
+    "time": "1992",
+    "life_expectancy_years": 62.1,
+    "population_total": 155243
+  },
+  {
+    "geo": "vut",
+    "time": "1993",
+    "life_expectancy_years": 62.2,
+    "population_total": 159814
+  },
+  {
+    "geo": "vut",
+    "time": "1994",
+    "life_expectancy_years": 62.2,
+    "population_total": 164208
+  },
+  {
+    "geo": "vut",
+    "time": "1995",
+    "life_expectancy_years": 62.3,
+    "population_total": 168235
+  },
+  {
+    "geo": "vut",
+    "time": "1996",
+    "life_expectancy_years": 62.4,
+    "population_total": 171801
+  },
+  {
+    "geo": "vut",
+    "time": "1997",
+    "life_expectancy_years": 61.2,
+    "population_total": 174999
+  },
+  {
+    "geo": "vut",
+    "time": "1998",
+    "life_expectancy_years": 62.5,
+    "population_total": 178078
+  },
+  {
+    "geo": "vut",
+    "time": "1999",
+    "life_expectancy_years": 62,
+    "population_total": 181345
+  },
+  {
+    "geo": "vut",
+    "time": "2000",
+    "life_expectancy_years": 62.5,
+    "population_total": 185063
+  },
+  {
+    "geo": "vut",
+    "time": "2001",
+    "life_expectancy_years": 62.5,
+    "population_total": 189290
+  },
+  {
+    "geo": "vut",
+    "time": "2002",
+    "life_expectancy_years": 62.5,
+    "population_total": 193956
+  },
+  {
+    "geo": "vut",
+    "time": "2003",
+    "life_expectancy_years": 62.5,
+    "population_total": 198964
+  },
+  {
+    "geo": "vut",
+    "time": "2004",
+    "life_expectancy_years": 62.6,
+    "population_total": 204143
+  },
+  {
+    "geo": "vut",
+    "time": "2005",
+    "life_expectancy_years": 62.7,
+    "population_total": 209370
+  },
+  {
+    "geo": "vut",
+    "time": "2006",
+    "life_expectancy_years": 62.9,
+    "population_total": 214634
+  },
+  {
+    "geo": "vut",
+    "time": "2007",
+    "life_expectancy_years": 63.2,
+    "population_total": 219953
+  },
+  {
+    "geo": "vut",
+    "time": "2008",
+    "life_expectancy_years": 63.4,
+    "population_total": 225340
+  },
+  {
+    "geo": "vut",
+    "time": "2009",
+    "life_expectancy_years": 63.6,
+    "population_total": 230785
+  },
+  {
+    "geo": "vut",
+    "time": "2010",
+    "life_expectancy_years": 63.9,
+    "population_total": 236295
+  },
+  {
+    "geo": "vut",
+    "time": "2011",
+    "life_expectancy_years": 64.1,
+    "population_total": 241871
+  },
+  {
+    "geo": "vut",
+    "time": "2012",
+    "life_expectancy_years": 64.4,
+    "population_total": 247485
+  },
+  {
+    "geo": "vut",
+    "time": "2013",
+    "life_expectancy_years": 64.6,
+    "population_total": 253142
+  },
+  {
+    "geo": "vut",
+    "time": "2014",
+    "life_expectancy_years": 64.7,
+    "population_total": 258850
+  },
+  {
+    "geo": "vut",
+    "time": "2015",
+    "life_expectancy_years": 64.9,
+    "population_total": 264603
+  },
+  {
+    "geo": "zmb",
+    "time": "1991",
+    "life_expectancy_years": 50.7,
+    "population_total": 8239732
+  },
+  {
+    "geo": "zmb",
+    "time": "1992",
+    "life_expectancy_years": 49.6,
+    "population_total": 8452275
+  },
+  {
+    "geo": "zmb",
+    "time": "1993",
+    "life_expectancy_years": 48.6,
+    "population_total": 8669168
+  },
+  {
+    "geo": "zmb",
+    "time": "1994",
+    "life_expectancy_years": 47.7,
+    "population_total": 8896109
+  },
+  {
+    "geo": "zmb",
+    "time": "1995",
+    "life_expectancy_years": 46.9,
+    "population_total": 9137077
+  },
+  {
+    "geo": "zmb",
+    "time": "1996",
+    "life_expectancy_years": 46.3,
+    "population_total": 9394304
+  },
+  {
+    "geo": "zmb",
+    "time": "1997",
+    "life_expectancy_years": 45.9,
+    "population_total": 9666578
+  },
+  {
+    "geo": "zmb",
+    "time": "1998",
+    "life_expectancy_years": 45.4,
+    "population_total": 9950224
+  },
+  {
+    "geo": "zmb",
+    "time": "1999",
+    "life_expectancy_years": 45,
+    "population_total": 10239714
+  },
+  {
+    "geo": "zmb",
+    "time": "2000",
+    "life_expectancy_years": 44.8,
+    "population_total": 10531221
+  },
+  {
+    "geo": "zmb",
+    "time": "2001",
+    "life_expectancy_years": 44.9,
+    "population_total": 10824125
+  },
+  {
+    "geo": "zmb",
+    "time": "2002",
+    "life_expectancy_years": 45.1,
+    "population_total": 11120409
+  },
+  {
+    "geo": "zmb",
+    "time": "2003",
+    "life_expectancy_years": 45.3,
+    "population_total": 11421984
+  },
+  {
+    "geo": "zmb",
+    "time": "2004",
+    "life_expectancy_years": 46.3,
+    "population_total": 11731746
+  },
+  {
+    "geo": "zmb",
+    "time": "2005",
+    "life_expectancy_years": 47.1,
+    "population_total": 12052156
+  },
+  {
+    "geo": "zmb",
+    "time": "2006",
+    "life_expectancy_years": 47.9,
+    "population_total": 12383446
+  },
+  {
+    "geo": "zmb",
+    "time": "2007",
+    "life_expectancy_years": 49,
+    "population_total": 12725974
+  },
+  {
+    "geo": "zmb",
+    "time": "2008",
+    "life_expectancy_years": 51.1,
+    "population_total": 13082517
+  },
+  {
+    "geo": "zmb",
+    "time": "2009",
+    "life_expectancy_years": 52.3,
+    "population_total": 13456417
+  },
+  {
+    "geo": "zmb",
+    "time": "2010",
+    "life_expectancy_years": 53.1,
+    "population_total": 13850033
+  },
+  {
+    "geo": "zmb",
+    "time": "2011",
+    "life_expectancy_years": 53.7,
+    "population_total": 14264756
+  },
+  {
+    "geo": "zmb",
+    "time": "2012",
+    "life_expectancy_years": 54.7,
+    "population_total": 14699937
+  },
+  {
+    "geo": "zmb",
+    "time": "2013",
+    "life_expectancy_years": 55.6,
+    "population_total": 15153210
+  },
+  {
+    "geo": "zmb",
+    "time": "2014",
+    "life_expectancy_years": 56.3,
+    "population_total": 15620974
+  },
+  {
+    "geo": "zmb",
+    "time": "2015",
+    "life_expectancy_years": 56.7,
+    "population_total": 16100587
+  },
+  {
+    "geo": "zwe",
+    "time": "1991",
+    "life_expectancy_years": 62.7,
+    "population_total": 10443043
+  },
+  {
+    "geo": "zwe",
+    "time": "1992",
+    "life_expectancy_years": 61.4,
+    "population_total": 10682868
+  },
+  {
+    "geo": "zwe",
+    "time": "1993",
+    "life_expectancy_years": 59.8,
+    "population_total": 10905756
+  },
+  {
+    "geo": "zwe",
+    "time": "1994",
+    "life_expectancy_years": 58.2,
+    "population_total": 11116948
+  },
+  {
+    "geo": "zwe",
+    "time": "1995",
+    "life_expectancy_years": 56,
+    "population_total": 11320346
+  },
+  {
+    "geo": "zwe",
+    "time": "1996",
+    "life_expectancy_years": 54.4,
+    "population_total": 11518262
+  },
+  {
+    "geo": "zwe",
+    "time": "1997",
+    "life_expectancy_years": 52.8,
+    "population_total": 11709997
+  },
+  {
+    "geo": "zwe",
+    "time": "1998",
+    "life_expectancy_years": 50.9,
+    "population_total": 11893272
+  },
+  {
+    "geo": "zwe",
+    "time": "1999",
+    "life_expectancy_years": 49.3,
+    "population_total": 12064537
+  },
+  {
+    "geo": "zwe",
+    "time": "2000",
+    "life_expectancy_years": 47.9,
+    "population_total": 12222251
+  },
+  {
+    "geo": "zwe",
+    "time": "2001",
+    "life_expectancy_years": 47,
+    "population_total": 12366165
+  },
+  {
+    "geo": "zwe",
+    "time": "2002",
+    "life_expectancy_years": 45.9,
+    "population_total": 12500525
+  },
+  {
+    "geo": "zwe",
+    "time": "2003",
+    "life_expectancy_years": 45.3,
+    "population_total": 12633897
+  },
+  {
+    "geo": "zwe",
+    "time": "2004",
+    "life_expectancy_years": 44.7,
+    "population_total": 12777511
+  },
+  {
+    "geo": "zwe",
+    "time": "2005",
+    "life_expectancy_years": 45.1,
+    "population_total": 12940032
+  },
+  {
+    "geo": "zwe",
+    "time": "2006",
+    "life_expectancy_years": 45.5,
+    "population_total": 13124267
+  },
+  {
+    "geo": "zwe",
+    "time": "2007",
+    "life_expectancy_years": 46.4,
+    "population_total": 13329909
+  },
+  {
+    "geo": "zwe",
+    "time": "2008",
+    "life_expectancy_years": 47.3,
+    "population_total": 13558469
+  },
+  {
+    "geo": "zwe",
+    "time": "2009",
+    "life_expectancy_years": 48,
+    "population_total": 13810599
+  },
+  {
+    "geo": "zwe",
+    "time": "2010",
+    "life_expectancy_years": 49.1,
+    "population_total": 14086317
+  },
+  {
+    "geo": "zwe",
+    "time": "2011",
+    "life_expectancy_years": 51.6,
+    "population_total": 14386649
+  },
+  {
+    "geo": "zwe",
+    "time": "2012",
+    "life_expectancy_years": 54.2,
+    "population_total": 14710826
+  },
+  {
+    "geo": "zwe",
+    "time": "2013",
+    "life_expectancy_years": 55.7,
+    "population_total": 15054506
+  },
+  {
+    "geo": "zwe",
+    "time": "2014",
+    "life_expectancy_years": 57,
+    "population_total": 15411675
+  },
+  {
+    "geo": "zwe",
+    "time": "2015",
+    "life_expectancy_years": 59.3,
+    "population_total": 15777451
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "1991",
+    "life_expectancy_years": null,
+    "population_total": 14227
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "1992",
+    "life_expectancy_years": null,
+    "population_total": 14327
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "1993",
+    "life_expectancy_years": null,
+    "population_total": 14429
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "1994",
+    "life_expectancy_years": null,
+    "population_total": 14531
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "1995",
+    "life_expectancy_years": null,
+    "population_total": 14633
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 14736
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 14841
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 14945
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 15051
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 15157
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 15264
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 15372
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 15481
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 15590
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 15700
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 15700
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 15700
+  },
+  {
+    "geo": "akr_a_dhe",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 15700
+  },
+  {
+    "geo": "cheslo",
+    "time": "1991",
+    "life_expectancy_years": null,
+    "population_total": 15586768
+  },
+  {
+    "geo": "cheslo",
+    "time": "1992",
+    "life_expectancy_years": null,
+    "population_total": 15618590
+  },
+  {
+    "geo": "cheslo",
+    "time": "1993",
+    "life_expectancy_years": null,
+    "population_total": 15650011
+  },
+  {
+    "geo": "cheslo",
+    "time": "1994",
+    "life_expectancy_years": null,
+    "population_total": 15675429
+  },
+  {
+    "geo": "cheslo",
+    "time": "1995",
+    "life_expectancy_years": null,
+    "population_total": 15685424
+  },
+  {
+    "geo": "cheslo",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 15685007
+  },
+  {
+    "geo": "cheslo",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 15683717
+  },
+  {
+    "geo": "cheslo",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 15681185
+  },
+  {
+    "geo": "cheslo",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 15676175
+  },
+  {
+    "geo": "cheslo",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 15670448
+  },
+  {
+    "geo": "cheslo",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 15666989
+  },
+  {
+    "geo": "cheslo",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 15666347
+  },
+  {
+    "geo": "cheslo",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 15667493
+  },
+  {
+    "geo": "cheslo",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 15669745
+  },
+  {
+    "geo": "cheslo",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 15672501
+  },
+  {
+    "geo": "cheslo",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 15674903
+  },
+  {
+    "geo": "cheslo",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 15676246
+  },
+  {
+    "geo": "cheslo",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 15676318
+  },
+  {
+    "geo": "cok",
+    "time": "1991",
+    "life_expectancy_years": null,
+    "population_total": 18528
+  },
+  {
+    "geo": "cok",
+    "time": "1992",
+    "life_expectancy_years": null,
+    "population_total": 18714
+  },
+  {
+    "geo": "cok",
+    "time": "1993",
+    "life_expectancy_years": null,
+    "population_total": 18869
+  },
+  {
+    "geo": "cok",
+    "time": "1994",
+    "life_expectancy_years": null,
+    "population_total": 18963
+  },
+  {
+    "geo": "cok",
+    "time": "1995",
+    "life_expectancy_years": null,
+    "population_total": 18956
+  },
+  {
+    "geo": "cok",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 18815
+  },
+  {
+    "geo": "cok",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 18569
+  },
+  {
+    "geo": "cok",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 18295
+  },
+  {
+    "geo": "cok",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 18124
+  },
+  {
+    "geo": "cok",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 18122
+  },
+  {
+    "geo": "cok",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 18322
+  },
+  {
+    "geo": "cok",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 18702
+  },
+  {
+    "geo": "cok",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 19148
+  },
+  {
+    "geo": "cok",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 19522
+  },
+  {
+    "geo": "cok",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 19710
+  },
+  {
+    "geo": "cok",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 19696
+  },
+  {
+    "geo": "cok",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 19511
+  },
+  {
+    "geo": "cok",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 19212
+  },
+  {
+    "geo": "cok",
+    "time": "2009",
+    "life_expectancy_years": null,
+    "population_total": 18868
+  },
+  {
+    "geo": "cok",
+    "time": "2010",
+    "life_expectancy_years": null,
+    "population_total": 18545
+  },
+  {
+    "geo": "cok",
+    "time": "2011",
+    "life_expectancy_years": null,
+    "population_total": 18257
+  },
+  {
+    "geo": "cok",
+    "time": "2012",
+    "life_expectancy_years": null,
+    "population_total": 17996
+  },
+  {
+    "geo": "cok",
+    "time": "2013",
+    "life_expectancy_years": null,
+    "population_total": 17767
+  },
+  {
+    "geo": "cok",
+    "time": "2014",
+    "life_expectancy_years": null,
+    "population_total": 17588
+  },
+  {
+    "geo": "cok",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "population_total": 17449
+  },
+  {
+    "geo": "deu_east",
+    "time": "1991",
+    "life_expectancy_years": null,
+    "population_total": 15910000
+  },
+  {
+    "geo": "deu_east",
+    "time": "1992",
+    "life_expectancy_years": null,
+    "population_total": 15937526
+  },
+  {
+    "geo": "deu_east",
+    "time": "1993",
+    "life_expectancy_years": null,
+    "population_total": 15965099
+  },
+  {
+    "geo": "deu_east",
+    "time": "1994",
+    "life_expectancy_years": null,
+    "population_total": 15992720
+  },
+  {
+    "geo": "deu_east",
+    "time": "1995",
+    "life_expectancy_years": null,
+    "population_total": 16020389
+  },
+  {
+    "geo": "deu_east",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 16048106
+  },
+  {
+    "geo": "deu_east",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 16075870
+  },
+  {
+    "geo": "deu_east",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 16103683
+  },
+  {
+    "geo": "deu_east",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 16131544
+  },
+  {
+    "geo": "deu_east",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 16159453
+  },
+  {
+    "geo": "deu_east",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 16187410
+  },
+  {
+    "geo": "deu_east",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 16215416
+  },
+  {
+    "geo": "deu_east",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 16243470
+  },
+  {
+    "geo": "deu_east",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 16271572
+  },
+  {
+    "geo": "deu_east",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 16299724
+  },
+  {
+    "geo": "deu_east",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 16327924
+  },
+  {
+    "geo": "deu_east",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 16356172
+  },
+  {
+    "geo": "deu_east",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 16384470
+  },
+  {
+    "geo": "deu_west",
+    "time": "1991",
+    "life_expectancy_years": null,
+    "population_total": 63889000
+  },
+  {
+    "geo": "deu_west",
+    "time": "1992",
+    "life_expectancy_years": null,
+    "population_total": 63999534
+  },
+  {
+    "geo": "deu_west",
+    "time": "1993",
+    "life_expectancy_years": null,
+    "population_total": 64110259
+  },
+  {
+    "geo": "deu_west",
+    "time": "1994",
+    "life_expectancy_years": null,
+    "population_total": 64221175
+  },
+  {
+    "geo": "deu_west",
+    "time": "1995",
+    "life_expectancy_years": null,
+    "population_total": 64332284
+  },
+  {
+    "geo": "deu_west",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 64443584
+  },
+  {
+    "geo": "deu_west",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 64555077
+  },
+  {
+    "geo": "deu_west",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 64666764
+  },
+  {
+    "geo": "deu_west",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 64778643
+  },
+  {
+    "geo": "deu_west",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 64890716
+  },
+  {
+    "geo": "deu_west",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 65002983
+  },
+  {
+    "geo": "deu_west",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 65115444
+  },
+  {
+    "geo": "deu_west",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 65228100
+  },
+  {
+    "geo": "deu_west",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 65340950
+  },
+  {
+    "geo": "deu_west",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 65453996
+  },
+  {
+    "geo": "deu_west",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 65567237
+  },
+  {
+    "geo": "deu_west",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 65680674
+  },
+  {
+    "geo": "deu_west",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 65794308
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "1991",
+    "life_expectancy_years": null,
+    "population_total": 53584960
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "1992",
+    "life_expectancy_years": null,
+    "population_total": 55756999
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "1993",
+    "life_expectancy_years": null,
+    "population_total": 57190199
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "1994",
+    "life_expectancy_years": null,
+    "population_total": 58770464
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "1995",
+    "life_expectancy_years": null,
+    "population_total": 60487061
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 62209971
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 63919620
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 65620416
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 67372393
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 69046633
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 70669297
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 72361662
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 74098224
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 75890979
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 77722924
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 79564975
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 81418472
+  },
+  {
+    "geo": "eri_a_eth",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 83282565
+  },
+  {
+    "geo": "korea_union",
+    "time": "1991",
+    "life_expectancy_years": null,
+    "population_total": 63679116
+  },
+  {
+    "geo": "korea_union",
+    "time": "1992",
+    "life_expectancy_years": null,
+    "population_total": 64516825
+  },
+  {
+    "geo": "korea_union",
+    "time": "1993",
+    "life_expectancy_years": null,
+    "population_total": 65359988
+  },
+  {
+    "geo": "korea_union",
+    "time": "1994",
+    "life_expectancy_years": null,
+    "population_total": 66120790
+  },
+  {
+    "geo": "korea_union",
+    "time": "1995",
+    "life_expectancy_years": null,
+    "population_total": 66826002
+  },
+  {
+    "geo": "korea_union",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 67378988
+  },
+  {
+    "geo": "korea_union",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 67758921
+  },
+  {
+    "geo": "korea_union",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 68044512
+  },
+  {
+    "geo": "korea_union",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 68417806
+  },
+  {
+    "geo": "korea_union",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 68998765
+  },
+  {
+    "geo": "korea_union",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 69638064
+  },
+  {
+    "geo": "korea_union",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 70184515
+  },
+  {
+    "geo": "korea_union",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 70668745
+  },
+  {
+    "geo": "korea_union",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 71123878
+  },
+  {
+    "geo": "korea_union",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 71552848
+  },
+  {
+    "geo": "korea_union",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 71959842
+  },
+  {
+    "geo": "korea_union",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 72346515
+  },
+  {
+    "geo": "korea_union",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 72711933
+  },
+  {
+    "geo": "kos",
+    "time": "1991",
+    "life_expectancy_years": null,
+    "population_total": 2092679
+  },
+  {
+    "geo": "kos",
+    "time": "1992",
+    "life_expectancy_years": null,
+    "population_total": 2227264
+  },
+  {
+    "geo": "kos",
+    "time": "1993",
+    "life_expectancy_years": null,
+    "population_total": 2365038
+  },
+  {
+    "geo": "kos",
+    "time": "1994",
+    "life_expectancy_years": null,
+    "population_total": 2484175
+  },
+  {
+    "geo": "kos",
+    "time": "1995",
+    "life_expectancy_years": null,
+    "population_total": 2567417
+  },
+  {
+    "geo": "kos",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 2617993
+  },
+  {
+    "geo": "kos",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 2647850
+  },
+  {
+    "geo": "kos",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 2654379
+  },
+  {
+    "geo": "kos",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 2639714
+  },
+  {
+    "geo": "kos",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 2614315
+  },
+  {
+    "geo": "kos",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 2571012
+  },
+  {
+    "geo": "kos",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 2511039
+  },
+  {
+    "geo": "kos",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 2468091
+  },
+  {
+    "geo": "kos",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 2433907
+  },
+  {
+    "geo": "kos",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 2422257
+  },
+  {
+    "geo": "kos",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 2419235
+  },
+  {
+    "geo": "kos",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 2421609
+  },
+  {
+    "geo": "kos",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 2423704
+  },
+  {
+    "geo": "nru",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 10029
+  },
+  {
+    "geo": "nru",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 10057
+  },
+  {
+    "geo": "nru",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 10046
+  },
+  {
+    "geo": "nru",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 10040
+  },
+  {
+    "geo": "nru",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 10037
+  },
+  {
+    "geo": "nru",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 10052
+  },
+  {
+    "geo": "nru",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 10080
+  },
+  {
+    "geo": "nru",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 10106
+  },
+  {
+    "geo": "nru",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 10126
+  },
+  {
+    "geo": "nru",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 10114
+  },
+  {
+    "geo": "nru",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 10071
+  },
+  {
+    "geo": "nru",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 10002
+  },
+  {
+    "geo": "nru",
+    "time": "2010",
+    "life_expectancy_years": null,
+    "population_total": 10025
+  },
+  {
+    "geo": "nru",
+    "time": "2011",
+    "life_expectancy_years": null,
+    "population_total": 10208
+  },
+  {
+    "geo": "nru",
+    "time": "2012",
+    "life_expectancy_years": null,
+    "population_total": 10478
+  },
+  {
+    "geo": "nru",
+    "time": "2013",
+    "life_expectancy_years": null,
+    "population_total": 10790
+  },
+  {
+    "geo": "nru",
+    "time": "2014",
+    "life_expectancy_years": null,
+    "population_total": 11070
+  },
+  {
+    "geo": "nru",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "population_total": 11260
+  },
+  {
+    "geo": "scg",
+    "time": "1991",
+    "life_expectancy_years": null,
+    "population_total": 10210920
+  },
+  {
+    "geo": "scg",
+    "time": "1992",
+    "life_expectancy_years": null,
+    "population_total": 10448018
+  },
+  {
+    "geo": "scg",
+    "time": "1993",
+    "life_expectancy_years": null,
+    "population_total": 10562866
+  },
+  {
+    "geo": "scg",
+    "time": "1994",
+    "life_expectancy_years": null,
+    "population_total": 10684474
+  },
+  {
+    "geo": "scg",
+    "time": "1995",
+    "life_expectancy_years": null,
+    "population_total": 10862873
+  },
+  {
+    "geo": "scg",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 10995456
+  },
+  {
+    "geo": "scg",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 11029245
+  },
+  {
+    "geo": "scg",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 11003339
+  },
+  {
+    "geo": "scg",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 10891329
+  },
+  {
+    "geo": "scg",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 10850210
+  },
+  {
+    "geo": "scg",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 10858358
+  },
+  {
+    "geo": "scg",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 10831812
+  },
+  {
+    "geo": "scg",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 10823280
+  },
+  {
+    "geo": "scg",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 10825900
+  },
+  {
+    "geo": "scg",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 10829175
+  },
+  {
+    "geo": "scg",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 10832545
+  },
+  {
+    "geo": "scg",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 10835426
+  },
+  {
+    "geo": "scg",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 10837664
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "1991",
+    "life_expectancy_years": null,
+    "population_total": 7595636
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "1992",
+    "life_expectancy_years": null,
+    "population_total": 7604063
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "1993",
+    "life_expectancy_years": null,
+    "population_total": 7614328
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "1994",
+    "life_expectancy_years": null,
+    "population_total": 7622711
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "1995",
+    "life_expectancy_years": null,
+    "population_total": 7628264
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 7622185
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 7598538
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 7567745
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 7540401
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 7516346
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 7503433
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 7500031
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 7480591
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 7463157
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 7440769
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 7431485
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 7438779
+  },
+  {
+    "geo": "scg_ex_kos",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 7445215
+  },
+  {
+    "geo": "stmar",
+    "time": "1991",
+    "life_expectancy_years": null,
+    "population_total": 25196
+  },
+  {
+    "geo": "stmar",
+    "time": "1992",
+    "life_expectancy_years": null,
+    "population_total": 25424
+  },
+  {
+    "geo": "stmar",
+    "time": "1993",
+    "life_expectancy_years": null,
+    "population_total": 25655
+  },
+  {
+    "geo": "stmar",
+    "time": "1994",
+    "life_expectancy_years": null,
+    "population_total": 25888
+  },
+  {
+    "geo": "stmar",
+    "time": "1995",
+    "life_expectancy_years": null,
+    "population_total": 26123
+  },
+  {
+    "geo": "stmar",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 26359
+  },
+  {
+    "geo": "stmar",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 26599
+  },
+  {
+    "geo": "stmar",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 26840
+  },
+  {
+    "geo": "stmar",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 27083
+  },
+  {
+    "geo": "stmar",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 27329
+  },
+  {
+    "geo": "stmar",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 27577
+  },
+  {
+    "geo": "stmar",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 27827
+  },
+  {
+    "geo": "stmar",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 28079
+  },
+  {
+    "geo": "stmar",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 28334
+  },
+  {
+    "geo": "stmar",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 28591
+  },
+  {
+    "geo": "stmar",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 28850
+  },
+  {
+    "geo": "stmar",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 29112
+  },
+  {
+    "geo": "stmar",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 29376
+  },
+  {
+    "geo": "tuv",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 10027
+  },
+  {
+    "geo": "tuv",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 10137
+  },
+  {
+    "geo": "tuv",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 10243
+  },
+  {
+    "geo": "tuv",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 10340
+  },
+  {
+    "geo": "tuv",
+    "time": "2009",
+    "life_expectancy_years": null,
+    "population_total": 10441
+  },
+  {
+    "geo": "tuv",
+    "time": "2010",
+    "life_expectancy_years": null,
+    "population_total": 10531
+  },
+  {
+    "geo": "tuv",
+    "time": "2011",
+    "life_expectancy_years": null,
+    "population_total": 10628
+  },
+  {
+    "geo": "tuv",
+    "time": "2012",
+    "life_expectancy_years": null,
+    "population_total": 10725
+  },
+  {
+    "geo": "tuv",
+    "time": "2013",
+    "life_expectancy_years": null,
+    "population_total": 10819
+  },
+  {
+    "geo": "tuv",
+    "time": "2014",
+    "life_expectancy_years": null,
+    "population_total": 10908
+  },
+  {
+    "geo": "tuv",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "population_total": 11001
+  },
+  {
+    "geo": "ussr",
+    "time": "1991",
+    "life_expectancy_years": null,
+    "population_total": 290113615
+  },
+  {
+    "geo": "ussr",
+    "time": "1992",
+    "life_expectancy_years": null,
+    "population_total": 291118372
+  },
+  {
+    "geo": "ussr",
+    "time": "1993",
+    "life_expectancy_years": null,
+    "population_total": 291429616
+  },
+  {
+    "geo": "ussr",
+    "time": "1994",
+    "life_expectancy_years": null,
+    "population_total": 291345857
+  },
+  {
+    "geo": "ussr",
+    "time": "1995",
+    "life_expectancy_years": null,
+    "population_total": 291150214
+  },
+  {
+    "geo": "ussr",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 290875611
+  },
+  {
+    "geo": "ussr",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 290527072
+  },
+  {
+    "geo": "ussr",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 290173083
+  },
+  {
+    "geo": "ussr",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 289692658
+  },
+  {
+    "geo": "ussr",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 289112748
+  },
+  {
+    "geo": "ussr",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 288520633
+  },
+  {
+    "geo": "ussr",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 287977722
+  },
+  {
+    "geo": "ussr",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 287600977
+  },
+  {
+    "geo": "ussr",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 287360519
+  },
+  {
+    "geo": "ussr",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 287263911
+  },
+  {
+    "geo": "ussr",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 287266522
+  },
+  {
+    "geo": "ussr",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 287330756
+  },
+  {
+    "geo": "ussr",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 287447373
+  },
+  {
+    "geo": "wlf",
+    "time": "1991",
+    "life_expectancy_years": null,
+    "population_total": 13912
+  },
+  {
+    "geo": "wlf",
+    "time": "1992",
+    "life_expectancy_years": null,
+    "population_total": 13955
+  },
+  {
+    "geo": "wlf",
+    "time": "1993",
+    "life_expectancy_years": null,
+    "population_total": 14014
+  },
+  {
+    "geo": "wlf",
+    "time": "1994",
+    "life_expectancy_years": null,
+    "population_total": 14075
+  },
+  {
+    "geo": "wlf",
+    "time": "1995",
+    "life_expectancy_years": null,
+    "population_total": 14142
+  },
+  {
+    "geo": "wlf",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 14211
+  },
+  {
+    "geo": "wlf",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 14280
+  },
+  {
+    "geo": "wlf",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 14354
+  },
+  {
+    "geo": "wlf",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 14428
+  },
+  {
+    "geo": "wlf",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 14500
+  },
+  {
+    "geo": "wlf",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 14563
+  },
+  {
+    "geo": "wlf",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 14622
+  },
+  {
+    "geo": "wlf",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 14651
+  },
+  {
+    "geo": "wlf",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 14643
+  },
+  {
+    "geo": "wlf",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 14568
+  },
+  {
+    "geo": "wlf",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 14434
+  },
+  {
+    "geo": "wlf",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 14229
+  },
+  {
+    "geo": "wlf",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 13984
+  },
+  {
+    "geo": "wlf",
+    "time": "2009",
+    "life_expectancy_years": null,
+    "population_total": 13706
+  },
+  {
+    "geo": "wlf",
+    "time": "2010",
+    "life_expectancy_years": null,
+    "population_total": 13428
+  },
+  {
+    "geo": "wlf",
+    "time": "2011",
+    "life_expectancy_years": null,
+    "population_total": 13129
+  },
+  {
+    "geo": "wlf",
+    "time": "2012",
+    "life_expectancy_years": null,
+    "population_total": 12836
+  },
+  {
+    "geo": "wlf",
+    "time": "2013",
+    "life_expectancy_years": null,
+    "population_total": 12551
+  },
+  {
+    "geo": "wlf",
+    "time": "2014",
+    "life_expectancy_years": null,
+    "population_total": 12285
+  },
+  {
+    "geo": "wlf",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "population_total": 12066
+  },
+  {
+    "geo": "yem_north",
+    "time": "1991",
+    "life_expectancy_years": null,
+    "population_total": 9967882
+  },
+  {
+    "geo": "yem_north",
+    "time": "1992",
+    "life_expectancy_years": null,
+    "population_total": 10315045
+  },
+  {
+    "geo": "yem_north",
+    "time": "1993",
+    "life_expectancy_years": null,
+    "population_total": 10674299
+  },
+  {
+    "geo": "yem_north",
+    "time": "1994",
+    "life_expectancy_years": null,
+    "population_total": 11046065
+  },
+  {
+    "geo": "yem_north",
+    "time": "1995",
+    "life_expectancy_years": null,
+    "population_total": 11430780
+  },
+  {
+    "geo": "yem_north",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 11828893
+  },
+  {
+    "geo": "yem_north",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 12240871
+  },
+  {
+    "geo": "yem_north",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 12667198
+  },
+  {
+    "geo": "yem_north",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 13108374
+  },
+  {
+    "geo": "yem_north",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 13564914
+  },
+  {
+    "geo": "yem_north",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 14037355
+  },
+  {
+    "geo": "yem_north",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 14526251
+  },
+  {
+    "geo": "yem_north",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 15032173
+  },
+  {
+    "geo": "yem_north",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 15555717
+  },
+  {
+    "geo": "yem_north",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 16097494
+  },
+  {
+    "geo": "yem_north",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 16658140
+  },
+  {
+    "geo": "yem_north",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 17238312
+  },
+  {
+    "geo": "yem_north",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 17838691
+  },
+  {
+    "geo": "yem_south",
+    "time": "1991",
+    "life_expectancy_years": null,
+    "population_total": 2774553
+  },
+  {
+    "geo": "yem_south",
+    "time": "1992",
+    "life_expectancy_years": null,
+    "population_total": 2871186
+  },
+  {
+    "geo": "yem_south",
+    "time": "1993",
+    "life_expectancy_years": null,
+    "population_total": 2971184
+  },
+  {
+    "geo": "yem_south",
+    "time": "1994",
+    "life_expectancy_years": null,
+    "population_total": 3074665
+  },
+  {
+    "geo": "yem_south",
+    "time": "1995",
+    "life_expectancy_years": null,
+    "population_total": 3181750
+  },
+  {
+    "geo": "yem_south",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 3292564
+  },
+  {
+    "geo": "yem_south",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 3407238
+  },
+  {
+    "geo": "yem_south",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 3525906
+  },
+  {
+    "geo": "yem_south",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 3648707
+  },
+  {
+    "geo": "yem_south",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 3775785
+  },
+  {
+    "geo": "yem_south",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 3907288
+  },
+  {
+    "geo": "yem_south",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 4043372
+  },
+  {
+    "geo": "yem_south",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 4184195
+  },
+  {
+    "geo": "yem_south",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 4329923
+  },
+  {
+    "geo": "yem_south",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 4480726
+  },
+  {
+    "geo": "yem_south",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 4636781
+  },
+  {
+    "geo": "yem_south",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 4798272
+  },
+  {
+    "geo": "yem_south",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 4965387
+  },
+  {
+    "geo": "yug",
+    "time": "1991",
+    "life_expectancy_years": null,
+    "population_total": 23068157
+  },
+  {
+    "geo": "yug",
+    "time": "1992",
+    "life_expectancy_years": null,
+    "population_total": 23086612
+  },
+  {
+    "geo": "yug",
+    "time": "1993",
+    "life_expectancy_years": null,
+    "population_total": 22921437
+  },
+  {
+    "geo": "yug",
+    "time": "1994",
+    "life_expectancy_years": null,
+    "population_total": 22916714
+  },
+  {
+    "geo": "yug",
+    "time": "1995",
+    "life_expectancy_years": null,
+    "population_total": 23025391
+  },
+  {
+    "geo": "yug",
+    "time": "1996",
+    "life_expectancy_years": null,
+    "population_total": 23046512
+  },
+  {
+    "geo": "yug",
+    "time": "1997",
+    "life_expectancy_years": null,
+    "population_total": 23077312
+  },
+  {
+    "geo": "yug",
+    "time": "1998",
+    "life_expectancy_years": null,
+    "population_total": 23247390
+  },
+  {
+    "geo": "yug",
+    "time": "1999",
+    "life_expectancy_years": null,
+    "population_total": 23273003
+  },
+  {
+    "geo": "yug",
+    "time": "2000",
+    "life_expectancy_years": null,
+    "population_total": 23321566
+  },
+  {
+    "geo": "yug",
+    "time": "2001",
+    "life_expectancy_years": null,
+    "population_total": 23443852
+  },
+  {
+    "geo": "yug",
+    "time": "2002",
+    "life_expectancy_years": null,
+    "population_total": 23520190
+  },
+  {
+    "geo": "yug",
+    "time": "2003",
+    "life_expectancy_years": null,
+    "population_total": 23610989
+  },
+  {
+    "geo": "yug",
+    "time": "2004",
+    "life_expectancy_years": null,
+    "population_total": 23719918
+  },
+  {
+    "geo": "yug",
+    "time": "2005",
+    "life_expectancy_years": null,
+    "population_total": 23811905
+  },
+  {
+    "geo": "yug",
+    "time": "2006",
+    "life_expectancy_years": null,
+    "population_total": 23887171
+  },
+  {
+    "geo": "yug",
+    "time": "2007",
+    "life_expectancy_years": null,
+    "population_total": 23946096
+  },
+  {
+    "geo": "yug",
+    "time": "2008",
+    "life_expectancy_years": null,
+    "population_total": 23988543
+  }
+]
