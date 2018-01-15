@@ -1,14 +1,13 @@
 import { runTests } from '../src/test-utils';
-import { GenericTestFlow, QuickExactTestFlow } from '../src/test-flow';
+import { GenericTestFlow, OnlySameQuantityTestFlow, QuickExactTestFlow } from '../src/test-flow';
 import { TestCase } from '../src/test-case';
-import { Dataset } from '../src/datasets';
+import { Dataset } from '../src/settings/datasets';
 
 describe('Datapoints supporting', () => {
   runTests([
-    // todo: avoid geo.*
     new TestCase()
       .forDataset(Dataset.sg)
-      .withTitle('result for #readerProvider# plain query should be processed correctly')
+      .withTitle('plain query should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-1-#dataset#.json')
       .withRequest({
         from: 'datapoints',
@@ -18,16 +17,16 @@ describe('Datapoints supporting', () => {
           value: ['life_expectancy_years', 'income_per_person_gdppercapita_ppp_inflation_adjusted', 'population_total']
         },
         where: {
-          'geo.is--country': true,
+          'is--country': true,
           time: {$gt: 1800, $lt: 2016}
         },
         grouping: {},
-        orderBy: 'time'
+        orderBy: ['time']
       })
       .withFlowConstructor(QuickExactTestFlow),
     new TestCase()
       .forDataset(Dataset.sg)
-      .withTitle('result for #readerProvider# joins query should be processed correctly')
+      .withTitle('joins query should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-2-#dataset#.json')
       .withRequest({
         select: {
@@ -82,7 +81,7 @@ describe('Datapoints supporting', () => {
           $geo: {key: 'geo', where: {'is--country': true}},
           $time: {key: 'time', where: {time: '2015'}}
         },
-        order_by: 'time'
+        order_by: ['time']
       })
       .withFlowConstructor(GenericTestFlow),
     new TestCase()
@@ -103,9 +102,9 @@ describe('Datapoints supporting', () => {
             where: {'is--country': true}
           }
         },
-        order_by: 'time'
+        order_by: ['time']
       })
-      .withFlowConstructor(QuickExactTestFlow),
+      .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
       .forDataset(Dataset.sgtiny)
       .withTitle('query by "ago" country should be processed correctly')
@@ -127,8 +126,8 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['time']
       })
-      .withFlowConstructor(QuickExactTestFlow),
-    new TestCase()
+      .withFlowConstructor(OnlySameQuantityTestFlow),
+    /*new TestCase()
       .forDataset(Dataset.popwpp)
       .withTitle('query by gender, age, and country with code 900 should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-6-#dataset#.json')
@@ -148,7 +147,7 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['year']
       })
-      .withFlowConstructor(QuickExactTestFlow),
+      .withFlowConstructor(QuickExactTestFlow),*/
     new TestCase()
       .forDataset(Dataset.sgtiny)
       .withTitle('query by "americas" and "asia" regions should be processed correctly')
@@ -169,7 +168,7 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['time']
       })
-      .withFlowConstructor(QuickExactTestFlow),
+      .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
       .forDataset(Dataset.bubbles3)
       .withTitle('should consume files with many indicators in different columns')
@@ -184,10 +183,10 @@ describe('Datapoints supporting', () => {
         },
         where: {},
         join: {},
-        orderBy: ['time']
+        order_by: ['time']
       })
-      .withFlowConstructor(QuickExactTestFlow),
-    new TestCase()
+      .withFlowConstructor(OnlySameQuantityTestFlow),
+    /*new TestCase()
       .forDataset(Dataset.popwppbig)
       .withTitle('multidimentional dataset reading should return expected result')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-9-#dataset#.json')
@@ -209,7 +208,7 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['year']
       })
-      .withFlowConstructor(QuickExactTestFlow),
+      .withFlowConstructor(QuickExactTestFlow),*/
     new TestCase()
       .forDataset(Dataset.presentation)
       .withTitle('query with boolean condition should be processed correctly')
@@ -231,7 +230,7 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['time']
       })
-      .withFlowConstructor(QuickExactTestFlow),
+      .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
       .forDataset(Dataset.staticassets)
       .withTitle('query with static assets should be processed correctly')
@@ -254,7 +253,7 @@ describe('Datapoints supporting', () => {
         order_by: ['time']
       })
       .withFlowConstructor(QuickExactTestFlow),
-    new TestCase()
+    /*new TestCase()
       .forDataset(Dataset.popwppbig)
       .withTitle('query with join and world4region should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-12-#dataset#.json')
@@ -275,7 +274,7 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['year']
       })
-      .withFlowConstructor(QuickExactTestFlow),
+      .withFlowConstructor(QuickExactTestFlow),*/
     new TestCase()
       .forDataset(Dataset.sgmixentity)
       .withTitle('query on dataset that contains mixed kinds of entities in the same file should be processed correctly')
@@ -326,9 +325,49 @@ describe('Datapoints supporting', () => {
             }
           }
         },
-        order_by: ['time'],
-        language: 'en',
+        order_by: ['country', 'time'],
+        language: 'en'
       })
-      .withFlowConstructor(QuickExactTestFlow),
+      .withFlowConstructor(OnlySameQuantityTestFlow),
+    new TestCase()
+      .forDataset(Dataset.datetesting)
+      .withTitle('query by full date should be processed correctly')
+      .withFixturePath('../test/result-fixtures/datapoints/datapoints-15-#dataset#.json')
+      .withRequest({
+        select: {
+          key: ['currency', 'day'],
+          value: [
+            'exchange_rate_usd'
+          ]
+        },
+        from: 'datapoints',
+        where: {
+          $and: [
+            {day: {$lt: '20151230'}},
+            {day: {$gt: '20151220'}}
+          ]
+        }
+      })
+      .withFlowConstructor(OnlySameQuantityTestFlow),
+    new TestCase()
+      .forDataset(Dataset.datetesting)
+      .withTitle('query by month should be processed correctly')
+      .withFixturePath('../test/result-fixtures/datapoints/datapoints-16-#dataset#.json')
+      .withRequest({
+        select: {
+          key: ['currency', 'month'],
+          value: [
+            'exchange_rate_usd'
+          ]
+        },
+        from: 'datapoints',
+        where: {
+          $and: [
+            {month: {$lt: '2015-01'}},
+            {month: {$gt: '2014-05'}}
+          ]
+        }
+      })
+      .withFlowConstructor(OnlySameQuantityTestFlow)
   ]);
 });

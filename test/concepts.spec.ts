@@ -1,13 +1,13 @@
 import { runTests } from '../src/test-utils';
 import { GenericTestFlow } from '../src/test-flow';
 import { TestCase } from '../src/test-case';
-import { Dataset } from '../src/datasets';
+import { Dataset } from '../src/settings/datasets';
 
 describe('Concepts supporting', () => {
   runTests([
     new TestCase()
       .forDataset(Dataset.sg)
-      .withTitle('result for #readerProvider# when 4 fields selects should be expected')
+      .withTitle('4 fields selects should be expected')
       .withFixturePath('../test/result-fixtures/concepts/concepts-1-#dataset#.json')
       .withRequest({
         select: {
@@ -26,7 +26,7 @@ describe('Concepts supporting', () => {
       .withFlowConstructor(GenericTestFlow),
     new TestCase()
       .forDataset(Dataset.sg)
-      .withTitle('result for #readerProvider# when 3 fields selects should be expected')
+      .withTitle('3 fields selects should be expected')
       .withFixturePath('../test/result-fixtures/concepts/concepts-2-#dataset#.json')
       .withRequest({
         select: {
@@ -45,7 +45,7 @@ describe('Concepts supporting', () => {
       .withFlowConstructor(GenericTestFlow),
     new TestCase()
       .forDataset(Dataset.sg)
-      .withTitle('result for #readerProvider# when ar-SA base data selects should be expected')
+      .withTitle('ar-SA base data selects should be expected')
       .withFixturePath('../test/result-fixtures/concepts/concepts-3-#dataset#.json')
       .withRequest({
         language: 'ar-SA',

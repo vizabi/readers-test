@@ -1,6 +1,6 @@
 import { isEqual } from 'lodash';
 import * as chai from 'chai';
-import { Dataset } from '../src/datasets';
+import { Dataset } from '../src/settings/datasets';
 import { readersCases } from '../src/test-utils';
 
 const expect = chai.expect;

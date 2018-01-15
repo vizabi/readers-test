@@ -1,5 +1,5 @@
-import { cloneDeep } from 'lodash';
-import { Dataset } from './datasets';
+import { Dataset } from './settings/datasets';
+import { getReader } from './ddfcsv-new/reader';
 
 const ddfCsvReader = require('vizabi-ddfcsv-reader');
 
@@ -56,6 +56,18 @@ export class DdfCsvReaderProvider extends AbstractReaderProvider {
   getReaderObject() {
     if (!this.readerObject) {
       this.readerObject = ddfCsvReader.getDDFCsvReaderObject();
+    }
+
+    return this.readerObject;
+  }
+}
+
+export class DdfCsvNewReaderProvider extends AbstractReaderProvider {
+  private readerObject;
+
+  getReaderObject() {
+    if (!this.readerObject) {
+      this.readerObject = getReader();
     }
 
     return this.readerObject;

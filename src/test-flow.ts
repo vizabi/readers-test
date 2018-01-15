@@ -1,7 +1,5 @@
 import * as chai from 'chai';
-import * as _ from 'lodash';
-
-const diff = require('deep-object-diff').diff;
+import { isEqual } from 'lodash';
 
 const expect = chai.expect;
 
@@ -17,11 +15,13 @@ export class GenericTestFlow extends AbstractTestFlow {
   testIt(err, data, datasetSuffix) {
     const fixtureData = require(this.fixturePath.replace(/#dataset#/, datasetSuffix));
     const differences = this.getDataDifferences(data, fixtureData);
+    const fixtureDataStr = JSON.stringify(fixtureData, null, 2);
+    const dataStr = JSON.stringify(data, null, 2);
     const differencesStr = JSON.stringify(differences, null, 2);
 
     expect(!err).to.be.true;
     expect(data.length).to.equal(fixtureData.length);
-    expect(differences, `diff is ${differencesStr}`).to.be.empty;
+    expect(differences, `\noriginal:\n${fixtureDataStr}\ncurrent:${dataStr}\ndiff:${differencesStr}\n`).to.be.empty;
   }
 
   private getDataDifferences(data, fixtureData) {
@@ -31,7 +31,7 @@ export class GenericTestFlow extends AbstractTestFlow {
       let existsIndex = 0;
 
       for (let fixtureIndex = 0; fixtureIndex < fixtureData.length; fixtureIndex++) {
-        if (_.isEmpty(diff(data[dataIndex], fixtureData[fixtureIndex]))) {
+        if (!isEqual(data[dataIndex], fixtureData[fixtureIndex])) {
           existsIndex++;
         }
       }
@@ -50,7 +50,19 @@ export class ExactTestFlow extends AbstractTestFlow {
     const fixtureData = require(this.fixturePath.replace(/#dataset#/, datasetSuffix));
 
     expect(!err).to.be.true;
-    expect(data).to.deep.equal(fixtureData);
+    expect(data.length).to.equal(fixtureData.length);
+
+    let diffRecord, diffPosition;
+
+    for (let i = 0; i < data.length; i++) {
+      if (!isEqual(data[i], fixtureData[i])) {
+        diffRecord = data[i];
+        diffPosition = i;
+        break;
+      }
+    }
+
+    expect(!!diffRecord, `diff:\n${JSON.stringify(diffRecord, null, 2)} on line ${diffPosition}`).to.be.false;
   }
 }
 
@@ -73,5 +85,14 @@ export class QuickExactTestFlow extends AbstractTestFlow {
     }
 
     expect(areEqual).to.be.true;
+  }
+}
+
+export class OnlySameQuantityTestFlow extends AbstractTestFlow {
+  testIt(err, data, datasetSuffix) {
+    const fixtureData = require(this.fixturePath.replace(/#dataset#/, datasetSuffix));
+
+    expect(!err).to.be.true;
+    expect(data.length).to.equal(fixtureData.length);
   }
 }

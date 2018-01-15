@@ -1,7 +1,7 @@
 import { runTests } from '../src/test-utils';
 import { GenericTestFlow, QuickExactTestFlow } from '../src/test-flow';
 import { TestCase } from '../src/test-case';
-import { Dataset } from '../src/datasets';
+import { Dataset } from '../src/settings/datasets';
 
 describe('Schema supporting', () => {
   describe('for concepts', () => {

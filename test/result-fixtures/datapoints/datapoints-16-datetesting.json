@@ -1,0 +1,37 @@
+[
+  {
+    "currency": "eur",
+    "month": "2014-06",
+    "exchange_rate_usd": 1.3595
+  },
+  {
+    "currency": "eur",
+    "month": "2014-07",
+    "exchange_rate_usd": 1.3533
+  },
+  {
+    "currency": "eur",
+    "month": "2014-08",
+    "exchange_rate_usd": 1.3315
+  },
+  {
+    "currency": "eur",
+    "month": "2014-09",
+    "exchange_rate_usd": 1.2889
+  },
+  {
+    "currency": "eur",
+    "month": "2014-10",
+    "exchange_rate_usd": 1.2677
+  },
+  {
+    "currency": "eur",
+    "month": "2014-11",
+    "exchange_rate_usd": 1.2473
+  },
+  {
+    "currency": "eur",
+    "month": "2014-12",
+    "exchange_rate_usd": 1.2329
+  }
+]

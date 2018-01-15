@@ -3,8 +3,8 @@ import { nth } from 'lodash';
 import { runTests } from '../src/test-utils';
 import { ExactTestFlow, GenericTestFlow } from '../src/test-flow';
 import { TestCase } from '../src/test-case';
-import { Dataset } from '../src/datasets';
-import { readersCases } from '../src/test-utils';
+import { Dataset } from '../src/settings/datasets';
+import { readersCases } from '../src/settings/readers-cases';
 
 const expect = chai.expect;
 
@@ -12,7 +12,7 @@ describe('Basic entities supporting', () => {
   runTests([
     new TestCase()
       .forDataset(Dataset.sg)
-      .withTitle('result for #readerProvider# when plain query should be processed correctly')
+      .withTitle('plain query should be processed correctly')
       .withFixturePath('../test/result-fixtures/entities/entities-1-#dataset#.json')
       .withRequest({
         from: 'entities',
@@ -28,7 +28,7 @@ describe('Basic entities supporting', () => {
       .withFlowConstructor(GenericTestFlow),
     new TestCase()
       .forDataset(Dataset.sg)
-      .withTitle('result for #readerProvider# when plain Arabic query should be processed correctly')
+      .withTitle('plain Arabic query should be processed correctly')
       .withFixturePath('../test/result-fixtures/entities/entities-2-#dataset#.json')
       .withRequest({
         language: 'ar-SA',
@@ -45,7 +45,7 @@ describe('Basic entities supporting', () => {
       .withFlowConstructor(GenericTestFlow),
     new TestCase()
       .forDataset(Dataset.sg)
-      .withTitle('result for #readerProvider# shapes query should be processed correctly')
+      .withTitle('shapes query should be processed correctly')
       .withFixturePath('../test/result-fixtures/entities/entities-3-#dataset#.json')
       .withRequest({
         from: 'entities',
@@ -58,7 +58,7 @@ describe('Basic entities supporting', () => {
       .withFlowConstructor(GenericTestFlow),
     new TestCase()
       .forDataset(Dataset.sg)
-      .withTitle('result for #readerProvider# tags query should be processed correctly')
+      .withTitle('tags query should be processed correctly')
       .withFixturePath('../test/result-fixtures/entities/entities-4-#dataset#.json')
       .withRequest({
         from: 'entities',
@@ -71,7 +71,7 @@ describe('Basic entities supporting', () => {
       .withFlowConstructor(GenericTestFlow),
     new TestCase()
       .forDataset(Dataset.sg)
-      .withTitle('result for #readerProvider# "world_4region" query should be processed correctly')
+      .withTitle('"world_4region" query should be processed correctly')
       .withFixturePath('../test/result-fixtures/entities/entities-5-#dataset#.json')
       .withRequest({
         language: 'en',
@@ -85,7 +85,7 @@ describe('Basic entities supporting', () => {
       .withFlowConstructor(ExactTestFlow),
     new TestCase()
       .forDataset(Dataset.presentation)
-      .withTitle('result for #readerProvider# query with boolean condition should be processed correctly')
+      .withTitle('query with boolean condition should be processed correctly')
       .withFixturePath('../test/result-fixtures/entities/entities-6-#dataset#.json')
       .withRequest({
         language: 'en',
@@ -112,10 +112,10 @@ describe('Basic entities supporting', () => {
           'rank'
         ]
       })
-      .withFlowConstructor(ExactTestFlow),
+      .withFlowConstructor(GenericTestFlow),
     new TestCase()
       .forDataset(Dataset.sankey)
-      .withTitle('result for #readerProvider# query with boolean condition should be processed correctly')
+      .withTitle('query with boolean condition should be processed correctly')
       .withFixturePath('../test/result-fixtures/entities/entities-7-#dataset#.json')
       .withRequest({
         language: 'en',
@@ -135,15 +135,15 @@ describe('Basic entities supporting', () => {
           'rank'
         ]
       })
-      .withFlowConstructor(ExactTestFlow),
+      .withFlowConstructor(GenericTestFlow),
   ]);
 });
 
-describe('Additional entities supporting', () => {
+xdescribe('Additional entities supporting', () => {
   readersCases
     .filter(readerProvider => readerProvider.dataset === Dataset.presentation)
     .forEach(readerProvider => {
-      it('should filters work properly', () => {
+      it(`${readerProvider.title}: should filters work properly`, () => {
         const getRequest = where => ({
           language: 'en',
           from: 'entities',
@@ -184,10 +184,10 @@ describe('Additional entities supporting', () => {
           const EXPECTED_NON_UNSTATE_QUANTITY = 78;
           const EXPECTED_UNSTATE_LESS_QUANTITY = 23;
 
-          const allEntities = nth(results, 0);
-          const unStateEntities = nth(results, 1);
-          const nonUnStateEntities = nth(results, 2);
-          const unStateLessEntities = nth(results, 3);
+          const allEntities = <any[]>nth(results, 0);
+          const unStateEntities = <any[]>nth(results, 1);
+          const nonUnStateEntities = <any[]>nth(results, 2);
+          const unStateLessEntities = <any[]>nth(results, 3);
 
           expect(nonUnStateEntities.length).to.equal(EXPECTED_NON_UNSTATE_QUANTITY);
           expect(unStateEntities.length).to.equal(EXPECTED_UNSTATE_QUANTITY);
@@ -200,7 +200,7 @@ describe('Additional entities supporting', () => {
   readersCases
     .filter(readerProvider => readerProvider.dataset === Dataset.sg)
     .forEach(readerProvider => {
-      it('should filters work properly (an another case)', () => {
+      it(`${readerProvider.title}: should filters work properly (an another case)`, () => {
         const getRequest = where => ({
           language: 'en',
           from: 'entities',
@@ -237,9 +237,9 @@ describe('Additional entities supporting', () => {
         }));
 
         return Promise.all(actions).then(results => {
-          const allEntities = nth(results, 0);
-          const unStateEntities = nth(results, 1);
-          const nonUnStateEntities = nth(results, 2);
+          const allEntities = <any[]>nth(results, 0);
+          const unStateEntities = <any[]>nth(results, 1);
+          const nonUnStateEntities = <any[]>nth(results, 2);
 
           expect(unStateEntities.length + nonUnStateEntities.length).to.equal(allEntities.length);
         });

@@ -1,6 +1,6 @@
 import { isEmpty } from 'lodash';
 import { AbstractTestFlow } from './test-flow';
-import { Dataset } from "./datasets";
+import { Dataset } from "./settings/datasets";
 
 export class TestCase<T extends AbstractTestFlow> {
   title: string;
