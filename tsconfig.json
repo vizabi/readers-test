@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "alwaysStrict": true,
+    "sourceMap": true,
+    "noEmitHelpers": true,
+    "importHelpers": false,
+    "strictNullChecks": false,
+    "baseUrl": ".",
+    "paths": [],
+    "lib": [ "es2017"]
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

@@ -1,0 +1,1626 @@
+[
+  {
+    "geo": "afg",
+    "time": "2015",
+    "life_expectancy_years": 53.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1925,
+    "population_total": 33736494
+  },
+  {
+    "geo": "alb",
+    "time": "2015",
+    "life_expectancy_years": 78,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10620,
+    "population_total": 2923352
+  },
+  {
+    "geo": "dza",
+    "time": "2015",
+    "life_expectancy_years": 76.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 13434,
+    "population_total": 39871528
+  },
+  {
+    "geo": "and",
+    "time": "2015",
+    "life_expectancy_years": 84.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 46577,
+    "population_total": 78014
+  },
+  {
+    "geo": "ago",
+    "time": "2015",
+    "life_expectancy_years": 59.6,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7615,
+    "population_total": 27859305
+  },
+  {
+    "geo": "atg",
+    "time": "2015",
+    "life_expectancy_years": 76.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 21049,
+    "population_total": 99923
+  },
+  {
+    "geo": "arg",
+    "time": "2015",
+    "life_expectancy_years": 76.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17344,
+    "population_total": 43417765
+  },
+  {
+    "geo": "arm",
+    "time": "2015",
+    "life_expectancy_years": 74.7,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7763,
+    "population_total": 2916950
+  },
+  {
+    "geo": "abw",
+    "time": "2015",
+    "life_expectancy_years": 75.72,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 37138,
+    "population_total": 104341
+  },
+  {
+    "geo": "aus",
+    "time": "2015",
+    "life_expectancy_years": 82.3,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 44056,
+    "population_total": 23799556
+  },
+  {
+    "geo": "aut",
+    "time": "2015",
+    "life_expectancy_years": 81.3,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 44401,
+    "population_total": 8678657
+  },
+  {
+    "geo": "aze",
+    "time": "2015",
+    "life_expectancy_years": 72.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16986,
+    "population_total": 9617484
+  },
+  {
+    "geo": "bhs",
+    "time": "2015",
+    "life_expectancy_years": 73.7,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 22818,
+    "population_total": 386838
+  },
+  {
+    "geo": "bhr",
+    "time": "2015",
+    "life_expectancy_years": 79.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 44138,
+    "population_total": 1371855
+  },
+  {
+    "geo": "bgd",
+    "time": "2015",
+    "life_expectancy_years": 70.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3161,
+    "population_total": 161200886
+  },
+  {
+    "geo": "brb",
+    "time": "2015",
+    "life_expectancy_years": 75.7,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12984,
+    "population_total": 284217
+  },
+  {
+    "geo": "blr",
+    "time": "2015",
+    "life_expectancy_years": 71,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17415,
+    "population_total": 9485772
+  },
+  {
+    "geo": "bel",
+    "time": "2015",
+    "life_expectancy_years": 80.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 41240,
+    "population_total": 11287940
+  },
+  {
+    "geo": "blz",
+    "time": "2015",
+    "life_expectancy_years": 71.7,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8501,
+    "population_total": 359288
+  },
+  {
+    "geo": "ben",
+    "time": "2015",
+    "life_expectancy_years": 62.3,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1830,
+    "population_total": 10575952
+  },
+  {
+    "geo": "bmu",
+    "time": "2015",
+    "life_expectancy_years": 78.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 47081,
+    "population_total": 62003
+  },
+  {
+    "geo": "btn",
+    "time": "2015",
+    "life_expectancy_years": 72.7,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7983,
+    "population_total": 787386
+  },
+  {
+    "geo": "bol",
+    "time": "2015",
+    "life_expectancy_years": 73.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6295,
+    "population_total": 10724705
+  },
+  {
+    "geo": "bih",
+    "time": "2015",
+    "life_expectancy_years": 78.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9833,
+    "population_total": 3535961
+  },
+  {
+    "geo": "bwa",
+    "time": "2015",
+    "life_expectancy_years": 58.7,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17196,
+    "population_total": 2209197
+  },
+  {
+    "geo": "bra",
+    "time": "2015",
+    "life_expectancy_years": 74.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 15441,
+    "population_total": 205962108
+  },
+  {
+    "geo": "brn",
+    "time": "2015",
+    "life_expectancy_years": 77.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 73003,
+    "population_total": 417542
+  },
+  {
+    "geo": "bgr",
+    "time": "2015",
+    "life_expectancy_years": 74.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16371,
+    "population_total": 7177396
+  },
+  {
+    "geo": "bfa",
+    "time": "2015",
+    "life_expectancy_years": 60.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1654,
+    "population_total": 18110624
+  },
+  {
+    "geo": "bdi",
+    "time": "2015",
+    "life_expectancy_years": 61.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 777,
+    "population_total": 10199270
+  },
+  {
+    "geo": "khm",
+    "time": "2015",
+    "life_expectancy_years": 69.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3267,
+    "population_total": 15517635
+  },
+  {
+    "geo": "cmr",
+    "time": "2015",
+    "life_expectancy_years": 59.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2897,
+    "population_total": 22834522
+  },
+  {
+    "geo": "can",
+    "time": "2015",
+    "life_expectancy_years": 81.7,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 43294,
+    "population_total": 35949709
+  },
+  {
+    "geo": "cpv",
+    "time": "2015",
+    "life_expectancy_years": 72.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6514,
+    "population_total": 532913
+  },
+  {
+    "geo": "cym",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 49009,
+    "population_total": 59963
+  },
+  {
+    "geo": "caf",
+    "time": "2015",
+    "life_expectancy_years": 49.6,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 599,
+    "population_total": 4546100
+  },
+  {
+    "geo": "tcd",
+    "time": "2015",
+    "life_expectancy_years": 57.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2191,
+    "population_total": 14009413
+  },
+  {
+    "geo": "chl",
+    "time": "2015",
+    "life_expectancy_years": 79.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 22465,
+    "population_total": 17762681
+  },
+  {
+    "geo": "chn",
+    "time": "2015",
+    "life_expectancy_years": 76.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 13334,
+    "population_total": 1397028553
+  },
+  {
+    "geo": "col",
+    "time": "2015",
+    "life_expectancy_years": 78,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12761,
+    "population_total": 48228697
+  },
+  {
+    "geo": "com",
+    "time": "2015",
+    "life_expectancy_years": 68.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1472,
+    "population_total": 777424
+  },
+  {
+    "geo": "cod",
+    "time": "2015",
+    "life_expectancy_years": 60.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 809,
+    "population_total": 76196619
+  },
+  {
+    "geo": "cog",
+    "time": "2015",
+    "life_expectancy_years": 61.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6220,
+    "population_total": 4995648
+  },
+  {
+    "geo": "cri",
+    "time": "2015",
+    "life_expectancy_years": 80.3,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14132,
+    "population_total": 4807852
+  },
+  {
+    "geo": "civ",
+    "time": "2015",
+    "life_expectancy_years": 59.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3491,
+    "population_total": 23108472
+  },
+  {
+    "geo": "hrv",
+    "time": "2015",
+    "life_expectancy_years": 77.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 20260,
+    "population_total": 4236016
+  },
+  {
+    "geo": "cub",
+    "time": "2015",
+    "life_expectancy_years": 78.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 20122,
+    "population_total": 11461432
+  },
+  {
+    "geo": "cyp",
+    "time": "2015",
+    "life_expectancy_years": 81.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 29797,
+    "population_total": 1160985
+  },
+  {
+    "geo": "cze",
+    "time": "2015",
+    "life_expectancy_years": 78.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 29437,
+    "population_total": 10603762
+  },
+  {
+    "geo": "dnk",
+    "time": "2015",
+    "life_expectancy_years": 80.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 43495,
+    "population_total": 5688695
+  },
+  {
+    "geo": "dji",
+    "time": "2015",
+    "life_expectancy_years": 63.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3139,
+    "population_total": 927414
+  },
+  {
+    "geo": "dma",
+    "time": "2015",
+    "life_expectancy_years": 73.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10503,
+    "population_total": 73162
+  },
+  {
+    "geo": "dom",
+    "time": "2015",
+    "life_expectancy_years": 75.3,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12837,
+    "population_total": 10528394
+  },
+  {
+    "geo": "ecu",
+    "time": "2015",
+    "life_expectancy_years": 75.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10996,
+    "population_total": 16144368
+  },
+  {
+    "geo": "egy",
+    "time": "2015",
+    "life_expectancy_years": 71.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11031,
+    "population_total": 93778172
+  },
+  {
+    "geo": "slv",
+    "time": "2015",
+    "life_expectancy_years": 74.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7776,
+    "population_total": 6312478
+  },
+  {
+    "geo": "gnq",
+    "time": "2015",
+    "life_expectancy_years": 61,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 31087,
+    "population_total": 1175389
+  },
+  {
+    "geo": "eri",
+    "time": "2015",
+    "life_expectancy_years": 60.7,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1129,
+    "population_total": 4846976
+  },
+  {
+    "geo": "est",
+    "time": "2015",
+    "life_expectancy_years": 77.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 26812,
+    "population_total": 1315321
+  },
+  {
+    "geo": "eth",
+    "time": "2015",
+    "life_expectancy_years": 65.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1520,
+    "population_total": 99873033
+  },
+  {
+    "geo": "fji",
+    "time": "2015",
+    "life_expectancy_years": 65.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7925,
+    "population_total": 892149
+  },
+  {
+    "geo": "fin",
+    "time": "2015",
+    "life_expectancy_years": 80.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 38923,
+    "population_total": 5481966
+  },
+  {
+    "geo": "fra",
+    "time": "2015",
+    "life_expectancy_years": 81.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 37599,
+    "population_total": 64457201
+  },
+  {
+    "geo": "gab",
+    "time": "2015",
+    "life_expectancy_years": 65.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18627,
+    "population_total": 1930175
+  },
+  {
+    "geo": "gmb",
+    "time": "2015",
+    "life_expectancy_years": 68.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1644,
+    "population_total": 1977590
+  },
+  {
+    "geo": "geo",
+    "time": "2015",
+    "life_expectancy_years": 72.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7474,
+    "population_total": 3951524
+  },
+  {
+    "geo": "deu",
+    "time": "2015",
+    "life_expectancy_years": 80.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 44053,
+    "population_total": 81707789
+  },
+  {
+    "geo": "gha",
+    "time": "2015",
+    "life_expectancy_years": 65.3,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4099,
+    "population_total": 27582821
+  },
+  {
+    "geo": "grc",
+    "time": "2015",
+    "life_expectancy_years": 81,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 25430,
+    "population_total": 11217800
+  },
+  {
+    "geo": "grl",
+    "time": "2015",
+    "life_expectancy_years": 72.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 27763,
+    "population_total": 56377
+  },
+  {
+    "geo": "grd",
+    "time": "2015",
+    "life_expectancy_years": 71.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11593,
+    "population_total": 106823
+  },
+  {
+    "geo": "gtm",
+    "time": "2015",
+    "life_expectancy_years": 72.6,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7279,
+    "population_total": 16252429
+  },
+  {
+    "geo": "gin",
+    "time": "2015",
+    "life_expectancy_years": 59.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1225,
+    "population_total": 12091533
+  },
+  {
+    "geo": "gnb",
+    "time": "2015",
+    "life_expectancy_years": 55.6,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1386,
+    "population_total": 1770526
+  },
+  {
+    "geo": "guy",
+    "time": "2015",
+    "life_expectancy_years": 66.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6816,
+    "population_total": 768514
+  },
+  {
+    "geo": "hti",
+    "time": "2015",
+    "life_expectancy_years": 64.3,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1710,
+    "population_total": 10711061
+  },
+  {
+    "geo": "hnd",
+    "time": "2015",
+    "life_expectancy_years": 73,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4270,
+    "population_total": 8960829
+  },
+  {
+    "geo": "hkg",
+    "time": "2015",
+    "life_expectancy_years": 83.73,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 53874,
+    "population_total": 7245701
+  },
+  {
+    "geo": "hun",
+    "time": "2015",
+    "life_expectancy_years": 76.7,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 24200,
+    "population_total": 9783925
+  },
+  {
+    "geo": "isl",
+    "time": "2015",
+    "life_expectancy_years": 83.3,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 42182,
+    "population_total": 330243
+  },
+  {
+    "geo": "ind",
+    "time": "2015",
+    "life_expectancy_years": 67.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5903,
+    "population_total": 1309053980
+  },
+  {
+    "geo": "idn",
+    "time": "2015",
+    "life_expectancy_years": 71.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10504,
+    "population_total": 258162113
+  },
+  {
+    "geo": "irn",
+    "time": "2015",
+    "life_expectancy_years": 74.6,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 15573,
+    "population_total": 79360487
+  },
+  {
+    "geo": "irq",
+    "time": "2015",
+    "life_expectancy_years": 67.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14646,
+    "population_total": 36115649
+  },
+  {
+    "geo": "irl",
+    "time": "2015",
+    "life_expectancy_years": 81.7,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 47758,
+    "population_total": 4700107
+  },
+  {
+    "geo": "isr",
+    "time": "2015",
+    "life_expectancy_years": 82.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 31590,
+    "population_total": 8064547
+  },
+  {
+    "geo": "ita",
+    "time": "2015",
+    "life_expectancy_years": 82.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 33297,
+    "population_total": 59504212
+  },
+  {
+    "geo": "jam",
+    "time": "2015",
+    "life_expectancy_years": 75,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8606,
+    "population_total": 2871934
+  },
+  {
+    "geo": "jpn",
+    "time": "2015",
+    "life_expectancy_years": 83.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 36162,
+    "population_total": 127974958
+  },
+  {
+    "geo": "jor",
+    "time": "2015",
+    "life_expectancy_years": 78.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11752,
+    "population_total": 9159302
+  },
+  {
+    "geo": "kaz",
+    "time": "2015",
+    "life_expectancy_years": 70.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23468,
+    "population_total": 17749648
+  },
+  {
+    "geo": "ken",
+    "time": "2015",
+    "life_expectancy_years": 65.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2898,
+    "population_total": 47236259
+  },
+  {
+    "geo": "kir",
+    "time": "2015",
+    "life_expectancy_years": 63,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1824,
+    "population_total": 112407
+  },
+  {
+    "geo": "prk",
+    "time": "2015",
+    "life_expectancy_years": 72.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1390,
+    "population_total": 25243917
+  },
+  {
+    "geo": "kor",
+    "time": "2015",
+    "life_expectancy_years": 81,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 34644,
+    "population_total": 50593662
+  },
+  {
+    "geo": "kos",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9021,
+    "population_total": null
+  },
+  {
+    "geo": "kwt",
+    "time": "2015",
+    "life_expectancy_years": 80.3,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 82633,
+    "population_total": 3935794
+  },
+  {
+    "geo": "kgz",
+    "time": "2015",
+    "life_expectancy_years": 69.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3245,
+    "population_total": 5865401
+  },
+  {
+    "geo": "lao",
+    "time": "2015",
+    "life_expectancy_years": 67.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5212,
+    "population_total": 6663967
+  },
+  {
+    "geo": "lva",
+    "time": "2015",
+    "life_expectancy_years": 75.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23282,
+    "population_total": 1992663
+  },
+  {
+    "geo": "lbn",
+    "time": "2015",
+    "life_expectancy_years": 78.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17050,
+    "population_total": 5851479
+  },
+  {
+    "geo": "lso",
+    "time": "2015",
+    "life_expectancy_years": 47.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2598,
+    "population_total": 2174645
+  },
+  {
+    "geo": "lbr",
+    "time": "2015",
+    "life_expectancy_years": 63.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 958,
+    "population_total": 4499621
+  },
+  {
+    "geo": "lby",
+    "time": "2015",
+    "life_expectancy_years": 74.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17261,
+    "population_total": 6234955
+  },
+  {
+    "geo": "ltu",
+    "time": "2015",
+    "life_expectancy_years": 75.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 26665,
+    "population_total": 2931926
+  },
+  {
+    "geo": "lux",
+    "time": "2015",
+    "life_expectancy_years": 82.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 88314,
+    "population_total": 566741
+  },
+  {
+    "geo": "mac",
+    "time": "2015",
+    "life_expectancy_years": 80.82,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 148374,
+    "population_total": 600942
+  },
+  {
+    "geo": "mkd",
+    "time": "2015",
+    "life_expectancy_years": 76.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12547,
+    "population_total": 2079308
+  },
+  {
+    "geo": "mdg",
+    "time": "2015",
+    "life_expectancy_years": 63.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1400,
+    "population_total": 24234088
+  },
+  {
+    "geo": "mwi",
+    "time": "2015",
+    "life_expectancy_years": 60.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 799,
+    "population_total": 17573607
+  },
+  {
+    "geo": "mys",
+    "time": "2015",
+    "life_expectancy_years": 75.3,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 24320,
+    "population_total": 30723155
+  },
+  {
+    "geo": "mdv",
+    "time": "2015",
+    "life_expectancy_years": 80,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14408,
+    "population_total": 418403
+  },
+  {
+    "geo": "mli",
+    "time": "2015",
+    "life_expectancy_years": 60.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1684,
+    "population_total": 17467905
+  },
+  {
+    "geo": "mlt",
+    "time": "2015",
+    "life_expectancy_years": 82.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 30265,
+    "population_total": 427616
+  },
+  {
+    "geo": "mhl",
+    "time": "2015",
+    "life_expectancy_years": 66.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3661,
+    "population_total": 52994
+  },
+  {
+    "geo": "mrt",
+    "time": "2015",
+    "life_expectancy_years": 69.7,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3877,
+    "population_total": 4182341
+  },
+  {
+    "geo": "mus",
+    "time": "2015",
+    "life_expectancy_years": 74.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18350,
+    "population_total": 1259456
+  },
+  {
+    "geo": "mex",
+    "time": "2015",
+    "life_expectancy_years": 75.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16850,
+    "population_total": 125890949
+  },
+  {
+    "geo": "fsm",
+    "time": "2015",
+    "life_expectancy_years": 68.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3510,
+    "population_total": 104433
+  },
+  {
+    "geo": "mda",
+    "time": "2015",
+    "life_expectancy_years": 73.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4896,
+    "population_total": 4065980
+  },
+  {
+    "geo": "mco",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 63472,
+    "population_total": 38307
+  },
+  {
+    "geo": "mng",
+    "time": "2015",
+    "life_expectancy_years": 67.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11819,
+    "population_total": 2976877
+  },
+  {
+    "geo": "mne",
+    "time": "2015",
+    "life_expectancy_years": 77.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14833,
+    "population_total": 628178
+  },
+  {
+    "geo": "mar",
+    "time": "2015",
+    "life_expectancy_years": 74.6,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7319,
+    "population_total": 34803322
+  },
+  {
+    "geo": "moz",
+    "time": "2015",
+    "life_expectancy_years": 57.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1176,
+    "population_total": 28010691
+  },
+  {
+    "geo": "mmr",
+    "time": "2015",
+    "life_expectancy_years": 68,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4012,
+    "population_total": 52403669
+  },
+  {
+    "geo": "nam",
+    "time": "2015",
+    "life_expectancy_years": 64.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10040,
+    "population_total": 2425561
+  },
+  {
+    "geo": "nru",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16686,
+    "population_total": 11260
+  },
+  {
+    "geo": "npl",
+    "time": "2015",
+    "life_expectancy_years": 69.7,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2352,
+    "population_total": 28656282
+  },
+  {
+    "geo": "nld",
+    "time": "2015",
+    "life_expectancy_years": 81.3,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 45784,
+    "population_total": 16938499
+  },
+  {
+    "geo": "nzl",
+    "time": "2015",
+    "life_expectancy_years": 81.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 34186,
+    "population_total": 4614532
+  },
+  {
+    "geo": "nic",
+    "time": "2015",
+    "life_expectancy_years": 78,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4712,
+    "population_total": 6082035
+  },
+  {
+    "geo": "ner",
+    "time": "2015",
+    "life_expectancy_years": 61,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 943,
+    "population_total": 19896965
+  },
+  {
+    "geo": "nga",
+    "time": "2015",
+    "life_expectancy_years": 64.6,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5727,
+    "population_total": 181181744
+  },
+  {
+    "geo": "nor",
+    "time": "2015",
+    "life_expectancy_years": 82,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 64304,
+    "population_total": 5199836
+  },
+  {
+    "geo": "omn",
+    "time": "2015",
+    "life_expectancy_years": 77.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 48226,
+    "population_total": 4199810
+  },
+  {
+    "geo": "pak",
+    "time": "2015",
+    "life_expectancy_years": 65.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4743,
+    "population_total": 189380513
+  },
+  {
+    "geo": "plw",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14315,
+    "population_total": 21288
+  },
+  {
+    "geo": "pan",
+    "time": "2015",
+    "life_expectancy_years": 78.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 20485,
+    "population_total": 3969249
+  },
+  {
+    "geo": "png",
+    "time": "2015",
+    "life_expectancy_years": 60.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2529,
+    "population_total": 7919825
+  },
+  {
+    "geo": "pry",
+    "time": "2015",
+    "life_expectancy_years": 74.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8219,
+    "population_total": 6639119
+  },
+  {
+    "geo": "per",
+    "time": "2015",
+    "life_expectancy_years": 79.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11903,
+    "population_total": 31376671
+  },
+  {
+    "geo": "phl",
+    "time": "2015",
+    "life_expectancy_years": 71,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6876,
+    "population_total": 101716359
+  },
+  {
+    "geo": "pol",
+    "time": "2015",
+    "life_expectancy_years": 77.6,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 24787,
+    "population_total": 38265226
+  },
+  {
+    "geo": "prt",
+    "time": "2015",
+    "life_expectancy_years": 80.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 26437,
+    "population_total": 10418473
+  },
+  {
+    "geo": "pri",
+    "time": "2015",
+    "life_expectancy_years": 78.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 33604,
+    "population_total": 3673728
+  },
+  {
+    "geo": "qat",
+    "time": "2015",
+    "life_expectancy_years": 79.7,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 132877,
+    "population_total": 2481539
+  },
+  {
+    "geo": "rou",
+    "time": "2015",
+    "life_expectancy_years": 75.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 19203,
+    "population_total": 19876621
+  },
+  {
+    "geo": "rus",
+    "time": "2015",
+    "life_expectancy_years": 71,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23038,
+    "population_total": 143888004
+  },
+  {
+    "geo": "rwa",
+    "time": "2015",
+    "life_expectancy_years": 65.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1549,
+    "population_total": 11629553
+  },
+  {
+    "geo": "kna",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 21896,
+    "population_total": 54288
+  },
+  {
+    "geo": "lca",
+    "time": "2015",
+    "life_expectancy_years": 74.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9997,
+    "population_total": 177206
+  },
+  {
+    "geo": "vct",
+    "time": "2015",
+    "life_expectancy_years": 71.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10435,
+    "population_total": 109455
+  },
+  {
+    "geo": "wsm",
+    "time": "2015",
+    "life_expectancy_years": 73.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5558,
+    "population_total": 193759
+  },
+  {
+    "geo": "smr",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 40075,
+    "population_total": 32960
+  },
+  {
+    "geo": "stp",
+    "time": "2015",
+    "life_expectancy_years": 68,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3003,
+    "population_total": 195553
+  },
+  {
+    "geo": "sau",
+    "time": "2015",
+    "life_expectancy_years": 79.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 52469,
+    "population_total": 31557144
+  },
+  {
+    "geo": "sen",
+    "time": "2015",
+    "life_expectancy_years": 65.3,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2251,
+    "population_total": 14976994
+  },
+  {
+    "geo": "srb",
+    "time": "2015",
+    "life_expectancy_years": 76.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12908,
+    "population_total": 8851280
+  },
+  {
+    "geo": "syc",
+    "time": "2015",
+    "life_expectancy_years": 74.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 25684,
+    "population_total": 93742
+  },
+  {
+    "geo": "sle",
+    "time": "2015",
+    "life_expectancy_years": 57.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2085,
+    "population_total": 7237025
+  },
+  {
+    "geo": "sgp",
+    "time": "2015",
+    "life_expectancy_years": 82,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 80794,
+    "population_total": 5535262
+  },
+  {
+    "geo": "svk",
+    "time": "2015",
+    "life_expectancy_years": 77.6,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 27204,
+    "population_total": 5439318
+  },
+  {
+    "geo": "svn",
+    "time": "2015",
+    "life_expectancy_years": 80.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 28550,
+    "population_total": 2074788
+  },
+  {
+    "geo": "slb",
+    "time": "2015",
+    "life_expectancy_years": 64,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2047,
+    "population_total": 587482
+  },
+  {
+    "geo": "som",
+    "time": "2015",
+    "life_expectancy_years": 54.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 624,
+    "population_total": 13908129
+  },
+  {
+    "geo": "zaf",
+    "time": "2015",
+    "life_expectancy_years": 61.3,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12509,
+    "population_total": 55291225
+  },
+  {
+    "geo": "esp",
+    "time": "2015",
+    "life_expectancy_years": 82.6,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 32979,
+    "population_total": 46397664
+  },
+  {
+    "geo": "lka",
+    "time": "2015",
+    "life_expectancy_years": 77.6,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10624,
+    "population_total": 20714040
+  },
+  {
+    "geo": "sdn",
+    "time": "2015",
+    "life_expectancy_years": 67.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3975,
+    "population_total": 38647803
+  },
+  {
+    "geo": "sur",
+    "time": "2015",
+    "life_expectancy_years": 72,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17125,
+    "population_total": 553208
+  },
+  {
+    "geo": "swz",
+    "time": "2015",
+    "life_expectancy_years": 51.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6095,
+    "population_total": 1319011
+  },
+  {
+    "geo": "swe",
+    "time": "2015",
+    "life_expectancy_years": 82.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 44892,
+    "population_total": 9763565
+  },
+  {
+    "geo": "che",
+    "time": "2015",
+    "life_expectancy_years": 83,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 56118,
+    "population_total": 8319769
+  },
+  {
+    "geo": "syr",
+    "time": "2015",
+    "life_expectancy_years": 68.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3500,
+    "population_total": 18734987
+  },
+  {
+    "geo": "twn",
+    "time": "2015",
+    "life_expectancy_years": 79.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 42948,
+    "population_total": 23212000
+  },
+  {
+    "geo": "tjk",
+    "time": "2015",
+    "life_expectancy_years": 72.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2582,
+    "population_total": 8548651
+  },
+  {
+    "geo": "tza",
+    "time": "2015",
+    "life_expectancy_years": 64.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2571,
+    "population_total": 53879957
+  },
+  {
+    "geo": "tha",
+    "time": "2015",
+    "life_expectancy_years": 74.7,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14512,
+    "population_total": 68657600
+  },
+  {
+    "geo": "tls",
+    "time": "2015",
+    "life_expectancy_years": 72.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2086,
+    "population_total": 1240977
+  },
+  {
+    "geo": "tgo",
+    "time": "2015",
+    "life_expectancy_years": 61.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1433,
+    "population_total": 7416802
+  },
+  {
+    "geo": "ton",
+    "time": "2015",
+    "life_expectancy_years": 71.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5069,
+    "population_total": 106364
+  },
+  {
+    "geo": "tto",
+    "time": "2015",
+    "life_expectancy_years": 72.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 30113,
+    "population_total": 1360092
+  },
+  {
+    "geo": "tun",
+    "time": "2015",
+    "life_expectancy_years": 77.6,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11126,
+    "population_total": 11273661
+  },
+  {
+    "geo": "tur",
+    "time": "2015",
+    "life_expectancy_years": 79.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 19360,
+    "population_total": 78271472
+  },
+  {
+    "geo": "tkm",
+    "time": "2015",
+    "life_expectancy_years": 70,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 15865,
+    "population_total": 5565284
+  },
+  {
+    "geo": "tca",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 20068,
+    "population_total": 34339
+  },
+  {
+    "geo": "tuv",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3622,
+    "population_total": 11001
+  },
+  {
+    "geo": "uga",
+    "time": "2015",
+    "life_expectancy_years": 61.3,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1680,
+    "population_total": 40144870
+  },
+  {
+    "geo": "ukr",
+    "time": "2015",
+    "life_expectancy_years": 71.5,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8449,
+    "population_total": 44657704
+  },
+  {
+    "geo": "are",
+    "time": "2015",
+    "life_expectancy_years": 75.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 60749,
+    "population_total": 9154302
+  },
+  {
+    "geo": "gbr",
+    "time": "2015",
+    "life_expectancy_years": 81,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 38225,
+    "population_total": 65397080
+  },
+  {
+    "geo": "usa",
+    "time": "2015",
+    "life_expectancy_years": 79.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 53354,
+    "population_total": 319929162
+  },
+  {
+    "geo": "ury",
+    "time": "2015",
+    "life_expectancy_years": 76.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 20438,
+    "population_total": 3431552
+  },
+  {
+    "geo": "uzb",
+    "time": "2015",
+    "life_expectancy_years": 71.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5598,
+    "population_total": 30976021
+  },
+  {
+    "geo": "vut",
+    "time": "2015",
+    "life_expectancy_years": 64.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2912,
+    "population_total": 264603
+  },
+  {
+    "geo": "ven",
+    "time": "2015",
+    "life_expectancy_years": 74.8,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 15753,
+    "population_total": 31155134
+  },
+  {
+    "geo": "pse",
+    "time": "2015",
+    "life_expectancy_years": 74.6,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4319,
+    "population_total": 4662884
+  },
+  {
+    "geo": "vnm",
+    "time": "2015",
+    "life_expectancy_years": 75.4,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5623,
+    "population_total": 93571567
+  },
+  {
+    "geo": "yem",
+    "time": "2015",
+    "life_expectancy_years": 66,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3887,
+    "population_total": 26916207
+  },
+  {
+    "geo": "zmb",
+    "time": "2015",
+    "life_expectancy_years": 56.7,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4034,
+    "population_total": 16100587
+  },
+  {
+    "geo": "zwe",
+    "time": "2015",
+    "life_expectancy_years": 59.3,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1801,
+    "population_total": 15777451
+  },
+  {
+    "geo": "ssd",
+    "time": "2015",
+    "life_expectancy_years": 56.1,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3047,
+    "population_total": 11882136
+  },
+  {
+    "geo": "asm",
+    "time": "2015",
+    "life_expectancy_years": 72.9,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 55537
+  },
+  {
+    "geo": "chanisl",
+    "time": "2015",
+    "life_expectancy_years": 80.61,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 163758
+  },
+  {
+    "geo": "guf",
+    "time": "2015",
+    "life_expectancy_years": 77.58,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 268691
+  },
+  {
+    "geo": "pyf",
+    "time": "2015",
+    "life_expectancy_years": 76.69,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 277690
+  },
+  {
+    "geo": "glp",
+    "time": "2015",
+    "life_expectancy_years": 81.41,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 450418
+  },
+  {
+    "geo": "gum",
+    "time": "2015",
+    "life_expectancy_years": 71.7,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 161797
+  },
+  {
+    "geo": "mtq",
+    "time": "2015",
+    "life_expectancy_years": 81.86,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 385842
+  },
+  {
+    "geo": "myt",
+    "time": "2015",
+    "life_expectancy_years": 79.65,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 240020
+  },
+  {
+    "geo": "ant",
+    "time": "2015",
+    "life_expectancy_years": 77.14,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 208023
+  },
+  {
+    "geo": "ncl",
+    "time": "2015",
+    "life_expectancy_years": 76.74,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 269091
+  },
+  {
+    "geo": "mnp",
+    "time": "2015",
+    "life_expectancy_years": 76.2,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 54816
+  },
+  {
+    "geo": "reu",
+    "time": "2015",
+    "life_expectancy_years": 80.12,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 863363
+  },
+  {
+    "geo": "esh",
+    "time": "2015",
+    "life_expectancy_years": 68.3,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 526216
+  },
+  {
+    "geo": "vir",
+    "time": "2015",
+    "life_expectancy_years": 80.6,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 104977
+  },
+  {
+    "geo": "aia",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 14611
+  },
+  {
+    "geo": "cok",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 17449
+  },
+  {
+    "geo": "flk",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 2898
+  },
+  {
+    "geo": "fro",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 48965
+  },
+  {
+    "geo": "gbm",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 83167
+  },
+  {
+    "geo": "gib",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 34228
+  },
+  {
+    "geo": "hos",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 803
+  },
+  {
+    "geo": "lie",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 37403
+  },
+  {
+    "geo": "msr",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 5124
+  },
+  {
+    "geo": "niu",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 1629
+  },
+  {
+    "geo": "shn",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 4034
+  },
+  {
+    "geo": "spm",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 6290
+  },
+  {
+    "geo": "tkl",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 1252
+  },
+  {
+    "geo": "vgb",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 30113
+  },
+  {
+    "geo": "wlf",
+    "time": "2015",
+    "life_expectancy_years": null,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "population_total": 12066
+  }
+]

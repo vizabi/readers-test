@@ -1,0 +1,1514 @@
+[
+  {
+    "geo": "ago",
+    "time": "1800",
+    "sg_population": 1567028,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 618,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1801",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 620,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1802",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 623,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1803",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 626,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1804",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 628,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1805",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 631,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1806",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 634,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1807",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 637,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1808",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 640,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1809",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 642,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1810",
+    "sg_population": 1567028,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 645,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1811",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 648,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1812",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 651,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1813",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 654,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1814",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 657,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1815",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 660,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1816",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 662,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1817",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 665,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1818",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 668,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1819",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 671,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1820",
+    "sg_population": 1597530,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 674,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1821",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 677,
+    "sg_gini": 48.6
+  },
+  {
+    "geo": "ago",
+    "time": "1822",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 680,
+    "sg_gini": 48.4
+  },
+  {
+    "geo": "ago",
+    "time": "1823",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 683,
+    "sg_gini": 48.1
+  },
+  {
+    "geo": "ago",
+    "time": "1824",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 686,
+    "sg_gini": 47.8
+  },
+  {
+    "geo": "ago",
+    "time": "1825",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 689,
+    "sg_gini": 47.5
+  },
+  {
+    "geo": "ago",
+    "time": "1826",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 692,
+    "sg_gini": 47.2
+  },
+  {
+    "geo": "ago",
+    "time": "1827",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 695,
+    "sg_gini": 46.9
+  },
+  {
+    "geo": "ago",
+    "time": "1828",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 698,
+    "sg_gini": 46.7
+  },
+  {
+    "geo": "ago",
+    "time": "1829",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 701,
+    "sg_gini": 46.4
+  },
+  {
+    "geo": "ago",
+    "time": "1830",
+    "sg_population": 1686390,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 704,
+    "sg_gini": 46.1
+  },
+  {
+    "geo": "ago",
+    "time": "1831",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 708,
+    "sg_gini": 45.8
+  },
+  {
+    "geo": "ago",
+    "time": "1832",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 711,
+    "sg_gini": 45.5
+  },
+  {
+    "geo": "ago",
+    "time": "1833",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 714,
+    "sg_gini": 45.2
+  },
+  {
+    "geo": "ago",
+    "time": "1834",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 717,
+    "sg_gini": 44.9
+  },
+  {
+    "geo": "ago",
+    "time": "1835",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 720,
+    "sg_gini": 44.7
+  },
+  {
+    "geo": "ago",
+    "time": "1836",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 723,
+    "sg_gini": 44.4
+  },
+  {
+    "geo": "ago",
+    "time": "1837",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 726,
+    "sg_gini": 44.1
+  },
+  {
+    "geo": "ago",
+    "time": "1838",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 730,
+    "sg_gini": 43.8
+  },
+  {
+    "geo": "ago",
+    "time": "1839",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 733,
+    "sg_gini": 43.5
+  },
+  {
+    "geo": "ago",
+    "time": "1840",
+    "sg_population": 1813100,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 736,
+    "sg_gini": 43.2
+  },
+  {
+    "geo": "ago",
+    "time": "1841",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 739,
+    "sg_gini": 42.9
+  },
+  {
+    "geo": "ago",
+    "time": "1842",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 743,
+    "sg_gini": 42.7
+  },
+  {
+    "geo": "ago",
+    "time": "1843",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 746,
+    "sg_gini": 42.4
+  },
+  {
+    "geo": "ago",
+    "time": "1844",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 749,
+    "sg_gini": 42.1
+  },
+  {
+    "geo": "ago",
+    "time": "1845",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 752,
+    "sg_gini": 41.8
+  },
+  {
+    "geo": "ago",
+    "time": "1846",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 756,
+    "sg_gini": 41.5
+  },
+  {
+    "geo": "ago",
+    "time": "1847",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 759,
+    "sg_gini": 41.2
+  },
+  {
+    "geo": "ago",
+    "time": "1848",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 762,
+    "sg_gini": 41
+  },
+  {
+    "geo": "ago",
+    "time": "1849",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 766,
+    "sg_gini": 40.7
+  },
+  {
+    "geo": "ago",
+    "time": "1850",
+    "sg_population": 1949329,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 769,
+    "sg_gini": 40.4
+  },
+  {
+    "geo": "ago",
+    "time": "1851",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 773,
+    "sg_gini": 40.1
+  },
+  {
+    "geo": "ago",
+    "time": "1852",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 776,
+    "sg_gini": 39.8
+  },
+  {
+    "geo": "ago",
+    "time": "1853",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 779,
+    "sg_gini": 39.5
+  },
+  {
+    "geo": "ago",
+    "time": "1854",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 783,
+    "sg_gini": 39.2
+  },
+  {
+    "geo": "ago",
+    "time": "1855",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 786,
+    "sg_gini": 39
+  },
+  {
+    "geo": "ago",
+    "time": "1856",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 790,
+    "sg_gini": 38.7
+  },
+  {
+    "geo": "ago",
+    "time": "1857",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 793,
+    "sg_gini": 38.4
+  },
+  {
+    "geo": "ago",
+    "time": "1858",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 797,
+    "sg_gini": 38.1
+  },
+  {
+    "geo": "ago",
+    "time": "1859",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 800,
+    "sg_gini": 37.8
+  },
+  {
+    "geo": "ago",
+    "time": "1860",
+    "sg_population": 2110747,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 804,
+    "sg_gini": 37.5
+  },
+  {
+    "geo": "ago",
+    "time": "1861",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 807,
+    "sg_gini": 37.2
+  },
+  {
+    "geo": "ago",
+    "time": "1862",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 811,
+    "sg_gini": 37
+  },
+  {
+    "geo": "ago",
+    "time": "1863",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 814,
+    "sg_gini": 36.7
+  },
+  {
+    "geo": "ago",
+    "time": "1864",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 818,
+    "sg_gini": 36.4
+  },
+  {
+    "geo": "ago",
+    "time": "1865",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 822,
+    "sg_gini": 36.1
+  },
+  {
+    "geo": "ago",
+    "time": "1866",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 825,
+    "sg_gini": 35.8
+  },
+  {
+    "geo": "ago",
+    "time": "1867",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 829,
+    "sg_gini": 35.5
+  },
+  {
+    "geo": "ago",
+    "time": "1868",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 832,
+    "sg_gini": 35.2
+  },
+  {
+    "geo": "ago",
+    "time": "1869",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 836,
+    "sg_gini": 35
+  },
+  {
+    "geo": "ago",
+    "time": "1870",
+    "sg_population": 2285417,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 840,
+    "sg_gini": 34.7
+  },
+  {
+    "geo": "ago",
+    "time": "1871",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 844,
+    "sg_gini": 34.4
+  },
+  {
+    "geo": "ago",
+    "time": "1872",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 847,
+    "sg_gini": 34.1
+  },
+  {
+    "geo": "ago",
+    "time": "1873",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 851,
+    "sg_gini": 33.8
+  },
+  {
+    "geo": "ago",
+    "time": "1874",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 855,
+    "sg_gini": 33.5
+  },
+  {
+    "geo": "ago",
+    "time": "1875",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 858,
+    "sg_gini": 33.3
+  },
+  {
+    "geo": "ago",
+    "time": "1876",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 862,
+    "sg_gini": 33
+  },
+  {
+    "geo": "ago",
+    "time": "1877",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 866,
+    "sg_gini": 32.7
+  },
+  {
+    "geo": "ago",
+    "time": "1878",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 870,
+    "sg_gini": 32.4
+  },
+  {
+    "geo": "ago",
+    "time": "1879",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 874,
+    "sg_gini": 32.1
+  },
+  {
+    "geo": "ago",
+    "time": "1880",
+    "sg_population": 2473597,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 878,
+    "sg_gini": 31.8
+  },
+  {
+    "geo": "ago",
+    "time": "1881",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 881,
+    "sg_gini": 31.5
+  },
+  {
+    "geo": "ago",
+    "time": "1882",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 885,
+    "sg_gini": 31.3
+  },
+  {
+    "geo": "ago",
+    "time": "1883",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 889,
+    "sg_gini": 31
+  },
+  {
+    "geo": "ago",
+    "time": "1884",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 893,
+    "sg_gini": 30.7
+  },
+  {
+    "geo": "ago",
+    "time": "1885",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 897,
+    "sg_gini": 30.4
+  },
+  {
+    "geo": "ago",
+    "time": "1886",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 901,
+    "sg_gini": 30.1
+  },
+  {
+    "geo": "ago",
+    "time": "1887",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 905,
+    "sg_gini": 29.8
+  },
+  {
+    "geo": "ago",
+    "time": "1888",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 909,
+    "sg_gini": 29.5
+  },
+  {
+    "geo": "ago",
+    "time": "1889",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 913,
+    "sg_gini": 29.3
+  },
+  {
+    "geo": "ago",
+    "time": "1890",
+    "sg_population": 2677047,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 917,
+    "sg_gini": 29
+  },
+  {
+    "geo": "ago",
+    "time": "1891",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 921,
+    "sg_gini": 29.6
+  },
+  {
+    "geo": "ago",
+    "time": "1892",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 925,
+    "sg_gini": 30.2
+  },
+  {
+    "geo": "ago",
+    "time": "1893",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 929,
+    "sg_gini": 30.8
+  },
+  {
+    "geo": "ago",
+    "time": "1894",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 933,
+    "sg_gini": 31.4
+  },
+  {
+    "geo": "ago",
+    "time": "1895",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 937,
+    "sg_gini": 31.9
+  },
+  {
+    "geo": "ago",
+    "time": "1896",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 941,
+    "sg_gini": 32.5
+  },
+  {
+    "geo": "ago",
+    "time": "1897",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 946,
+    "sg_gini": 33.1
+  },
+  {
+    "geo": "ago",
+    "time": "1898",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 950,
+    "sg_gini": 33.7
+  },
+  {
+    "geo": "ago",
+    "time": "1899",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 954,
+    "sg_gini": 34.3
+  },
+  {
+    "geo": "ago",
+    "time": "1900",
+    "sg_population": 2898155,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 958,
+    "sg_gini": 34.9
+  },
+  {
+    "geo": "ago",
+    "time": "1901",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 962,
+    "sg_gini": 35.5
+  },
+  {
+    "geo": "ago",
+    "time": "1902",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 967,
+    "sg_gini": 36.1
+  },
+  {
+    "geo": "ago",
+    "time": "1903",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 971,
+    "sg_gini": 36.7
+  },
+  {
+    "geo": "ago",
+    "time": "1904",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 975,
+    "sg_gini": 37.3
+  },
+  {
+    "geo": "ago",
+    "time": "1905",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 979,
+    "sg_gini": 37.9
+  },
+  {
+    "geo": "ago",
+    "time": "1906",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 984,
+    "sg_gini": 38.5
+  },
+  {
+    "geo": "ago",
+    "time": "1907",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 988,
+    "sg_gini": 39.1
+  },
+  {
+    "geo": "ago",
+    "time": "1908",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 992,
+    "sg_gini": 39.7
+  },
+  {
+    "geo": "ago",
+    "time": "1909",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 997,
+    "sg_gini": 40.3
+  },
+  {
+    "geo": "ago",
+    "time": "1910",
+    "sg_population": 3136718,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1001,
+    "sg_gini": 40.9
+  },
+  {
+    "geo": "ago",
+    "time": "1911",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1006,
+    "sg_gini": 41.5
+  },
+  {
+    "geo": "ago",
+    "time": "1912",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1010,
+    "sg_gini": 42.2
+  },
+  {
+    "geo": "ago",
+    "time": "1913",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1014,
+    "sg_gini": 42.8
+  },
+  {
+    "geo": "ago",
+    "time": "1914",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1045,
+    "sg_gini": 43.4
+  },
+  {
+    "geo": "ago",
+    "time": "1915",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1076,
+    "sg_gini": 44.1
+  },
+  {
+    "geo": "ago",
+    "time": "1916",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1108,
+    "sg_gini": 44.7
+  },
+  {
+    "geo": "ago",
+    "time": "1917",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1141,
+    "sg_gini": 45.4
+  },
+  {
+    "geo": "ago",
+    "time": "1918",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1174,
+    "sg_gini": 46
+  },
+  {
+    "geo": "ago",
+    "time": "1919",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1209,
+    "sg_gini": 46.6
+  },
+  {
+    "geo": "ago",
+    "time": "1920",
+    "sg_population": 3387663,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1245,
+    "sg_gini": 47.3
+  },
+  {
+    "geo": "ago",
+    "time": "1921",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1284,
+    "sg_gini": 47.9
+  },
+  {
+    "geo": "ago",
+    "time": "1922",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1324,
+    "sg_gini": 48.6
+  },
+  {
+    "geo": "ago",
+    "time": "1923",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1366,
+    "sg_gini": 49.2
+  },
+  {
+    "geo": "ago",
+    "time": "1924",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1408,
+    "sg_gini": 49.9
+  },
+  {
+    "geo": "ago",
+    "time": "1925",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1452,
+    "sg_gini": 50.5
+  },
+  {
+    "geo": "ago",
+    "time": "1926",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1498,
+    "sg_gini": 51.1
+  },
+  {
+    "geo": "ago",
+    "time": "1927",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1544,
+    "sg_gini": 51.8
+  },
+  {
+    "geo": "ago",
+    "time": "1928",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1593,
+    "sg_gini": 52.4
+  },
+  {
+    "geo": "ago",
+    "time": "1929",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1642,
+    "sg_gini": 53.1
+  },
+  {
+    "geo": "ago",
+    "time": "1930",
+    "sg_population": 3642200,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1693,
+    "sg_gini": 52.8
+  },
+  {
+    "geo": "ago",
+    "time": "1931",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1746,
+    "sg_gini": 52.6
+  },
+  {
+    "geo": "ago",
+    "time": "1932",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1801,
+    "sg_gini": 52.4
+  },
+  {
+    "geo": "ago",
+    "time": "1933",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1857,
+    "sg_gini": 52.2
+  },
+  {
+    "geo": "ago",
+    "time": "1934",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1915,
+    "sg_gini": 52
+  },
+  {
+    "geo": "ago",
+    "time": "1935",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 1974,
+    "sg_gini": 51.8
+  },
+  {
+    "geo": "ago",
+    "time": "1936",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 2036,
+    "sg_gini": 51.5
+  },
+  {
+    "geo": "ago",
+    "time": "1937",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 2099,
+    "sg_gini": 51.3
+  },
+  {
+    "geo": "ago",
+    "time": "1938",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 2164,
+    "sg_gini": 51.1
+  },
+  {
+    "geo": "ago",
+    "time": "1939",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 2232,
+    "sg_gini": 50.9
+  },
+  {
+    "geo": "ago",
+    "time": "1940",
+    "sg_population": 3920011,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 2301,
+    "sg_gini": 50.7
+  },
+  {
+    "geo": "ago",
+    "time": "1941",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 2373,
+    "sg_gini": 50.4
+  },
+  {
+    "geo": "ago",
+    "time": "1942",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 2447,
+    "sg_gini": 50.2
+  },
+  {
+    "geo": "ago",
+    "time": "1943",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 2523,
+    "sg_gini": 50
+  },
+  {
+    "geo": "ago",
+    "time": "1944",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 2601,
+    "sg_gini": 49.8
+  },
+  {
+    "geo": "ago",
+    "time": "1945",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 2682,
+    "sg_gini": 49.6
+  },
+  {
+    "geo": "ago",
+    "time": "1946",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 2765,
+    "sg_gini": 49.4
+  },
+  {
+    "geo": "ago",
+    "time": "1947",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 2851,
+    "sg_gini": 49.1
+  },
+  {
+    "geo": "ago",
+    "time": "1948",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 2940,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1949",
+    "sg_population": null,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3031,
+    "sg_gini": 48.7
+  },
+  {
+    "geo": "ago",
+    "time": "1950",
+    "sg_population": 4354882,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3125,
+    "sg_gini": 48.5
+  },
+  {
+    "geo": "ago",
+    "time": "1951",
+    "sg_population": 4439705,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3202,
+    "sg_gini": 48.7
+  },
+  {
+    "geo": "ago",
+    "time": "1952",
+    "sg_population": 4529381,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3281,
+    "sg_gini": 48.9
+  },
+  {
+    "geo": "ago",
+    "time": "1953",
+    "sg_population": 4621691,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3359,
+    "sg_gini": 49.1
+  },
+  {
+    "geo": "ago",
+    "time": "1954",
+    "sg_population": 4714970,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3225,
+    "sg_gini": 49.3
+  },
+  {
+    "geo": "ago",
+    "time": "1955",
+    "sg_population": 4808114,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3437,
+    "sg_gini": 49.5
+  },
+  {
+    "geo": "ago",
+    "time": "1956",
+    "sg_population": 4900594,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3326,
+    "sg_gini": 49.7
+  },
+  {
+    "geo": "ago",
+    "time": "1957",
+    "sg_population": 4992439,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3592,
+    "sg_gini": 49.9
+  },
+  {
+    "geo": "ago",
+    "time": "1958",
+    "sg_population": 5084166,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3728,
+    "sg_gini": 50.1
+  },
+  {
+    "geo": "ago",
+    "time": "1959",
+    "sg_population": 5176662,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3687,
+    "sg_gini": 50.3
+  },
+  {
+    "geo": "ago",
+    "time": "1960",
+    "sg_population": 5270844,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3775,
+    "sg_gini": 50.5
+  },
+  {
+    "geo": "ago",
+    "time": "1961",
+    "sg_population": 5367287,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4212,
+    "sg_gini": 50.7
+  },
+  {
+    "geo": "ago",
+    "time": "1962",
+    "sg_population": 5465905,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4034,
+    "sg_gini": 50.9
+  },
+  {
+    "geo": "ago",
+    "time": "1963",
+    "sg_population": 5565808,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4176,
+    "sg_gini": 51.1
+  },
+  {
+    "geo": "ago",
+    "time": "1964",
+    "sg_population": 5665701,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4573,
+    "sg_gini": 51.3
+  },
+  {
+    "geo": "ago",
+    "time": "1965",
+    "sg_population": 5765025,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4840,
+    "sg_gini": 51.5
+  },
+  {
+    "geo": "ago",
+    "time": "1966",
+    "sg_population": 5863568,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 5043,
+    "sg_gini": 51.7
+  },
+  {
+    "geo": "ago",
+    "time": "1967",
+    "sg_population": 5962831,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 5253,
+    "sg_gini": 51.9
+  },
+  {
+    "geo": "ago",
+    "time": "1968",
+    "sg_population": 6066094,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 5093,
+    "sg_gini": 52.1
+  },
+  {
+    "geo": "ago",
+    "time": "1969",
+    "sg_population": 6177703,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 5158,
+    "sg_gini": 52.3
+  },
+  {
+    "geo": "ago",
+    "time": "1970",
+    "sg_population": 6300969,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 5397,
+    "sg_gini": 52.5
+  },
+  {
+    "geo": "ago",
+    "time": "1971",
+    "sg_population": 6437645,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 5614,
+    "sg_gini": 52.8
+  },
+  {
+    "geo": "ago",
+    "time": "1972",
+    "sg_population": 6587647,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 5511,
+    "sg_gini": 53
+  },
+  {
+    "geo": "ago",
+    "time": "1973",
+    "sg_population": 6750215,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 5831,
+    "sg_gini": 53.2
+  },
+  {
+    "geo": "ago",
+    "time": "1974",
+    "sg_population": 6923749,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 5880,
+    "sg_gini": 53.4
+  },
+  {
+    "geo": "ago",
+    "time": "1975",
+    "sg_population": 7107334,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 5454,
+    "sg_gini": 53.6
+  },
+  {
+    "geo": "ago",
+    "time": "1976",
+    "sg_population": 7299508,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 5044,
+    "sg_gini": 53.8
+  },
+  {
+    "geo": "ago",
+    "time": "1977",
+    "sg_population": 7501320,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4956,
+    "sg_gini": 54
+  },
+  {
+    "geo": "ago",
+    "time": "1978",
+    "sg_population": 7717139,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4572,
+    "sg_gini": 54.2
+  },
+  {
+    "geo": "ago",
+    "time": "1979",
+    "sg_population": 7952882,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4458,
+    "sg_gini": 54.4
+  },
+  {
+    "geo": "ago",
+    "time": "1980",
+    "sg_population": 8211950,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4443,
+    "sg_gini": 54.6
+  },
+  {
+    "geo": "ago",
+    "time": "1981",
+    "sg_population": 8497950,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4110,
+    "sg_gini": 54.8
+  },
+  {
+    "geo": "ago",
+    "time": "1982",
+    "sg_population": 8807511,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3970,
+    "sg_gini": 55
+  },
+  {
+    "geo": "ago",
+    "time": "1983",
+    "sg_population": 9128655,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3996,
+    "sg_gini": 55.2
+  },
+  {
+    "geo": "ago",
+    "time": "1984",
+    "sg_population": 9444918,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4099,
+    "sg_gini": 55.4
+  },
+  {
+    "geo": "ago",
+    "time": "1985",
+    "sg_population": 9745209,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4117,
+    "sg_gini": 55.6
+  },
+  {
+    "geo": "ago",
+    "time": "1986",
+    "sg_population": 10023700,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4135,
+    "sg_gini": 55.8
+  },
+  {
+    "geo": "ago",
+    "time": "1987",
+    "sg_population": 10285712,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4319,
+    "sg_gini": 56
+  },
+  {
+    "geo": "ago",
+    "time": "1988",
+    "sg_population": 10544904,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4455,
+    "sg_gini": 56.2
+  },
+  {
+    "geo": "ago",
+    "time": "1989",
+    "sg_population": 10820992,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4365,
+    "sg_gini": 56.4
+  },
+  {
+    "geo": "ago",
+    "time": "1990",
+    "sg_population": 11127870,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4232,
+    "sg_gini": 56.6
+  },
+  {
+    "geo": "ago",
+    "time": "1991",
+    "sg_population": 11472173,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4056,
+    "sg_gini": 56.8
+  },
+  {
+    "geo": "ago",
+    "time": "1992",
+    "sg_population": 11848971,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3656,
+    "sg_gini": 57
+  },
+  {
+    "geo": "ago",
+    "time": "1993",
+    "sg_population": 12246786,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 2663,
+    "sg_gini": 57.2
+  },
+  {
+    "geo": "ago",
+    "time": "1994",
+    "sg_population": 12648483,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 2669,
+    "sg_gini": 57.4
+  },
+  {
+    "geo": "ago",
+    "time": "1995",
+    "sg_population": 13042666,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 2859,
+    "sg_gini": 57.6
+  },
+  {
+    "geo": "ago",
+    "time": "1996",
+    "sg_population": 13424813,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3091,
+    "sg_gini": 57.8
+  },
+  {
+    "geo": "ago",
+    "time": "1997",
+    "sg_population": 13801868,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3246,
+    "sg_gini": 58
+  },
+  {
+    "geo": "ago",
+    "time": "1998",
+    "sg_population": 14187710,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3376,
+    "sg_gini": 58.2
+  },
+  {
+    "geo": "ago",
+    "time": "1999",
+    "sg_population": 14601983,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3389,
+    "sg_gini": 58.4
+  },
+  {
+    "geo": "ago",
+    "time": "2000",
+    "sg_population": 15058638,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3387,
+    "sg_gini": 58.6
+  },
+  {
+    "geo": "ago",
+    "time": "2001",
+    "sg_population": 15562791,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3417,
+    "sg_gini": 50.8
+  },
+  {
+    "geo": "ago",
+    "time": "2002",
+    "sg_population": 16109696,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3759,
+    "sg_gini": 43
+  },
+  {
+    "geo": "ago",
+    "time": "2003",
+    "sg_population": 16691395,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 3819,
+    "sg_gini": 42.9
+  },
+  {
+    "geo": "ago",
+    "time": "2004",
+    "sg_population": 17295500,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4087,
+    "sg_gini": 42.9
+  },
+  {
+    "geo": "ago",
+    "time": "2005",
+    "sg_population": 17912942,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 4667,
+    "sg_gini": 42.8
+  },
+  {
+    "geo": "ago",
+    "time": "2006",
+    "sg_population": 18541467,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 5445,
+    "sg_gini": 42.8
+  },
+  {
+    "geo": "ago",
+    "time": "2007",
+    "sg_population": 19183907,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 6453,
+    "sg_gini": 42.7
+  },
+  {
+    "geo": "ago",
+    "time": "2008",
+    "sg_population": 19842251,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 7103,
+    "sg_gini": 42.7
+  },
+  {
+    "geo": "ago",
+    "time": "2009",
+    "sg_population": 20520103,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 7039,
+    "sg_gini": 42.7
+  },
+  {
+    "geo": "ago",
+    "time": "2010",
+    "sg_population": 21219954,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 7047,
+    "sg_gini": 42.7
+  },
+  {
+    "geo": "ago",
+    "time": "2011",
+    "sg_population": 21942296,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 7094,
+    "sg_gini": 42.7
+  },
+  {
+    "geo": "ago",
+    "time": "2012",
+    "sg_population": 22685632,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 7230,
+    "sg_gini": 42.7
+  },
+  {
+    "geo": "ago",
+    "time": "2013",
+    "sg_population": 23448202,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 7488,
+    "sg_gini": 42.7
+  },
+  {
+    "geo": "ago",
+    "time": "2014",
+    "sg_population": 24227524,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 7546,
+    "sg_gini": 42.7
+  },
+  {
+    "geo": "ago",
+    "time": "2015",
+    "sg_population": 25021974,
+    "sg_gdp_p_cap_const_ppp2011_dollar": 7615,
+    "sg_gini": 42.7
+  }
+]

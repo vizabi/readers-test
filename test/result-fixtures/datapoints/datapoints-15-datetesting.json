@@ -1,0 +1,72 @@
+[
+  {
+    "currency": "euro",
+    "day": "20151221",
+    "exchange_rate_usd": 1.092
+  },
+  {
+    "currency": "euro",
+    "day": "20151222",
+    "exchange_rate_usd": 1.0978
+  },
+  {
+    "currency": "euro",
+    "day": "20151223",
+    "exchange_rate_usd": 1.0875
+  },
+  {
+    "currency": "euro",
+    "day": "20151224",
+    "exchange_rate_usd": 1.0955
+  },
+  {
+    "currency": "euro",
+    "day": "20151225",
+    "exchange_rate_usd": ""
+  },
+  {
+    "currency": "euro",
+    "day": "20151228",
+    "exchange_rate_usd": 1.0983
+  },
+  {
+    "currency": "euro",
+    "day": "20151229",
+    "exchange_rate_usd": 1.0916
+  },
+  {
+    "currency": "gbp",
+    "day": "20151221",
+    "exchange_rate_usd": 1.4906
+  },
+  {
+    "currency": "gbp",
+    "day": "20151222",
+    "exchange_rate_usd": 1.4811
+  },
+  {
+    "currency": "gbp",
+    "day": "20151223",
+    "exchange_rate_usd": 1.4863
+  },
+  {
+    "currency": "gbp",
+    "day": "20151224",
+    "exchange_rate_usd": 1.4943
+  },
+  {
+    "currency": "gbp",
+    "day": "20151225",
+    "exchange_rate_usd": ""
+  },
+  {
+    "currency": "gbp",
+    "day": "20151228",
+    "exchange_rate_usd": 1.4883
+  },
+  {
+    "currency": "gbp",
+    "day": "20151229",
+    "exchange_rate_usd": 1.4794
+  }
+]
