@@ -17,13 +17,13 @@ describe('Datapoints supporting', () => {
           value: ['life_expectancy_years', 'income_per_person_gdppercapita_ppp_inflation_adjusted', 'population_total']
         },
         where: {
-          'is--country': true,
+          'geo.is--country': true,
           time: {$gt: 1800, $lt: 2016}
         },
         grouping: {},
         orderBy: ['time']
       })
-      .withFlowConstructor(QuickExactTestFlow),
+      .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
       .forDataset(Dataset.sg)
       .withTitle('joins query should be processed correctly')
@@ -127,7 +127,7 @@ describe('Datapoints supporting', () => {
         order_by: ['time']
       })
       .withFlowConstructor(OnlySameQuantityTestFlow),
-    /*new TestCase()
+    new TestCase()
       .forDataset(Dataset.popwpp)
       .withTitle('query by gender, age, and country with code 900 should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-6-#dataset#.json')
@@ -147,7 +147,7 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['year']
       })
-      .withFlowConstructor(QuickExactTestFlow),*/
+      .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
       .forDataset(Dataset.sgtiny)
       .withTitle('query by "americas" and "asia" regions should be processed correctly')
@@ -186,7 +186,7 @@ describe('Datapoints supporting', () => {
         order_by: ['time']
       })
       .withFlowConstructor(OnlySameQuantityTestFlow),
-    /*new TestCase()
+    new TestCase()
       .forDataset(Dataset.popwppbig)
       .withTitle('multidimentional dataset reading should return expected result')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-9-#dataset#.json')
@@ -208,7 +208,7 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['year']
       })
-      .withFlowConstructor(QuickExactTestFlow),*/
+      .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
       .forDataset(Dataset.presentation)
       .withTitle('query with boolean condition should be processed correctly')
@@ -253,7 +253,8 @@ describe('Datapoints supporting', () => {
         order_by: ['time']
       })
       .withFlowConstructor(QuickExactTestFlow),
-    /*new TestCase()
+    // todo: new reader minus profit!
+    new TestCase()
       .forDataset(Dataset.popwppbig)
       .withTitle('query with join and world4region should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-12-#dataset#.json')
@@ -274,7 +275,7 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['year']
       })
-      .withFlowConstructor(QuickExactTestFlow),*/
+      .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
       .forDataset(Dataset.sgmixentity)
       .withTitle('query on dataset that contains mixed kinds of entities in the same file should be processed correctly')
