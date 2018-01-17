@@ -1,5 +1,5 @@
 import { runTests } from '../src/test-utils';
-import { GenericTestFlow, OnlySameQuantityTestFlow, QuickExactTestFlow } from '../src/test-flow';
+import { ExactTestFlow, GenericTestFlow, OnlySameQuantityTestFlow, QuickExactTestFlow } from '../src/test-flow';
 import { TestCase } from '../src/test-case';
 import { Dataset } from '../src/settings/datasets';
 
@@ -22,7 +22,7 @@ describe('Datapoints supporting', () => {
         grouping: {},
         order_by: ['time','geo']
       })
-      .withFlowConstructor(OnlySameQuantityTestFlow),
+      .withFlowConstructor(ExactTestFlow),
     new TestCase()
       .forDataset(Dataset.sg)
       .withTitle('joins query should be processed correctly')
