@@ -343,7 +343,7 @@ export function ddfCsvReader(path: string) {
 
       if (operator) {
         return operator(row, filter[filterKey]);
-      } else if (typeof filter[filterKey] != "object") { // assuming values are primitives not Number/Boolean/String objects
+      } else if (typeof filter[filterKey] !== "object") { // assuming values are primitives not Number/Boolean/String objects
         // { <field>: <value> } is shorthand for { <field>: { $eq: <value> }}
         return operators.get("$eq")(row[filterKey], filter[filterKey]);
       } else {
