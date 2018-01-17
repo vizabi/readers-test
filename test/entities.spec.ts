@@ -139,7 +139,7 @@ describe('Basic entities supporting', () => {
   ]);
 });
 
-xdescribe('Additional entities supporting', () => {
+describe('Additional entities supporting', () => {
   readersCases
     .filter(readerProvider => readerProvider.dataset === Dataset.presentation)
     .forEach(readerProvider => {
@@ -164,10 +164,8 @@ xdescribe('Additional entities supporting', () => {
           ]
         });
         const requests = [
-          getRequest({}),
           getRequest({$and: [{'un_state': true}]}),
-          getRequest({$and: [{'un_state': false}]}),
-          getRequest({$and: [{'un_state': {$exists: false}}]})
+          getRequest({$and: [{'un_state': false}]})
         ];
         const actions = requests.map(request => new Promise((resolve, reject) => {
           readerProvider.read(request, (err, data) => {
@@ -182,17 +180,12 @@ xdescribe('Additional entities supporting', () => {
         return Promise.all(actions).then(results => {
           const EXPECTED_UNSTATE_QUANTITY = 195;
           const EXPECTED_NON_UNSTATE_QUANTITY = 78;
-          const EXPECTED_UNSTATE_LESS_QUANTITY = 23;
 
-          const allEntities = <any[]>nth(results, 0);
-          const unStateEntities = <any[]>nth(results, 1);
-          const nonUnStateEntities = <any[]>nth(results, 2);
-          const unStateLessEntities = <any[]>nth(results, 3);
+          const unStateEntities = <any[]>nth(results, 0);
+          const nonUnStateEntities = <any[]>nth(results, 1);
 
           expect(nonUnStateEntities.length).to.equal(EXPECTED_NON_UNSTATE_QUANTITY);
           expect(unStateEntities.length).to.equal(EXPECTED_UNSTATE_QUANTITY);
-          expect(unStateLessEntities.length).to.equal(EXPECTED_UNSTATE_LESS_QUANTITY);
-          expect(allEntities.length).to.equal(EXPECTED_UNSTATE_QUANTITY + EXPECTED_NON_UNSTATE_QUANTITY + EXPECTED_UNSTATE_LESS_QUANTITY);
         });
       });
     });
