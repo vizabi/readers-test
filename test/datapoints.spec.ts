@@ -17,13 +17,12 @@ describe('Datapoints supporting', () => {
           value: ['life_expectancy_years', 'income_per_person_gdppercapita_ppp_inflation_adjusted', 'population_total']
         },
         where: {
-          'is--country': true,
           time: {$gt: 1800, $lt: 2016}
         },
         grouping: {},
-        orderBy: ['time']
+        order_by: ['time','geo']
       })
-      .withFlowConstructor(QuickExactTestFlow),
+      .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
       .forDataset(Dataset.sg)
       .withTitle('joins query should be processed correctly')
