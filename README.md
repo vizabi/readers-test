@@ -20,6 +20,7 @@ Apart from that, next additional options are present
  * `npm run test-concepts`
  * `npm run test-entities`
  * `npm run test-datapoints`
+ * `npm run test-schema`
 
 # Developers guide
 
