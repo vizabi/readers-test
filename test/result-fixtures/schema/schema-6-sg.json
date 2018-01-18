@@ -3,12 +3,6 @@
     "key": [
       "concept"
     ],
-    "value": "concept"
-  },
-  {
-    "key": [
-      "concept"
-    ],
     "value": "color"
   },
   {
@@ -76,12 +70,6 @@
       "concept"
     ],
     "value": "tags"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "country"
   },
   {
     "key": [
@@ -279,12 +267,6 @@
     "key": [
       "g77_and_oecd_countries"
     ],
-    "value": "g77_and_oecd_countries"
-  },
-  {
-    "key": [
-      "g77_and_oecd_countries"
-    ],
     "value": "rank"
   },
   {
@@ -304,12 +286,6 @@
       "g77_and_oecd_countries"
     ],
     "value": "is--g77_and_oecd_countries"
-  },
-  {
-    "key": [
-      "geo"
-    ],
-    "value": "geo"
   },
   {
     "key": [
@@ -351,12 +327,6 @@
     "key": [
       "income_groups"
     ],
-    "value": "income_groups"
-  },
-  {
-    "key": [
-      "income_groups"
-    ],
     "value": "name"
   },
   {
@@ -376,12 +346,6 @@
       "income_groups"
     ],
     "value": "rank"
-  },
-  {
-    "key": [
-      "landlocked"
-    ],
-    "value": "landlocked"
   },
   {
     "key": [
@@ -411,12 +375,6 @@
     "key": [
       "main_religion_2008"
     ],
-    "value": "main_religion_2008"
-  },
-  {
-    "key": [
-      "main_religion_2008"
-    ],
     "value": "rank"
   },
   {
@@ -436,12 +394,6 @@
       "main_religion_2008"
     ],
     "value": "is--main_religion_2008"
-  },
-  {
-    "key": [
-      "geo"
-    ],
-    "value": "geo"
   },
   {
     "key": [
@@ -568,12 +520,6 @@
       "geo"
     ],
     "value": "shape_lores_svg"
-  },
-  {
-    "key": [
-      "tag"
-    ],
-    "value": "tag"
   },
   {
     "key": [
