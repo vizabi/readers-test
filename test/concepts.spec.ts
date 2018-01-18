@@ -1,12 +1,18 @@
-import { runTests } from '../src/test-utils';
+import { executionSummaryTable, runTests } from '../src/test-utils';
 import { GenericTestFlow } from '../src/test-flow';
 import { TestCase } from '../src/test-case';
-import { Dataset } from '../src/settings/datasets';
+import { sg } from '../src/settings/datasets';
 
 describe('Concepts supporting', () => {
+  const aggregatedData = {};
+
+  after(() => {
+    executionSummaryTable(aggregatedData);
+  });
+
   runTests([
     new TestCase()
-      .forDataset(Dataset.sg)
+      .forDataset(sg)
       .withTitle('4 fields selects should be expected')
       .withFixturePath('../test/result-fixtures/concepts/concepts-1-#dataset#.json')
       .withRequest({
@@ -25,7 +31,7 @@ describe('Concepts supporting', () => {
       })
       .withFlowConstructor(GenericTestFlow),
     new TestCase()
-      .forDataset(Dataset.sg)
+      .forDataset(sg)
       .withTitle('3 fields selects should be expected')
       .withFixturePath('../test/result-fixtures/concepts/concepts-2-#dataset#.json')
       .withRequest({
@@ -44,7 +50,7 @@ describe('Concepts supporting', () => {
       })
       .withFlowConstructor(GenericTestFlow),
     new TestCase()
-      .forDataset(Dataset.sg)
+      .forDataset(sg)
       .withTitle('ar-SA base data selects should be expected')
       .withFixturePath('../test/result-fixtures/concepts/concepts-3-#dataset#.json')
       .withRequest({
@@ -63,5 +69,5 @@ describe('Concepts supporting', () => {
         }
       })
       .withFlowConstructor(GenericTestFlow)
-  ]);
+  ], aggregatedData);
 });

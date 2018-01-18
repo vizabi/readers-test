@@ -1,17 +1,23 @@
 import * as chai from 'chai';
 import { nth } from 'lodash';
-import { runTests } from '../src/test-utils';
+import { executionSummaryTable, runTests } from '../src/test-utils';
 import { ExactTestFlow, GenericTestFlow } from '../src/test-flow';
 import { TestCase } from '../src/test-case';
-import { Dataset } from '../src/settings/datasets';
 import { readersCases } from '../src/settings/readers-cases';
+import { presentation, sankey, sg } from '../src/settings/datasets';
 
 const expect = chai.expect;
 
 describe('Basic entities supporting', () => {
+  const aggregatedData = {};
+
+  after(() => {
+    executionSummaryTable(aggregatedData);
+  });
+
   runTests([
     new TestCase()
-      .forDataset(Dataset.sg)
+      .forDataset(sg)
       .withTitle('plain query should be processed correctly')
       .withFixturePath('../test/result-fixtures/entities/entities-1-#dataset#.json')
       .withRequest({
@@ -27,7 +33,7 @@ describe('Basic entities supporting', () => {
       })
       .withFlowConstructor(GenericTestFlow),
     new TestCase()
-      .forDataset(Dataset.sg)
+      .forDataset(sg)
       .withTitle('plain Arabic query should be processed correctly')
       .withFixturePath('../test/result-fixtures/entities/entities-2-#dataset#.json')
       .withRequest({
@@ -44,7 +50,7 @@ describe('Basic entities supporting', () => {
       })
       .withFlowConstructor(GenericTestFlow),
     new TestCase()
-      .forDataset(Dataset.sg)
+      .forDataset(sg)
       .withTitle('shapes query should be processed correctly')
       .withFixturePath('../test/result-fixtures/entities/entities-3-#dataset#.json')
       .withRequest({
@@ -57,7 +63,7 @@ describe('Basic entities supporting', () => {
       })
       .withFlowConstructor(GenericTestFlow),
     new TestCase()
-      .forDataset(Dataset.sg)
+      .forDataset(sg)
       .withTitle('tags query should be processed correctly')
       .withFixturePath('../test/result-fixtures/entities/entities-4-#dataset#.json')
       .withRequest({
@@ -70,7 +76,7 @@ describe('Basic entities supporting', () => {
       })
       .withFlowConstructor(GenericTestFlow),
     new TestCase()
-      .forDataset(Dataset.sg)
+      .forDataset(sg)
       .withTitle('"world_4region" query should be processed correctly')
       .withFixturePath('../test/result-fixtures/entities/entities-5-#dataset#.json')
       .withRequest({
@@ -84,7 +90,7 @@ describe('Basic entities supporting', () => {
       })
       .withFlowConstructor(ExactTestFlow),
     new TestCase()
-      .forDataset(Dataset.presentation)
+      .forDataset(presentation)
       .withTitle('query with boolean condition should be processed correctly')
       .withFixturePath('../test/result-fixtures/entities/entities-6-#dataset#.json')
       .withRequest({
@@ -114,7 +120,7 @@ describe('Basic entities supporting', () => {
       })
       .withFlowConstructor(GenericTestFlow),
     new TestCase()
-      .forDataset(Dataset.sankey)
+      .forDataset(sankey)
       .withTitle('query with boolean condition should be processed correctly')
       .withFixturePath('../test/result-fixtures/entities/entities-7-#dataset#.json')
       .withRequest({
@@ -136,14 +142,14 @@ describe('Basic entities supporting', () => {
         ]
       })
       .withFlowConstructor(GenericTestFlow),
-  ]);
+  ], aggregatedData);
 });
 
 describe('Additional entities supporting', () => {
   readersCases
-    .filter(readerProvider => readerProvider.dataset === Dataset.presentation)
+    .filter(readerProvider => readerProvider.dataset === presentation)
     .forEach(readerProvider => {
-      it(`${readerProvider.title}: should filters work properly`, () => {
+      it(`"${readerProvider.getTitle()}" on "${readerProvider.dataset.title}": should filters work properly`, () => {
         const getRequest = where => ({
           language: 'en',
           from: 'entities',
@@ -191,9 +197,9 @@ describe('Additional entities supporting', () => {
     });
 
   readersCases
-    .filter(readerProvider => readerProvider.dataset === Dataset.sg)
+    .filter(readerProvider => readerProvider.dataset === sg)
     .forEach(readerProvider => {
-      it(`${readerProvider.title}: should filters work properly (an another case)`, () => {
+      it(`"${readerProvider.getTitle()}" on "${readerProvider.dataset.title}": should filters work properly (an another case)`, () => {
         const getRequest = where => ({
           language: 'en',
           from: 'entities',

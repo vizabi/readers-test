@@ -26,6 +26,8 @@
     "@types/lodash": "4.14.91",
     "@types/mocha": "2.2.45",
     "@types/node": "8.5.2",
+    "@types/table": "4.0.4",
+    "@types/papaparse": "4.1.33",
     "babel": "6.23.0",
     "babel-core": "6.26.0",
     "babel-loader": "7.1.2",
@@ -39,8 +41,8 @@
     "vizabi-ddfcsv-reader": "0.14.5"
   },
   "dependencies": {
-    "@types/papaparse": "^4.1.33",
-    "bluebird": "^3.5.1",
-    "papaparse": "^4.3.6"
+    "bluebird": "3.5.1",
+    "papaparse": "4.3.6",
+    "table": "4.0.2"
   }
 }

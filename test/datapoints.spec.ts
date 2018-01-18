@@ -1,12 +1,28 @@
-import { runTests } from '../src/test-utils';
+import { executionSummaryTable, runTests } from '../src/test-utils';
 import { ExactTestFlow, GenericTestFlow, OnlySameQuantityTestFlow, QuickExactTestFlow } from '../src/test-flow';
 import { TestCase } from '../src/test-case';
-import { Dataset } from '../src/settings/datasets';
+import {
+  sg,
+  presentation,
+  sgtiny,
+  popwpp,
+  bubbles3,
+  popwppbig,
+  sgmixentity,
+  staticassets,
+  datetesting
+} from '../src/settings/datasets';
 
 describe('Datapoints supporting', () => {
+  const aggregatedData = {};
+
+  after(() => {
+    executionSummaryTable(aggregatedData);
+  });
+
   runTests([
     new TestCase()
-      .forDataset(Dataset.sg)
+      .forDataset(sg)
       .withTitle('plain query should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-1-#dataset#.json')
       .withRequest({
@@ -20,11 +36,11 @@ describe('Datapoints supporting', () => {
           time: {$gt: 1800, $lt: 2016}
         },
         grouping: {},
-        order_by: ['time','geo']
+        order_by: ['time', 'geo']
       })
       .withFlowConstructor(ExactTestFlow),
     new TestCase()
-      .forDataset(Dataset.sg)
+      .forDataset(sg)
       .withTitle('joins query should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-2-#dataset#.json')
       .withRequest({
@@ -65,7 +81,7 @@ describe('Datapoints supporting', () => {
       })
       .withFlowConstructor(GenericTestFlow),
     new TestCase()
-      .forDataset(Dataset.sg)
+      .forDataset(sg)
       .withTitle('joins query by one year should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-3-#dataset#.json')
       .withRequest({
@@ -84,7 +100,7 @@ describe('Datapoints supporting', () => {
       })
       .withFlowConstructor(GenericTestFlow),
     new TestCase()
-      .forDataset(Dataset.sg)
+      .forDataset(sg)
       .withTitle('joins query by all period should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-4-#dataset#.json')
       .withRequest({
@@ -105,7 +121,7 @@ describe('Datapoints supporting', () => {
       })
       .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
-      .forDataset(Dataset.sgtiny)
+      .forDataset(sgtiny)
       .withTitle('query by "ago" country should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-5-#dataset#.json')
       .withRequest({
@@ -127,7 +143,7 @@ describe('Datapoints supporting', () => {
       })
       .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
-      .forDataset(Dataset.popwpp)
+      .forDataset(popwpp)
       .withTitle('query by gender, age, and country with code 900 should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-6-#dataset#.json')
       .withRequest({
@@ -148,7 +164,7 @@ describe('Datapoints supporting', () => {
       })
       .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
-      .forDataset(Dataset.sgtiny)
+      .forDataset(sgtiny)
       .withTitle('query by "americas" and "asia" regions should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-7-#dataset#.json')
       .withRequest({
@@ -169,7 +185,7 @@ describe('Datapoints supporting', () => {
       })
       .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
-      .forDataset(Dataset.bubbles3)
+      .forDataset(bubbles3)
       .withTitle('should consume files with many indicators in different columns')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-8-#dataset#.json')
       .withRequest({
@@ -186,7 +202,7 @@ describe('Datapoints supporting', () => {
       })
       .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
-      .forDataset(Dataset.popwppbig)
+      .forDataset(popwppbig)
       .withTitle('multidimentional dataset reading should return expected result')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-9-#dataset#.json')
       .withRequest({
@@ -209,7 +225,7 @@ describe('Datapoints supporting', () => {
       })
       .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
-      .forDataset(Dataset.presentation)
+      .forDataset(presentation)
       .withTitle('query with boolean condition should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-10-#dataset#.json')
       .withRequest({
@@ -231,7 +247,7 @@ describe('Datapoints supporting', () => {
       })
       .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
-      .forDataset(Dataset.staticassets)
+      .forDataset(staticassets)
       .withTitle('query with static assets should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-11-#dataset#.json')
       .withRequest({
@@ -254,7 +270,7 @@ describe('Datapoints supporting', () => {
       .withFlowConstructor(QuickExactTestFlow),
     // todo: new reader minus profit!
     new TestCase()
-      .forDataset(Dataset.popwppbig)
+      .forDataset(popwppbig)
       .withTitle('query with join and world4region should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-12-#dataset#.json')
       .withRequest({
@@ -276,7 +292,7 @@ describe('Datapoints supporting', () => {
       })
       .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
-      .forDataset(Dataset.sgmixentity)
+      .forDataset(sgmixentity)
       .withTitle('query on dataset that contains mixed kinds of entities in the same file should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-13-#dataset#.json')
       .withRequest({
@@ -300,7 +316,7 @@ describe('Datapoints supporting', () => {
       })
       .withFlowConstructor(QuickExactTestFlow),
     new TestCase()
-      .forDataset(Dataset.sg)
+      .forDataset(sg)
       .withTitle('query on dataset when datapoint record contains domain but request contains entity set should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-14-#dataset#.json')
       .withRequest({
@@ -330,7 +346,7 @@ describe('Datapoints supporting', () => {
       })
       .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
-      .forDataset(Dataset.datetesting)
+      .forDataset(datetesting)
       .withTitle('query by full date should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-15-#dataset#.json')
       .withRequest({
@@ -350,7 +366,7 @@ describe('Datapoints supporting', () => {
       })
       .withFlowConstructor(OnlySameQuantityTestFlow),
     new TestCase()
-      .forDataset(Dataset.datetesting)
+      .forDataset(datetesting)
       .withTitle('query by month should be processed correctly')
       .withFixturePath('../test/result-fixtures/datapoints/datapoints-16-#dataset#.json')
       .withRequest({
@@ -369,5 +385,5 @@ describe('Datapoints supporting', () => {
         }
       })
       .withFlowConstructor(OnlySameQuantityTestFlow)
-  ]);
+  ], aggregatedData);
 });

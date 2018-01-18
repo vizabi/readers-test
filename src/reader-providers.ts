@@ -4,17 +4,12 @@ import { getReader } from './ddfcsv-new/reader';
 const ddfCsvReader = require('vizabi-ddfcsv-reader');
 
 export abstract class AbstractReaderProvider {
-  title: string;
   dataset: Dataset;
   initData;
 
+  abstract getTitle(): string;
+
   abstract getReaderObject();
-
-  withTitle(title: string) {
-    this.title = title;
-
-    return this;
-  }
 
   forDataset(datset: Dataset) {
     this.dataset = datset;
@@ -31,10 +26,6 @@ export abstract class AbstractReaderProvider {
   }
 
   checkConstraints() {
-    if (!this.title) {
-      throw Error('"title" should be defined');
-    }
-
     if (!this.initData) {
       throw Error('"provider" should be initialized');
     }
@@ -53,6 +44,10 @@ export abstract class AbstractReaderProvider {
 export class DdfCsvReaderProvider extends AbstractReaderProvider {
   private readerObject;
 
+  getTitle(): string {
+    return 'DDFcsv';
+  }
+
   getReaderObject() {
     if (!this.readerObject) {
       this.readerObject = ddfCsvReader.getDDFCsvReaderObject();
@@ -64,6 +59,10 @@ export class DdfCsvReaderProvider extends AbstractReaderProvider {
 
 export class DdfCsvNewReaderProvider extends AbstractReaderProvider {
   private readerObject;
+
+  getTitle(): string {
+    return 'DDFcsvNEW';
+  }
 
   getReaderObject() {
     if (!this.readerObject) {
