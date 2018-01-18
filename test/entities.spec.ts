@@ -1,10 +1,11 @@
 import * as chai from 'chai';
 import { nth } from 'lodash';
 import { executionSummaryTable, runTests } from '../src/test-utils';
-import { ExactTestFlow, GenericTestFlow } from '../src/test-flow';
 import { TestCase } from '../src/test-case';
-import { readersCases } from '../src/settings/readers-cases';
-import { presentation, sankey, sg } from '../src/settings/datasets';
+import { familyMembers } from '../src/settings/family-members';
+import { presentation, sankey, sg } from '../src/settings/datasources';
+import { GenericExpectationStrategy } from '../src/expectations/generic-expectation-strategy';
+import { ExactExpectationStrategy } from '../src/expectations/exact-expectation-strategy';
 
 const expect = chai.expect;
 
@@ -17,9 +18,9 @@ describe('Basic entities supporting', () => {
 
   runTests([
     new TestCase()
-      .forDataset(sg)
+      .forDataSource(sg)
       .withTitle('plain query should be processed correctly')
-      .withFixturePath('../test/result-fixtures/entities/entities-1-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/entities/entities-1-#datasource#.json')
       .withRequest({
         from: 'entities',
         animatable: 'time',
@@ -31,11 +32,11 @@ describe('Basic entities supporting', () => {
         grouping: {},
         orderBy: null
       })
-      .withFlowConstructor(GenericTestFlow),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
-      .forDataset(sg)
+      .forDataSource(sg)
       .withTitle('plain Arabic query should be processed correctly')
-      .withFixturePath('../test/result-fixtures/entities/entities-2-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/entities/entities-2-#datasource#.json')
       .withRequest({
         language: 'ar-SA',
         from: 'entities',
@@ -48,11 +49,11 @@ describe('Basic entities supporting', () => {
         grouping: {},
         orderBy: null
       })
-      .withFlowConstructor(GenericTestFlow),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
-      .forDataset(sg)
+      .forDataSource(sg)
       .withTitle('shapes query should be processed correctly')
-      .withFixturePath('../test/result-fixtures/entities/entities-3-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/entities/entities-3-#datasource#.json')
       .withRequest({
         from: 'entities',
         animatable: false,
@@ -61,11 +62,11 @@ describe('Basic entities supporting', () => {
         grouping: {},
         orderBy: null
       })
-      .withFlowConstructor(GenericTestFlow),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
-      .forDataset(sg)
+      .forDataSource(sg)
       .withTitle('tags query should be processed correctly')
-      .withFixturePath('../test/result-fixtures/entities/entities-4-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/entities/entities-4-#datasource#.json')
       .withRequest({
         from: 'entities',
         animatable: false,
@@ -74,11 +75,11 @@ describe('Basic entities supporting', () => {
         grouping: {},
         orderBy: null
       })
-      .withFlowConstructor(GenericTestFlow),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
-      .forDataset(sg)
+      .forDataSource(sg)
       .withTitle('"world_4region" query should be processed correctly')
-      .withFixturePath('../test/result-fixtures/entities/entities-5-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/entities/entities-5-#datasource#.json')
       .withRequest({
         language: 'en',
         from: 'entities',
@@ -88,11 +89,11 @@ describe('Basic entities supporting', () => {
         join: {},
         order_by: ['rank']
       })
-      .withFlowConstructor(ExactTestFlow),
+      .withExpectationStrategy(ExactExpectationStrategy),
     new TestCase()
-      .forDataset(presentation)
+      .forDataSource(presentation)
       .withTitle('query with boolean condition should be processed correctly')
-      .withFixturePath('../test/result-fixtures/entities/entities-6-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/entities/entities-6-#datasource#.json')
       .withRequest({
         language: 'en',
         from: 'entities',
@@ -118,11 +119,11 @@ describe('Basic entities supporting', () => {
           'rank'
         ]
       })
-      .withFlowConstructor(GenericTestFlow),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
-      .forDataset(sankey)
+      .forDataSource(sankey)
       .withTitle('query with boolean condition should be processed correctly')
-      .withFixturePath('../test/result-fixtures/entities/entities-7-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/entities/entities-7-#datasource#.json')
       .withRequest({
         language: 'en',
         from: 'entities',
@@ -141,15 +142,15 @@ describe('Basic entities supporting', () => {
           'rank'
         ]
       })
-      .withFlowConstructor(GenericTestFlow),
+      .withExpectationStrategy(GenericExpectationStrategy),
   ], aggregatedData);
 });
 
 describe('Additional entities supporting', () => {
-  readersCases
-    .filter(readerProvider => readerProvider.dataset === presentation)
+  familyMembers
+    .filter(readerProvider => readerProvider.dataSource === presentation)
     .forEach(readerProvider => {
-      it(`"${readerProvider.getTitle()}" on "${readerProvider.dataset.title}": should filters work properly`, () => {
+      it(`"${readerProvider.getTitle()}" on "${readerProvider.dataSource.title}": should filters work properly`, () => {
         const getRequest = where => ({
           language: 'en',
           from: 'entities',
@@ -196,10 +197,10 @@ describe('Additional entities supporting', () => {
       });
     });
 
-  readersCases
-    .filter(readerProvider => readerProvider.dataset === sg)
+  familyMembers
+    .filter(readerProvider => readerProvider.dataSource === sg)
     .forEach(readerProvider => {
-      it(`"${readerProvider.getTitle()}" on "${readerProvider.dataset.title}": should filters work properly (an another case)`, () => {
+      it(`"${readerProvider.getTitle()}" on "${readerProvider.dataSource.title}": should filters work properly (an another case)`, () => {
         const getRequest = where => ({
           language: 'en',
           from: 'entities',

@@ -1,13 +1,13 @@
 import { isEmpty } from 'lodash';
-import { AbstractTestFlow } from './test-flow';
-import { Dataset } from "./settings/datasets";
+import { DataSource } from "./settings/datasources";
+import { AbstractExpectationStrategy } from './expectations/abstract-expectation-strategy';
 
-export class TestCase<T extends AbstractTestFlow> {
+export class TestCase<T extends AbstractExpectationStrategy> {
   title: string;
   fixturePath: string;
   request;
-  flowConstructor: typeof T;
-  datasets: Dataset[] = [];
+  expectationStrategy: typeof T;
+  dataSources: DataSource[] = [];
 
   withTitle(title: string) {
     this.title = title;
@@ -27,14 +27,14 @@ export class TestCase<T extends AbstractTestFlow> {
     return this;
   }
 
-  withFlowConstructor(flowConstructor: typeof T) {
-    this.flowConstructor = flowConstructor;
+  withExpectationStrategy(expectationStrategy: typeof T) {
+    this.expectationStrategy = expectationStrategy;
 
     return this;
   }
 
-  forDataset(dataset: Dataset) {
-    this.datasets.push(dataset);
+  forDataSource(dataSource: DataSource) {
+    this.dataSources.push(dataSource);
 
     return this;
   }
@@ -52,12 +52,12 @@ export class TestCase<T extends AbstractTestFlow> {
       throw Error('"request" should be defined');
     }
 
-    if (!this.flowConstructor) {
-      throw Error('"flowConstructor" should be defined');
+    if (!this.expectationStrategy) {
+      throw Error('"expectationStrategy" should be defined');
     }
 
-    if (isEmpty(this.datasets)) {
-      throw Error('at least one dataset should be defined');
+    if (isEmpty(this.dataSources)) {
+      throw Error('at least one dataSource should be defined');
     }
   }
 }

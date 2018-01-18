@@ -1,6 +1,6 @@
 # readers-test
 
-First of all, this is a testing platform. The main goal of this project is `Gapminder DDF reader` family testing on different datasets.
+First of all, this is a platform that helps to test a family of objects. The main goal of this project is `Gapminder DDF reader` family testing on different datasets.
 
 Next readers are available now:
 
@@ -23,68 +23,92 @@ Apart from that, next additional options are present
 
 # Developers guide
 
-## Datasets registry
+## Preface
 
-You can find Datasets registry [here](https://github.com/vizabi/readers-test/blob/master/src/settings/datasets.ts).
+In order to test a lot of similar objects, software developer or QA should provide a lot of similar tests,  which in itself is a problem. A lot of time can be wasted in this case. This framework partially solves this problem.
 
-Please add a new member to `Dataset` enum if you want to register a new dataset:
+Its main idea is to encapsulate such concepts as
+
+ * Family of objects / Family member
+ * Data source
+ * Test case
+ * Expectation strategy
+
+In general terms, the principle of operation consists in the repetition of each `Test case` for each `Family member` for particular `Data source` followed by the use of `Expectation strategy` to the results of testing.
+
+So, let explain main concepts...
+
+## Data source
+
+You can find this kind of data [here](https://github.com/vizabi/readers-test/blob/master/src/settings/datasources.ts).
+
+Please add a new variable as instance of `DataSource` class if you want to register a new data source:
 
 ```typescript
-export enum Dataset {
-  sg,
-  ...
-  my_new_dataset
-}
+export const myNewDataSource = new DataSource('new-ds', 'title for new ds');
 ```
 
-## Reader Provider
+## Family of objects
 
-An object that's represented by any child of [AbstractReaderProvider class](https://github.com/vizabi/readers-test/blob/master/src/reader-providers.ts#L6) encapsulates a particular reader functionality.
-For example, [DdfCsvReaderProvider](https://github.com/vizabi/readers-test/blob/master/src/reader-providers.ts#L53).
+An object that's represented by any child of [AbstractFamilyMember class](https://github.com/vizabi/readers-test/blob/master/src/family-definition/abstract-family-member.ts) encapsulates a particular reader functionality.
+For example, [DdfCsvReader](https://github.com/vizabi/readers-test/blob/master/src/family-definition/ddf-csv-reader.ts).
 
-Method `getReaderObject` of `XXXXReaderProvider` class should return `reader object`. More information regarding `reader object` you
+Method `getReaderObject` of `XXXXFamilyMember` class should return `reader object`. More information regarding `reader object` you
 can see [here](https://github.com/vizabi/vizabi-ddfcsv-reader) and [here](https://github.com/vizabi/vizabi-ws-reader).
 
-### Reader Provider initialization example
+### Family member initialization example
 
 ```typescript
-  new DdfCsvReaderProvider()
-    .withTitle('"DDFcsv on SG"')
-    .forDataset(Dataset.sg)
-    .init({path: './test/data-fixtures/systema_globalis'})
+import { sg } from './datasources';
+
+new DdfCsvReader()
+  .forDataSource(sg)
+  .init({path: './test/data-fixtures/systema_globalis'}),
 ```
 
 Let explain some important points regarding initialization:
 
- * `withTitle('"DDFcsv on SG"')` - set test title prefix that will emphasize (during the testing), what kind of reader should be used and for what dataset should be tested (text only!)
- * `forDataset(Dataset.sg)` - assign particular dataset
+ * `forDataSource(sg)` - assign particular dataset
  * `init({path: './test/data-fixtures/systema_globalis'})` - set initial data for the reader: its format can be different in accordance with particular reader type (DDFcsv, Waffle Server...)
 
-## Readers Cases
+## Family members registry
 
-You can find `Readers cases` [here](https://github.com/vizabi/readers-test/blob/master/src/settings/readers-cases.ts).
+You can find `Family members registry` [here](https://github.com/vizabi/readers-test/blob/master/src/settings/family-members.ts).
 
-`Readers cases` is a collection objects that represented by any child of [AbstractReaderProvider class](https://github.com/vizabi/readers-test/blob/master/src/reader-providers.ts#L6).
+`familyMembers` is a collection objects that represented by any child of [AbstractFamilyMember class](https://github.com/vizabi/readers-test/blob/master/src/family-definition/abstract-family-member.ts).
 
-## How to add tests
+### Expectation strategy
 
-The first part of tests creation is usual. First of all, you should create `*.spec.ts` file in `test` folder. Put `describe` block (or blocks) to the spec file.
+This is a strategy that represents expectations for the current test. All of them should be a child of [AbstractExpectationStrategy](https://github.com/vizabi/readers-test/blob/master/src/expectations/abstract-expectation-strategy.ts) and should implement [testIt](https://github.com/vizabi/readers-test/blob/master/src/expectations/abstract-expectation-strategy.ts#L6) method.
 
-### TestCase
+All of the strategies should compare result by `Family member` with predefined result fixture.
+
+Next implementations are available at this moment:
+
+ * `GenericExpectationStrategy` - an accurate comparison that ignores the order of records. Can be slow on huge results.
+ * `ExactExpectationStrategy` - an accurate comparison based on deep equal functionality. Can be slow on huge results.
+ * `QuickExactExpectationStrategy` - String comparison based. Fast, but not generic.
+ * `OnlySameQuantityExpectationStrategy` - compare only record count between DDF reader result and fixture. Fastest, but inaccurate.
+
+## Test case
 
 [TestCase](https://github.com/vizabi/readers-test/blob/master/src/test-case.ts) is a main term of this platform. It unites reader, dataset, and test.
 
-Object instantiation example:
+You can see `Test case` definition [here](https://github.com/vizabi/readers-test/blob/master/src/test-case.ts)
+
+It unites 'Family member', 'Data source' and 'Expectation strategy'.
+
+Instance creation example is:
 
 ```typescript
-import { GenericTestFlow } from '../src/test-flow';
+import { GenericExpectationStrategy } from '../src/expectations/generic-expectation-strategy';
 import { TestCase } from '../src/test-case';
-import { Dataset } from '../src/settings/datasets';
+import { sg } from '../src/settings/datasources';
 
 const testCase = new TestCase()
-  .forDataset(Dataset.sg)
+  .forDataSource(sg)
   .withTitle('4 fields selects should be expected')
-  .withFixturePath('../test/result-fixtures/concepts/concepts-1-#dataset#.json')
+  .withFixturePath('../test/result-fixtures/concepts/concepts-1-#datasource#.json')
   .withRequest({
     select: {
       key: ['concept'],
@@ -99,26 +123,29 @@ const testCase = new TestCase()
       ]
     }
   })
-  .withFlowConstructor(GenericTestFlow);
+  .withExpectationStrategy(GenericExpectationStrategy);
+
 ```
 
 Let explain some important points regarding initialization:
 
- * `forDataset(Dataset.sg)` - assign the test case to particular dataset; by the way, you can do this kind of assign more than once: you should call `forDataset` again in this case (see `Datasets registry`)
- * `withTitle('4 fields selects should be expected')` - set main part of title that should be displayed during testing (with reader prefix: see `withTitle` in `Reader Provider`).
- * `withFixturePath('../test/result-fixtures/concepts/concepts-1-#dataset#.json')` - set path to JSON file that should contain result fixture data. It's important to add `#dataset#` suffix, because it will be changed to related dataset name (see `Datasets registry`) during testing!
+ * `forDataSource(sg)` - assign the test case to particular data source; by the way, you can do this kind of assign more than once: you should call `forDataSource` again in this case (see `Data sources registry`)
+ * `withTitle('4 fields selects should be expected')` - set main part of title that should be displayed during testing (with reader prefix: see `withTitle` in `Family mamber`).
+ * `withFixturePath('../test/result-fixtures/concepts/concepts-1-#datasource#.json')` - set path to JSON file that should contain result fixture data. It's important to add `#datasource#` suffix, because it will be changed to related data source name (see `Data sources registry`) during testing!
  * `withRequest({...` - set DDF request
- * `withFlowConstructor(GenericTestFlow)` - set test flow for this case (see below...)
+ * `withExpectationStrategy(GenericExpectationStrategy)` - set an expectation strategy for this case.
 
-### Test flow
 
-`TestFlow` is a strategy that represents expectations for the current test. All of them should be a child of [AbstractTestFlow](https://github.com/vizabi/readers-test/blob/master/src/test-flow.ts#L6) and should implement [testIt](https://github.com/vizabi/readers-test/blob/master/src/test-flow.ts#L11) method.
+## How to add tests
 
-All of current test flows compare result by DDF reader with predefined result fixture.
+The first part of tests creation is usual: you should create `*.spec.ts` file in `test` folder. Put `describe` block (or blocks) to the spec file and call `runTests` utility method:
 
-Next test flows are available at this moment:
+```typescript
+import { runTests } from '../src/test-utils';
+// ....
 
- * `GenericTestFlow` - an accurate comparison that ignores the order of records. Can be slow on huge results.
- * `ExactTestFlow` - an accurate comparison based on deep equal functionality. Can be slow on huge results.
- * `QuickExactTestFlow` - String comparison based. Fast, but not generic.
- * `OnlySameQuantityTestFlow` - compare only record count between DDF reader result and fixture. Fastest, but inaccurate.
+describe('Concepts supporting', () => {
+  // see Test case
+  runTests([testCase, testCase1, ...]);
+});
+```
