@@ -7,7 +7,8 @@
     "test": "mocha --require ts-node/register --timeout 200000 test/**/*.spec.ts",
     "test-concepts": "mocha --require ts-node/register --timeout 200000 test/concepts.spec.ts",
     "test-entities": "mocha --require ts-node/register --timeout 200000 test/entities.spec.ts",
-    "test-datapoints": "mocha --require ts-node/register --timeout 200000 test/datapoints.spec.ts"
+    "test-datapoints": "mocha --require ts-node/register --timeout 200000 test/datapoints.spec.ts",
+    "test-schema": "mocha --require ts-node/register --timeout 200000 test/schema.spec.ts"
   },
   "repository": {
     "type": "git",
