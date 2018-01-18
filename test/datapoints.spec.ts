@@ -1,5 +1,4 @@
 import { executionSummaryTable, runTests } from '../src/test-utils';
-import { ExactTestFlow, GenericTestFlow, OnlySameQuantityTestFlow, QuickExactTestFlow } from '../src/test-flow';
 import { TestCase } from '../src/test-case';
 import {
   sg,
@@ -11,7 +10,11 @@ import {
   sgmixentity,
   staticassets,
   datetesting
-} from '../src/settings/datasets';
+} from '../src/settings/datasources';
+import { ExactExpectationStrategy } from '../src/expectations/exact-expectation-strategy';
+import { GenericExpectationStrategy } from '../src/expectations/generic-expectation-strategy';
+import { OnlySameQuantityExpectationStrategy } from '../src/expectations/only-same-quantity-expectation-strategy';
+import { QuickExactExpectationStrategy } from '../src/expectations/quick-exact-expectation-strategy';
 
 describe('Datapoints supporting', () => {
   const aggregatedData = {};
@@ -22,9 +25,9 @@ describe('Datapoints supporting', () => {
 
   runTests([
     new TestCase()
-      .forDataset(sg)
+      .forDataSource(sg)
       .withTitle('plain query should be processed correctly')
-      .withFixturePath('../test/result-fixtures/datapoints/datapoints-1-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-1-#datasource#.json')
       .withRequest({
         from: 'datapoints',
         animatable: 'time',
@@ -38,11 +41,11 @@ describe('Datapoints supporting', () => {
         grouping: {},
         order_by: ['time', 'geo']
       })
-      .withFlowConstructor(ExactTestFlow),
+      .withExpectationStrategy(ExactExpectationStrategy),
     new TestCase()
-      .forDataset(sg)
+      .forDataSource(sg)
       .withTitle('joins query should be processed correctly')
-      .withFixturePath('../test/result-fixtures/datapoints/datapoints-2-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-2-#datasource#.json')
       .withRequest({
         select: {
           key: ['geo', 'time'],
@@ -79,11 +82,11 @@ describe('Datapoints supporting', () => {
           }
         }
       })
-      .withFlowConstructor(GenericTestFlow),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
-      .forDataset(sg)
+      .forDataSource(sg)
       .withTitle('joins query by one year should be processed correctly')
-      .withFixturePath('../test/result-fixtures/datapoints/datapoints-3-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-3-#datasource#.json')
       .withRequest({
         from: 'datapoints',
         animatable: 'time',
@@ -98,11 +101,11 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['time']
       })
-      .withFlowConstructor(GenericTestFlow),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
-      .forDataset(sg)
+      .forDataSource(sg)
       .withTitle('joins query by all period should be processed correctly')
-      .withFixturePath('../test/result-fixtures/datapoints/datapoints-4-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-4-#datasource#.json')
       .withRequest({
         from: 'datapoints',
         animatable: 'time',
@@ -119,11 +122,11 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['time']
       })
-      .withFlowConstructor(OnlySameQuantityTestFlow),
+      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
     new TestCase()
-      .forDataset(sgtiny)
+      .forDataSource(sgtiny)
       .withTitle('query by "ago" country should be processed correctly')
-      .withFixturePath('../test/result-fixtures/datapoints/datapoints-5-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-5-#datasource#.json')
       .withRequest({
         language: 'en',
         from: 'datapoints',
@@ -141,11 +144,11 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['time']
       })
-      .withFlowConstructor(OnlySameQuantityTestFlow),
+      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
     new TestCase()
-      .forDataset(popwpp)
+      .forDataSource(popwpp)
       .withTitle('query by gender, age, and country with code 900 should be processed correctly')
-      .withFixturePath('../test/result-fixtures/datapoints/datapoints-6-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-6-#datasource#.json')
       .withRequest({
         language: 'en',
         from: 'datapoints',
@@ -162,11 +165,11 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['year']
       })
-      .withFlowConstructor(OnlySameQuantityTestFlow),
+      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
     new TestCase()
-      .forDataset(sgtiny)
+      .forDataSource(sgtiny)
       .withTitle('query by "americas" and "asia" regions should be processed correctly')
-      .withFixturePath('../test/result-fixtures/datapoints/datapoints-7-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-7-#datasource#.json')
       .withRequest({
         language: 'en',
         from: 'datapoints',
@@ -183,11 +186,11 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['time']
       })
-      .withFlowConstructor(OnlySameQuantityTestFlow),
+      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
     new TestCase()
-      .forDataset(bubbles3)
+      .forDataSource(bubbles3)
       .withTitle('should consume files with many indicators in different columns')
-      .withFixturePath('../test/result-fixtures/datapoints/datapoints-8-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-8-#datasource#.json')
       .withRequest({
         language: 'en',
         from: 'datapoints',
@@ -200,11 +203,11 @@ describe('Datapoints supporting', () => {
         join: {},
         order_by: ['time']
       })
-      .withFlowConstructor(OnlySameQuantityTestFlow),
+      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
     new TestCase()
-      .forDataset(popwppbig)
-      .withTitle('multidimentional dataset reading should return expected result')
-      .withFixturePath('../test/result-fixtures/datapoints/datapoints-9-#dataset#.json')
+      .forDataSource(popwppbig)
+      .withTitle('multidimentional dataSource reading should return expected result')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-9-#datasource#.json')
       .withRequest({
         language: 'en',
         from: 'datapoints',
@@ -223,11 +226,11 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['year']
       })
-      .withFlowConstructor(OnlySameQuantityTestFlow),
+      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
     new TestCase()
-      .forDataset(presentation)
+      .forDataSource(presentation)
       .withTitle('query with boolean condition should be processed correctly')
-      .withFixturePath('../test/result-fixtures/datapoints/datapoints-10-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-10-#datasource#.json')
       .withRequest({
         language: 'en',
         from: 'datapoints',
@@ -245,11 +248,11 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['time']
       })
-      .withFlowConstructor(OnlySameQuantityTestFlow),
+      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
     new TestCase()
-      .forDataset(staticassets)
+      .forDataSource(staticassets)
       .withTitle('query with static assets should be processed correctly')
-      .withFixturePath('../test/result-fixtures/datapoints/datapoints-11-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-11-#datasource#.json')
       .withRequest({
         language: 'en',
         from: 'datapoints',
@@ -267,12 +270,12 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['time']
       })
-      .withFlowConstructor(QuickExactTestFlow),
+      .withExpectationStrategy(QuickExactExpectationStrategy),
     // todo: new reader minus profit!
     new TestCase()
-      .forDataset(popwppbig)
+      .forDataSource(popwppbig)
       .withTitle('query with join and world4region should be processed correctly')
-      .withFixturePath('../test/result-fixtures/datapoints/datapoints-12-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-12-#datasource#.json')
       .withRequest({
         language: 'en',
         from: 'datapoints',
@@ -290,11 +293,11 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['year']
       })
-      .withFlowConstructor(OnlySameQuantityTestFlow),
+      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
     new TestCase()
-      .forDataset(sgmixentity)
-      .withTitle('query on dataset that contains mixed kinds of entities in the same file should be processed correctly')
-      .withFixturePath('../test/result-fixtures/datapoints/datapoints-13-#dataset#.json')
+      .forDataSource(sgmixentity)
+      .withTitle('query on dataSource that contains mixed kinds of entities in the same file should be processed correctly')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-13-#datasource#.json')
       .withRequest({
         language: 'en',
         from: 'datapoints',
@@ -314,11 +317,11 @@ describe('Datapoints supporting', () => {
           'time'
         ]
       })
-      .withFlowConstructor(QuickExactTestFlow),
+      .withExpectationStrategy(QuickExactExpectationStrategy),
     new TestCase()
-      .forDataset(sg)
-      .withTitle('query on dataset when datapoint record contains domain but request contains entity set should be processed correctly')
-      .withFixturePath('../test/result-fixtures/datapoints/datapoints-14-#dataset#.json')
+      .forDataSource(sg)
+      .withTitle('query on dataSource when datapoint record contains domain but request contains entity set should be processed correctly')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-14-#datasource#.json')
       .withRequest({
         select: {
           key: ['country', 'time'],
@@ -344,11 +347,11 @@ describe('Datapoints supporting', () => {
         order_by: ['country', 'time'],
         language: 'en'
       })
-      .withFlowConstructor(OnlySameQuantityTestFlow),
+      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
     new TestCase()
-      .forDataset(datetesting)
+      .forDataSource(datetesting)
       .withTitle('query by full date should be processed correctly')
-      .withFixturePath('../test/result-fixtures/datapoints/datapoints-15-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-15-#datasource#.json')
       .withRequest({
         select: {
           key: ['currency', 'day'],
@@ -364,11 +367,11 @@ describe('Datapoints supporting', () => {
           ]
         }
       })
-      .withFlowConstructor(OnlySameQuantityTestFlow),
+      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
     new TestCase()
-      .forDataset(datetesting)
+      .forDataSource(datetesting)
       .withTitle('query by month should be processed correctly')
-      .withFixturePath('../test/result-fixtures/datapoints/datapoints-16-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-16-#datasource#.json')
       .withRequest({
         select: {
           key: ['currency', 'month'],
@@ -384,6 +387,6 @@ describe('Datapoints supporting', () => {
           ]
         }
       })
-      .withFlowConstructor(OnlySameQuantityTestFlow)
+      .withExpectationStrategy(OnlySameQuantityExpectationStrategy)
   ], aggregatedData);
 });

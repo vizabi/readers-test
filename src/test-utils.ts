@@ -1,7 +1,8 @@
 import { table } from 'table';
 import { head, keys } from 'lodash';
 import { TestCase } from './test-case';
-import { readersCases } from './settings/readers-cases';
+import { familyMembers } from './settings/family-members';
+import { AbstractExpectationStrategy } from "./expectations/abstract-expectation-strategy";
 
 export function executionSummaryTable(aggregatedData) {
   const testTitles = keys(aggregatedData);
@@ -30,25 +31,25 @@ export function executionSummaryTable(aggregatedData) {
   console.log(output);
 }
 
-export function runTests(testCases: TestCase[], aggregatedData = {}) {
+export function runTests(testCases: TestCase<AbstractExpectationStrategy>[], aggregatedData = {}) {
   for (const testCase of testCases) {
     testCase.checkConstraints();
 
-    for (const dataset of testCase.datasets) {
+    for (const dataset of testCase.dataSources) {
       const testCaseTitleWithDataset = `${testCase.title} on "${dataset.name}"`;
 
       aggregatedData[testCaseTitleWithDataset] = {};
 
-      for (const readerCase of readersCases) {
-        if (dataset === readerCase.dataset) {
+      for (const readerCase of familyMembers) {
+        if (dataset === readerCase.dataSource) {
           readerCase.checkConstraints();
 
           aggregatedData[testCaseTitleWithDataset][readerCase.getTitle()] = {
             executionTime: null
           };
 
-          const title = `"${readerCase.getTitle()}" on "${readerCase.dataset.title}": ${testCase.title}`;
-          const flow = new testCase.flowConstructor(testCase.fixturePath);
+          const title = `"${readerCase.getTitle()}" on "${readerCase.dataSource.title} (${readerCase.dataSource.name})": ${testCase.title}`;
+          const flow = new testCase.expectationStrategy(testCase.fixturePath);
 
           it(title, done => {
             const timeStart = new Date().getTime();
@@ -63,7 +64,7 @@ export function runTests(testCases: TestCase[], aggregatedData = {}) {
               }
 
               try {
-                flow.testIt(err, data, readerCase.dataset.name);
+                flow.testIt(err, data, readerCase.dataSource.name);
                 done();
               } catch (err) {
                 done(err);

@@ -1,7 +1,7 @@
 import { executionSummaryTable, runTests } from '../src/test-utils';
-import { GenericTestFlow } from '../src/test-flow';
 import { TestCase } from '../src/test-case';
-import { sg } from '../src/settings/datasets';
+import { sg } from '../src/settings/datasources';
+import { GenericExpectationStrategy } from '../src/expectations/generic-expectation-strategy';
 
 describe('Concepts supporting', () => {
   const aggregatedData = {};
@@ -12,9 +12,9 @@ describe('Concepts supporting', () => {
 
   runTests([
     new TestCase()
-      .forDataset(sg)
+      .forDataSource(sg)
       .withTitle('4 fields selects should be expected')
-      .withFixturePath('../test/result-fixtures/concepts/concepts-1-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/concepts/concepts-1-#datasource#.json')
       .withRequest({
         select: {
           key: ['concept'],
@@ -29,11 +29,11 @@ describe('Concepts supporting', () => {
           ]
         }
       })
-      .withFlowConstructor(GenericTestFlow),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
-      .forDataset(sg)
+      .forDataSource(sg)
       .withTitle('3 fields selects should be expected')
-      .withFixturePath('../test/result-fixtures/concepts/concepts-2-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/concepts/concepts-2-#datasource#.json')
       .withRequest({
         select: {
           key: ['concept'],
@@ -48,11 +48,11 @@ describe('Concepts supporting', () => {
           ]
         }
       })
-      .withFlowConstructor(GenericTestFlow),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
-      .forDataset(sg)
+      .forDataSource(sg)
       .withTitle('ar-SA base data selects should be expected')
-      .withFixturePath('../test/result-fixtures/concepts/concepts-3-#dataset#.json')
+      .withFixturePath('../../test/result-fixtures/concepts/concepts-3-#datasource#.json')
       .withRequest({
         language: 'ar-SA',
         select: {
@@ -68,6 +68,6 @@ describe('Concepts supporting', () => {
           ]
         }
       })
-      .withFlowConstructor(GenericTestFlow)
+      .withExpectationStrategy(GenericExpectationStrategy)
   ], aggregatedData);
 });

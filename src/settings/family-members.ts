@@ -1,85 +1,87 @@
-import { AbstractReaderProvider, DdfCsvNewReaderProvider, DdfCsvReaderProvider } from '../reader-providers';
 import {
   bubbles3, datetesting, gmassets, popwpp, popwppbig, presentation, sankey, sg, sgmixentity, sgtiny,
   staticassets
-} from './datasets';
+} from './datasources';
+import { AbstractFamilyMember } from '../family-definition/abstract-family-member';
+import { DdfCsvReader } from '../family-definition/ddf-csv-reader';
+import { DdfCsvNewReader } from '../family-definition/ddf-csv-new-reader';
 
-export const readersCases: AbstractReaderProvider[] = [
+export const familyMembers: AbstractFamilyMember[] = [
 
-  new DdfCsvReaderProvider()
-    .forDataset(sg)
+  new DdfCsvReader()
+    .forDataSource(sg)
     .init({path: './test/data-fixtures/systema_globalis'}),
-  new DdfCsvNewReaderProvider()
-    .forDataset(sg)
+  new DdfCsvNewReader()
+    .forDataSource(sg)
     .init({path: './test/data-fixtures/systema_globalis'}),
 
-  new DdfCsvReaderProvider()
-    .forDataset(presentation)
+  new DdfCsvReader()
+    .forDataSource(presentation)
     .init({path: './test/data-fixtures/presentation_set'}),
-  new DdfCsvNewReaderProvider()
-    .forDataset(presentation)
+  new DdfCsvNewReader()
+    .forDataSource(presentation)
     .init({path: './test/data-fixtures/presentation_set'}),
 
-  new DdfCsvReaderProvider()
-    .forDataset(sankey)
+  new DdfCsvReader()
+    .forDataSource(sankey)
     .init({path: './test/data-fixtures/sankey'}),
-  new DdfCsvNewReaderProvider()
-    .forDataset(sankey)
+  new DdfCsvNewReader()
+    .forDataSource(sankey)
     .init({path: './test/data-fixtures/sankey'}),
 
-  new DdfCsvReaderProvider()
-    .forDataset(sgtiny)
+  new DdfCsvReader()
+    .forDataSource(sgtiny)
     .init({path: './test/data-fixtures/systema_globalis_tiny'}),
-  new DdfCsvNewReaderProvider()
-    .forDataset(sgtiny)
+  new DdfCsvNewReader()
+    .forDataSource(sgtiny)
     .init({path: './test/data-fixtures/systema_globalis_tiny'}),
 
-  new DdfCsvReaderProvider()
-    .forDataset(popwpp)
+  new DdfCsvReader()
+    .forDataSource(popwpp)
     .init({path: './test/data-fixtures/population_wpp'}),
-  new DdfCsvNewReaderProvider()
-    .forDataset(popwpp)
+  new DdfCsvNewReader()
+    .forDataSource(popwpp)
     .init({path: './test/data-fixtures/population_wpp'}),
 
-  new DdfCsvReaderProvider()
-    .forDataset(bubbles3)
+  new DdfCsvReader()
+    .forDataSource(bubbles3)
     .init({path: './test/data-fixtures/ddf--bubbles-3'}),
-  new DdfCsvNewReaderProvider()
-    .forDataset(bubbles3)
+  new DdfCsvNewReader()
+    .forDataSource(bubbles3)
     .init({path: './test/data-fixtures/ddf--bubbles-3'}),
 
-  new DdfCsvReaderProvider()
-    .forDataset(popwppbig)
+  new DdfCsvReader()
+    .forDataSource(popwppbig)
     .init({path: './test/data-fixtures/ddf--gapminder--population.big'}),
-  new DdfCsvNewReaderProvider()
-    .forDataset(popwppbig)
+  new DdfCsvNewReader()
+    .forDataSource(popwppbig)
     .init({path: './test/data-fixtures/ddf--gapminder--population.big'}),
 
-  new DdfCsvReaderProvider()
-    .forDataset(sgmixentity)
+  new DdfCsvReader()
+    .forDataSource(sgmixentity)
     .init({path: './test/data-fixtures/sg_mix_entity'}),
-  new DdfCsvNewReaderProvider()
-    .forDataset(sgmixentity)
+  new DdfCsvNewReader()
+    .forDataSource(sgmixentity)
     .init({path: './test/data-fixtures/sg_mix_entity'}),
 
-  new DdfCsvReaderProvider()
-    .forDataset(staticassets)
+  new DdfCsvReader()
+    .forDataSource(staticassets)
     .init({path: './test/data-fixtures/static-assets'}),
-  new DdfCsvNewReaderProvider()
-    .forDataset(staticassets)
+  new DdfCsvNewReader()
+    .forDataSource(staticassets)
     .init({path: './test/data-fixtures/static-assets'}),
 
-  new DdfCsvReaderProvider()
-    .forDataset(gmassets)
+  new DdfCsvReader()
+    .forDataSource(gmassets)
     .init({path: './test/data-fixtures/ddf--gapminder--static_assets'}),
-  new DdfCsvNewReaderProvider()
-    .forDataset(gmassets)
+  new DdfCsvNewReader()
+    .forDataSource(gmassets)
     .init({path: './test/data-fixtures/ddf--gapminder--static_assets'}),
 
-  new DdfCsvReaderProvider()
-    .forDataset(datetesting)
+  new DdfCsvReader()
+    .forDataSource(datetesting)
     .init({path: './test/data-fixtures/ddf--gapminder--date_testing'}),
-  new DdfCsvNewReaderProvider()
-    .forDataset(datetesting)
+  new DdfCsvNewReader()
+    .forDataSource(datetesting)
     .init({path: './test/data-fixtures/ddf--gapminder--date_testing'})
 ];

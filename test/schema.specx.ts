@@ -1,15 +1,15 @@
 import { runTests } from '../src/test-utils';
 import { GenericTestFlow, QuickExactTestFlow } from '../src/test-flow';
 import { TestCase } from '../src/test-case';
-import { Dataset } from '../src/settings/datasets';
+import { DataSource } from '../src/settings/datasources';
 
 describe('Schema supporting', () => {
   describe('for concepts', () => {
     runTests([
       new TestCase()
-        .forDataset(Dataset.sg)
+        .forDataset(DataSource.sg)
         .withTitle('result for #readerProvider#')
-        .withFixturePath('../test/result-fixtures/schema/schema-1-#dataset#.json')
+        .withFixturePath('../test/result-fixtures/schema/schema-1-#dataSource#.json')
         .withRequest({
           select: {
             key: ["key", "value"],
@@ -17,15 +17,15 @@ describe('Schema supporting', () => {
           },
           from: "concepts.schema"
         })
-        .withFlowConstructor(GenericTestFlow),
+        .withExpectationStrategy(GenericTestFlow),
     ]);
   });
   describe('for entities', () => {
     runTests([
       new TestCase()
-        .forDataset(Dataset.sg)
+        .forDataset(DataSource.sg)
         .withTitle('result for #readerProvider#')
-        .withFixturePath('../test/result-fixtures/schema/schema-2-#dataset#.json')
+        .withFixturePath('../test/result-fixtures/schema/schema-2-#dataSource#.json')
         .withRequest({
           select: {
             key: ["key", "value"],
@@ -33,15 +33,15 @@ describe('Schema supporting', () => {
           },
           from: "entities.schema"
         })
-        .withFlowConstructor(GenericTestFlow),
+        .withExpectationStrategy(GenericTestFlow),
     ]);
   });
   describe('for datapoints', () => {
     runTests([
       new TestCase()
-        .forDataset(Dataset.sg)
+        .forDataset(DataSource.sg)
         .withTitle('result for #readerProvider# should response be expected for simple request')
-        .withFixturePath('../test/result-fixtures/schema/schema-3-#dataset#.json')
+        .withFixturePath('../test/result-fixtures/schema/schema-3-#dataSource#.json')
         .withRequest({
           select: {
             key: ["key", "value"],
@@ -49,11 +49,11 @@ describe('Schema supporting', () => {
           },
           from: "datapoints.schema"
         })
-        .withFlowConstructor(QuickExactTestFlow),
+        .withExpectationStrategy(QuickExactTestFlow),
       new TestCase()
-        .forDataset(Dataset.sg)
+        .forDataset(DataSource.sg)
         .withTitle('result for #readerProvider# should response be expected for SG')
-        .withFixturePath('../test/result-fixtures/schema/schema-4-#dataset#.json')
+        .withFixturePath('../test/result-fixtures/schema/schema-4-#dataSource#.json')
         .withRequest({
           select: {
             key: ["key", "value"],
@@ -61,11 +61,11 @@ describe('Schema supporting', () => {
           },
           from: "datapoints.schema"
         })
-        .withFlowConstructor(QuickExactTestFlow),
+        .withExpectationStrategy(QuickExactTestFlow),
       new TestCase()
-        .forDataset(Dataset.sankey)
+        .forDataset(DataSource.sankey)
         .withTitle('result for #readerProvider#')
-        .withFixturePath('../test/result-fixtures/schema/schema-5-#dataset#.json')
+        .withFixturePath('../test/result-fixtures/schema/schema-5-#dataSource#.json')
         .withRequest({
           select: {
             key: ["key", "value"],
@@ -73,14 +73,14 @@ describe('Schema supporting', () => {
           },
           from: "datapoints.schema"
         })
-        .withFlowConstructor(GenericTestFlow)
+        .withExpectationStrategy(GenericTestFlow)
     ]);
   });
   describe('for general query', () => {
     new TestCase()
-      .forDataset(Dataset.sg)
+      .forDataset(DataSource.sg)
       .withTitle('result for #readerProvider#')
-      .withFixturePath('../test/result-fixtures/schema/schema-6-#dataset#.json')
+      .withFixturePath('../test/result-fixtures/schema/schema-6-#dataSource#.json')
       .withRequest({
         select: {
           key: ["key", "value"],
@@ -88,6 +88,6 @@ describe('Schema supporting', () => {
         },
         from: "*.schema"
       })
-      .withFlowConstructor(GenericTestFlow)
+      .withExpectationStrategy(GenericTestFlow)
   });
 });

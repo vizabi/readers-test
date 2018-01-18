@@ -368,7 +368,7 @@ export function ddfCsvReader(path: string) {
     //  - where: { geo: $geo }, join: { "$geo": { key: geo, where: { ... }}}
     //  - where: { year: $year }, join: { "$year": { key: year, where { ... }}}
     if (conceptsLookup.get(join.key).concept_type === "time") {
-      // time, no query needed as time values are not explicit in the dataset
+      // time, no query needed as time values are not explicit in the dataSource
       // assumption: there are no time-properties. E.g. data like <year>,population
       return Promise.resolve({[joinID]: join.where});
     } else {

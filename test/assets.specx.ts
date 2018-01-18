@@ -1,13 +1,13 @@
 import { isEqual } from 'lodash';
 import * as chai from 'chai';
-import { Dataset } from '../src/settings/datasets';
-import { readersCases } from '../src/test-utils';
+import { DataSource } from '../src/settings/datasources';
+import { familyMembers } from '../src/test-utils';
 
 const expect = chai.expect;
 
 describe('Assets supporting', () => {
   readersCases
-    .filter(readerProvider => readerProvider.dataset === Dataset.gmassets)
+    .filter(readerProvider => readerProvider.dataSource === DataSource.gmassets)
     .forEach(readerProvider => {
       it('should be expected result for JSON based asset', () => {
         const EXPECTED_CONTENT = require('./data-fixtures/ddf--gapminder--static_assets/assets/world-50m.json');
@@ -20,7 +20,7 @@ describe('Assets supporting', () => {
     });
 
   readersCases
-    .filter(readerProvider => readerProvider.dataset === Dataset.gmassets)
+    .filter(readerProvider => readerProvider.dataSource === DataSource.gmassets)
     .forEach(readerProvider => {
       it('should be expected result for TEXT based asset', () => {
         const EXPECTED_CONTENT = 'test';
