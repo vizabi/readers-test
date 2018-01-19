@@ -14,54 +14,6 @@
   {
     "geo": "world",
     "year": "2017",
-    "age": "2",
-    "population": 135901732
-  },
-  {
-    "geo": "world",
-    "year": "2017",
-    "age": "3",
-    "population": 134868074
-  },
-  {
-    "geo": "world",
-    "year": "2017",
-    "age": "4",
-    "population": 133735232
-  },
-  {
-    "geo": "world",
-    "year": "2017",
-    "age": "5",
-    "population": 132522258
-  },
-  {
-    "geo": "world",
-    "year": "2017",
-    "age": "6",
-    "population": 131248089
-  },
-  {
-    "geo": "world",
-    "year": "2017",
-    "age": "7",
-    "population": 129929498
-  },
-  {
-    "geo": "world",
-    "year": "2017",
-    "age": "8",
-    "population": 128583228
-  },
-  {
-    "geo": "world",
-    "year": "2017",
-    "age": "9",
-    "population": 127239532
-  },
-  {
-    "geo": "world",
-    "year": "2017",
     "age": "10",
     "population": 125921928
   },
@@ -118,6 +70,12 @@
     "year": "2017",
     "age": "19",
     "population": 117064398
+  },
+  {
+    "geo": "world",
+    "year": "2017",
+    "age": "2",
+    "population": 135901732
   },
   {
     "geo": "world",
@@ -182,6 +140,12 @@
   {
     "geo": "world",
     "year": "2017",
+    "age": "3",
+    "population": 134868074
+  },
+  {
+    "geo": "world",
+    "year": "2017",
     "age": "30",
     "population": 121033918
   },
@@ -238,6 +202,12 @@
     "year": "2017",
     "age": "39",
     "population": 98054494
+  },
+  {
+    "geo": "world",
+    "year": "2017",
+    "age": "4",
+    "population": 133735232
   },
   {
     "geo": "world",
@@ -302,6 +272,12 @@
   {
     "geo": "world",
     "year": "2017",
+    "age": "5",
+    "population": 132522258
+  },
+  {
+    "geo": "world",
+    "year": "2017",
     "age": "50",
     "population": 88316865
   },
@@ -358,6 +334,12 @@
     "year": "2017",
     "age": "59",
     "population": 65902944
+  },
+  {
+    "geo": "world",
+    "year": "2017",
+    "age": "6",
+    "population": 131248089
   },
   {
     "geo": "world",
@@ -422,6 +404,12 @@
   {
     "geo": "world",
     "year": "2017",
+    "age": "7",
+    "population": 129929498
+  },
+  {
+    "geo": "world",
+    "year": "2017",
     "age": "70",
     "population": 37617989
   },
@@ -482,6 +470,12 @@
   {
     "geo": "world",
     "year": "2017",
+    "age": "8",
+    "population": 128583228
+  },
+  {
+    "geo": "world",
+    "year": "2017",
     "age": "80",
     "population": 18834179
   },
@@ -538,6 +532,12 @@
     "year": "2017",
     "age": "89",
     "population": 5704945
+  },
+  {
+    "geo": "world",
+    "year": "2017",
+    "age": "9",
+    "population": 127239532
   },
   {
     "geo": "world",

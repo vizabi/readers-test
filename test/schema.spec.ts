@@ -49,7 +49,7 @@ describe('Schema supporting', () => {
         .withExpectationStrategy(GenericExpectationStrategy),
     ], aggregatedData);
   });
-  /*describe('for datapoints', () => {
+  describe('for datapoints', () => {
     const aggregatedData = {};
 
     after(() => {
@@ -94,19 +94,27 @@ describe('Schema supporting', () => {
         })
         .withExpectationStrategy(GenericExpectationStrategy)
     ], aggregatedData);
-  });*/
-  /*describe('for general query', () => {
-    new TestCase()
-      .forDataSource(sg)
-      .withTitle('result for #readerProvider#')
-      .withFixturePath('../test/result-fixtures/schema/schema-6-#datasource#.json')
-      .withRequest({
-        select: {
-          key: ["key", "value"],
-          value: []
-        },
-        from: "*.schema"
-      })
-      .withExpectationStrategy(GenericExpectationStrategy)
-  });*/
+  });
+  describe('for general query', () => {
+    const aggregatedData = {};
+
+    after(() => {
+      executionSummaryTable(aggregatedData);
+    });
+
+    runTests([
+      new TestCase()
+        .forDataSource(sg)
+        .withTitle('simple test')
+        .withFixturePath('../../test/result-fixtures/schema/schema-6-#datasource#.json')
+        .withRequest({
+          select: {
+            key: ["key", "value"],
+            value: []
+          },
+          from: "*.schema"
+        })
+        .withExpectationStrategy(GenericExpectationStrategy)
+    ], aggregatedData);
+  });
 });

@@ -14,7 +14,6 @@ import {
 import { ExactExpectationStrategy } from '../src/expectations/exact-expectation-strategy';
 import { GenericExpectationStrategy } from '../src/expectations/generic-expectation-strategy';
 import { OnlySameQuantityExpectationStrategy } from '../src/expectations/only-same-quantity-expectation-strategy';
-import { QuickExactExpectationStrategy } from '../src/expectations/quick-exact-expectation-strategy';
 
 describe('Datapoints supporting', () => {
   const aggregatedData = {};
@@ -120,9 +119,9 @@ describe('Datapoints supporting', () => {
             where: {'is--country': true}
           }
         },
-        order_by: ['time']
+        order_by: ['time', 'geo']
       })
-      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
+      .withExpectationStrategy(ExactExpectationStrategy),
     new TestCase()
       .forDataSource(sgtiny)
       .withTitle('query by "ago" country should be processed correctly')
@@ -142,9 +141,9 @@ describe('Datapoints supporting', () => {
           $geo: {key: 'geo', where: {'is--country': true, geo: {$in: ['ago']}}},
           $time: {key: 'time', where: {time: {$gte: '1800', $lte: '2015'}}}
         },
-        order_by: ['time']
+        order_by: ['time', 'geo']
       })
-      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
+      .withExpectationStrategy(ExactExpectationStrategy),
     new TestCase()
       .forDataSource(popwpp)
       .withTitle('query by gender, age, and country with code 900 should be processed correctly')
@@ -163,9 +162,9 @@ describe('Datapoints supporting', () => {
         join: {
           $country_code: {key: 'country_code', where: {country_code: {$in: ['900']}}}
         },
-        order_by: ['year']
+        order_by: ['country_code', 'year', 'gender', 'age']
       })
-      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
+      .withExpectationStrategy(ExactExpectationStrategy),
     new TestCase()
       .forDataSource(sgtiny)
       .withTitle('query by "americas" and "asia" regions should be processed correctly')
@@ -184,9 +183,9 @@ describe('Datapoints supporting', () => {
         join: {
           $geo: {key: 'geo', where: {world_4region: {$in: ['americas', 'asia']}}}
         },
-        order_by: ['time']
+        order_by: ['geo', 'time']
       })
-      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
+      .withExpectationStrategy(ExactExpectationStrategy),
     new TestCase()
       .forDataSource(bubbles3)
       .withTitle('should consume files with many indicators in different columns')
@@ -201,9 +200,9 @@ describe('Datapoints supporting', () => {
         },
         where: {},
         join: {},
-        order_by: ['time']
+        order_by: ['country', 'time']
       })
-      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
+      .withExpectationStrategy(ExactExpectationStrategy),
     new TestCase()
       .forDataSource(popwppbig)
       .withTitle('multidimentional dataSource reading should return expected result')
@@ -224,9 +223,9 @@ describe('Datapoints supporting', () => {
           $year: {key: 'year', where: {year: '2017'}},
           $age: {key: 'age', where: {age: {$nin: ['80plus', '100plus']}}}
         },
-        order_by: ['year']
+        order_by: ['geo', 'year', 'age']
       })
-      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
+      .withExpectationStrategy(ExactExpectationStrategy),
     new TestCase()
       .forDataSource(presentation)
       .withTitle('query with boolean condition should be processed correctly')
@@ -246,9 +245,9 @@ describe('Datapoints supporting', () => {
           $geo: {key: 'geo', where: {'un_state': true}},
           $time: {key: 'time', where: {time: {$gte: '1800', $lte: '2015'}}}
         },
-        order_by: ['time']
+        order_by: ['geo', 'time']
       })
-      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
+      .withExpectationStrategy(ExactExpectationStrategy),
     new TestCase()
       .forDataSource(staticassets)
       .withTitle('query with static assets should be processed correctly')
@@ -268,10 +267,9 @@ describe('Datapoints supporting', () => {
           $geo: {key: 'geo', where: {geo: {$in: ['world']}}},
           $time: {key: 'time', where: {time: '2015'}}
         },
-        order_by: ['time']
+        order_by: ['geo', 'time']
       })
-      .withExpectationStrategy(QuickExactExpectationStrategy),
-    // todo: new reader minus profit!
+      .withExpectationStrategy(ExactExpectationStrategy),
     new TestCase()
       .forDataSource(popwppbig)
       .withTitle('query with join and world4region should be processed correctly')
@@ -291,9 +289,9 @@ describe('Datapoints supporting', () => {
           $geo: {key: 'geo', where: {geo: {$in: ['world']}}},
           $age: {key: 'age', where: {age: {$nin: ['80plus', '100plus']}}}
         },
-        order_by: ['year']
+        order_by: ['geo', 'year', 'age']
       })
-      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
+      .withExpectationStrategy(ExactExpectationStrategy),
     new TestCase()
       .forDataSource(sgmixentity)
       .withTitle('query on dataSource that contains mixed kinds of entities in the same file should be processed correctly')
@@ -314,10 +312,11 @@ describe('Datapoints supporting', () => {
         where: {},
         join: {},
         order_by: [
+          'global',
           'time'
         ]
       })
-      .withExpectationStrategy(QuickExactExpectationStrategy),
+      .withExpectationStrategy(ExactExpectationStrategy),
     new TestCase()
       .forDataSource(sg)
       .withTitle('query on dataSource when datapoint record contains domain but request contains entity set should be processed correctly')
