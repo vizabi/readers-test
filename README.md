@@ -20,6 +20,7 @@ Apart from that, next additional options are present
  * `npm run test-concepts`
  * `npm run test-entities`
  * `npm run test-datapoints`
+ * `npm run test-schema`
 
 # Developers guide
 
@@ -92,7 +93,7 @@ Next implementations are available at this moment:
 
 ## Test case
 
-[TestCase](https://github.com/vizabi/readers-test/blob/master/src/test-case.ts) is a main term of this platform. It unites reader, dataset, and test.
+[TestCase](https://github.com/vizabi/readers-test/blob/master/src/test-case.ts) is a main term of this platform.
 
 You can see `Test case` definition [here](https://github.com/vizabi/readers-test/blob/master/src/test-case.ts)
 
@@ -136,7 +137,7 @@ Let explain some important points regarding initialization:
  * `withExpectationStrategy(GenericExpectationStrategy)` - set an expectation strategy for this case.
 
 
-## How to add tests
+## How to add new tests
 
 The first part of tests creation is usual: you should create `*.spec.ts` file in `test` folder. Put `describe` block (or blocks) to the spec file and call `runTests` utility method:
 
