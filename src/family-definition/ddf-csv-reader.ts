@@ -1,19 +1,19 @@
 import { AbstractFamilyMember } from './abstract-family-member';
 
-const ddfCsvReader = require('vizabi-ddfcsv-reader');
+const ddfCsvReader = require('../third-party/ddfcsv-0.x/vizabi-ddfcsv-reader-node');
 
 export class DdfCsvReader extends AbstractFamilyMember {
-  private readerObject;
+  private obj;
 
   getTitle(): string {
-    return 'DDFcsv';
+    return 'DDFcsv 0.14.5';
   }
 
-  getReaderObject() {
-    if (!this.readerObject) {
-      this.readerObject = ddfCsvReader.getDDFCsvReaderObject();
+  getObject() {
+    if (!this.obj) {
+      this.obj = ddfCsvReader.getDDFCsvReaderObject();
     }
 
-    return this.readerObject;
+    return this.obj;
   }
 }

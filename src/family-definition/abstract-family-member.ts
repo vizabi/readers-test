@@ -6,7 +6,7 @@ export abstract class AbstractFamilyMember {
 
   abstract getTitle(): string;
 
-  abstract getReaderObject();
+  abstract getObject();
 
   forDataSource(datset: DataSource) {
     this.dataSource = datset;
@@ -17,7 +17,7 @@ export abstract class AbstractFamilyMember {
   init(initData) {
     this.initData = initData;
 
-    this.getReaderObject().init(initData);
+    this.getObject().init(initData);
 
     return this;
   }
@@ -29,7 +29,7 @@ export abstract class AbstractFamilyMember {
   }
 
   read(request, onRead) {
-    this.getReaderObject().read(request).then(data => {
+    this.getObject().read(request).then(data => {
       onRead(null, data);
     }).catch(err => {
       onRead(err);

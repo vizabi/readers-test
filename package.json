@@ -8,7 +8,8 @@
     "test-concepts": "mocha --require ts-node/register --timeout 200000 test/concepts.spec.ts",
     "test-entities": "mocha --require ts-node/register --timeout 200000 test/entities.spec.ts",
     "test-datapoints": "mocha --require ts-node/register --timeout 200000 test/datapoints.spec.ts",
-    "test-schema": "mocha --require ts-node/register --timeout 200000 test/schema.spec.ts"
+    "test-schema": "mocha --require ts-node/register --timeout 200000 test/schema.spec.ts",
+    "test-assets": "mocha --require ts-node/register --timeout 200000 test/assets.spec.ts"
   },
   "repository": {
     "type": "git",
@@ -38,8 +39,7 @@
     "mocha": "4.1.0",
     "shelljs": "0.7.8",
     "ts-node": "4.1.0",
-    "typescript": "2.6.2",
-    "vizabi-ddfcsv-reader": "0.14.5"
+    "typescript": "2.6.2"
   },
   "dependencies": {
     "bluebird": "3.5.1",
