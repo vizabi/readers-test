@@ -1,5 +1,6 @@
 import * as chai from 'chai';
-import { isEqual } from 'lodash';
+import { isEmpty, keys } from 'lodash';
+import * as base64 from 'base-64';
 import { AbstractExpectationStrategy } from './abstract-expectation-strategy';
 
 const expect = chai.expect;
@@ -7,33 +8,43 @@ const expect = chai.expect;
 export class GenericExpectationStrategy extends AbstractExpectationStrategy {
   testIt(err, data, dataSourceSuffix) {
     const fixtureData = require(this.fixturePath.replace(/#datasource#/, dataSourceSuffix));
-    const differences = this.getDataDifferences(data, fixtureData);
+    const areEqual = this.equals(data, fixtureData);
     const fixtureDataStr = JSON.stringify(fixtureData, null, 2);
     const dataStr = JSON.stringify(data, null, 2);
-    const differencesStr = JSON.stringify(differences, null, 2);
 
     expect(!err).to.be.true;
     expect(data.length).to.equal(fixtureData.length);
-    expect(differences, `\noriginal:\n${fixtureDataStr}\ncurrent:${dataStr}\ndiff:${differencesStr}\n`).to.be.empty;
+    expect(areEqual, `\noriginal:\n${fixtureDataStr}\ncurrent:${dataStr}\n`).to.be.true;
   }
 
-  private getDataDifferences(data, fixtureData) {
-    const differences = [];
+  private equals(a, b) {
+    if (a.length !== b.length) {
 
-    for (let dataIndex = 0; dataIndex < data.length; dataIndex++) {
-      let existsIndex = 0;
-
-      for (let fixtureIndex = 0; fixtureIndex < fixtureData.length; fixtureIndex++) {
-        if (!isEqual(data[dataIndex], fixtureData[fixtureIndex])) {
-          existsIndex++;
-        }
-      }
-
-      if (existsIndex === 0) {
-        differences.push(data[dataIndex]);
-      }
+      return false;
     }
 
-    return differences;
+    const seen = {};
+
+    for (const o of a) {
+      const key = new Buffer(JSON.stringify(o, Object.keys(o).sort())).toString('base64');
+
+      if (!seen[key]) {
+        seen[key] = 0;
+      }
+
+      seen[key]++;
+    }
+
+    for (const o of b) {
+      const key = new Buffer(JSON.stringify(o, Object.keys(o).sort())).toString('base64');
+
+      if (!seen[key] && seen[key] !== 0) {
+        return false;
+      }
+
+      seen[key]--;
+    }
+
+    return isEmpty(keys(seen).filter(key => seen[key] > 0))
   }
 }

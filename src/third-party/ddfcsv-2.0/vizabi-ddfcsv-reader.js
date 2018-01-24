@@ -473,7 +473,8 @@ var DDFCsvReader =
 	                this._basepath = readerInfo.path;
 	                this._lastModified = readerInfo._lastModified;
 	                this.fileReader = externalFileReader || defaultFileReader;
-	                this.logger = logger || console;
+	                this.logger = logger;
+	                this.reader = ddf_csv_1.ddfCsvReader(this._basepath + "/datapackage.json", this.fileReader, this.logger);
 	            },
 	            getAsset: function getAsset(asset) {
 	                var _this = this;
@@ -497,11 +498,27 @@ var DDFCsvReader =
 	                    });
 	                });
 	            },
-	            read: function read(queryPar) {
+	            read: function read(queryPar, parsers) {
 	                var _this2 = this;
 	
+	                function prettifyData(data) {
+	                    return data.map(function (record) {
+	                        var keys = Object.keys(record);
+	                        keys.forEach(function (key) {
+	                            if (parsers[key]) {
+	                                record[key] = parsers[key](record[key]);
+	                            }
+	                        });
+	                        return record;
+	                    });
+	                }
 	                return new Promise(function (resolve) {
-	                    ddf_csv_1.ddfCsvReader(_this2._basepath + "/datapackage.json", _this2.fileReader, _this2.logger).query(queryPar).then(function (result) {
+	                    _this2.reader.query(queryPar).then(function (result) {
+	                        result = parsers ? prettifyData(result) : result;
+	                        if (_this2.logger && _this2.logger.log) {
+	                            logger.log(JSON.stringify(queryPar), result.length);
+	                            logger.log(result);
+	                        }
 	                        resolve(result);
 	                    });
 	                });
@@ -6404,36 +6421,36 @@ var DDFCsvReader =
 	var Promise = __webpack_require__(4);
 	var Papa = __webpack_require__(44);
 	function ddfCsvReader(path, fileReader, logger) {
-	    var internalConcepts = [{ concept: "concept", concept_type: "string", domain: null }, { concept: "concept_type", concept_type: "string", domain: null }];
-	    var operators = new Map([["$and", function (row, predicates) {
+	    var internalConcepts = [{ concept: 'concept', concept_type: 'string', domain: null }, { concept: 'concept_type', concept_type: 'string', domain: null }];
+	    var operators = new Map([['$and', function (row, predicates) {
 	        return predicates.every(function (p) {
 	            return applyFilterRow(row, p);
 	        });
-	    }], ["$or", function (row, predicates) {
+	    }], ['$or', function (row, predicates) {
 	        return predicates.some(function (p) {
 	            return applyFilterRow(row, p);
 	        });
-	    }], ["$not", function (row, predicate) {
+	    }], ['$not', function (row, predicate) {
 	        return !applyFilterRow(row, predicate);
-	    }], ["$nor", function (row, predicates) {
+	    }], ['$nor', function (row, predicates) {
 	        return !predicates.some(function (p) {
 	            return applyFilterRow(row, p);
 	        });
-	    }], ["$eq", function (rowValue, filterValue) {
-	        return rowValue == filterValue;
-	    }], ["$ne", function (rowValue, filterValue) {
-	        return rowValue != filterValue;
-	    }], ["$gt", function (rowValue, filterValue) {
+	    }], ['$eq', function (rowValue, filterValue) {
+	        return rowValue === filterValue;
+	    }], ['$ne', function (rowValue, filterValue) {
+	        return rowValue !== filterValue;
+	    }], ['$gt', function (rowValue, filterValue) {
 	        return rowValue > filterValue;
-	    }], ["$gte", function (rowValue, filterValue) {
+	    }], ['$gte', function (rowValue, filterValue) {
 	        return rowValue >= filterValue;
-	    }], ["$lt", function (rowValue, filterValue) {
+	    }], ['$lt', function (rowValue, filterValue) {
 	        return rowValue < filterValue;
-	    }], ["$lte", function (rowValue, filterValue) {
+	    }], ['$lte', function (rowValue, filterValue) {
 	        return rowValue <= filterValue;
-	    }], ["$in", function (rowValue, filterValue) {
+	    }], ['$in', function (rowValue, filterValue) {
 	        return filterValue.has(rowValue);
-	    }], ["$nin", function (rowValue, filterValue) {
+	    }], ['$nin', function (rowValue, filterValue) {
 	        return !filterValue.has(rowValue);
 	    }]]);
 	    var datapackagePath = getDatapackagePath(path);
@@ -6444,23 +6461,23 @@ var DDFCsvReader =
 	    var resourcesLookup = new Map();
 	    var conceptsLookup = new Map();
 	    var datapackage = void 0;
-	    function getDatapackagePath(path) {
-	        if (!path.endsWith("datapackage.json")) {
-	            if (!path.endsWith("/")) {
-	                path = path + "/";
+	    function getDatapackagePath(pathParam) {
+	        if (!pathParam.endsWith('datapackage.json')) {
+	            if (!pathParam.endsWith('/')) {
+	                pathParam = pathParam + '/';
 	            }
-	            path = path + "datapackage.json";
+	            pathParam = pathParam + 'datapackage.json';
 	        }
-	        return path;
+	        return pathParam;
 	    }
-	    function getBasePath(datapackagePath) {
-	        var dpPathSplit = datapackagePath.split("/");
+	    function getBasePath(datapackagePathParam) {
+	        var dpPathSplit = datapackagePathParam.split('/');
 	        dpPathSplit.pop();
-	        return dpPathSplit.join("/") + "/";
+	        return dpPathSplit.join('/') + '/';
 	    }
-	    function loadDataPackage(path) {
+	    function loadDataPackage(pathParam) {
 	        return new Promise(function (resolve, reject) {
-	            fileReader.readText(path, function (err, data) {
+	            fileReader.readText(pathParam, function (err, data) {
 	                if (err) {
 	                    return reject(err);
 	                }
@@ -6478,18 +6495,18 @@ var DDFCsvReader =
 	    function loadConcepts() {
 	        setConceptsLookup(internalConcepts);
 	        var conceptQuery = {
-	            select: { key: ["concept"], value: ["concept_type", "domain"] },
-	            from: "concepts"
+	            select: { key: ['concept'], value: ['concept_type', 'domain'] },
+	            from: 'concepts'
 	        };
 	        return queryData(conceptQuery).then(buildConceptsLookup).then(reparseConcepts);
 	    }
 	    function buildConceptsLookup(concepts) {
 	        var entitySetMembershipConcepts = concepts.filter(function (concept) {
-	            return concept.concept_type == "entity_set";
+	            return concept.concept_type === 'entity_set';
 	        }).map(function (concept) {
 	            return {
-	                concept: "is--" + concept.concept,
-	                concept_type: "boolean",
+	                concept: 'is--' + concept.concept,
+	                concept_type: 'boolean',
 	                domain: null
 	            };
 	        });
@@ -6497,13 +6514,13 @@ var DDFCsvReader =
 	        setConceptsLookup(concepts);
 	        return conceptsLookup;
 	    }
-	    function reparseConcepts(query) {
-	        var parsingFunctions = new Map([["boolean", function (str) {
-	            return str == "true" || str == "TRUE";
-	        }], ["measure", function (str) {
+	    function reparseConcepts() {
+	        var parsingFunctions = new Map([['boolean', function (str) {
+	            return str === 'true' || str === 'TRUE';
+	        }], ['measure', function (str) {
 	            return parseFloat(str);
 	        }]]);
-	        var resources = getResources(["concept"]);
+	        var resources = getResources(['concept']);
 	        var resourceUpdates = [].concat(_toConsumableArray(resources)).map(function (resource) {
 	            return resource.data.then(function (response) {
 	                var resourceConcepts = Object.keys(response.data[0]);
@@ -6550,39 +6567,39 @@ var DDFCsvReader =
 	    function setConceptsLookup(concepts) {
 	        conceptsLookup.clear();
 	        concepts.forEach(function (row) {
-	            return conceptsLookup.set(row["concept"], row);
+	            return conceptsLookup.set(row.concept, row);
 	        });
 	    }
-	    function query(query) {
-	        if (isSchemaQuery(query)) {
+	    function query(queryParam) {
+	        if (isSchemaQuery(queryParam)) {
 	            return datapackagePromise.then(function () {
-	                return querySchema(query);
+	                return querySchema(queryParam);
 	            });
 	        } else {
 	            return conceptsPromise.then(function () {
-	                return queryData(query);
+	                return queryData(queryParam);
 	            });
 	        }
 	    }
-	    function isSchemaQuery(query) {
-	        var fromClause = query.from || '';
-	        return fromClause.split(".")[1] === "schema";
+	    function isSchemaQuery(queryParam) {
+	        var fromClause = queryParam.from || '';
+	        return fromClause.split('.')[1] === 'schema';
 	    }
-	    function queryData(query) {
-	        var _query$select = query.select,
-	            _query$select$key = _query$select.key,
-	            key = _query$select$key === undefined ? [] : _query$select$key,
-	            _query$select$value = _query$select.value,
-	            value = _query$select$value === undefined ? [] : _query$select$value,
-	            _query$from = query.from,
-	            from = _query$from === undefined ? "" : _query$from,
-	            _query$where = query.where,
-	            where = _query$where === undefined ? {} : _query$where,
-	            _query$join = query.join,
-	            join = _query$join === undefined ? {} : _query$join,
-	            _query$order_by = query.order_by,
-	            order_by = _query$order_by === undefined ? [] : _query$order_by,
-	            language = query.language;
+	    function queryData(queryParam) {
+	        var _queryParam$select = queryParam.select,
+	            _queryParam$select$ke = _queryParam$select.key,
+	            key = _queryParam$select$ke === undefined ? [] : _queryParam$select$ke,
+	            _queryParam$select$va = _queryParam$select.value,
+	            value = _queryParam$select$va === undefined ? [] : _queryParam$select$va,
+	            _queryParam$from = queryParam.from,
+	            from = _queryParam$from === undefined ? '' : _queryParam$from,
+	            _queryParam$where = queryParam.where,
+	            where = _queryParam$where === undefined ? {} : _queryParam$where,
+	            _queryParam$join = queryParam.join,
+	            join = _queryParam$join === undefined ? {} : _queryParam$join,
+	            _queryParam$order_by = queryParam.order_by,
+	            order_by = _queryParam$order_by === undefined ? [] : _queryParam$order_by,
+	            language = queryParam.language;
 	
 	        var select = { key: key, value: value };
 	        var projection = new Set(select.key.concat(select.value));
@@ -6603,7 +6620,7 @@ var DDFCsvReader =
 	            var dataTables = resourceResponses.map(function (response) {
 	                return processResourceResponse(response, select, filterFields);
 	            });
-	            var queryResult = joinData.apply(undefined, [select.key, "overwrite"].concat(_toConsumableArray(dataTables))).filter(function (row) {
+	            var queryResult = joinData.apply(undefined, [select.key, 'overwrite'].concat(_toConsumableArray(dataTables))).filter(function (row) {
 	                return applyFilterRow(row, filter);
 	            }).map(function (row) {
 	                return fillMissingValues(row, projection);
@@ -6615,17 +6632,17 @@ var DDFCsvReader =
 	        });
 	    }
 	    function orderData(data) {
-	        var order_by = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : [];
+	        var orderBy = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : [];
 	
-	        if (order_by.length === 0) {
+	        if (orderBy.length === 0) {
 	            return;
 	        }
-	        var orderNormalized = order_by.map(function (orderPart) {
-	            if (typeof orderPart === "string") {
+	        var orderNormalized = orderBy.map(function (orderPart) {
+	            if (typeof orderPart === 'string') {
 	                return { concept: orderPart, direction: 1 };
 	            } else {
 	                var concept = Object.keys(orderPart)[0];
-	                var direction = orderPart[concept] == "asc" ? 1 : -1;
+	                var direction = orderPart[concept] === 'asc' ? 1 : -1;
 	                return { concept: concept, direction: direction };
 	            }
 	        });
@@ -6646,15 +6663,15 @@ var DDFCsvReader =
 	        var result = {};
 	        for (var field in where) {
 	            var fieldValue = where[field];
-	            if (["$and", "$or", "$nor"].includes(field)) {
+	            if (['$and', '$or', '$nor'].includes(field)) {
 	                result[field] = fieldValue.map(function (subFilter) {
 	                    return processWhere(subFilter, joinFilters);
 	                });
-	            } else if (field === "$in" || field === "$nin") {
+	            } else if (field === '$in' || field === '$nin') {
 	                result[field] = new Set(fieldValue);
-	            } else if (typeof joinFilters[fieldValue] !== "undefined") {
+	            } else if (typeof joinFilters[fieldValue] !== 'undefined') {
 	                Object.assign(result, joinFilters[fieldValue]);
-	            } else if ((typeof fieldValue === "undefined" ? "undefined" : _typeof(fieldValue)) === "object") {
+	            } else if ((typeof fieldValue === "undefined" ? "undefined" : _typeof(fieldValue)) === 'object') {
 	                result[field] = processWhere(fieldValue, joinFilters);
 	            } else {
 	                result[field] = fieldValue;
@@ -6668,22 +6685,22 @@ var DDFCsvReader =
 	        }
 	
 	        return filters.reduce(function (a, b) {
-	            a["$and"].push(b);
+	            a.$and.push(b);
 	            return a;
-	        }, { "$and": [] });
+	        }, { $and: [] });
 	    }
-	    function querySchema(query) {
-	        var getSchemaFromCollection = function getSchemaFromCollection(collection) {
-	            return datapackage.ddfSchema[collection].map(function (_ref3) {
+	    function querySchema(queryPar) {
+	        var getSchemaFromCollection = function getSchemaFromCollection(collectionPar) {
+	            return datapackage.ddfSchema[collectionPar].map(function (_ref3) {
 	                var primaryKey = _ref3.primaryKey,
 	                    value = _ref3.value;
 	                return { key: primaryKey, value: value };
 	            });
 	        };
-	        var collection = query.from.split('.')[0];
+	        var collection = queryPar.from.split('.')[0];
 	        if (datapackage.ddfSchema[collection]) {
 	            return getSchemaFromCollection(collection);
-	        } else if (collection == "*") {
+	        } else if (collection === '*') {
 	            return Object.keys(datapackage.ddfSchema).map(getSchemaFromCollection).reduce(function (a, b) {
 	                return a.concat(b);
 	            });
@@ -6700,7 +6717,7 @@ var DDFCsvReader =
 	            for (var _iterator2 = projection[Symbol.iterator](), _step2; !(_iteratorNormalCompletion2 = (_step2 = _iterator2.next()).done); _iteratorNormalCompletion2 = true) {
 	                var field = _step2.value;
 	
-	                if (typeof row[field] === "undefined") {
+	                if (typeof row[field] === 'undefined') {
 	                    row[field] = null;
 	                }
 	            }
@@ -6726,8 +6743,8 @@ var DDFCsvReader =
 	            var operator = operators.get(filterKey);
 	            if (operator) {
 	                return operator(row, filter[filterKey]);
-	            } else if (_typeof(filter[filterKey]) !== "object") {
-	                return operators.get("$eq")(row[filterKey], filter[filterKey]);
+	            } else if (_typeof(filter[filterKey]) !== 'object') {
+	                return operators.get('$eq')(row[filterKey], filter[filterKey]);
 	            } else {
 	                return applyFilterRow(row[filterKey], filter[filterKey]);
 	            }
@@ -6744,12 +6761,12 @@ var DDFCsvReader =
 	        return Object.assign(a, b);
 	    }
 	    function getJoinFilter(joinID, join) {
-	        if (conceptsLookup.get(join.key).concept_type === "time") {
+	        if (conceptsLookup.get(join.key).concept_type === 'time') {
 	            return Promise.resolve(_defineProperty({}, joinID, join.where));
 	        } else {
 	            return query({ select: { key: [join.key] }, where: join.where }).then(function (result) {
 	                return _defineProperty({}, joinID, _defineProperty({}, join.key, {
-	                    "$in": new Set(result.map(function (row) {
+	                    $in: new Set(result.map(function (row) {
 	                        return row[join.key];
 	                    }))
 	                }));
@@ -6759,7 +6776,7 @@ var DDFCsvReader =
 	    function getFilterFields(filter) {
 	        var fields = [];
 	        for (var field in filter) {
-	            if (["$and", "$or", "$not", "$nor"].includes(field)) {
+	            if (['$and', '$or', '$not', '$nor'].includes(field)) {
 	                filter[field].map(getFilterFields).forEach(function (subFields) {
 	                    return fields.push.apply(fields, _toConsumableArray(subFields));
 	                });
@@ -6769,7 +6786,7 @@ var DDFCsvReader =
 	        }
 	        return fields;
 	    }
-	    function filterConceptsByType(concept_types) {
+	    function filterConceptsByType(conceptTypes) {
 	        var conceptStrings = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : Array.from(conceptsLookup.keys());
 	
 	        var concepts = [];
@@ -6782,7 +6799,7 @@ var DDFCsvReader =
 	                var conceptString = _step3.value;
 	
 	                var concept = conceptsLookup.get(conceptString);
-	                if (concept_types.includes(concept.concept_type)) {
+	                if (conceptTypes.includes(concept.concept_type)) {
 	                    concepts.push(concept);
 	                }
 	            }
@@ -6805,7 +6822,7 @@ var DDFCsvReader =
 	    }
 	    function getEntityConceptRenameMap(queryKey, resourceKey) {
 	        var resourceKeySet = new Set(resourceKey);
-	        var entityConceptTypes = ["entity_set", "entity_domain"];
+	        var entityConceptTypes = ['entity_set', 'entity_domain'];
 	        var queryEntityConcepts = filterConceptsByType(entityConceptTypes, queryKey);
 	        if (queryEntityConcepts.length === 0) {
 	            return new Map();
@@ -6813,10 +6830,10 @@ var DDFCsvReader =
 	        var allEntityConcepts = filterConceptsByType(entityConceptTypes);
 	        return queryEntityConcepts.map(function (concept) {
 	            return allEntityConcepts.filter(function (lookupConcept) {
-	                if (concept.concept_type === "entity_set") {
-	                    return resourceKeySet.has(lookupConcept.concept) && lookupConcept.concept != concept.concept && (lookupConcept.domain == concept.domain || lookupConcept.concept == concept.domain);
+	                if (concept.concept_type === 'entity_set') {
+	                    return resourceKeySet.has(lookupConcept.concept) && lookupConcept.concept !== concept.concept && (lookupConcept.domain === concept.domain || lookupConcept.concept === concept.domain);
 	                } else {
-	                    return resourceKeySet.has(lookupConcept.concept) && lookupConcept.concept != concept.concept && lookupConcept.domain == concept.concept;
+	                    return resourceKeySet.has(lookupConcept.concept) && lookupConcept.concept !== concept.concept && lookupConcept.domain === concept.concept;
 	                }
 	            }).reduce(function (map, aliasConcept) {
 	                return map.set(aliasConcept.concept, concept.concept);
@@ -6826,11 +6843,11 @@ var DDFCsvReader =
 	        }, new Map());
 	    }
 	    function getEntitySetFilter(conceptStrings) {
-	        var promises = filterConceptsByType(["entity_set"], conceptStrings).map(function (concept) {
-	            return query({ select: { key: [concept.domain], value: ["is--" + concept.concept] } }).then(function (result) {
+	        var promises = filterConceptsByType(['entity_set'], conceptStrings).map(function (concept) {
+	            return query({ select: { key: [concept.domain], value: ['is--' + concept.concept] } }).then(function (result) {
 	                return _defineProperty({}, concept.concept, {
-	                    "$in": new Set(result.filter(function (row) {
-	                        return row["is--" + concept.concept];
+	                    $in: new Set(result.filter(function (row) {
+	                        return row['is--' + concept.concept];
 	                    }).map(function (row) {
 	                        return row[concept.domain];
 	                    }))
@@ -6899,11 +6916,11 @@ var DDFCsvReader =
 	            return data[0];
 	        }
 	        var canonicalKey = key.slice(0).sort();
-	        var dataMap = data.reduce(function (result, data) {
-	            data.forEach(function (row) {
+	        var dataMap = data.reduce(function (result, dataPar) {
+	            dataPar.forEach(function (row) {
 	                var keyString = canonicalKey.map(function (concept) {
 	                    return row[concept];
-	                }).join(",");
+	                }).join(',');
 	                if (result.has(keyString)) {
 	                    var resultRow = result.get(keyString);
 	                    joinRow(resultRow, row, joinMode);
@@ -6917,20 +6934,23 @@ var DDFCsvReader =
 	    }
 	    function joinRow(resultRow, sourceRow, mode) {
 	        switch (mode) {
-	            case "overwrite":
+	            case 'overwrite':
 	                Object.assign(resultRow, sourceRow);
 	                break;
-	            case "translation":
+	            case 'translation':
 	                for (var concept in sourceRow) {
-	                    if (sourceRow[concept] !== "") {
+	                    if (sourceRow[concept] !== '') {
 	                        resultRow[concept] = sourceRow[concept];
 	                    }
 	                }
 	                break;
-	            case "overwriteWithError":
+	            case 'overwriteWithError':
 	                for (var _concept in sourceRow) {
 	                    if (resultRow[_concept] !== undefined && resultRow[_concept] !== sourceRow[_concept]) {
-	                        throwError("JOIN Error: two resources have different data for `" + _concept + "`: " + JSON.stringify(sourceRow) + "," + JSON.stringify(resultRow) + ".");
+	                        var sourceRowStr = JSON.stringify(sourceRow);
+	                        var resultRowStr = JSON.stringify(resultRow);
+	                        var errStr = "JOIN Error: two resources have different data for \"" + _concept + "\": " + sourceRowStr + "," + resultRowStr;
+	                        throwError(errStr);
 	                    } else {
 	                        resultRow[_concept] = sourceRow[_concept];
 	                    }
@@ -6939,32 +6959,33 @@ var DDFCsvReader =
 	        }
 	    }
 	    function throwError(error) {
-	        console.error(error);
+	        var currentLogger = logger || console;
+	        currentLogger.error(error);
 	    }
 	    function createKeyString(key) {
 	        var row = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : false;
 	
 	        var canonicalKey = key.slice(0).sort();
 	        if (!row) {
-	            return canonicalKey.join(",");
+	            return canonicalKey.join(',');
 	        } else {
 	            return canonicalKey.map(function (concept) {
 	                return row[concept];
-	            }).join(",");
+	            }).join(',');
 	        }
 	    }
 	    function loadResource(resource, language) {
 	        var filePromises = [];
-	        if (typeof resource.data === "undefined") {
+	        if (typeof resource.data === 'undefined') {
 	            resource.data = loadFile(basePath + resource.path);
 	        }
 	        filePromises.push(resource.data);
-	        var languageValid = typeof language !== "undefined" && getLanguages().includes(language);
-	        var languageLoaded = typeof resource.translations[language] !== "undefined";
+	        var languageValid = typeof language !== 'undefined' && getLanguages().includes(language);
+	        var languageLoaded = typeof resource.translations[language] !== 'undefined';
 	        if (languageValid) {
 	            if (!languageLoaded) {
-	                var _path = basePath + "lang/" + language + "/" + resource.path;
-	                resource.translations[language] = loadFile(_path);
+	                var translationPath = basePath + "lang/" + language + "/" + resource.path;
+	                resource.translations[language] = loadFile(translationPath);
 	            }
 	            filePromises.push(resource.translations[language]);
 	        }
@@ -6973,14 +6994,14 @@ var DDFCsvReader =
 	                return resp.data;
 	            });
 	            var primaryKey = resource.schema.primaryKey;
-	            var data = joinData.apply(undefined, [primaryKey, "translation"].concat(_toConsumableArray(filesData)));
+	            var data = joinData.apply(undefined, [primaryKey, 'translation'].concat(_toConsumableArray(filesData)));
 	            return { data: data, resource: resource };
 	        });
 	    }
 	    function getLanguages() {
-	        return [datapackage.translations.map(function (lang) {
+	        return datapackage.translations.map(function (lang) {
 	            return lang.id;
-	        })];
+	        });
 	    }
 	    function loadFile(filePath) {
 	        return new Promise(function (resolve, reject) {
@@ -6996,7 +7017,7 @@ var DDFCsvReader =
 	                            return true;
 	                        }
 	                        var concept = conceptsLookup.get(headerName) || {};
-	                        return ["boolean", "measure"].includes(concept.concept_type);
+	                        return ['boolean', 'measure'].includes(concept.concept_type);
 	                    },
 	                    complete: function complete(result) {
 	                        return resolve(result);
@@ -7008,11 +7029,11 @@ var DDFCsvReader =
 	            });
 	        });
 	    }
-	    function buildResourcesLookup(datapackage) {
+	    function buildResourcesLookup(datapackagePar) {
 	        if (resourcesLookup.size > 0) {
 	            return resourcesLookup;
 	        }
-	        datapackage.resources.forEach(function (resource) {
+	        datapackagePar.resources.forEach(function (resource) {
 	            if (!Array.isArray(resource.schema.primaryKey)) {
 	                resource.schema.primaryKey = [resource.schema.primaryKey];
 	            }
@@ -7021,12 +7042,12 @@ var DDFCsvReader =
 	        });
 	        return resourcesLookup;
 	    }
-	    function buildKeyValueLookup(datapackage) {
+	    function buildKeyValueLookup(datapackagePar) {
 	        if (keyValueLookup.size > 0) {
 	            return keyValueLookup;
 	        }
-	        for (var collection in datapackage.ddfSchema) {
-	            datapackage.ddfSchema[collection].map(function (kvPair) {
+	        for (var collection in datapackagePar.ddfSchema) {
+	            datapackagePar.ddfSchema[collection].map(function (kvPair) {
 	                var key = createKeyString(kvPair.primaryKey);
 	                var resources = kvPair.resources.map(function (resourceName) {
 	                    return resourcesLookup.get(resourceName);

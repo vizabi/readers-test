@@ -1,7 +1,8 @@
 import { executionSummaryTable, runTests } from '../src/test-utils';
 import { TestCase } from '../src/test-case';
 import { sg } from '../src/settings/datasources';
-import { GenericExpectationStrategy } from '../src/expectations/generic-expectation-strategy';
+import { ExactExpectationStrategy } from '../src/expectations/exact-expectation-strategy';
+import { GenericExpectationStrategy } from "../src/expectations/generic-expectation-strategy";
 
 describe('Concepts supporting', () => {
   const aggregatedData = {};
@@ -19,7 +20,7 @@ describe('Concepts supporting', () => {
         select: {
           key: ['concept'],
           value: [
-            'concept_type', 'name', 'color'
+            'concept_type', 'name', 'domain'
           ]
         },
         from: 'concepts',
@@ -46,9 +47,10 @@ describe('Concepts supporting', () => {
           $and: [
             {concept_type: {$eq: 'entity_set'}}
           ]
-        }
+        },
+        order_by: ['concept']
       })
-      .withExpectationStrategy(GenericExpectationStrategy),
+      .withExpectationStrategy(ExactExpectationStrategy),
     new TestCase()
       .forDataSource(sg)
       .withTitle('ar-SA base data selects should be expected')
@@ -58,7 +60,7 @@ describe('Concepts supporting', () => {
         select: {
           key: ['concept'],
           value: [
-            'concept_type', 'name', 'color', 'description'
+            'concept_type', 'name', 'description'
           ]
         },
         from: 'concepts',
@@ -66,8 +68,9 @@ describe('Concepts supporting', () => {
           $and: [
             {concept_type: {$eq: 'entity_set'}}
           ]
-        }
+        },
+        order_by: ['concept']
       })
-      .withExpectationStrategy(GenericExpectationStrategy)
+      .withExpectationStrategy(ExactExpectationStrategy)
   ], aggregatedData);
 });
