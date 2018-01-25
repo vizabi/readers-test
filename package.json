@@ -9,7 +9,8 @@
     "test-entities": "mocha --require ts-node/register --timeout 200000 test/entities.spec.ts",
     "test-datapoints": "mocha --require ts-node/register --timeout 200000 test/datapoints.spec.ts",
     "test-schema": "mocha --require ts-node/register --timeout 200000 test/schema.spec.ts",
-    "test-assets": "mocha --require ts-node/register --timeout 200000 test/assets.spec.ts"
+    "test-assets": "mocha --require ts-node/register --timeout 200000 test/assets.spec.ts",
+    "test-exceptions": "mocha --require ts-node/register --timeout 200000 test/exceptions.spec.ts"
   },
   "repository": {
     "type": "git",
@@ -22,7 +23,6 @@
   },
   "homepage": "https://github.com/vizabi/readers-test#readme",
   "devDependencies": {
-    "@types/base-64": "^0.1.2",
     "@types/chai": "4.0.10",
     "@types/core-js": "0.9.43",
     "@types/es6-shim": "0.31.35",

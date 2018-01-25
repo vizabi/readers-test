@@ -6,7 +6,7 @@ export class DdfCsvNewReader extends AbstractFamilyMember {
   private obj;
 
   getTitle(): string {
-    return 'DDFcsv 2.0';
+    return 'DDFcsv 2.0.2';
   }
 
   getObject() {
