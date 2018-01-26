@@ -346,7 +346,7 @@ describe('Datapoints supporting', () => {
         order_by: ['country', 'time'],
         language: 'en'
       })
-      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
+      .withExpectationStrategy(OnlySameQuantityExpectationStrategy)/*,
     new TestCase()
       .forDataSource(datetesting)
       .withTitle('query by full date should be processed correctly')
@@ -386,6 +386,6 @@ describe('Datapoints supporting', () => {
           ]
         }
       })
-      .withExpectationStrategy(OnlySameQuantityExpectationStrategy)
+      .withExpectationStrategy(OnlySameQuantityExpectationStrategy)*/
   ], aggregatedData);
 });
