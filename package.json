@@ -41,7 +41,8 @@
     "mocha": "4.1.0",
     "shelljs": "0.7.8",
     "ts-node": "4.1.0",
-    "typescript": "2.6.2"
+    "typescript": "2.6.2",
+    "vizabi-ws-reader": "2.2.1"
   },
   "dependencies": {
     "bluebird": "3.5.1",

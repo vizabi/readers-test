@@ -9,7 +9,7 @@ import {
   popwppbig,
   sgmixentity,
   staticassets,
-  datetesting
+  sodertornsmodellen
 } from '../src/settings/datasources';
 import { ExactExpectationStrategy } from '../src/expectations/exact-expectation-strategy';
 import { GenericExpectationStrategy } from '../src/expectations/generic-expectation-strategy';
@@ -348,44 +348,103 @@ describe('Datapoints supporting', () => {
       })
       .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
     new TestCase()
-      .forDataSource(datetesting)
-      .withTitle('query by full date should be processed correctly')
-      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-15-#datasource#.json')
+      .forDataSource(sodertornsmodellen)
+      .withTitle('filter datapoints by entity properties should be processed correctly')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-17-#datasource#.json')
       .withRequest({
+        language: 'en',
+        from: 'datapoints',
+        animatable: 'year',
         select: {
-          key: ['currency', 'day'],
+          key: [
+            'basomrade',
+            'year'
+          ],
           value: [
-            'exchange_rate_usd'
+            'mean_income_aged_gt_20',
+            'post_secondary_education_min_3_years_aged_25_64',
+            'population_aged_gt_20'
           ]
         },
-        from: 'datapoints',
         where: {
           $and: [
-            {day: {$lt: '20151230'}},
-            {day: {$gt: '20151220'}}
-          ]
-        }
-      })
-      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
-    new TestCase()
-      .forDataSource(datetesting)
-      .withTitle('query by month should be processed correctly')
-      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-16-#datasource#.json')
-      .withRequest({
-        select: {
-          key: ['currency', 'month'],
-          value: [
-            'exchange_rate_usd'
+            {
+              basomrade: '$basomrade'
+            },
+            {
+              year: '$year'
+            }
           ]
         },
-        from: 'datapoints',
-        where: {
-          $and: [
-            {month: {$lt: '2015-01'}},
-            {month: {$gt: '2014-05'}}
-          ]
-        }
+        join: {
+          $basomrade: {
+            key: 'basomrade',
+            where: {
+              municipality: {
+                $in: [
+                  '0192_nynashamn',
+                  '0127_botkyrka',
+                  '0136_haninge',
+                  '0126_huddinge',
+                  '0128_salem',
+                  '0138_tyreso'
+                ]
+              }
+            }
+          },
+          $year: {
+            key: 'year',
+            where: {
+              year: '2000'
+            }
+          }
+        },
+        order_by: [
+          'basomrade',
+          'year'
+        ]
       })
-      .withExpectationStrategy(OnlySameQuantityExpectationStrategy)
+      .withExpectationStrategy(ExactExpectationStrategy),
+    /*,
+        new TestCase()
+          .forDataSource(datetesting)
+          .withTitle('query by full date should be processed correctly')
+          .withFixturePath('../../test/result-fixtures/datapoints/datapoints-15-#datasource#.json')
+          .withRequest({
+            select: {
+              key: ['currency', 'day'],
+              value: [
+                'exchange_rate_usd'
+              ]
+            },
+            from: 'datapoints',
+            where: {
+              $and: [
+                {day: {$lt: '20151230'}},
+                {day: {$gt: '20151220'}}
+              ]
+            }
+          })
+          .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
+        new TestCase()
+          .forDataSource(datetesting)
+          .withTitle('query by month should be processed correctly')
+          .withFixturePath('../../test/result-fixtures/datapoints/datapoints-16-#datasource#.json')
+          .withRequest({
+            select: {
+              key: ['currency', 'month'],
+              value: [
+                'exchange_rate_usd'
+              ]
+            },
+            from: 'datapoints',
+            where: {
+              $and: [
+                {month: {$lt: '2015-01'}},
+                {month: {$gt: '2014-05'}}
+              ]
+            }
+          })
+          .withExpectationStrategy(OnlySameQuantityExpectationStrategy)*/
   ], aggregatedData);
 });
