@@ -1,8 +1,30 @@
 import * as chai from 'chai';
-import { isEqual } from 'lodash';
 import { AbstractExpectationStrategy } from './abstract-expectation-strategy';
 
 const expect = chai.expect;
+
+function isEqual(a, b) {
+  const keysA = Object.keys(a).sort();
+  const keysB = Object.keys(b).sort();
+
+  if (keysA.length !== keysB.length) {
+    return false;
+  }
+
+  for (let i = 0; i < keysA.length; i++) {
+    if (keysA[i] !== keysB[i]) {
+      return false;
+    }
+  }
+
+  for (const key of keysA) {
+    if (a[key] != b[key]) {
+      return false;
+    }
+  }
+
+  return true;
+}
 
 export class ExactExpectationStrategy extends AbstractExpectationStrategy {
   testIt(err, data, dataSourceSuffix) {
