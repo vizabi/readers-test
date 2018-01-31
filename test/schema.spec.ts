@@ -4,7 +4,7 @@ import { sankey, sg } from '../src/settings/datasources';
 import { GenericExpectationStrategy } from '../src/expectations/generic-expectation-strategy';
 import { QuickExactExpectationStrategy } from '../src/expectations/quick-exact-expectation-strategy';
 
-describe('Schema supporting', () => {
+xdescribe('Schema supporting', () => {
   describe('for concepts', () => {
     const aggregatedData = {};
 
