@@ -14,3 +14,4 @@ export const sgmixentity = new DataSource('sgmixentity', 'Systema Globalis mix e
 export const staticassets = new DataSource('staticassets', 'Static assets');
 export const gmassets = new DataSource('gmassets', 'Gapminder assets');
 export const datetesting = new DataSource('datetesting', 'For date tests');
+export const sodertornsmodellen = new DataSource('sodertornsmodellen', 'Sodertornsmodellen');
