@@ -2,11 +2,12 @@ import * as chai from 'chai';
 import { isEmpty, keys } from 'lodash';
 import * as base64 from 'base-64';
 import { AbstractExpectationStrategy } from './abstract-expectation-strategy';
+import { writeDiff } from './utils';
 
 const expect = chai.expect;
 
 export class GenericExpectationStrategy extends AbstractExpectationStrategy {
-  testIt(err, data, dataSourceSuffix) {
+  testIt(err, data, dataSourceSuffix: string, testIndex: number) {
     const fixtureData = require(this.fixturePath.replace(/#datasource#/, dataSourceSuffix));
     const areEqual = this.equals(data, fixtureData);
     const fixtureDataStr = JSON.stringify(fixtureData, null, 2);
@@ -14,7 +15,13 @@ export class GenericExpectationStrategy extends AbstractExpectationStrategy {
 
     expect(!err).to.be.true;
     expect(data.length).to.equal(fixtureData.length);
-    expect(areEqual, `\noriginal:\n${fixtureDataStr}\ncurrent:${dataStr}\n`).to.be.true;
+    try {
+      expect(areEqual).to.be.true;
+    } catch (err) {
+      writeDiff(testIndex, fixtureDataStr, dataStr);
+
+      throw err;
+    }
   }
 
   private equals(a, b) {

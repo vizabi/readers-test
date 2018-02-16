@@ -108,6 +108,7 @@ import { sg } from '../src/settings/datasources';
 
 const testCase = new TestCase()
   .forDataSource(sg)
+  .unsupportedFor(WsReader)
   .withTitle('4 fields selects should be expected')
   .withFixturePath('../test/result-fixtures/concepts/concepts-1-#datasource#.json')
   .withRequest({
@@ -131,7 +132,8 @@ const testCase = new TestCase()
 Let explain some important points regarding initialization:
 
  * `forDataSource(sg)` - assign the test case to particular data source; by the way, you can do this kind of assign more than once: you should call `forDataSource` again in this case (see `Data sources registry`)
- * `withTitle('4 fields selects should be expected')` - set main part of title that should be displayed during testing (with reader prefix: see `withTitle` in `Family mamber`).
+ * `unsupportedFor(WsReader)` - adds `WsReader` Family Member as unsupported for this case, `xit` should be used instead `it`
+ * `withTitle('4 fields selects should be expected')` - set main part of title that should be displayed during testing (with reader prefix: see `withTitle` in `Family member`).
  * `withFixturePath('../test/result-fixtures/concepts/concepts-1-#datasource#.json')` - set path to JSON file that should contain result fixture data. It's important to add `#datasource#` suffix, because it will be changed to related data source name (see `Data sources registry`) during testing!
  * `withRequest({...` - set DDF request
  * `withExpectationStrategy(GenericExpectationStrategy)` - set an expectation strategy for this case.
@@ -150,3 +152,18 @@ describe('Concepts supporting', () => {
   runTests([testCase, testCase1, ...]);
 });
 ```
+
+## Obtain results
+
+All of the tests have an own unique identifier. The identifier is appointed next to test title and covered by brackets:
+```
+"WS" on "Systema Globalis (sg)": plain query should be processed correctly [#37]
+
+`37` in this case.
+
+If test was failed you may see (depends on expectation strategy) details of the test in
+
+ * `./test/result/#test identifier#`/original.json - fixture (right version)
+ * `./test/result/#test identifier#`/result.json - data was produced by test
+
+And after that, you can compare original and result to find the reason why test fail.

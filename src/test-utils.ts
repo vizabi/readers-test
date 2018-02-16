@@ -1,8 +1,17 @@
+import * as path from 'path';
+import * as rimraf from 'rimraf';
 import { table } from 'table';
-import { head, keys } from 'lodash';
+import { head, keys, isEmpty, split, nth, noop } from 'lodash';
 import { TestCase } from './test-case';
 import { familyMembers } from './settings/family-members';
-import { AbstractExpectationStrategy } from "./expectations/abstract-expectation-strategy";
+import { AbstractExpectationStrategy } from './expectations/abstract-expectation-strategy';
+import { AbstractFamilyMember } from './family-definition/abstract-family-member';
+
+let testIndex = 1;
+
+const dir = path.resolve(__dirname, '..', 'test', 'result');
+
+rimraf.sync(dir);
 
 export function executionSummaryTable(aggregatedData) {
   const testTitles = keys(aggregatedData);
@@ -31,6 +40,20 @@ export function executionSummaryTable(aggregatedData) {
   console.log(output);
 }
 
+function isTestCaseShouldBeOmitted(testCase: TestCase<AbstractExpectationStrategy>, readerCase: AbstractFamilyMember) {
+  if (!isEmpty(testCase.unsupported)) {
+    for (const unsupportedFamilyMember of testCase.unsupported) {
+      const getClassName = classDefinition => nth(split(classDefinition.valueOf(), ' '), 1);
+
+      if (getClassName(unsupportedFamilyMember) === readerCase.constructor.name) {
+        return true;
+      }
+    }
+  }
+
+  return false;
+}
+
 export function runTests(testCases: TestCase<AbstractExpectationStrategy>[], aggregatedData = {}) {
   for (const testCase of testCases) {
     testCase.checkConstraints();
@@ -51,26 +74,37 @@ export function runTests(testCases: TestCase<AbstractExpectationStrategy>[], agg
           const title = `"${readerCase.getTitle()}" on "${readerCase.dataSource.title} (${readerCase.dataSource.name})": ${testCase.title}`;
           const flow = new testCase.expectationStrategy(testCase.fixturePath);
 
-          it(title, done => {
-            const timeStart = new Date().getTime();
+          if (isTestCaseShouldBeOmitted(testCase, readerCase)) {
+            if (aggregatedData[testCaseTitleWithDataset][readerCase.getTitle()]) {
+              aggregatedData[testCaseTitleWithDataset][readerCase.getTitle()].executionTime = '***';
+            }
 
-            readerCase.read(testCase.request, (err, data) => {
-              // console.log(JSON.stringify(data, null, 2));
+            xit(`***UNSUPPORTED *** ${title}`, noop);
+          } else {
+            it(`${title} [#${testIndex}]`, done => {
+              const timeStart = new Date().getTime();
 
-              const timeFinish = new Date().getTime();
+              readerCase.read(testCase.request, (err, data) => {
+                // console.log(JSON.stringify(data, null, 2));
 
-              if (aggregatedData[testCaseTitleWithDataset][readerCase.getTitle()]) {
-                aggregatedData[testCaseTitleWithDataset][readerCase.getTitle()].executionTime = timeFinish - timeStart;
-              }
+                const timeFinish = new Date().getTime();
 
-              try {
-                flow.testIt(err, data, readerCase.dataSource.name);
-                done();
-              } catch (err) {
-                done(err);
-              }
+                if (aggregatedData[testCaseTitleWithDataset][readerCase.getTitle()]) {
+                  aggregatedData[testCaseTitleWithDataset][readerCase.getTitle()].executionTime = timeFinish - timeStart;
+                }
+
+                try {
+                  flow.testIt(err, data, readerCase.dataSource.name, testIndex);
+
+                  done();
+                } catch (err) {
+                  done(err);
+                }
+              });
             });
-          });
+
+            testIndex++;
+          }
         }
       }
     }
