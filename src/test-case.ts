@@ -1,6 +1,7 @@
 import { isEmpty } from 'lodash';
-import { DataSource } from "./settings/datasources";
+import { DataSource } from './settings/datasources';
 import { AbstractExpectationStrategy } from './expectations/abstract-expectation-strategy';
+import { AbstractFamilyMember } from "./family-definition/abstract-family-member";
 
 export class TestCase<T extends AbstractExpectationStrategy> {
   title: string;
@@ -8,6 +9,7 @@ export class TestCase<T extends AbstractExpectationStrategy> {
   request;
   expectationStrategy: typeof T;
   dataSources: DataSource[] = [];
+  unsupported: (typeof AbstractFamilyMember)[] = [];
 
   withTitle(title: string) {
     this.title = title;
@@ -27,7 +29,7 @@ export class TestCase<T extends AbstractExpectationStrategy> {
     return this;
   }
 
-  withExpectationStrategy(expectationStrategy: typeof T) {
+  withExpectationStrategy(expectationStrategy: typeof AbstractExpectationStrategy) {
     this.expectationStrategy = expectationStrategy;
 
     return this;
@@ -35,6 +37,12 @@ export class TestCase<T extends AbstractExpectationStrategy> {
 
   forDataSource(dataSource: DataSource) {
     this.dataSources.push(dataSource);
+
+    return this;
+  }
+
+  unsupportedFor(unsupportedFamilyMember: typeof AbstractFamilyMember) {
+    this.unsupported.push(unsupportedFamilyMember);
 
     return this;
   }

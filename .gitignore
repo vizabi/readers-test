@@ -9,6 +9,8 @@ yarn-error.log*
 *.js
 !src/third-party/**/*.js
 
+test/result
+
 # Runtime data
 pids
 *.pid

@@ -1,5 +1,6 @@
 import * as chai from 'chai';
 import { AbstractExpectationStrategy } from './abstract-expectation-strategy';
+import { writeDiff } from "./utils";
 
 const expect = chai.expect;
 
@@ -27,7 +28,7 @@ function isEqual(a, b) {
 }
 
 export class ExactExpectationStrategy extends AbstractExpectationStrategy {
-  testIt(err, data, dataSourceSuffix) {
+  testIt(err, data, dataSourceSuffix: string, testIndex: number) {
     const fixtureData = require(this.fixturePath.replace(/#datasource#/, dataSourceSuffix));
 
     expect(!err).to.be.true;
@@ -43,6 +44,13 @@ export class ExactExpectationStrategy extends AbstractExpectationStrategy {
       }
     }
 
-    expect(!!diffRecord, `diff:\n${JSON.stringify(diffRecord, null, 2)} on line ${diffPosition}`).to.be.false;
+    try {
+      expect(!!diffRecord, `line ${diffPosition}`).to.be.false;
+    } catch (err) {
+      writeDiff(testIndex, JSON.stringify(fixtureData, null, 2), JSON.stringify(diffRecord, null, 2));
+
+      throw err;
+    }
+
   }
 }

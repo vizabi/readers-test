@@ -14,6 +14,7 @@ import {
 import { ExactExpectationStrategy } from '../src/expectations/exact-expectation-strategy';
 import { GenericExpectationStrategy } from '../src/expectations/generic-expectation-strategy';
 import { OnlySameQuantityExpectationStrategy } from '../src/expectations/only-same-quantity-expectation-strategy';
+import { WsReader } from "../src/family-definition/ws-reader";
 
 describe('Datapoints supporting', () => {
   const aggregatedData = {};
@@ -25,6 +26,7 @@ describe('Datapoints supporting', () => {
   runTests([
     new TestCase()
       .forDataSource(sg)
+      .unsupportedFor(WsReader)
       .withTitle('plain query should be processed correctly')
       .withFixturePath('../../test/result-fixtures/datapoints/datapoints-1-#datasource#.json')
       .withRequest({
