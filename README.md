@@ -156,8 +156,8 @@ describe('Concepts supporting', () => {
 ## Obtain results
 
 All of the tests have an own unique identifier. The identifier is appointed next to test title and covered by brackets:
-```
-"WS" on "Systema Globalis (sg)": plain query should be processed correctly [#37]
+
+``"WS" on "Systema Globalis (sg)": plain query should be processed correctly [#37]`
 
 `37` in this case.
 
