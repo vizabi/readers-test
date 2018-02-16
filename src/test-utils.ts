@@ -7,7 +7,15 @@ import { familyMembers } from './settings/family-members';
 import { AbstractExpectationStrategy } from './expectations/abstract-expectation-strategy';
 import { AbstractFamilyMember } from './family-definition/abstract-family-member';
 
-let testIndex = 1;
+function* testIndexMaker() {
+  let index = 1;
+
+  while (true) {
+    yield index++;
+  }
+}
+
+const testIndex = testIndexMaker();
 
 const dir = path.resolve(__dirname, '..', 'test', 'result');
 
@@ -81,7 +89,9 @@ export function runTests(testCases: TestCase<AbstractExpectationStrategy>[], agg
 
             xit(`***UNSUPPORTED *** ${title}`, noop);
           } else {
-            it(`${title} [#${testIndex}]`, done => {
+            const currentTestIndex = testIndex.next().value;
+
+            it(`${title} [#${currentTestIndex}]`, done => {
               const timeStart = new Date().getTime();
 
               readerCase.read(testCase.request, (err, data) => {
@@ -94,7 +104,7 @@ export function runTests(testCases: TestCase<AbstractExpectationStrategy>[], agg
                 }
 
                 try {
-                  flow.testIt(err, data, readerCase.dataSource.name, testIndex);
+                  flow.testIt(err, data, readerCase.dataSource.name, currentTestIndex);
 
                   done();
                 } catch (err) {
@@ -102,8 +112,6 @@ export function runTests(testCases: TestCase<AbstractExpectationStrategy>[], agg
                 }
               });
             });
-
-            testIndex++;
           }
         }
       }

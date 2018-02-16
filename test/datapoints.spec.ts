@@ -406,7 +406,7 @@ describe('Datapoints supporting', () => {
           'year'
         ]
       })
-      .withExpectationStrategy(ExactExpectationStrategy),
+      .withExpectationStrategy(GenericExpectationStrategy),
     /*,
         new TestCase()
           .forDataSource(datetesting)
