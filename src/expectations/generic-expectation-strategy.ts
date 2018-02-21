@@ -1,10 +1,20 @@
 import * as chai from 'chai';
-import { isEmpty, keys } from 'lodash';
+import { isEmpty, keys, cloneDeep } from 'lodash';
 import * as base64 from 'base-64';
 import { AbstractExpectationStrategy } from './abstract-expectation-strategy';
 import { writeDiff } from './utils';
 
 const expect = chai.expect;
+
+function stringifyObjectValues(o) {
+  const newObject = cloneDeep(o);
+
+  for (const key of Object.keys(newObject)) {
+    newObject[key] = `${newObject[key]}`;
+  }
+
+  return newObject;
+}
 
 export class GenericExpectationStrategy extends AbstractExpectationStrategy {
   testIt(err, data, dataSourceSuffix: string, testIndex: number) {
@@ -31,8 +41,10 @@ export class GenericExpectationStrategy extends AbstractExpectationStrategy {
     }
 
     const seen = {};
+    const aa = stringifyObjectValues(a);
+    const bb = stringifyObjectValues(b);
 
-    for (const o of a) {
+    for (const o of aa) {
       const key = new Buffer(JSON.stringify(o, Object.keys(o).sort())).toString('base64');
 
       if (!seen[key]) {
@@ -42,7 +54,7 @@ export class GenericExpectationStrategy extends AbstractExpectationStrategy {
       seen[key]++;
     }
 
-    for (const o of b) {
+    for (const o of bb) {
       const key = new Buffer(JSON.stringify(o, Object.keys(o).sort())).toString('base64');
 
       if (!seen[key] && seen[key] !== 0) {

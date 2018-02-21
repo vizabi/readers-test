@@ -204,7 +204,7 @@ describe('Datapoints supporting', () => {
         join: {},
         order_by: ['country', 'time']
       })
-      .withExpectationStrategy(ExactExpectationStrategy),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
       .forDataSource(popwppbig)
       .withTitle('multidimentional dataSource reading should return expected result')
