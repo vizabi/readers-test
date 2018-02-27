@@ -42,7 +42,7 @@ describe('Datapoints supporting', () => {
         grouping: {},
         order_by: ['time', 'geo']
       })
-      .withExpectationStrategy(ExactExpectationStrategy),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
       .forDataSource(sg)
       .withTitle('joins query should be processed correctly')
@@ -123,7 +123,7 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['time', 'geo']
       })
-      .withExpectationStrategy(ExactExpectationStrategy),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
       .forDataSource(sgtiny)
       .withTitle('query by "ago" country should be processed correctly')
@@ -145,7 +145,7 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['time', 'geo']
       })
-      .withExpectationStrategy(ExactExpectationStrategy),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
       .forDataSource(popwpp)
       .withTitle('query by gender, age, and country with code 900 should be processed correctly')
@@ -166,7 +166,7 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['country_code', 'year', 'gender', 'age']
       })
-      .withExpectationStrategy(ExactExpectationStrategy),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
       .forDataSource(sgtiny)
       .withTitle('query by "americas" and "asia" regions should be processed correctly')
@@ -187,7 +187,7 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['geo', 'time']
       })
-      .withExpectationStrategy(ExactExpectationStrategy),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
       .forDataSource(bubbles3)
       .withTitle('should consume files with many indicators in different columns')
@@ -227,7 +227,7 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['geo', 'year', 'age']
       })
-      .withExpectationStrategy(ExactExpectationStrategy),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
       .forDataSource(presentation)
       .withTitle('query with boolean condition should be processed correctly')
@@ -249,7 +249,7 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['geo', 'time']
       })
-      .withExpectationStrategy(ExactExpectationStrategy),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
       .forDataSource(staticassets)
       .withTitle('query with static assets should be processed correctly')
@@ -271,7 +271,7 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['geo', 'time']
       })
-      .withExpectationStrategy(ExactExpectationStrategy),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
       .forDataSource(popwppbig)
       .withTitle('query with join and world4region should be processed correctly')
@@ -293,7 +293,7 @@ describe('Datapoints supporting', () => {
         },
         order_by: ['geo', 'year', 'age']
       })
-      .withExpectationStrategy(ExactExpectationStrategy),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
       .forDataSource(sgmixentity)
       .withTitle('query on dataSource that contains mixed kinds of entities in the same file should be processed correctly')
@@ -318,7 +318,7 @@ describe('Datapoints supporting', () => {
           'time'
         ]
       })
-      .withExpectationStrategy(ExactExpectationStrategy),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
       .forDataSource(sg)
       .withTitle('query on dataSource when datapoint record contains domain but request contains entity set should be processed correctly')

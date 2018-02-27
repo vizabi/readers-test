@@ -25,6 +25,7 @@ export class TestCase<T extends AbstractExpectationStrategy> {
 
   withRequest(request) {
     this.request = request;
+    this.request.force = true;
 
     return this;
   }
