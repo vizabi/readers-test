@@ -106,7 +106,7 @@ import { GenericExpectationStrategy } from '../src/expectations/generic-expectat
 import { TestCase } from '../src/test-case';
 import { sg } from '../src/settings/datasources';
 import { WsReader } from '../src/family-definition/ws-reader';
-import { DdfCsvReader } from ''../src/family-definition/ddf-csv-reader';
+import { DdfCsvReader } from '../src/family-definition/ddf-csv-reader';
 
 const testCase = new TestCase()
   .forDataSource(sg)
