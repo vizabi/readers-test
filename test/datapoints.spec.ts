@@ -9,24 +9,18 @@ import {
   popwppbig,
   sgmixentity,
   staticassets,
-  sodertornsmodellen
+  sodertornsmodellen, datetesting
 } from '../src/settings/datasources';
-import { ExactExpectationStrategy } from '../src/expectations/exact-expectation-strategy';
 import { GenericExpectationStrategy } from '../src/expectations/generic-expectation-strategy';
 import { OnlySameQuantityExpectationStrategy } from '../src/expectations/only-same-quantity-expectation-strategy';
 import { WsReader } from "../src/family-definition/ws-reader";
+import { DdfCsvReader } from "../src/family-definition/ddf-csv-reader";
 
 describe('Datapoints supporting', () => {
   const aggregatedData = {};
-
-  after(() => {
-    executionSummaryTable(aggregatedData);
-  });
-
-  runTests([
+  const testCases = [
     new TestCase()
       .forDataSource(sg)
-      .unsupportedFor(WsReader)
       .withTitle('plain query should be processed correctly')
       .withFixturePath('../../test/result-fixtures/datapoints/datapoints-1-#datasource#.json')
       .withRequest({
@@ -407,46 +401,53 @@ describe('Datapoints supporting', () => {
         ]
       })
       .withExpectationStrategy(GenericExpectationStrategy),
-    /*,
-        new TestCase()
-          .forDataSource(datetesting)
-          .withTitle('query by full date should be processed correctly')
-          .withFixturePath('../../test/result-fixtures/datapoints/datapoints-15-#datasource#.json')
-          .withRequest({
-            select: {
-              key: ['currency', 'day'],
-              value: [
-                'exchange_rate_usd'
-              ]
-            },
-            from: 'datapoints',
-            where: {
-              $and: [
-                {day: {$lt: '20151230'}},
-                {day: {$gt: '20151220'}}
-              ]
-            }
-          })
-          .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
-        new TestCase()
-          .forDataSource(datetesting)
-          .withTitle('query by month should be processed correctly')
-          .withFixturePath('../../test/result-fixtures/datapoints/datapoints-16-#datasource#.json')
-          .withRequest({
-            select: {
-              key: ['currency', 'month'],
-              value: [
-                'exchange_rate_usd'
-              ]
-            },
-            from: 'datapoints',
-            where: {
-              $and: [
-                {month: {$lt: '2015-01'}},
-                {month: {$gt: '2014-05'}}
-              ]
-            }
-          })
-          .withExpectationStrategy(OnlySameQuantityExpectationStrategy)*/
-  ], aggregatedData);
+    new TestCase()
+      .forDataSource(datetesting)
+      .unsupportedFor('date format should be considered', WsReader, DdfCsvReader)
+      .withTitle('query by full date should be processed correctly')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-15-#datasource#.json')
+      .withRequest({
+        select: {
+          key: ['currency', 'day'],
+          value: [
+            'exchange_rate_usd'
+          ]
+        },
+        from: 'datapoints',
+        where: {
+          $and: [
+            {day: {$lt: '20151230'}},
+            {day: {$gt: '20151220'}}
+          ]
+        }
+      })
+      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
+    new TestCase()
+      .forDataSource(datetesting)
+      .unsupportedFor('month format should be considered', WsReader, DdfCsvReader)
+      .withTitle('query by month should be processed correctly')
+      .withFixturePath('../../test/result-fixtures/datapoints/datapoints-16-#datasource#.json')
+      .withRequest({
+        select: {
+          key: ['currency', 'month'],
+          value: [
+            'exchange_rate_usd'
+          ]
+        },
+        from: 'datapoints',
+        where: {
+          $and: [
+            {month: {$lt: '2015-01'}},
+            {month: {$gt: '2014-05'}}
+          ]
+        }
+      })
+      .withExpectationStrategy(OnlySameQuantityExpectationStrategy)
+  ];
+
+  after(() => {
+    executionSummaryTable(testCases, aggregatedData);
+  });
+
+  runTests(testCases, aggregatedData);
 });

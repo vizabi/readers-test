@@ -10,6 +10,7 @@ export class TestCase<T extends AbstractExpectationStrategy> {
   expectationStrategy: typeof T;
   dataSources: DataSource[] = [];
   unsupported: (typeof AbstractFamilyMember)[] = [];
+  whyDoNotSupport: string;
 
   withTitle(title: string) {
     this.title = title;
@@ -42,8 +43,9 @@ export class TestCase<T extends AbstractExpectationStrategy> {
     return this;
   }
 
-  unsupportedFor(unsupportedFamilyMember: typeof AbstractFamilyMember) {
-    this.unsupported.push(unsupportedFamilyMember);
+  unsupportedFor(reason: string, ...unsupportedFamilyMember: (typeof AbstractFamilyMember)[]) {
+    this.unsupported.push(...unsupportedFamilyMember);
+    this.whyDoNotSupport = reason;
 
     return this;
   }

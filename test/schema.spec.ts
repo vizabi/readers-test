@@ -3,16 +3,13 @@ import { TestCase } from '../src/test-case';
 import { sankey, sg } from '../src/settings/datasources';
 import { GenericExpectationStrategy } from '../src/expectations/generic-expectation-strategy';
 import { QuickExactExpectationStrategy } from '../src/expectations/quick-exact-expectation-strategy';
+import { WsReader } from "../src/family-definition/ws-reader";
+import { DdfCsvReader } from "../src/family-definition/ddf-csv-reader";
 
-xdescribe('Schema supporting', () => {
+describe('Schema supporting', () => {
   describe('for concepts', () => {
     const aggregatedData = {};
-
-    after(() => {
-      executionSummaryTable(aggregatedData);
-    });
-
-    runTests([
+    const testCases = [
       new TestCase()
         .forDataSource(sg)
         .withTitle('simple test')
@@ -25,16 +22,17 @@ xdescribe('Schema supporting', () => {
           from: "concepts.schema"
         })
         .withExpectationStrategy(GenericExpectationStrategy)
-    ], aggregatedData);
+    ];
+
+    after(() => {
+      executionSummaryTable(testCases, aggregatedData);
+    });
+
+    runTests(testCases, aggregatedData);
   });
   describe('for entities', () => {
     const aggregatedData = {};
-
-    after(() => {
-      executionSummaryTable(aggregatedData);
-    });
-
-    runTests([
+    const testCases = [
       new TestCase()
         .forDataSource(sg)
         .withTitle('simple test')
@@ -47,16 +45,17 @@ xdescribe('Schema supporting', () => {
           from: "entities.schema"
         })
         .withExpectationStrategy(GenericExpectationStrategy),
-    ], aggregatedData);
+    ];
+
+    after(() => {
+      executionSummaryTable(testCases, aggregatedData);
+    });
+
+    runTests(testCases, aggregatedData);
   });
   describe('for datapoints', () => {
     const aggregatedData = {};
-
-    after(() => {
-      executionSummaryTable(aggregatedData);
-    });
-
-    runTests([
+    const testCases = [
       new TestCase()
         .forDataSource(sg)
         .withTitle('should response be expected for simple request')
@@ -68,9 +67,10 @@ xdescribe('Schema supporting', () => {
           },
           from: "datapoints.schema"
         })
-        .withExpectationStrategy(QuickExactExpectationStrategy),
+        .withExpectationStrategy(GenericExpectationStrategy),
       new TestCase()
         .forDataSource(sg)
+        .unsupportedFor('performance and functionality should be considered', WsReader, DdfCsvReader)
         .withTitle('should max-min response be expected')
         .withFixturePath('../../test/result-fixtures/schema/schema-4-#datasource#.json')
         .withRequest({
@@ -83,6 +83,7 @@ xdescribe('Schema supporting', () => {
         .withExpectationStrategy(QuickExactExpectationStrategy),
       new TestCase()
         .forDataSource(sankey)
+        .unsupportedFor('performance and functionality should be considered', WsReader, DdfCsvReader)
         .withTitle('simple max-min test')
         .withFixturePath('../../test/result-fixtures/schema/schema-5-#datasource#.json')
         .withRequest({
@@ -93,18 +94,20 @@ xdescribe('Schema supporting', () => {
           from: "datapoints.schema"
         })
         .withExpectationStrategy(GenericExpectationStrategy)
-    ], aggregatedData);
+    ];
+
+    after(() => {
+      executionSummaryTable(testCases, aggregatedData);
+    });
+
+    runTests(testCases, aggregatedData);
   });
   describe('for general query', () => {
     const aggregatedData = {};
-
-    after(() => {
-      executionSummaryTable(aggregatedData);
-    });
-
-    runTests([
+    const testCases = [
       new TestCase()
         .forDataSource(sg)
+        .unsupportedFor('this is an issue, should be resolved later', WsReader, DdfCsvReader)
         .withTitle('simple test')
         .withFixturePath('../../test/result-fixtures/schema/schema-6-#datasource#.json')
         .withRequest({
@@ -115,6 +118,12 @@ xdescribe('Schema supporting', () => {
           from: "*.schema"
         })
         .withExpectationStrategy(GenericExpectationStrategy)
-    ], aggregatedData);
+    ];
+
+    after(() => {
+      executionSummaryTable(testCases, aggregatedData);
+    });
+
+    runTests(testCases, aggregatedData);
   });
 });

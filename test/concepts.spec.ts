@@ -6,12 +6,7 @@ import { GenericExpectationStrategy } from "../src/expectations/generic-expectat
 
 describe('Concepts supporting', () => {
   const aggregatedData = {};
-
-  after(() => {
-    executionSummaryTable(aggregatedData);
-  });
-
-  runTests([
+  const testCases = [
     new TestCase()
       .forDataSource(sg)
       .withTitle('4 fields selects should be expected')
@@ -50,7 +45,7 @@ describe('Concepts supporting', () => {
         },
         order_by: ['concept']
       })
-      .withExpectationStrategy(ExactExpectationStrategy),
+      .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
       .forDataSource(sg)
       .withTitle('ar-SA base data selects should be expected')
@@ -71,6 +66,12 @@ describe('Concepts supporting', () => {
         },
         order_by: ['concept']
       })
-      .withExpectationStrategy(ExactExpectationStrategy)
-  ], aggregatedData);
+      .withExpectationStrategy(GenericExpectationStrategy)
+  ];
+
+  after(() => {
+    executionSummaryTable(testCases, aggregatedData);
+  });
+
+  runTests(testCases, aggregatedData);
 });

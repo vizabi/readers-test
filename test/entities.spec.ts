@@ -10,16 +10,7 @@ const expect = chai.expect;
 
 describe('Basic entities supporting', () => {
   const aggregatedData = {};
-
-  after(() => {
-    executionSummaryTable(aggregatedData);
-  });
-
-  // todo: change OnlySameQuantityExpectationStrategy to GenericExpectationStrategy
-  // when old reader will be discarded
-  // the reason is: old reader provided an incorrect result
-
-  runTests([
+  const testCases = [
     new TestCase()
       .forDataSource(sg)
       .withTitle('plain query should be processed correctly')
@@ -146,7 +137,13 @@ describe('Basic entities supporting', () => {
         ]
       })
       .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
-  ], aggregatedData);
+  ];
+
+  after(() => {
+    executionSummaryTable(testCases, aggregatedData);
+  });
+
+  runTests(testCases, aggregatedData);
 });
 
 describe('Additional entities supporting', () => {
@@ -221,7 +218,8 @@ describe('Additional entities supporting', () => {
           join: {},
           order_by: [
             'rank'
-          ]
+          ],
+          force: true
         });
 
         const requests = [

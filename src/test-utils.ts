@@ -1,5 +1,6 @@
 import * as path from 'path';
 import * as rimraf from 'rimraf';
+import * as colors from 'colors';
 import { table } from 'table';
 import { head, keys, isEmpty, split, nth, noop } from 'lodash';
 import { TestCase } from './test-case';
@@ -21,7 +22,20 @@ const dir = path.resolve(__dirname, '..', 'test', 'result');
 
 rimraf.sync(dir);
 
-export function executionSummaryTable(aggregatedData) {
+function explainWhyDoNotSupport(testCases: TestCase<AbstractExpectationStrategy>[]) {
+  const reasons = testCases
+    .filter(testCase => !isEmpty(testCase.unsupported) && !isEmpty(testCase.whyDoNotSupport))
+    .map(testCase => [testCase.title, testCase.whyDoNotSupport]);
+
+  if (isEmpty(reasons)) {
+    return '';
+  }
+
+  return colors.red('Postpone status:') + '\n' +
+    colors.white(table([['Test case', 'Reason to prevent supporting'], ...reasons]));
+}
+
+export function executionSummaryTable(testCases: TestCase<AbstractExpectationStrategy>[], aggregatedData) {
   const testTitles = keys(aggregatedData);
   const readerTitles = keys(aggregatedData[head(testTitles)]);
 
@@ -43,7 +57,7 @@ export function executionSummaryTable(aggregatedData) {
     tableData.push(rowData);
   }
 
-  const output = table(tableData);
+  const output = `${colors.yellow(table(tableData))}${explainWhyDoNotSupport(testCases)}`;
 
   console.log(output);
 }
