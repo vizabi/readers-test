@@ -105,10 +105,12 @@ Instance creation example is:
 import { GenericExpectationStrategy } from '../src/expectations/generic-expectation-strategy';
 import { TestCase } from '../src/test-case';
 import { sg } from '../src/settings/datasources';
+import { WsReader } from '../src/family-definition/ws-reader';
+import { DdfCsvReader } from ''../src/family-definition/ddf-csv-reader';
 
 const testCase = new TestCase()
   .forDataSource(sg)
-  .unsupportedFor(WsReader)
+  .unsupportedFor('this is an issue, should be resolved later', WsReader, DdfCsvReader)
   .withTitle('4 fields selects should be expected')
   .withFixturePath('../test/result-fixtures/concepts/concepts-1-#datasource#.json')
   .withRequest({
@@ -132,7 +134,8 @@ const testCase = new TestCase()
 Let explain some important points regarding initialization:
 
  * `forDataSource(sg)` - assign the test case to particular data source; by the way, you can do this kind of assign more than once: you should call `forDataSource` again in this case (see `Data sources registry`)
- * `unsupportedFor(WsReader)` - adds `WsReader` Family Member as unsupported for this case, `xit` should be used instead `it`
+ * `unsupportedFor('this is an issue, should be resolved later', WsReader, DdfCsvReader)` - adds `WsReader` and `DdfCsvReader` Family Members as unsupported for this case, `xit` should be used instead `it`
+    first parameter describe the reason why these Family members does not supported
  * `withTitle('4 fields selects should be expected')` - set main part of title that should be displayed during testing (with reader prefix: see `withTitle` in `Family member`).
  * `withFixturePath('../test/result-fixtures/concepts/concepts-1-#datasource#.json')` - set path to JSON file that should contain result fixture data. It's important to add `#datasource#` suffix, because it will be changed to related data source name (see `Data sources registry`) during testing!
  * `withRequest({...` - set DDF request
@@ -145,13 +148,34 @@ The first part of tests creation is usual: you should create `*.spec.ts` file in
 
 ```typescript
 import { runTests } from '../src/test-utils';
-// ....
 
 describe('Concepts supporting', () => {
-  // see Test case
-  runTests([testCase, testCase1, ...]);
+  // tests definitions testCase, testCase1, ... should be here...
+  const aggregatedData = {};
+  const testCases = [testCase, testCase1, ...];
+
+  after(() => {
+    executionSummaryTable(testCases, aggregatedData);
+  });
+
+  runTests(testCases, aggregatedData);
 });
 ```
+
+or
+
+```typescript
+import { runTests } from '../src/test-utils';
+
+describe('Concepts supporting', () => {
+  // tests definitions testCase, testCase1, ... should be here...
+  const testCases = [testCase, testCase1, ...];
+
+  runTests(testCases);
+});
+```
+
+if you don't need to see aggregate performance information
 
 ## Obtain results
 
