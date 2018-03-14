@@ -77,6 +77,7 @@ describe('Datapoints supporting', () => {
           }
         }
       })
+      .unsupportedFor('it should be serious refactoring for query processing: filter results after merging', WsReader)
       .withExpectationStrategy(GenericExpectationStrategy),
     new TestCase()
       .forDataSource(sg)

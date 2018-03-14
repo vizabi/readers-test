@@ -1,5 +1,5 @@
 import {
-  bubbles3, gmassets, popwpp, popwppbig, presentation, sankey, sg, sgmixentity, sgtiny, sodertornsmodellen,
+  bubbles3, datetesting, gmassets, popwpp, popwppbig, presentation, sankey, sg, sgmixentity, sgtiny, sodertornsmodellen,
   staticassets
 } from './datasources';
 import { AbstractFamilyMember } from '../family-definition/abstract-family-member';
@@ -86,12 +86,11 @@ export const familyMembers: AbstractFamilyMember[] = [
     .init({path: './test/data-fixtures/ddf--sodertornsmodellen'}),
   new WsReader()
     .forDataSource(sodertornsmodellen)
-    .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-sodertornsmodellen`})
-
-  /*new DdfCsvReader()
+    .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-sodertornsmodellen`}),
+  new DdfCsvReader()
     .forDataSource(datetesting)
     .init({path: './test/data-fixtures/ddf--gapminder--date_testing'}),
   new WsReader()
-    .forDataSource()
-    .init({path: wsPath, dataset: `${ghWsAcc}/`})*/
+    .forDataSource(datetesting)
+    .init({path: wsPath, dataset: `${ghWsAcc}/`})
 ];

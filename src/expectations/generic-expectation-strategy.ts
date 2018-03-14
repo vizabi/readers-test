@@ -6,11 +6,17 @@ import { writeDiff } from './utils';
 
 const expect = chai.expect;
 
-function stringifyObjectValues(o) {
+function stringifyObjectValues(o, isNullAsEmptyString: boolean = false) {
   const newObject = cloneDeep(o);
 
   for (const key of Object.keys(newObject)) {
-    newObject[key] = `${newObject[key]}`;
+    let value = newObject[key];
+
+    if (value === null && isNullAsEmptyString) {
+      value = '';
+    }
+
+    newObject[key] = `${value}`;
   }
 
   return newObject;
@@ -36,13 +42,12 @@ export class GenericExpectationStrategy extends AbstractExpectationStrategy {
 
   private equals(a, b) {
     if (a.length !== b.length) {
-
       return false;
     }
 
     const seen = {};
-    const aa = stringifyObjectValues(a);
-    const bb = stringifyObjectValues(b);
+    const aa = a.map(aaa => stringifyObjectValues(aaa, true));
+    const bb = b.map(bbb => stringifyObjectValues(bbb, true));
 
     for (const o of aa) {
       const key = new Buffer(JSON.stringify(o, Object.keys(o).sort())).toString('base64');
