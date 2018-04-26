@@ -1,0 +1,6692 @@
+[
+  {
+    "geo": "2120630_vastra_solberga",
+    "name": "Västra Solberga",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "swe",
+    "name": "Riket",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "s_dert_rn",
+    "name": "Södertörn",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1320330_lindhagensplan",
+    "name": "Lindhagensplan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1120132_norra_bantorget_v",
+    "name": "Norra Bantorget V",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4010120_skallsta_vastra_raby_garde",
+    "name": "Skällsta & Västra Råby Gärde",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810821_kymlinge_brotorp_stora_ursvik_norra",
+    "name": "Kymlinge & Brotorp & Stora Ursvik Norra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710110_jarvafaltet_jarvastaden_norra_jarvastaden_sodra_jarvastaden_ostra",
+    "name": "Järvafältet & Järvastaden norra & Järvastaden södra & Järvastaden östra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720720_filmstaden",
+    "name": "Filmstaden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6240550_osmo_norra_glesbygd",
+    "name": "Ösmo norra glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6240540_osmo_vastra_glesbygd",
+    "name": "Ösmo västra glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6240530_osmo_ostra_glesbygd",
+    "name": "Ösmo östra glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6240510_jarflotta",
+    "name": "Järflotta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6240100_osmo",
+    "name": "Ösmo",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6230000_toro_forsamling",
+    "name": "Torö församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6220530_sorunda_ostra_glesbygd",
+    "name": "Sorunda östra glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6220520_sorunda_vastra_glesbygd",
+    "name": "Sorunda västra glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6220510_liso",
+    "name": "Lisö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6220300_grodby",
+    "name": "Grödby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6220200_stora_vika",
+    "name": "Stora Vika",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6220100_sorunda",
+    "name": "Sorunda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6210640_hamnvik",
+    "name": "Hamnvik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6210570_rappsta_hacktorp",
+    "name": "Rappsta-Hacktorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6210520_vaktberget",
+    "name": "Vaktberget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6210490_trehorningen_mm",
+    "name": "Trehörningen mm",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6210440_sandhamn_mm",
+    "name": "Sandhamn mm",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6210410_nynashamn_sv_esto",
+    "name": "Nynäshamn SV (Estö)",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6210360_ostra_nynashamn_c",
+    "name": "Östra Nynäshamn C",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6210350_vastra_nynashamn_c",
+    "name": "Västra Nynäshamn C",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4111110_norra_runby",
+    "name": "Norra Runby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4111120_sodra_runby",
+    "name": "Södra Runby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4111130_runby_lovsta",
+    "name": "Runby Lövsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4111140_prastgardsmarken",
+    "name": "Prästgårdsmarken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4111900_eds_glesbygd",
+    "name": "Eds glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4122100_lowenstromska_sjukhuset",
+    "name": "Löwenströmska Sjukhuset",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4122210_norra_vilunda",
+    "name": "Norra Vilunda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4122230_apoteksskogen",
+    "name": "Apoteksskogen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4122240_vasbyskogen",
+    "name": "Väsbyskogen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4122310_korpkulla",
+    "name": "Korpkulla",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4122340_vilunda",
+    "name": "Vilunda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4122420_norra_smedby",
+    "name": "Norra Smedby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4122430_sodra_smedby",
+    "name": "Södra Smedby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4122520_skalby",
+    "name": "Skälby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4122530_carlslund",
+    "name": "Carlslund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4122540_brunnby",
+    "name": "Brunnby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4122600_vastra_odenslunda",
+    "name": "Västra Odenslunda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4133110_sanda",
+    "name": "Sanda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4133120_ostra_odenslunda",
+    "name": "Östra Odenslunda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4133200_frestaby",
+    "name": "Frestaby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4133310_vastra_bollstanas",
+    "name": "Västra Bollstanäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4133330_ostra_bollstanas",
+    "name": "Östra Bollstanäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4133350_sodra_bollstanas",
+    "name": "Södra Bollstanäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4133910_fresta_norra_glesbygd",
+    "name": "Fresta norra glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4133920_fresta_sodra_glesbygd",
+    "name": "Fresta södra glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4210110_centrala_vallentuna",
+    "name": "Centrala Vallentuna",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4210210_norra_vallentuna_tatort",
+    "name": "Norra Vallentuna tätort",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4210220_nv_a_vallentuna_tatort",
+    "name": "NV:a Vallentuna tätort",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4210320_ostra_ormsta",
+    "name": "Östra Ormsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4210330_vastra_ormsta",
+    "name": "Västra Ormsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4210340_aby_bostadsomrade",
+    "name": "Åby bostadsområde",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4210410_vastra_ballsta",
+    "name": "Västra Bällsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4210420_kragstalund",
+    "name": "Kragstalund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4210430_ballstaberg",
+    "name": "Bällstaberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4210440_karlberg_rickeby_okvista",
+    "name": "Karlberg Rickeby & Okvista",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4210510_vallentuna_glesbygd_v",
+    "name": "Vallentuna glesbygd V",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4210530_vallentuna_glesbygd_no",
+    "name": "Vallentuna glesbygd NO",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4210540_ostra_vallentuna_tatort_vallentuna_glesbygd_so",
+    "name": "Östra Vallentuna tätort & Vallentuna glesbygd SO",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4220000_markims_forsamling",
+    "name": "Markims församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4230100_lindholmen",
+    "name": "Lindholmen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4230500_sodra_lindholmen_orkesta_glesbygd",
+    "name": "Södra Lindholmen & Orkesta glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4240000_frosunda_forsamling",
+    "name": "Frösunda församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4250100_karsta",
+    "name": "Kårsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4250200_ekskogen",
+    "name": "Ekskogen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4250500_karsta_glesbygd",
+    "name": "Kårsta glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4260500_vada_glesbygd",
+    "name": "Vada glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4270100_karby",
+    "name": "Karby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4270200_brottby",
+    "name": "Brottby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4270501_ovr_osseby_garns_glesbygd",
+    "name": "Övr Össeby-Garns glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4270502_algeby_garns_ekskogen",
+    "name": "Älgeby/Garns-Ekskogen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4280000_angarns_forsamling",
+    "name": "Angarns församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4440110_ljustero",
+    "name": "Ljusterö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4440120_ingmarso_mfl_oar",
+    "name": "Ingmarsö mfl öar",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4440200_roslags_kulla_fd_forsaml",
+    "name": "Roslags-Kulla fd församl",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450110_ekbacken",
+    "name": "Ekbacken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450120_runo_gard",
+    "name": "Runö gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450130_akersberga",
+    "name": "Åkersberga",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450140_kullen",
+    "name": "Kullen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450150_ostra_sora",
+    "name": "Östra Söra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450160_vastra_sora",
+    "name": "Västra Söra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450170_neptunus",
+    "name": "Neptunus",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450180_kungsangen",
+    "name": "Kungsängen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450190_tunagard_osterskar",
+    "name": "Tunagård Österskär",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450210_akerstorp",
+    "name": "Åkerstorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450220_smedby",
+    "name": "Smedby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450230_hacksta",
+    "name": "Hacksta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450240_skansta",
+    "name": "Skånsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450250_singo",
+    "name": "Singö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450260_asatra",
+    "name": "Åsätra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450310_margretelund",
+    "name": "Margretelund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450320_trasatra",
+    "name": "Träsätra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450330_flaxenvik",
+    "name": "Flaxenvik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4450340_skargardsstad",
+    "name": "Skärgårdsstad",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4451231_sodra_runo_sodra_runotaljo_sodra_runo_nas",
+    "name": "Södra Runö & Södra RunöTäljö & Södra Runö Näs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4451240_norra_runo",
+    "name": "Norra Runö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4451250_svinninge",
+    "name": "Svinninge",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4451410_rydbo",
+    "name": "Rydbo",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4451420_svartgarn",
+    "name": "Svartgarn",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4451430_ostra_ryds_glesbygd",
+    "name": "Östra Ryds glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5610200_mortnas",
+    "name": "Mörtnäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5610500_gustavsbergs_glesbygd_gustavsbergs_glesbygd_v",
+    "name": "Gustavsbergs glesbygd & Gustavsbergs glesbygd V",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5611110_munkmora",
+    "name": "Munkmora",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5611120_lugnet_flerbostadshus",
+    "name": "Lugnet flerbostadshus",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5611130_lugnet_smahus",
+    "name": "Lugnet småhus",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5611140_hojdhagen",
+    "name": "Höjdhagen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5611150_sodra_gustavsberg_hasthagen",
+    "name": "Södra Gustavsberg & Hästhagen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5611160_osby_grind",
+    "name": "Ösby Grind",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5611170_osbydalen",
+    "name": "Ösbydalen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5611190_holmviksskogen",
+    "name": "Holmviksskogen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5620100_brunn",
+    "name": "Brunn",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5620510_norra_ingaro_sodra_farstalandet",
+    "name": "Norra Ingarö & Södra Farstalandet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5620520_sydvastra_ingaro",
+    "name": "Sydvästra Ingarö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5620530_langvik_klacknaset_skalsmara",
+    "name": "Långvik-Klacknäset & Skälsmara",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5630110_hemmesta",
+    "name": "Hemmesta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5630120_fruvik",
+    "name": "Fruvik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5630130_hemmestahojden",
+    "name": "Hemmestahöjden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5630200_angsvik",
+    "name": "Ängsvik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5630300_skepsdalsstrom",
+    "name": "Skepsdalsström",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5630400_kopparmora",
+    "name": "Kopparmora",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5630510_norra_varmdo_torsby_evlinge_saltaro_skarmaro",
+    "name": "Norra Värmdö & Torsby & Evlinge & Saltarö-Skärmarö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5630520_sodra_varmdolandet_stromma_bullando_alvsala_fagerdala_fagelbrolandet",
+    "name": "Södra Värmdölandet & Strömma & Bullandö/Älvsala/Fagerdala & Fågelbrolandet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5630600_varmdo_norra_skargard",
+    "name": "Värmdö norra skärgård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5640100_djurhamn",
+    "name": "Djurhamn",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5640200_stavsnas",
+    "name": "Stavsnäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5640510_stavsnas_glesbygd",
+    "name": "Stavsnäs glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5640520_djuro_glesbygd",
+    "name": "Djurö glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5640600_djuro_skargard",
+    "name": "Djurö skärgård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5650000_moja_forsamling",
+    "name": "Möja församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5660000_namdo_forsamling",
+    "name": "Nämdö församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3311110_staket",
+    "name": "Stäket",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3312220_vastra_kallhall",
+    "name": "Västra Kallhäll",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3312230_skogstorp",
+    "name": "Skogstorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3312240_norra_kallhall",
+    "name": "Norra Kallhäll",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3312250_bonas",
+    "name": "Bonäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3312260_termosvagen",
+    "name": "Termosvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3312270_ladersatra",
+    "name": "Lädersätra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3312300_molnsattra",
+    "name": "Molnsättra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3324100_olovslund",
+    "name": "Olovslund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3324200_berghem",
+    "name": "Berghem",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3324310_sodra_nibble",
+    "name": "Södra Nibble",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3324320_norra_nibble",
+    "name": "Norra Nibble",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3324410_tallbohov",
+    "name": "Tallbohov",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3324420_hammaren",
+    "name": "Hammaren",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3324430_jakobsbergs_centrum",
+    "name": "Jakobsbergs centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3324500_vibblaby",
+    "name": "Vibblaby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3335100_norra_viksjo",
+    "name": "Norra Viksjö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3335210_ostra_viksjo",
+    "name": "Östra Viksjö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3335220_viksjo_centrum",
+    "name": "Viksjö centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3335310_ostra_lund",
+    "name": "Östra Lund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3335320_vastra_lund",
+    "name": "Västra Lund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3335410_ostra_sandvik",
+    "name": "Östra Sandvik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3335420_sandvik",
+    "name": "Sandvik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3335600_fjallen",
+    "name": "Fjällen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3346110_skalby",
+    "name": "Skälby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3346120_ormbacka",
+    "name": "Ormbacka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3346200_skalby_gard",
+    "name": "Skälby gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3347300_jarfalla_kyrka",
+    "name": "Järfälla kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3347400_barkrby",
+    "name": "Barkrby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3347500_barsbro",
+    "name": "Barsbro",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3210100_drottningholm",
+    "name": "Drottningholm",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3210500_lovo_glesbygd",
+    "name": "Lovö glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3220101_tappstrom_narlunda",
+    "name": "Tappström/Närlunda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3220102_ostra_narlunda",
+    "name": "Östra Närlunda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3220103_ekero_centrum",
+    "name": "Ekerö centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3220211_alvnas",
+    "name": "Älvnäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3220212_brunna",
+    "name": "Brunna",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3220230_knalleborg",
+    "name": "Knalleborg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3220261_ostra_trakvista",
+    "name": "Östra Träkvista",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3220262_gallsta_o",
+    "name": "Gällsta Ö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3220270_sandudden",
+    "name": "Sandudden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3220500_ekero_glesbygd",
+    "name": "Ekerö glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3230000_munso_forsamling",
+    "name": "Munsö församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3240000_adelso_forsamling",
+    "name": "Adelsö församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3250100_farentuna_fd_forsamling",
+    "name": "Färentuna fd församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3250201_hilleshogs_fd_forsamling",
+    "name": "Hilleshögs fd församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3250202_ricksattra",
+    "name": "Ricksättra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3250310_stenhamra",
+    "name": "Stenhamra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3250320_sanga_glesbygd",
+    "name": "Sånga glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3250400_ska_fd_forsamling",
+    "name": "Skå fd församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5310420_skogsang_milsten",
+    "name": "Skogsäng Milsten",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5310810_fullersta_gard",
+    "name": "Fullersta Gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5310830_fridhem",
+    "name": "Fridhem",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5310840_kallbrink_vistaberg",
+    "name": "Källbrink Vistaberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5310850_vardkasen",
+    "name": "Vårdkasen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5310910_sjodalen_huddinge_c",
+    "name": "Sjödalen-Huddinge C",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5310941_solgard",
+    "name": "Solgård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5310942_sorskogen",
+    "name": "Sörskogen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5310950_horningsns_balingsnas",
+    "name": "Hörningsns Balingsnäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5311010_stuvsta_kvarnberget",
+    "name": "Stuvsta Kvarnberget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5311030_segersminne",
+    "name": "Segersminne",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5311041_stensangen_hogmora",
+    "name": "Stensängen Högmora",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5311042_kynas",
+    "name": "Kynäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5311110_glado_kvarn",
+    "name": "Gladö kvarn",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5311120_adran",
+    "name": "Ådran",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5320110_trangsunds_centrum",
+    "name": "Trångsunds centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5320120_trangsunds_smahus",
+    "name": "Trångsunds småhus",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5320310_vastra_skogas",
+    "name": "Västra Skogås",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5320320_ostra_skogas",
+    "name": "Östra Skogås",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5320410_lanna_drevviken",
+    "name": "Länna Drevviken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5320510_trangsunds_glesbygd",
+    "name": "Trångsunds glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5320520_vidja",
+    "name": "Vidja",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5330110_varby_gard",
+    "name": "Vårby Gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5330200_masmo",
+    "name": "Masmo",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5330331_smista_juringe",
+    "name": "Smista Juringe",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5330332_jakobslund",
+    "name": "Jakobslund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5330340_krakvik",
+    "name": "Kråkvik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5330410_utsalje",
+    "name": "Utsälje",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5330430_snattringe_gard",
+    "name": "Snättringe gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5340500_glomsta",
+    "name": "Glömsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5340630_kasta",
+    "name": "Kåsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5340640_grantorp",
+    "name": "Grantorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5340710_visattra",
+    "name": "Visättra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110110_albyslatten",
+    "name": "Albyslätten",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110120_albyberget",
+    "name": "Albyberget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110150_rotemannen",
+    "name": "Rotemannen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110160_alby_gard",
+    "name": "Alby gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110240_aspberget",
+    "name": "Aspberget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110260_ostra_eriksberg",
+    "name": "Östra Eriksberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110270_vastra_eriksberg",
+    "name": "Västra Eriksberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110280_tre_kallor",
+    "name": "Tre Källor",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110290_sturehov",
+    "name": "Sturehov",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110311_krogarvagen_vardshusvagen",
+    "name": "Krögarvägen-Värdshusvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110312_forvagen",
+    "name": "Forvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110320_fittja_gard",
+    "name": "Fittja gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110410_sodra_hallunda",
+    "name": "Södra Hallunda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110420_slagsta",
+    "name": "Slagsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110430_brunna",
+    "name": "Brunna",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110450_sodra_norsborg",
+    "name": "Södra Norsborg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110460_tornbergsfaltet",
+    "name": "Tornbergsfältet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110480_nordostra_norsborg",
+    "name": "Nordöstra Norsborg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5110490_nordvastra_norsborg",
+    "name": "Nordvästra Norsborg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5120730_tumba_centrum",
+    "name": "Tumba centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5120750_segersjo",
+    "name": "Segersjö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5120780_tumba_villastad",
+    "name": "Tumba villastad",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5120790_skacklinge",
+    "name": "Skäcklinge",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5120810_storvreten",
+    "name": "Storvreten",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5120820_blockvagen",
+    "name": "Blockvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5120830_grytstigen",
+    "name": "Grytstigen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5120840_vedstigen",
+    "name": "Vedstigen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5120910_tumba_bruk",
+    "name": "Tumba bruk",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5120920_tumba_glesbygd",
+    "name": "Tumba glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5120930_kommunalhuset",
+    "name": "Kommunalhuset",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5120940_tuna",
+    "name": "Tuna",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5120950_nackdala",
+    "name": "Nackdala",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5120970_loviseberg",
+    "name": "Loviseberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5130810_uttran",
+    "name": "Uttran",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5130820_varsta",
+    "name": "Vårsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5130830_grodinge_glesbygd",
+    "name": "Grödinge glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5140110_tullinge_villastad",
+    "name": "Tullinge villastad",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5140620_tullingeberg",
+    "name": "Tullingeberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5140641_tullinge_parkhem",
+    "name": "Tullinge parkhem",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5140642_lanthem_n",
+    "name": "Lanthem N",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5140650_tullinge_centrum",
+    "name": "Tullinge centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5140660_banslatt",
+    "name": "Banslätt",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5140690_tullinge_glesbygd_riksten",
+    "name": "Tullinge glesbygd & Riksten",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5140711_tullinge_skog",
+    "name": "Tullinge skog",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5140712_lanthem_s",
+    "name": "Lanthem S",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5711010_soderby_garde",
+    "name": "Söderby Gärde",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5711020_soderby_park",
+    "name": "Söderby Park",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5711110_skyttorp",
+    "name": "Skyttorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5711120_skogsang",
+    "name": "Skogsäng",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5711130_soderby",
+    "name": "Söderby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5711200_salems_centrum",
+    "name": "Salems centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5712110_norra_ronninge",
+    "name": "Norra Rönninge",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5712210_uttringe",
+    "name": "Uttringe",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5712220_ostra_ronninge",
+    "name": "Östra Rönninge",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5712300_ronninge_centrum",
+    "name": "Rönninge Centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5713000_salems_glesbygd",
+    "name": "Salems glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211120_gudo",
+    "name": "Gudö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211131_sodra_vendelso",
+    "name": "Södra Vendelsö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211132_sagen",
+    "name": "Sågen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211140_norra_vendelso",
+    "name": "Norra Vendelsö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211150_dalen",
+    "name": "Dalen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211210_vendelsomalm",
+    "name": "Vendelsömalm",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211220_eriksberg",
+    "name": "Eriksberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211230_ramsdalen",
+    "name": "Ramsdalen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211320_brandbergens_industriomr",
+    "name": "Brandbergens industriomr",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211330_brandbergen_flerbost_hus",
+    "name": "Brandbergen flerbost-hus",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211340_brandbergen_smahus",
+    "name": "Brandbergen småhus",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211430_kolartorp",
+    "name": "Kolartorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211440_vega_vega_soderhagen",
+    "name": "Vega & Vega Söderhagen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211450_kvarntorp_kvarntorp_v_gamla_nynasvagen",
+    "name": "Kvarntorp & Kvarntorp V & Gamla Nynäsvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211511_haninge_centrum",
+    "name": "Haninge centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211512_vastra_handen",
+    "name": "Västra Handen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211520_norra_handen",
+    "name": "Norra Handen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211540_valla",
+    "name": "Valla",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211550_sodra_handen",
+    "name": "Södra Handen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211610_jordbro_flerbostadshus",
+    "name": "Jordbro flerbostadshus",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211620_jordbro_smahus",
+    "name": "Jordbro småhus",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211710_norrby",
+    "name": "Norrby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211800_norra_soderby",
+    "name": "Norra Söderby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211920_galo_sandemar",
+    "name": "Gålö Sandemar",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211930_tyresta",
+    "name": "Tyresta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211940_osterhaninge_kyrka",
+    "name": "Österhaninge kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5211950_arsta_havsbad_o",
+    "name": "Årsta Havsbad Ö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5222100_dalaro",
+    "name": "Dalarö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5222500_smadalaro",
+    "name": "Smådalarö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5233000_uto",
+    "name": "Utö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5240000_orno_forsamling",
+    "name": "Ornö församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5255110_aby",
+    "name": "Åby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5255121_jagartorp",
+    "name": "Jägartorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5255130_vasterhaninge_kyrka",
+    "name": "Västerhaninge kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5255140_ribby",
+    "name": "Ribby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5255150_nedersta_nodesta",
+    "name": "Nedersta & Nödesta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5255210_norra_tungelsta",
+    "name": "Norra Tungelsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5255220_sodra_tungelsta",
+    "name": "Södra Tungelsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5255910_vasterhaninge_glesbygd_n",
+    "name": "Västerhaninge glesbygd N",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5255920_vasterhaninge_glesbygd_s",
+    "name": "Västerhaninge glesbygd S",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5255930_arsta_havsbad_v_berga",
+    "name": "Årsta havsbad V - Berga",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5260000_musko_forsamling",
+    "name": "Muskö församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5511000_vastra_trollbacken",
+    "name": "Västra Trollbäcken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5511120_centrala_trollbacken",
+    "name": "Centrala Trollbäcken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5511130_sodergarden",
+    "name": "Södergården",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5511140_skalsatra",
+    "name": "Skälsätra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5511150_norra_hanviken",
+    "name": "Norra Hanviken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5511160_sodra_hanviken",
+    "name": "Södra Hanviken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5512010_norra_lindalen",
+    "name": "Norra Lindalen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5513010_tyreso_centrum",
+    "name": "Tyresö Centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5513020_simvagen",
+    "name": "Simvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5513110_granitvagen",
+    "name": "Granitvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5513120_pluggvagen",
+    "name": "Pluggvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5513140_mellanbergsvagen",
+    "name": "Mellanbergsvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5513150_granangsringen",
+    "name": "Granängsringen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5513160_vastra_farmarstigen",
+    "name": "Västra Farmarstigen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5513170_ostra_farmarstigen",
+    "name": "Östra Farmarstigen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5513210_ostra_bollmora",
+    "name": "Östra Bollmora",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5513220_bondevagen",
+    "name": "Bondevägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5513310_norra_bollmora",
+    "name": "Norra Bollmora",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5513330_vastra_fardala",
+    "name": "Västra Fårdala",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5513410_fardala",
+    "name": "Fårdala",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5514000_krusboda",
+    "name": "Krusboda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5515010_oringe",
+    "name": "Öringe",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5515120_strand_norr_tyreso_strand_centrum_strand_syd_gimmersta",
+    "name": "Strand Norr & Tyresö Strand, Centrum & Strand Syd, Gimmersta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5515210_vissvass_raksta_solberga_bergholm",
+    "name": "Vissvass & Raksta, Solberga, Bergholm",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5515220_inre_brevik_yttre_brevik",
+    "name": "Inre Brevik & Yttre Brevik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4010130_gamla_bro_tatort",
+    "name": "Gamla Bro tätort",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4010140_bro_centrum",
+    "name": "Bro centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4010500_kockbacka_bro_glesbygd_ostra_bro_sodra_bro",
+    "name": "Kockbacka & Bro glesbygd & Östra Bro & Södra Bro",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4020000_lassa_forsamling",
+    "name": "Låssa församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4050100_habo_tibble_kyrkby",
+    "name": "Håbo-Tibble kyrkby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4050200_mariedal_nashagen",
+    "name": "Mariedal-Näshagen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4050500_habo_tibble_glesbygd",
+    "name": "Håbo-Tibble glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4060000_hatuna_forsamling",
+    "name": "Håtuna församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4070110_sodra_kungsangen",
+    "name": "Södra Kungsängen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4070120_norra_kungsangen",
+    "name": "Norra Kungsängen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4070130_tibblehojden",
+    "name": "Tibblehöjden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4070150_tibbleangen",
+    "name": "Tibbleängen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4070160_sylta",
+    "name": "Sylta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4070170_kungsangens_glesbygd_rankhus",
+    "name": "Kungsängens glesbygd & Rankhus",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4070210_brunna_tatort",
+    "name": "Brunna tätort",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6410100_nykvarn",
+    "name": "Nykvarn",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6410500_turinge_glesbygd",
+    "name": "Turinge glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6420000_taxinge_forsamling",
+    "name": "Taxinge församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910110_vastra_nasbypark",
+    "name": "Västra Näsbypark",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910120_ornstigen",
+    "name": "Örnstigen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910130_nasbyparks_centrum",
+    "name": "Näsbyparks centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910140_nasby_slott",
+    "name": "Näsby slott",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910170_ostra_nasbypark",
+    "name": "Östra Näsbypark",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910190_lahall",
+    "name": "Lahäll",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910210_nasbydal",
+    "name": "Näsbydal",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910220_grindtorp",
+    "name": "Grindtorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910240_taby_centrum",
+    "name": "Täby centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910270_marknadsvagen",
+    "name": "Marknadsvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910280_akerbyvagen",
+    "name": "Åkerbyvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910310_sodra_viggbyholm",
+    "name": "Södra Viggbyholm",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910320_viggbygardet",
+    "name": "Viggbygärdet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910330_mellersta_viggbyholm",
+    "name": "Mellersta Viggbyholm",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910350_norra_viggbyholm",
+    "name": "Norra Viggbyholm",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910370_norra_hagernas",
+    "name": "Norra Hägernäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910380_sodra_hagernas",
+    "name": "Södra Hägernäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910480_norra_landsbygden",
+    "name": "Norra landsbygden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910730_ella",
+    "name": "Ella",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910770_vastra_ensta",
+    "name": "Västra Ensta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910780_ostra_ensta",
+    "name": "Östra Ensta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910790_kullagrand",
+    "name": "Kullagränd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910810_norra_ellagard",
+    "name": "Norra Ellagård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910820_sodra_ellagard",
+    "name": "Södra Ellagård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910830_ava",
+    "name": "Åva",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910840_vastra_ellagard",
+    "name": "Västra Ellagård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910910_skarpang",
+    "name": "Skarpäng",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3910920_gripsvall",
+    "name": "Gripsvall",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911010_ostra_roslags_nasby",
+    "name": "Östra Roslags-Näsby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911020_vastra_roslags_nasby",
+    "name": "Västra Roslags-Näsby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911510_lansen",
+    "name": "Lansen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911520_sodra_gribbylund",
+    "name": "Södra Gribbylund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911530_gribbylunds_centrum",
+    "name": "Gribbylunds centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911540_norra_gribbylund",
+    "name": "Norra Gribbylund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911550_sveavagen",
+    "name": "Sveavägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911610_ostra_vallabrink",
+    "name": "Östra Vallabrink",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911620_vastra_vallabrink",
+    "name": "Västra Vallabrink",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911660_visinge",
+    "name": "Visinge",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911670_vallatorp",
+    "name": "Vallatorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911680_erikslund",
+    "name": "Erikslund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911740_s_a_midgards_industriomr",
+    "name": "S:a Midgårds industriomr",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911750_taby_kyrka",
+    "name": "Täby kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911760_midgard",
+    "name": "Midgård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911780_ostra_taby_kyrkby",
+    "name": "Östra Täby Kyrkby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3911790_runborg",
+    "name": "Runborg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110110_ostra_enebyberg",
+    "name": "Östra Enebyberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110120_vastra_enebyberg",
+    "name": "Västra Enebyberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110260_satra",
+    "name": "Sätra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110270_nora",
+    "name": "Nora",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110280_klingsta",
+    "name": "Klingsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110330_morbyskogen",
+    "name": "Mörbyskogen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110340_kevinge",
+    "name": "Kevinge",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110350_morby_centrum",
+    "name": "Mörby Centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110370_morbylund",
+    "name": "Mörbylund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110430_norra_djursholm",
+    "name": "Norra Djursholm",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110440_sodra_djursholm",
+    "name": "Södra Djursholm",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110450_osby",
+    "name": "Ösby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110460_ekeby",
+    "name": "Ekeby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110510_norra_stocksund",
+    "name": "Norra Stocksund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110530_inverness",
+    "name": "Inverness",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110540_sodra_stocksund",
+    "name": "Södra Stocksund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110610_klockargarden",
+    "name": "Klockargården",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3110620_berga",
+    "name": "Berga",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610120_gillberga",
+    "name": "Gillberga",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610140_rotsunda",
+    "name": "Rotsunda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610170_rotebro_centrum",
+    "name": "Rotebro centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610180_rotsunda_gard",
+    "name": "Rotsunda gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610210_vastra_viby",
+    "name": "Västra Viby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610230_ostra_viby",
+    "name": "Östra Viby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610310_vastra_norrviken",
+    "name": "Västra Norrviken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610330_ostra_norrviken",
+    "name": "Östra Norrviken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610400_vaxmora",
+    "name": "Vaxmora",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610510_klasro",
+    "name": "Klasro",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610530_haggviks_centrum",
+    "name": "Häggviks centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610540_skalby",
+    "name": "Skälby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610610_edsbergs_centrum",
+    "name": "Edsbergs centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610650_ovriga_edsberg",
+    "name": "Övriga Edsberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610660_landsnora",
+    "name": "Landsnora",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610670_vasjoomradet",
+    "name": "Väsjöområdet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610680_kvarnskogen",
+    "name": "Kvarnskogen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610730_turebergs_industriomr",
+    "name": "Turebergs industriomr",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610750_fagelsangen",
+    "name": "Fågelsången",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610760_tojnan",
+    "name": "Töjnan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610770_nytorp",
+    "name": "Nytorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610780_skansen",
+    "name": "Skansen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610810_falkberget",
+    "name": "Falkberget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610830_sjoberg",
+    "name": "Sjöberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610920_ostra_helenelund",
+    "name": "Östra Helenelund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610931_tegelhagen",
+    "name": "Tegelhagen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610940_helenelunds_centrum",
+    "name": "Helenelunds centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3610951_vastra_helenelund",
+    "name": "Västra Helenelund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3612710_bagarby",
+    "name": "Bagarby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1010120_skeppsbron",
+    "name": "Skeppsbron",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1010130_munkbron",
+    "name": "Munkbron",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1010140_stortorget",
+    "name": "Stortorget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1010201_centralstationen_n",
+    "name": "Centralstationen N",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1010220_klara_kyrka",
+    "name": "Klara Kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1010230_centralposten",
+    "name": "Centralposten",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1010240_oscarsteatern",
+    "name": "Oscarsteatern",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1010250_brunkeberg",
+    "name": "Brunkeberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1010290_oxtorget",
+    "name": "Oxtorget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1010310_norrlandsgatan",
+    "name": "Norrlandsgatan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1110111_brunnsgatan_n",
+    "name": "Brunnsgatan N",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1110112_brunnsgatan_s",
+    "name": "Brunnsgatan S",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1110120_johannes_kyrka",
+    "name": "Johannes Kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1110210_wenner_gren_center",
+    "name": "Wenner Gren Center",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1110220_vanadislunden",
+    "name": "Vanadislunden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1110230_surbrunnsomradet",
+    "name": "Surbrunnsområdet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1110240_norra_real",
+    "name": "Norra Real",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1110250_elverket",
+    "name": "Elverket",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1120110_tegnerlunden",
+    "name": "Tegnerlunden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1120120_tandlakarhogskolan",
+    "name": "Tandläkarhögskolan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1120131_norra_bantorget_o",
+    "name": "Norra Bantorget Ö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1120140_adolf_fredriks_kyrka",
+    "name": "Adolf Fredriks Kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1120150_skandiahuset",
+    "name": "Skandiahuset",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1120210_kungssten",
+    "name": "Kungssten",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1120220_saltmatargatan",
+    "name": "Saltmätargatan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1120230_sjokatten",
+    "name": "Sjökatten",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1130110_atlasomradet",
+    "name": "Atlasområdet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1130120_gustav_vasa_kyrka",
+    "name": "Gustav Vasa Kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1130130_observatoriegatan",
+    "name": "Observatoriegatan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1130140_sabbatsberg",
+    "name": "Sabbatsberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1130150_polstjarnan",
+    "name": "Polstjärnan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1130170_betlehemskyrkan",
+    "name": "Betlehemskyrkan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1140110_norrtull",
+    "name": "Norrtull",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1140120_tre_liljor",
+    "name": "Tre Liljor",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1140130_matteuskyrka",
+    "name": "Matteuskyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1140140_halsingehojden",
+    "name": "Hälsingehöjden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1140150_centralgaraget",
+    "name": "Centralgaraget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1140210_norra_station_1_norra_station_2",
+    "name": "Norra Station 1 & Norra Station 2",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1140220_birkagarden",
+    "name": "Birkagården",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1140230_rorstrand",
+    "name": "Rörstrand",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1140240_rodaberget",
+    "name": "Rödaberget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1140250_s_t_eriksplan",
+    "name": "S:t Eriksplan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1210110_roslagstull",
+    "name": "Roslagstull",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1210120_larkstaden",
+    "name": "Lärkstaden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1210131_danderydsplan_v",
+    "name": "Danderydsplan V",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1210132_danderydsplan_o",
+    "name": "Danderydsplan Ö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1210140_eriksberg",
+    "name": "Eriksberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1210151_stureplan_o",
+    "name": "Stureplan Ö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1210161_humlegarden_o",
+    "name": "Humlegården Ö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1210171_stureparken_o",
+    "name": "Stureparken Ö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1210172_stureparken_v",
+    "name": "Stureparken V",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1210210_roslagstulls_sjukhus",
+    "name": "Roslagstulls sjukhus",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1210220_ostra_station",
+    "name": "Östra Station",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1210320_ekhagen",
+    "name": "Ekhagen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1210330_frescati",
+    "name": "Frescati",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1210410_centrala_hjorthagen",
+    "name": "Centrala Hjorthagen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1220110_ostermalmshallen",
+    "name": "Östermalmshallen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1220120_dramatiska_teatern",
+    "name": "Dramatiska teatern",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1220130_ostermalmstorg",
+    "name": "Östermalmstorg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1220140_skvalberget",
+    "name": "Skvalberget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1220150_tyskbagaromradet",
+    "name": "Tyskbagarområdet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1220160_hedvig_eleonora_kyrka",
+    "name": "Hedvig Eleonora Kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1220170_kronkvarnen",
+    "name": "Kronkvarnen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1230110_karlaplan",
+    "name": "Karlaplan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1230120_historiska_musuet",
+    "name": "Historiska MusÚet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1230130_strandvagen",
+    "name": "Strandvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1230140_oscarskyrkan",
+    "name": "Oscarskyrkan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1230161_gustav_adolfskyrkan_v",
+    "name": "Gustav Adolfskyrkan V",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1230162_gustav_adolfskyrkan_o",
+    "name": "Gustav Adolfskyrkan Ö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1230210_djurgardsstaden",
+    "name": "Djurgårdsstaden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1230220_sodra_djurgarden",
+    "name": "Södra Djurgården",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1230300_hastgardet",
+    "name": "Hästgardet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1230310_olaus_petri_kyrka",
+    "name": "Olaus Petri Kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1230320_tessinparken",
+    "name": "Tessinparken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1230330_smedsbacken",
+    "name": "Smedsbacken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1230350_kampementsbacken",
+    "name": "Kampementsbacken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1230360_oregrundsgatan",
+    "name": "Öregrundsgatan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1230390_ladugardsgardet",
+    "name": "Ladugårdsgärdet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1310100_stadshuset",
+    "name": "Stadshuset",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1310110_eira",
+    "name": "Eira",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1310120_kungsklippan",
+    "name": "Kungsklippan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1310130_kungsbroplan",
+    "name": "Kungsbroplan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1310140_tekniska_namndhuset",
+    "name": "Tekniska Nämndhuset",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1310150_landstingshuset",
+    "name": "Landstingshuset",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1310160_pontonjarparken",
+    "name": "Pontonjärparken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1310170_s_t_eriks_sjukhus",
+    "name": "S:t Eriks Sjukhus",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1310180_wargentinsgatan",
+    "name": "Wargentinsgatan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1310190_kronoberg",
+    "name": "Kronoberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1320110_karlsvik",
+    "name": "Karlsvik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1320120_hemmet",
+    "name": "Hemmet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1320130_fridhemsplan",
+    "name": "Fridhemsplan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1320140_s_t_eriksgatan",
+    "name": "S:t Eriksgatan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1320150_alstromergatan",
+    "name": "Alströmergatan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1320210_ralambshov",
+    "name": "Rålambshov",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1320220_svedbergsplan",
+    "name": "Svedbergsplan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1320240_mariebergsparken",
+    "name": "Mariebergsparken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1320310_ostra_stadshagen",
+    "name": "Östra Stadshagen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1320410_vastra_kristineberg",
+    "name": "Västra Kristineberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1320420_thorildsplan",
+    "name": "Thorildsplan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1320500_fredhall",
+    "name": "Fredhäll",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1330100_lilla_essingen",
+    "name": "Lilla Essingen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1330200_stora_essingen",
+    "name": "Stora Essingen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1410110_mariaberget",
+    "name": "Mariaberget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1410120_maria_kyrka",
+    "name": "Maria Kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1410130_swedenborgsgatan",
+    "name": "Swedenborgsgatan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1410140_gullfjardsplan",
+    "name": "Gullfjärdsplan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1410150_bergsgruvan",
+    "name": "Bergsgruvan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1410210_sodra_station_vast",
+    "name": "Södra Station Väst",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1410220_sodra_station_ost",
+    "name": "Södra Station Öst",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1420110_hogalidskyrkan",
+    "name": "Högalidskyrkan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1420120_skinnarviksringen",
+    "name": "Skinnarviksringen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1420130_ludvigsberg",
+    "name": "Ludvigsberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1420140_bergsund",
+    "name": "Bergsund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1420210_hornstull",
+    "name": "Hornstull",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1420220_bysistappan",
+    "name": "Bysistäppan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1420230_sodra_namndhuset",
+    "name": "Södra Nämndhuset",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1420240_zinkensdamm",
+    "name": "Zinkensdamm",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1420310_sodersjukhuset",
+    "name": "Södersjukhuset",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1420320_tanto",
+    "name": "Tanto",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1420330_skoldgatan_syd",
+    "name": "Sköldgatan Syd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1420360_skoldgatan_nord",
+    "name": "Sköldgatan Nord",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1420410_langholmen",
+    "name": "Långholmen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1420420_reimersholme",
+    "name": "Reimersholme",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1430120_vastra_aso",
+    "name": "Västra Åsö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1430130_blekingetappan",
+    "name": "Blekingetäppan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1430140_helgalunden",
+    "name": "Helgalunden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1430150_eriksdal",
+    "name": "Eriksdal",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1430160_asotorget",
+    "name": "Åsötorget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1430180_rosenlund",
+    "name": "Rosenlund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1430210_mosebacke",
+    "name": "Mosebacke",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1430220_ostra_aso",
+    "name": "Östra Åsö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1430230_katarina_kyrka",
+    "name": "Katarina Kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1430240_bjurholmsplan",
+    "name": "Bjurholmsplan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1430250_nytorget",
+    "name": "Nytorget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1440110_ersta",
+    "name": "Ersta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1440120_sofia_kyrka",
+    "name": "Sofia Kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1440210_tullgarden",
+    "name": "Tullgården",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1440220_vita_bergen",
+    "name": "Vita Bergen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1440230_blecktornet",
+    "name": "Blecktornet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1440240_vintertullen",
+    "name": "Vintertullen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1440250_barnangen",
+    "name": "Barnängen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1440260_mjardgrand",
+    "name": "Mjärdgränd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1440311_danviken_n",
+    "name": "Danviken N",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "1440312_danviken_s",
+    "name": "Danviken S",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110120_sankt_sigfrid",
+    "name": "Sankt Sigfrid",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110130_ornsberg_nord_ost",
+    "name": "Örnsberg Nord-Öst",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110140_vinterviken",
+    "name": "Vinterviken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110150_ornsberg_syd_ost",
+    "name": "Örnsberg Syd-Öst",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110220_ostra_grondal",
+    "name": "Östra Gröndal",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110230_ekensberg",
+    "name": "Ekensberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110310_axelsbergs_torg",
+    "name": "Axelsbergs Torg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110320_klubbacken",
+    "name": "Klubbacken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110330_axelsberg_syd_ost",
+    "name": "Axelsberg Syd-Öst",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110340_stensborg",
+    "name": "Stensborg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110350_sankt_mickelsgatan",
+    "name": "Sankt Mickelsgatan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110370_ornsberg_syd_vast",
+    "name": "Örnsberg Syd-Väst",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110380_hagerstenshamnen",
+    "name": "Hägerstenshamnen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110390_axelsberg_nord",
+    "name": "Axelsberg Nord",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110520_norra_hagerstensasen",
+    "name": "Norra Hägerstensåsen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110530_sodra_hagerstensasen",
+    "name": "Södra Hägerstensåsen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110620_nybohov",
+    "name": "Nybohov",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110650_liljeholmsberget",
+    "name": "Liljeholmsberget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110660_lovholmen",
+    "name": "Lövholmen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110681_nyboda_o",
+    "name": "Nyboda Ö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110720_svandammen",
+    "name": "Svandammen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110730_fastlagsvagen",
+    "name": "Fastlagsvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110740_telefonplan",
+    "name": "Telefonplan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110810_norra_malarhojden",
+    "name": "Norra Mälarhöjden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110820_gulddragaren",
+    "name": "Gulddragaren",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110920_karusellvagen",
+    "name": "Karusellvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110930_korpmossen",
+    "name": "Korpmossen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2110940_hokmossen",
+    "name": "Hökmossen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2120100_fruangen",
+    "name": "Fruängen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2120201_herrangen_v",
+    "name": "Herrängen V",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2120202_herrangen_o",
+    "name": "Herrängen Ö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2120300_liseberg",
+    "name": "Liseberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2120401_langbro_v",
+    "name": "Långbro V",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2120402_langbro_o",
+    "name": "Långbro Ö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2120500_langsjo",
+    "name": "Långsjö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2120620_norra_solberga",
+    "name": "Norra Solberga",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "01_stockholms_lan",
+    "name": "Stockholms län",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2120660_sodra_solberga",
+    "name": "Södra Solberga",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2120700_vastertorp",
+    "name": "Västertorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2120820_vastra_alvsjo",
+    "name": "Västra Älvsjö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2120900_orby_slott",
+    "name": "Örby Slott",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2121020_ostbergahojden_ostbergavagen",
+    "name": "Östbergahöjden & Östbergavägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2130100_bandhagen",
+    "name": "Bandhagen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2130210_hogdalens_centrum",
+    "name": "Högdalens Centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2130220_ostra_hogdalen",
+    "name": "Östra Högdalen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2130230_vastra_hogdalen",
+    "name": "Västra Högdalen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2130240_skebokvarnsvagen",
+    "name": "Skebokvarnsvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2130320_ragsveds_torg",
+    "name": "Rågsveds Torg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2130330_bjursatra",
+    "name": "Bjursätra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2130340_snosatra",
+    "name": "Snösätra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2130420_backaskiftsvagen",
+    "name": "Bäckaskiftsvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2130430_ostra_stureby",
+    "name": "Östra Stureby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2130440_vastra_stureby",
+    "name": "Västra Stureby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2130501_orby_n",
+    "name": "Örby N",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2130502_orby_s",
+    "name": "Örby S",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2130620_hagsatra_torg",
+    "name": "Hagsätra Torg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2130630_ormkarr",
+    "name": "Ormkärr",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2140120_ostra_enskedefaltet",
+    "name": "Östra Enskedefältet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2140210_vastra_enskede_gard",
+    "name": "Västra Enskede Gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2140220_tradskolan",
+    "name": "Trädskolan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2140320_enskede_kyrka",
+    "name": "Enskede Kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2140330_svampvagen",
+    "name": "Svampvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2140340_sandsborg",
+    "name": "Sandsborg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2140350_dalen",
+    "name": "Dalen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2140620_gullmarsplan",
+    "name": "Gullmarsplan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2140630_skarmarbrink",
+    "name": "Skärmarbrink",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2140820_skanskvarn",
+    "name": "Skanskvarn",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2140830_arsta_centrum",
+    "name": "Årsta Centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2140840_arsta_gard",
+    "name": "Årsta Gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2140850_valla_garde",
+    "name": "Valla Gärde",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2150100_bjorkhagen",
+    "name": "Björkhagen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2150200_enskededalen",
+    "name": "Enskededalen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2150400_hammarbyhojden",
+    "name": "Hammarbyhöjden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2150500_karrtorp",
+    "name": "Kärrtorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2150720_pungpinan",
+    "name": "Pungpinan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2150731_skarpnacksfaltet_o",
+    "name": "Skarpnäcksfältet Ö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2150732_skarpnacksfaltet_v",
+    "name": "Skarpnäcksfältet V",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2150740_skarpa_by",
+    "name": "Skarpa By",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2150820_lagaplan",
+    "name": "Lagaplan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2150830_sodra_bagarmossen",
+    "name": "Södra Bagarmossen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2150840_norra_bagarmossen",
+    "name": "Norra Bagarmossen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160120_havsornstorget",
+    "name": "Havsörnstorget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160130_fagersjovagen",
+    "name": "Fagersjövägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160220_sodra_farsta",
+    "name": "Södra Farsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160230_vastra_farsta",
+    "name": "Västra Farsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160240_ostra_farsta",
+    "name": "Östra Farsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160260_norra_farsta",
+    "name": "Norra Farsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160320_ullerudsbacken",
+    "name": "Ullerudsbacken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160330_farsta_gard",
+    "name": "Farsta Gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160520_gubbangstorget",
+    "name": "Gubbängstorget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160530_gubbangens_gard",
+    "name": "Gubbängens Gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160620_vastra_hokarangen",
+    "name": "Västra Hökarängen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160630_sondagsvagen",
+    "name": "Söndagsvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160640_lingvagen",
+    "name": "Lingvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160720_vastra_larsboda",
+    "name": "Västra Larsboda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160760_ostra_larsboda",
+    "name": "Östra Larsboda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160820_bagarfruvagen",
+    "name": "Bagarfruvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160830_vastra_skondal",
+    "name": "Västra Sköndal",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160840_norra_skondal",
+    "name": "Norra Sköndal",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160850_stora_skondal",
+    "name": "Stora Sköndal",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160920_sodra_svedmyra",
+    "name": "Södra Svedmyra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2160930_norra_svedmyra",
+    "name": "Norra Svedmyra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2161020_norra_tallkrogen",
+    "name": "Norra Tallkrogen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2161030_sodra_tallkrogen",
+    "name": "Södra Tallkrogen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2170120_bredangs_alle",
+    "name": "Bredängs Allé",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2170130_yttre_bredang",
+    "name": "Yttre Bredäng",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2170220_satra_torg",
+    "name": "Sätra Torg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2170230_norra_satra",
+    "name": "Norra Sätra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2170310_skarholmens_centrum",
+    "name": "Skärholmens Centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2170321_skarholmens_gard",
+    "name": "Skärholmens Gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2170322_mellersta_skarholmen",
+    "name": "Mellersta Skärholmen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2170330_sodra_skarholmen",
+    "name": "Södra Skärholmen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2170420_ostra_varberg",
+    "name": "Östra Vårberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2170430_vastra_varberg",
+    "name": "Västra Vårberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2210120_norra_abrahamsberg",
+    "name": "Norra Abrahamsberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2210130_sodra_abrahamsberg",
+    "name": "Södra Abrahamsberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2210200_beckomberga",
+    "name": "Beckomberga",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2210300_blackeberg",
+    "name": "Blackeberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2210400_bromma_kyrka",
+    "name": "Bromma Kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2210500_ballsta",
+    "name": "Bällsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2210600_eneby",
+    "name": "Eneby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2210700_mariehall",
+    "name": "Mariehäll",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2210830_runstensplan",
+    "name": "Runstensplan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2210840_angbylunden",
+    "name": "Ängbylunden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2210850_attehagen",
+    "name": "Ättehagen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2210860_akeshovsbadet",
+    "name": "Åkeshovsbadet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2210920_sodra_riksby",
+    "name": "Södra Riksby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2211121_farjestadsvagen_v",
+    "name": "Färjestadsvägen V",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2211130_angbyhojden",
+    "name": "Ängbyhöjden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2211220_johannesfred",
+    "name": "Johannesfred",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2211300_akeshov",
+    "name": "Åkeshov",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2211420_ostra_akeslund",
+    "name": "Östra Åkeslund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2211460_vastra_akeslund",
+    "name": "Västra Åkeslund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2220100_alvik",
+    "name": "Alvik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2220200_hoglandet",
+    "name": "Höglandet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2220300_nockeby",
+    "name": "Nockeby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2220400_nockebyhov",
+    "name": "Nockebyhov",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2220500_olovslund",
+    "name": "Olovslund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2220600_smedslatten",
+    "name": "Smedslätten",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2220700_stora_mossen",
+    "name": "Stora Mossen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2220820_sodra_traneberg",
+    "name": "Södra Traneberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2220830_norra_traneberg",
+    "name": "Norra Traneberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2220840_minneberg",
+    "name": "Minneberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2220900_ulvsunda",
+    "name": "Ulvsunda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2221000_alsten",
+    "name": "Ålsten",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2221100_appelviken",
+    "name": "Äppelviken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2230100_grimsta",
+    "name": "Grimsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2230200_kalvesta",
+    "name": "Kälvesta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2230300_nalsta",
+    "name": "Nälsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2230420_vastra_racksta",
+    "name": "Västra Råcksta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2230430_ostra_racksta",
+    "name": "Östra Råcksta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2230440_racksta_sjukhus",
+    "name": "Råcksta sjukhus",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2230520_norra_vinsta",
+    "name": "Norra Vinsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2230560_sodra_vinsta",
+    "name": "Södra Vinsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2230610_vallingby_centrum",
+    "name": "Vällingby Centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2230620_sodra_vallingby",
+    "name": "Södra Vällingby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2230630_norra_vallingby",
+    "name": "Norra Vällingby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2240121_sodra_bromsten_n",
+    "name": "Södra Bromsten N",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2240122_sodra_bromsten_s",
+    "name": "Södra Bromsten S",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2240130_norra_bromsten",
+    "name": "Norra Bromsten",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2240200_flysta",
+    "name": "Flysta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2240520_norra_rinkeby_kvarnby_norra_rinkeby_askeby",
+    "name": "Norra Rinkeby, Kvarnby & Norra Rinkeby, Askeby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2240530_sodra_rinkeby_knutby_sodra_rinkeby_bredby",
+    "name": "Södra Rinkeby, Knutby & Södra Rinkeby, Bredby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2240621_solhojden",
+    "name": "Solhöjden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2240622_spanga_torg",
+    "name": "Spånga Torg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2240631_solhems_villastad_vast",
+    "name": "Solhems Villastad Väst",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2240632_spanga_gymnasium",
+    "name": "Spånga Gymnasium",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2240640_solhems_villastad_nord",
+    "name": "Solhems Villastad Nord",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2240650_logvagen_erland",
+    "name": "Logvägen (Erland)",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2240700_sundby",
+    "name": "Sundby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2240820_norra_tensta_spanga_kyrkvag_norra_tensta_tensta_alle",
+    "name": "Norra Tensta, Spånga Kyrkväg & Norra Tensta,Tensta Allé",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2240830_sodra_tensta_spanga_kyrka_sodra_tensta_tensta_kyrka",
+    "name": "Södra Tensta,Spånga Kyrka & Södra Tensta,Tensta Kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2240840_hjulsta",
+    "name": "Hjulsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2250120_hasselby_torg",
+    "name": "Hässelby Torg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2250130_vastra_hasselby_gard",
+    "name": "Västra Hässelby Gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2250140_sodra_hasselby_gard",
+    "name": "Södra Hässelby Gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2250200_hasselby_strand",
+    "name": "Hässelby Strand",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2250310_backlura",
+    "name": "Backlura",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2250320_trollboda",
+    "name": "Trollboda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2250332_hasselby_villastrand",
+    "name": "Hässelby Villastrand",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2250340_hasselby_kyrka",
+    "name": "Hässelby Kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2250350_akermyntan",
+    "name": "Åkermyntan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2250370_radisvagen",
+    "name": "Rädisvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2250380_smedshagen",
+    "name": "Smedshagen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2260120_centrala_akalla",
+    "name": "Centrala Akalla",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2260130_sodra_akalla",
+    "name": "Södra Akalla",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2260220_norra_husby",
+    "name": "Norra Husby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2260230_sodra_husby",
+    "name": "Södra Husby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2260310_kista_centrum",
+    "name": "Kista Centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2260320_ovre_kista",
+    "name": "Övre Kista",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "2260330_nedre_kista",
+    "name": "Nedre Kista",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6310110_ostra_centrum",
+    "name": "Östra centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6310120_vastra_centrum",
+    "name": "Västra centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6310130_kvarnberga",
+    "name": "Kvarnberga",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6310170_vardsholmen",
+    "name": "Värdsholmen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6310320_blombacka",
+    "name": "Blombacka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6310330_mariekalla",
+    "name": "Mariekälla",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6310340_saltskog",
+    "name": "Saltskog",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6310351_sodra_vastergard",
+    "name": "Södra Västergård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6310352_norra_vastergard",
+    "name": "Norra Västergård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6310353_vastra_vastergard",
+    "name": "Västra Västergård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6310360_barstafaltet",
+    "name": "Bårstafältet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6310370_barstabergen",
+    "name": "Bårstabergen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6310422_stationsomradet_sodra",
+    "name": "Stationsområdet Södra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6320510_vastra_grusasen",
+    "name": "Västra Grusåsen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6320520_ostra_grusasen",
+    "name": "Östra Grusåsen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6320541_sodra_brunnsang",
+    "name": "Södra Brunnsäng",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6320542_norra_brunnsang",
+    "name": "Norra Brunnsäng",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6320550_ragnhildsborg",
+    "name": "Ragnhildsborg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6320611_kusens_backe",
+    "name": "Kusens backe",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6320612_sjukhuset",
+    "name": "Sjukhuset",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6320621_ostra_rosenlund",
+    "name": "Östra Rosenlund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6320622_rosenborg",
+    "name": "Rosenborg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6320940_viksberg",
+    "name": "Viksberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6321710_igelsta",
+    "name": "Igelsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6321720_ostertalje",
+    "name": "Östertälje",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6321740_fornhojden",
+    "name": "Fornhöjden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6330210_karlhov",
+    "name": "Karlhov",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6330220_sodra_ronna",
+    "name": "Södra Ronna",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6330230_norra_ronna",
+    "name": "Norra Ronna",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6330240_vastra_ronna",
+    "name": "Västra Ronna",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6330250_lina_hage",
+    "name": "Lina Hage",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6330260_lina",
+    "name": "Lina",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6330380_norra_geneta",
+    "name": "Norra Geneta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6330391_vastra_geneta",
+    "name": "Västra Geneta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6330392_ostra_geneta",
+    "name": "Östra Geneta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6341410_pershagen",
+    "name": "Pershagen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6341430_tveta_glesbygd",
+    "name": "Tveta glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6341451_hovsjo",
+    "name": "Hovsjö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6351200_enhorna_glesbygd",
+    "name": "Enhörna glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6351210_ekeby",
+    "name": "Ekeby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6381100_molnbo",
+    "name": "Mölnbo",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6381500_vardinge_glesbygd",
+    "name": "Vårdinge glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6382100_jarna",
+    "name": "Järna",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6382500_overjarna_glesbygd",
+    "name": "Överjärna glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6383000_ytterjarna_forsamling",
+    "name": "Ytterjärna församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6391100_holo",
+    "name": "Hölö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6391500_holo_glesbygd",
+    "name": "Hölö glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6392000_morko_forsamling",
+    "name": "Mörkö församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411010_henriksdal",
+    "name": "Henriksdal",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411020_finnberget",
+    "name": "Finnberget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411030_kvarnholmen",
+    "name": "Kvarnholmen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411040_danviken",
+    "name": "Danviken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411100_alphyddan",
+    "name": "Alphyddan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411110_finntorp",
+    "name": "Finntorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411130_ekudden",
+    "name": "Ekudden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411140_jarla_industriomr",
+    "name": "Järla industriomr",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411200_sickla_industriomr",
+    "name": "Sickla industriomr",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411210_tallbacken",
+    "name": "Tallbacken",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411220_nysatra",
+    "name": "Nysätra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411320_jarlaberg",
+    "name": "Jarlaberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411330_vikdalen",
+    "name": "Vikdalen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411340_nacka_strand",
+    "name": "Nacka Strand",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411410_nacka_centrum",
+    "name": "Nacka Centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411500_storangen",
+    "name": "Storängen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411600_duvnas_utskog",
+    "name": "Duvnäs utskog",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411610_skuru",
+    "name": "Skuru",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411700_skogalund",
+    "name": "Skogalund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411710_vastra_ektorp",
+    "name": "Västra Ektorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411720_ostra_ektorp",
+    "name": "Östra Ektorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411740_saltangen",
+    "name": "Saltängen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411800_duvnas",
+    "name": "Duvnäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5411900_hasthagen",
+    "name": "Hästhagen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5413001_fisksatra_sm",
+    "name": "Fisksätra sm",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5413002_fisksatra_fh",
+    "name": "Fisksätra fh",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5414001_erstavik",
+    "name": "Erstavik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5414100_kolarangen",
+    "name": "Kolarängen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5414200_alta_gard",
+    "name": "Älta gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5414300_stenso",
+    "name": "Stensö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5414310_hedvigslund",
+    "name": "Hedvigslund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5423100_igelboda",
+    "name": "Igelboda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5423201_solsidan_norr",
+    "name": "Solsidan norr",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5423202_saltsjobaden_centrum",
+    "name": "Saltsjöbaden centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5423230_tattby",
+    "name": "Tattby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5423300_neglingeon",
+    "name": "Neglingeön",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5423400_solsidan",
+    "name": "Solsidan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5423500_algo",
+    "name": "Älgö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5432000_norra_bjorknas",
+    "name": "Norra Björknäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5432020_sodra_bjorknas",
+    "name": "Södra Björknäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5432030_klinten",
+    "name": "Klinten",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5432100_eknas",
+    "name": "Eknäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5432200_vastra_kummelnas",
+    "name": "Västra Kummelnäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5432220_ostra_kummelnas",
+    "name": "Östra Kummelnäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5432300_kil",
+    "name": "Kil",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5432400_krokhojden",
+    "name": "Krokhöjden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5432410_orminge",
+    "name": "Orminge",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5432500_mensattra",
+    "name": "Mensättra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5432600_kallvagen",
+    "name": "Källvägen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5432610_eriksvik",
+    "name": "Eriksvik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5432700_norra_lannersta",
+    "name": "Norra Lännersta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5432710_sodra_lannersta",
+    "name": "Södra Lännersta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5432810_boo_gard",
+    "name": "Boo gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "5432900_gustavsvik",
+    "name": "Gustavsvik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810100_lilla_alby",
+    "name": "Lilla Alby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810110_sundbybergs_industriomrade",
+    "name": "Sundbybergs industriområde",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810220_rasten",
+    "name": "Råsten",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810230_sundbybergs_centrum",
+    "name": "Sundbybergs Centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810240_starrbacksgatan",
+    "name": "Starrbäcksgatan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810300_storskogen",
+    "name": "Storskogen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810310_lotsjo",
+    "name": "Lötsjö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810320_tule",
+    "name": "Tule",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810400_duvbo",
+    "name": "Duvbo",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810410_hasthagen",
+    "name": "Hästhagen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810500_or",
+    "name": "Ör",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810610_hallonbergen",
+    "name": "Hallonbergen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810720_rissne_norra_arbetsomrade",
+    "name": "Rissne norra arbetsområde",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810740_norra_rissne",
+    "name": "Norra Rissne",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810750_sodra_rissne",
+    "name": "Södra Rissne",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3810810_ursviks_smahusomrade",
+    "name": "Ursviks småhusområde",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710120_vastra_ritorp",
+    "name": "Västra Ritorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710130_ostra_ritorp",
+    "name": "Östra Ritorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710141_sodra_frosunda_norra_frosunda",
+    "name": "Södra Frösunda & Norra Frösunda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710143_ballongberget",
+    "name": "Ballongberget",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710160_bagartorp",
+    "name": "Bagartorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710170_rastahem",
+    "name": "Råstahem",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710180_agnesberg",
+    "name": "Agnesberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710200_ulriksdal",
+    "name": "Ulriksdal",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710310_norra_bergshamra",
+    "name": "Norra Bergshamra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710320_bergshamra_torg",
+    "name": "Bergshamra torg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710330_stocksundstorp",
+    "name": "Stocksundstorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710340_ostra_bergshamra",
+    "name": "Östra Bergshamra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710350_sodra_bergshamra",
+    "name": "Södra Bergshamra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710360_kungshamra",
+    "name": "Kungshamra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710420_karolinska_sjukhuset_nya_karolinska_solna_kyrkby",
+    "name": "Karolinska sjukhuset & Nya Karolinska & Solna Kyrkby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710430_karolinska_institutet",
+    "name": "Karolinska institutet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710520_jungfrudansen",
+    "name": "Jungfrudansen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710530_sodra_huvusta",
+    "name": "Södra Huvusta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710540_vastra_skogen",
+    "name": "Västra skogen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710550_gamla_huvusta",
+    "name": "Gamla Huvusta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710570_huvudstafaltet",
+    "name": "Huvudstafältet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710580_pampas_marina_ingenting",
+    "name": "Pampas marina & Ingenting",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720610_solna_station_stora_frosunda_brahelund",
+    "name": "Solna station & Stora Frösunda & Brahelund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720620_blakulla",
+    "name": "Blåkulla",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720630_rudviken_vastra_hagalund",
+    "name": "Rudviken & Västra Hagalund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720710_rasunda_kyrka_sodra_rasunda",
+    "name": "Råsunda kyrka & Södra Råsunda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720730_skogskronet",
+    "name": "Skogskrönet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720740_rasundaskolan_rasundastadion",
+    "name": "Råsundaskolan & Råsundastadion",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720750_charlottenburg",
+    "name": "Charlottenburg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720760_sodra_vasalund",
+    "name": "Södra Vasalund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720770_norra_vasalund",
+    "name": "Norra Vasalund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720780_ekensberg",
+    "name": "Ekensberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720790_hallen",
+    "name": "Hallen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720910_skytteholm",
+    "name": "Skytteholm",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720920_albygard",
+    "name": "Albygård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720930_solna_centrum",
+    "name": "Solna Centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720940_hanneberg",
+    "name": "Hanneberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3720950_albydal",
+    "name": "Albydal",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3411110_norra_sticklinge",
+    "name": "Norra Sticklinge",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3411120_sodra_sticklinge",
+    "name": "Södra Sticklinge",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3411200_islinge",
+    "name": "Islinge",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3411310_vastra_naset",
+    "name": "Västra Näset",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3411320_ostra_naset",
+    "name": "Östra Näset",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3411400_bo_garde",
+    "name": "Bo Gärde",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3411510_bo",
+    "name": "Bo",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3411520_bjornbo",
+    "name": "Björnbo",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3411610_boson",
+    "name": "Bosön",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3411620_rudboda",
+    "name": "Rudboda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3412100_elfvik",
+    "name": "Elfvik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413110_torsviksplatan",
+    "name": "Torsviksplatån",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413120_lidingo_centrum",
+    "name": "Lidingö centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413130_stureplatan",
+    "name": "Stureplatån",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413140_herserud",
+    "name": "Herserud",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413150_torsviks_torg",
+    "name": "Torsviks Torg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413210_bredablick",
+    "name": "Bredablick",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413220_norra_hersby",
+    "name": "Norra Hersby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413230_sodra_hersby",
+    "name": "Södra Hersby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413240_hersbyholm",
+    "name": "Hersbyholm",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413300_stockby",
+    "name": "Stockby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413410_baggeby",
+    "name": "Baggeby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413420_bodal",
+    "name": "Bodal",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413500_larsberg",
+    "name": "Larsberg",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413600_mosstorp",
+    "name": "Mosstorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413710_centrala_gangsatra",
+    "name": "Centrala Gångsätra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413720_norra_gangsatra",
+    "name": "Norra Gångsätra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413810_bergsatra",
+    "name": "Bergsätra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413820_centrala_skrsatra",
+    "name": "Centrala Skrsätra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3413830_kottla_molna_kappsta",
+    "name": "Kottla Mölna Kappsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3414210_centrala_kappala",
+    "name": "Centrala Käppala",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3414240_killinge",
+    "name": "Killinge",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3414250_ostra_kappala",
+    "name": "Östra Käppala",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3414310_brevik",
+    "name": "Brevik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3414320_hogberga",
+    "name": "Högberga",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4311441_bogesund",
+    "name": "Bogesund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4311442_storholmen",
+    "name": "Storholmen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4311443_kullon",
+    "name": "Kullön",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4311460_karlsudd",
+    "name": "Karlsudd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4311610_ostra_vaxon",
+    "name": "Östra Vaxön",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4311620_vastra_vaxon",
+    "name": "Västra Vaxön",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4311650_engarn_storang",
+    "name": "Engarn Storäng",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4311661_ytterby_overby",
+    "name": "Ytterby Överby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4311730_tynningo",
+    "name": "Tynningö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4311810_rindo_centrum",
+    "name": "Rindö centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4311820_rindo",
+    "name": "Rindö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "4311830_skarpo",
+    "name": "Skarpö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6110310_norrtalje_centrum",
+    "name": "Norrtälje centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6110320_fagelsangen",
+    "name": "Fågelsången",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6110330_vastra_rodenstaden",
+    "name": "västra Rodenstaden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6110340_ostra_rodenstaden",
+    "name": "Östra Rodenstaden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6110350_norgegardet",
+    "name": "Norgegärdet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6110360_roslagsstaden",
+    "name": "Roslagsstaden",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6110410_grossgardet",
+    "name": "Grossgärdet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6110430_sodra_bergen",
+    "name": "Södra Bergen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6110440_vastra_kvisthamra",
+    "name": "västra Kvisthamra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6110450_kvisthamra",
+    "name": "Kvisthamra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6121000_malsta_forsamling",
+    "name": "Malsta församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6122000_loharads_forsamling",
+    "name": "Lohärads församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6123100_svanberga",
+    "name": "Svanberga",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6123210_farsna",
+    "name": "Färsna",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6123220_sodra_estuna",
+    "name": "Södra Estuna",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6123500_estuna_glesbygd",
+    "name": "Estuna glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6125000_roslags_bro",
+    "name": "Roslags-Bro",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6126500_vato_fastland",
+    "name": "Vätö fastland",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6126600_vato",
+    "name": "Vätö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6131100_sodersvik",
+    "name": "Södersvik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6131501_radmansolandet",
+    "name": "Rådmansölandet",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6131502_graddo",
+    "name": "Gräddö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6132120_osthamra",
+    "name": "Östhamra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6132200_frotuna",
+    "name": "Frötuna",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6132501_frotuna_o_glesbygd",
+    "name": "Frötuna Ö glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6132502_spillersboda",
+    "name": "Spillersboda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6133100_furusund",
+    "name": "Furusund",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6133200_kopmanholm",
+    "name": "Köpmanholm",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6133600_yxlan",
+    "name": "Yxlan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6133700_blido",
+    "name": "Blidö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6134100_bergshamra",
+    "name": "Bergshamra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6134510_lanna_fastland",
+    "name": "Länna fastland",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6134520_svartno",
+    "name": "Svartnö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6135000_riala_forsamling",
+    "name": "Riala församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6141110_sodra_rimbo",
+    "name": "Södra Rimbo",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6141120_hasta",
+    "name": "Håsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6141130_vastertorp",
+    "name": "Västertorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6141500_rimbo_glesbygd",
+    "name": "Rimbo glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6142100_ranas",
+    "name": "Rånäs",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6142500_fasterna_glesbygd",
+    "name": "Fasterna glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6143100_edsbro",
+    "name": "Edsbro",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6143500_edsbro_glesbygd",
+    "name": "Edsbro glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6144000_skederids_forsamling",
+    "name": "Skederids församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6145000_husby_sjuhundra",
+    "name": "Husby-Sjuhundra",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6146000_ro_forsamling",
+    "name": "Rö församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6147000_nartuna_forsamling",
+    "name": "Närtuna församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6148000_gottrora_forsamling",
+    "name": "Gottröra församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6151100_ostra_hallstavik",
+    "name": "Östra Hallstavik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6151200_herrang",
+    "name": "Herräng",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6151500_havero_glesbygd",
+    "name": "Häverö glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6152100_vastra_hallstavik",
+    "name": "Västra Hallstavik",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6152500_edebo_glesbygd",
+    "name": "Edebo glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6154100_skebobruk",
+    "name": "Skebobruk",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6154500_ununge_glesbygd",
+    "name": "Ununge glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6161000_singo_forsamling",
+    "name": "Singö församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6162100_almsta",
+    "name": "Älmsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6162200_grisslehamn",
+    "name": "Grisslehamn",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6162510_vaddo_fastland",
+    "name": "Väddö fastland",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6162520_vaddo",
+    "name": "Väddö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6163500_bjorko",
+    "name": "Björkö",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6164100_soderby_karl",
+    "name": "Söderby-Karl",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6164500_soderby_karls_glesbygd",
+    "name": "Söderby-Karls glesbygd",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3510110_gamla_marsta",
+    "name": "Gamla Märsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3510120_marsta_kyrka",
+    "name": "Märsta Kyrka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3510130_tingvalla",
+    "name": "Tingvalla",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3510140_ekillatorp",
+    "name": "Ekillatorp",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3510150_sodra_ekilla",
+    "name": "Södra Ekilla",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3510160_marsta_centrum",
+    "name": "Märsta Centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3510210_ostra_norrbacka",
+    "name": "Östra Norrbacka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3510220_vastra_norrbacka",
+    "name": "Västra Norrbacka",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3510260_norra_ekilla",
+    "name": "Norra Ekilla",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3510270_ostra_arenberga",
+    "name": "Östra Arenberga",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3510280_satuna",
+    "name": "Sätuna",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3510450_marsta_vastra_glesbygd_marsta_maby",
+    "name": "Märsta västra glesbygd & Märsta Måby",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3522020_ostra_sigtuna",
+    "name": "Östra Sigtuna",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3522030_gamla_sigtuna",
+    "name": "Gamla Sigtuna",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3522040_brannbo",
+    "name": "Brännbo",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3522050_prastangen_och_hallsbo",
+    "name": "Prästängen och Hällsbo",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3522060_sjudargarden",
+    "name": "Sjudargården",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3532010_munkholmen",
+    "name": "Munkholmen",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3534030_sankt_olofs_glesbygd_pilsbo",
+    "name": "Sankt Olofs glesbygd & Pilsbo",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3541000_sankt_pers_forsamling",
+    "name": "Sankt Pers församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3542000_haga_forsamling",
+    "name": "Haga församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3551110_norra_valsta",
+    "name": "Norra Valsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3551120_valsta_centrum",
+    "name": "Valsta centrum",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3551130_sodra_valsta",
+    "name": "Södra Valsta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3551140_ostra_steninge",
+    "name": "Östra Steninge",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3551150_steninge_gard",
+    "name": "Steninge gård",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3560210_rosersbergs_bostadsomr",
+    "name": "Rosersbergs bostadsomr",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3560500_rosersbergs_nya_arbetsomr_arlanda_stad_ost_norrsunda_glesbygd_brista_varmeverk",
+    "name": "Rosersbergs nya arbetsomr & Arlanda Stad Öst & Norrsunda glesbygd & Brista Värmeverk",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3560610_sodra_skanela",
+    "name": "Södra Skånela",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3580100_skepptuna_fd_forsamling",
+    "name": "Skepptuna fd församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3580210_ostra_lunda",
+    "name": "Östra Lunda",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3580300_vidbo_fd_forsamling",
+    "name": "Vidbo fd församling",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6210240_nicksta",
+    "name": "Nicksta",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "6210270_kallsmo",
+    "name": "Källsmo",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "3710150_bangarden_nationalarenan",
+    "name": "Bangården & Nationalarenan",
+    "rank": null,
+    "shape_lores_svg": null
+  },
+  {
+    "geo": "0188_norrtalje",
+    "name": "Norrtälje",
+    "rank": "11",
+    "shape_lores_svg": "M607.2,0.4l5.1,2.4l5.5,1.2l1.7,2.7l-2.1,1.6l4.9,1.8l4-0.6L629,11l-0.6,5.3l6-1.6l2.3,1 l-1.3,2.7l-4.3,0.4l-1.3,5.1l-3.2,1h-6.8l-6-1.6h-8.5l-4.9-1.8l2.1-2l-3-2v-5.5l1.7-3.5l4.3-3.1l-7.7-2l-2.6-2L597,0L607.2,0.4  M359.8,155.6l1-3.4l7.3-0.1l-0.1-1.7l11-0.1l-0.1-1.7l25.6-0.3l-0.1-1.7l7.3-0.1l3.6-1.7l-0.2-3.4l3.6-1.7l11-0.1l-0.1-1.7 l14.6-0.2l-0.1-1.7l11-0.1l-0.3-5.1l3.6-1.7l7.2-1.8l-0.1-1.7l7.3-0.1l-0.2-3.4l-3.7,0l-0.4-6.8l-3.7,0l-0.6-11.8l3.7,0l-0.2-3.4 l14.7-0.2l-0.5-10.1l3.7,0l3.6-1.7l-0.1-1.7l11-0.1l-0.4-8.4l-3.8-1.6l-7.3,0.1l-3.8-3.3l-7.3,0.1l-7.5-3.3l-0.2-3.4l7.4-0.1 l-0.1-1.7l7.4-0.1l7.2-3.5l-0.3-6.8l3.7,0l7.2-3.5l-0.2-3.4l3.6-1.7l3.7,0l-0.7-13.5l7.3-1.8l-0.1-5.5l-1.1-1.8l8.3,0.2l4.9,2.5 l1.3,3.5l9.8,3.9l-4,2.5l5.7,4.1l1.3,5.1l5.5,1.6v-2.7l-2.1-2.4l1.5-1.8l-0.2-6.1l-7.7-7.1l0.2-3.3l3.4-0.8l4.9,1.8l-5.5,1.6 l6.6,2.2l3.4-0.8l4.3,1.6l6-1.6l9.4,2.4h6l8.3,1.8l3,3.9l4.9-1l5.1,0.8l3.4-0.8l10,3.3l4.3,2.4l8.7,0.6l5.1,1.6l1.5-2.2l-6.4-2.7 l1.5-1.4h10.2l5.3,3.7l4,0.2l1.5,2.2l-7.2,3.9l1.7,2.3l3.8,1.2l-2.3,4.5l4,3.3l-0.4,2l3.8,4.3l1.7,5.5l3,4.3l7.2,4.3l0.5,2.8l4,0 l1.6,3.9l-0.7,2.6l5-0.4l6.2,1.5l0.8,1.4l-5.6,3.1l1.8,3.2l-0.5,2.7l4.1,2.2l3.4,3.7l-7.9,2.3l6.1,2.4l7-0.7l5.9,2l-3.4,1.9 l11.4,0.1l7.3,2.1l-1.8,2l6.1,0.8l7.3-1l7.9,3.1l-7.5,0.7l1.4,3.9l4.1-1.4l3.2-2.8l4.1,1.8h7.3l-0.2,2.3l7.7,5.4l-2.5,1.8l3,3.7 l-2,2.8l0.7,5.5l-3.4,2.2l1.8,1.1l-2,3.4l-8.2,4.2l-1.6-4.8l-6.6-2.8l-4.3,2.2l-4.5-6.5l-5.9-2.2l0.5-1.7l-3.4-2.1l-0.5-3.4 l-3.9,0.3l-2-4.4l-7.5-2.1l-3.4-3.3l-4.5-0.8l-1.6-2.3l3-1.8l-1.6-2.1l-5.2-0.6l-4.1-2.1l1.8-1.6l-6.8-2.1l-7.5,0.5l2,2.9l3.9,0.5 l9.3,7.3l7.5,3.3l2.7,2.8l-3.4,4.8l4.3,1.9l-2.5,5.3l-8.4,9l-12,6.3l-0.7,2.6l-8.4,3.7l-0.2,3.6l-10.7-0.5l-8.2,0.7l-4.8,2.2 l-7,1.1l-6.8-0.2l-8.9,3.1l-3.4-1.3l-5.5,0.6l-5.2,1.8l6.4,2.8l28.8-5.5l4.8-1.6l6.6,0.5l10.4-1.7l20.7-1l3,1.3l10.9-1.1l5.9,0.1 l13.9,1.3l5.7,0.1l4.5,1.3l22.9,1.9l3.9,1.6v2.8l2.5,1.3l-4.5,4.4l2.7,1.7l-6.4,2.3l-0.2,2.4l-5.9,2.1l-0.9,1.4l-6.1,0.6l-5.9,1.6 l-5-0.3l-6.8,1.3l-10.7-0.6l0.7-2.9l-2-0.8l-14.8-0.5l-6.4,2l-4.3,3.1l-13.9,0.4l-4.5-0.4l-13.4,4.3l-10.9,1.1l-4.1,1.6H622l-3,1.8 l7.7,0.6l2.5-2l5.9,1.3l-4.8,2.6l-7.5,0.2l-7.3-2.6l-7.7,9.4l-2.3-1.7l-5.9,2.3l-3.2,0.2l-3,4.3l3.9,1.5l14.1-2.5l1.1,1.3l-5.7,3.3 l1.1,2l5,1.7l-1.4,1.5l-6.4,0.7l-2-1.1l-0.2-3.9l-5.5,0.3l1.1,2.2l-5.2,5.3h-4.3l-2.3,4l-5.9,3.4l-1.6,3l-14,0l0.1,1.7l-7.2,0.1 l-0.1-1.7l-7.3,0.1l-3.7-1.7l-0.2-3.4l-7.1,3.5l-3.6,0l-3.7-1.7l-10.9,0.1l0.1,1.7l-10.9,0.1l-0.2-3.4l-3.6,0l0.2,3.4l-3.6,0 l0.3,6.8l-7.1,3.5l-10.9,0.1l-0.1-1.7l-0.3-5.1l-3.6,0L482,237l-3.7-1.6l-7.3,0.1l-3.7-1.6l-0.4-8.4l-3.8-3.3l-0.2-3.4l3.6,0 l-0.2-3.4l-3.7-1.6l-7.3,0.1l-7.4-3.3l-0.2-3.4l-7.4-1.6l-0.2-3.4l-7.1,3.5l-7.5-3.3l-3.5,1.7l-7.3,0.1l0.1,1.7l-7.3,0.1l0.1,1.7 l-3.5,1.7l-32.7,0.4l-0.4-6.8l-3.6,0l-0.1-1.7l-3.7-1.6l-7.3,0.1l-0.2-3.4l3.6,0l-0.2-3.4l3.6,0l-0.2-3.4l-10.9,0.1l-7.5-3.3 l-0.2-3.4l-3.7-1.6l3.5-1.7l3.6,0l-0.2-3.4l3.6,0l-0.5-8.4l3.6,0l-0.4-6.8l3.6,0l-0.3-5.1L359.8,155.6 M626.8,26.3l3,2.7l-1.7,5.9 l-5.7-0.6l-3.6-1.8l-1.3-2.4l4.9-3.7L626.8,26.3 M771.2,132.1l2.3,1l-0.9,5.4l-12,6.3l-8.9,0.2l-0.7-2.6l5.7-1.7v-2.9l2.7-3 L771.2,132.1 M710.8,140.9l-0.2,5.1l3.6,0.5l-0.2,2.5l-3,1.7l2.5,4l6.4,1.7l-0.7,2.5l3.2,0.7l-2.3,4.2l-10.2-0.6l-4.3,0.7l-9.3-0.3 l-11.1-1.6l2,2.1l-5.9,0.3l-1.8-1.5l-7.9,1.5l-5.9-0.4l-2-2.9l6.1-3.1l3.9-3.3l10.9-6.7l1.8-2.6l5.7-3.8l2-6.1l8.9-0.1l0.7,2.5 l5.4,0.6L710.8,140.9 M773.7,140.2l7,1.5l-2.7,2.2l-6.8-0.4l-1.1-3L773.7,140.2 M769.1,141.8l2.5,2.2l-2.7,2.7l-3.2-1.8l0.5-2.8 L769.1,141.8 M772.1,155.5l-3.2,2.3L763,159l-3-2.4l3.2-3.7l5.9,0.4l6.1-1.9l-0.5,2.8L772.1,155.5 M755.9,161l2.3,2.4l-4.8,1.4 l0.7,2.6l-5.7,0.6l-4.3-1.7l-3.9-2.8l6.4-1.6L755.9,161 M792.1,161.4l4.8,1.1l0.5,1.9l-4.1,2.9l0.7,2.4l-4.5,1.5l-4.5-0.1l-3.4-2.3 l-5.2-0.4l2.3-3.1l5.9-2.5L792.1,161.4 M771.6,163.8l4.1,1l-3.2,3.7l-5.7-0.3l-1.8-2.6L771.6,163.8 M730.1,165.4l5,0.6l0.9,1.9 l-7.7-0.9L730.1,165.4 M800,168.7l-1.1,5.6l-8.4-1.3l7-4.4H800 M780.7,170.1l-5.2,2.3l-1.4-2.1L780.7,170.1 M772.1,180v-1.1 l-10.7,0.6l-0.7-3.4l-3.6-2.9l4.1-0.6l6.1,0.9l7.5,0.1l3,3.9L772.1,180 M780.9,176.8l4.5,2l-3.6,2.8l-2.5-1.8L780.9,176.8  M769.1,194.4l10.2,0.8l0.5,2.3l-5.5,1.1l-5.4-2.6L769.1,194.4 M781.4,197.8l1.8,0.5l-0.2,4l-7.9-1.1l1.8-2.7L781.4,197.8  M668.7,198l5.9,0.5l-1.4,2.5l-4.1-1L668.7,198 M732.1,199.7l-2.5,2l-8.2,1.8l-3-2l3.2-1.6L732.1,199.7 M635.1,202.1l10.4-2.6 l3.4,1.7l5.7,0.7l6.1,2.5l4.3-1.7h5l5,3.2v2l-7.9,2.7l-7.7-2l-7.5,0.5l-1.6-2.4l-6.4,1.4l-5.2-1.8L635.1,202.1 M793,204.3l3,1.7 l-3.9,3.9l-5.2-0.4l0.5-3.9L793,204.3 M684.4,205.9l4.1,0.9l-8.2,3.6h-7.3l2.3-2.1L684.4,205.9 M627,236.2l4.3-0.1l3.6-2.7l8.6-3.8 l1.6-1.9l11.4-6.6l5.5-1.7l15.4-6.7l4.3-0.7l3.9-2.7l4.3-1.5l3.4,0.6l-8.2,5.3l-3.2,0.7l-1.1,2.5l-4.5,0.5l-4.3,2.2l-0.5,1.8 l-9.3,4.3l-5.7,5.7l-9.5,1.4l0.5,2.1l-5.7-0.1l-1.8,2l-5.4,2.6l-4.8,0.3l-5.2,2.3l-9.8,0.9l-0.9-1.8l3.4-1.7l5.9-1L627,236.2  M772.3,208.2l4.1,1l1.8,3.3l-3.9,0.5l-5.2-2.2l-5.7-1.3L772.3,208.2 M646.9,209.6l1.6,1.4l6.8,0.1l5.7,2.8l-3.4,1.6l-7-0.5 l-9.5,0.1l-0.9-2.1L646.9,209.6 M626.1,211.1l5.2,2.2l-3.4,1.3l2,2.1l-5.2,2.7l-6.8-0.1l-0.9-1.7l4.3-1.7l-2-1.9L626.1,211.1  M669.9,225.8l5.2-5l7.9-2.3l-0.2-1.5l7.9-4.8l4.5-1.1l6.8,2.2l0.5,5l6.8,1.9l-5.5,2.6l-3,2.6l-6.1-2l-8.2,1.6h-5.9l0.9,2.7 l-1.4,2.5l1.1,2.5l-11.1,4.8l-0.9,2.9l-10.7-0.9l-5-2.4l5.2-3.3l1.8-4.3l7.5-1L669.9,225.8 M729.4,211.2l2.7,2.8l3.6-0.2v3.7 l-6.4,1l-1.6,3.2l-3,2.1l-3.6-2.1l-6.1-1.3l2.7-1.8l5.2,0.7l2.7-6.1L729.4,211.2 M637.9,218l0.7,2.5l-6.8,0.2l3.2-2.5L637.9,218  M620.1,220.7v4.3l-4.5-2.2L620.1,220.7 M597.9,226.8l5.9,2.3l-0.5,2.3l-6.6,4.4l-7.5,2.5L584,237l3.4-3.3l8.2-0.7l-1.6-1.8 L597.9,226.8 M789.3,231.5l1.4,2l-6.6,2.9h-13.2l10.9-4.4L789.3,231.5 M731.9,238.9l5.5,1.6l5.7-0.6l4.5,1.3l-9.1,3.9l-8.2-0.6 l-5.9,2l0.2-2.9l-2-2.6L731.9,238.9 M594.5,242.3l4.5,0.7l-2.3,2.4h-6.8l-2-1.9L594.5,242.3 M634,243.5l1.8,3.2l-4.8,1.4l-5.2-1 l1.4-2.6L634,243.5 M624,245.2l-4.5,3.1l-6.1-1.5l2.5-1.5L624,245.2"
+  },
+  {
+    "geo": "0191_sigtuna",
+    "name": "Sigtuna",
+    "rank": "12",
+    "shape_lores_svg": "M228.5,243.7l-3.7-1.6l-0.1-1.7l-3.7-1.6l-7.2,0.1l-0.1-1.7l-7.2,0.1l-3.7-1.6l-0.1-1.7 l-7.3,0.1l-0.1-1.7l-7.3,0.1l-0.1-1.7l-7.3,0.1l-0.1-1.7l-7.3,0.1l-3.8-1.6l-0.3-3.4l-7.5-3.3l-10.9,0.2l-0.1-1.7l-7.3,0.1 l-0.3-3.4l-3.6,0.1l-0.1-1.7l-7.5-3.3l7.3-0.1l-0.1-1.7l7.3-0.1l-0.1-1.7l7.3-0.1l-0.3-3.4l3.6-0.1l-0.4-5.1l10.9-0.2l0.1,1.7 l14.5-0.2l0.1,1.7l10.9-0.2l0.2,3.4l3.6-0.1l0.4,5.1l7.3-0.1l3.5-1.7l3.6-0.1l-0.4-5.1l3.5-1.7l7.3-0.1l0.1,1.7l3.8,1.6l14.5-0.2 l-0.4-5.1l3.5-1.7l7.3-0.1l-0.1-1.7l7.3-0.1l-0.1-1.7l7.3-0.1l-0.1-1.7l25.5-0.4l3.5-1.7l-0.1-1.7l7.1-3.5l3.6-0.1l3.7,1.6 l-0.3-5.1l14.6-0.2l0.1,1.7l7.3-0.1l-0.1-1.7l10.9-0.1l3.7,1.6l0.2,3.4l7.5,3.3l10.9-0.1l0.2,3.4l-3.6,0l0.2,3.4l-3.6,0l0.2,3.4 l7.3-0.1l3.7,1.6l0.1,1.7l0.1,1.7l-7.1,3.5l-7.3,0.1l-7.1,3.5l0.6,10.1l-7.3,0.1l-0.1-1.7l-25.4,0.3l1.2,18.6l-3.6,0.1l0.4,6.8 l-3.5,1.7l-7.2,0.1l-3.5,1.7l-3.5,1.7l-10.9,0.2l-0.1-1.7l-14.5,0.2l0.1,1.7l-18.1,0.3l-3.7-1.6l-0.2-3.4l-3.7-1.6l-10.9,0.2 L228.5,243.7L228.5,243.7z"
+  },
+  {
+    "geo": "0115_vallentuna",
+    "name": "Vallentuna",
+    "rank": "13",
+    "shape_lores_svg": "M486.1,247.1l-7.1,3.5l-3.7-1.6l-10.9,0.1l-3.5,1.7l0.3,5.1l-21.7,0.3l0.2,3.4l-3.5,1.7 l-14.5,0.2l0.1,1.7l-7.2,0.1l0.3,5.1l-3.5,1.7l-14.5,0.2l0.1,1.7l-28.9,0.4l0.3,5.1l-3.6,0l-0.1-1.7l-7.2,0.1l-3.7-1.6l-0.2-3.4 l-10.8,0.1l-0.1-1.7l-18.1,0.2l-0.1-1.7l-10.8,0.2l-0.2-3.4l-7.2,0.1l-0.3-5.1l-3.6,0.1l-7.5-3.3l-0.2-3.4l3.6-0.1l-0.2-3.4 l3.5-1.7l7.2-0.1l3.5-1.7l-0.4-6.8l3.6-0.1l-1.2-18.6l25.4-0.3l0.1,1.7l7.3-0.1l-0.6-10.1l7.1-3.5l7.3-0.1l7.1-3.5l-0.1-1.7l3.6,0 l0.4,6.8l32.7-0.4l3.5-1.7l-0.1-1.7l7.3-0.1l-0.1-1.7l7.3-0.1l3.5-1.7l7.5,3.3l7.1-3.5l0.2,3.4l7.4,1.6l0.2,3.4l7.4,3.3l7.3-0.1 l3.7,1.6l0.2,3.4l-3.6,0l0.2,3.4l3.8,3.3l0.4,8.4l3.7,1.6l7.3-0.1l3.7,1.6l0.3,5.1l3.6,0L486.1,247.1L486.1,247.1z"
+  },
+  {
+    "geo": "0114_upplands_vasby",
+    "name": "Upplands Väsby",
+    "rank": "14",
+    "shape_lores_svg": "M238.3,280.8l3.5-1.7l-0.2-3.4l-3.6,0.1l-0.2-3.4l-7.5-3.3l-3.6,0.1l-0.1-1.7 l7.1-1.8l3.5-1.7l-0.2-3.4l-3.6,0.1l-3.7-1.6l-1.1-15.2l3.7,1.6l10.9-0.2l3.7,1.6l0.2,3.4l3.7,1.6l18.1-0.3l-0.1-1.7l14.5-0.2 l0.1,1.7l10.9-0.2l3.5-1.7l0.2,3.4l-3.6,0.1l0.2,3.4l7.5,3.3l3.6-0.1l0.3,5.1l7.2-0.1l0.2,3.4l0.1,1.7l-7.2,0.1l0.1,1.7l-7.1,1.8 l0.3,5.1l7.2-0.1l0.7,10.1l-18.6-8.2l-3.6,0.1l-0.2-3.4l-3.7-1.6l-10.8,0.2l-3.5,1.7l-10.8,0.2l-7,3.5L238.3,280.8L238.3,280.8z"
+  },
+  {
+    "geo": "0160_taby",
+    "name": "Täby",
+    "rank": "15",
+    "shape_lores_svg": "M343.8,301.2l-13.8,0.2l-0.3-5.1l-3.7-1.6l-14.4,0.2l-3.7-1.6l-0.3-5.1l-0.7-10.1l-7.2,0.1 l-0.3-5.1l7.1-1.8l-0.1-1.7l7.2-0.1l-0.1-1.7l10.8-0.2l0.1,1.7l18.1-0.2l0.1,1.7l10.8-0.1l0.2,3.4l3.7,1.6l7.2-0.1l0.1,1.7l0.2,3.4 l3.6,0l0.3,5.1l-3.6,0l0.2,3.6l-5.7,1.9l-1.6,2.3l-6.1-0.3l-3.4,6.5L343.8,301.2L343.8,301.2z"
+  },
+  {
+    "geo": "0163_sollentuna",
+    "name": "Sollentuna",
+    "rank": "16",
+    "shape_lores_svg": "M294.5,310.4l-0.2-3.4l-7.2,0.1l-11.2-4.9l-0.3-5.1l-3.7-1.6l-7.2,0.1l0.3,5.1l-3.7-1.6 l-3.6,0.1l-0.6-8.4l-7.2,0.1l-0.1-1.7l-7.2,0.1l-0.2-3.4l-3.6,0.1l-3.7-1.6l-0.1-1.7l3.5-1.7l10.8-0.2l7-3.5l10.8-0.2l3.5-1.7 l10.8-0.2l3.7,1.6l0.2,3.4l3.6-0.1l18.6,8.2l0.3,5.1l3.7,1.6L308,295l-1.6,2.3L295,292l-1.9,0.9l6.1,4.1l7.6,3.8l-2.1,0.9l0.3,5.1 l3.6-0.1l0.2,3.4l-7.2,0.1l-3.5,1.7L294.5,310.4L294.5,310.4z"
+  },
+  {
+    "geo": "0139_upplands_bro",
+    "name": "Upplands-Bro",
+    "rank": "21",
+    "shape_lores_svg": "M89.2,269.7l3.5-1.8l7.2-0.1l-0.1-1.7l7.2-0.1l7-3.5l-0.3-3.4l3.6-0.1l-0.3-3.4 l3.5-1.8l10.9-0.2l-0.3-3.4l3.5-1.8l-7.5-3.3l-3.6,0.1l-0.3-3.4l-3.6,0.1l-7.5-3.3l-0.9-11.8l-3.8-1.6l7-3.5l10.9-0.2l-0.1-1.7 l10.9-0.2l-0.1-1.7l3.5-1.7l3.6-0.1l0.3,3.4l7.3-0.1l0.1,1.7l10.9-0.2l7.5,3.3l0.3,3.4l3.8,1.6l7.3-0.1l0.1,1.7l7.3-0.1l0.1,1.7 l7.3-0.1l0.1,1.7l7.3-0.1l0.1,1.7l3.7,1.6l7.2-0.1l0.1,1.7l7.2-0.1l3.7,1.6l0.1,1.7l3.7,1.6l1.1,15.2l3.7,1.6l3.6-0.1l0.2,3.4 l-3.5,1.7l-7.1,1.8l0.1,1.7l0.4,5.1l-3.6,0.1l0.8,11.8l-3.6,0.1l0.2,3.4l-3.6,0.1l0.2,3.4l-3.6,0.1l-3.5,1.7l0.2,3.4l-3.5,1.7 L200,300l0.1,1.7l-10.8,0.2l-3.7-1.6l-0.1-1.7l-3.7-1.6l-7.2,0.1l-11.2-4.9l-7.2,0.1l-7,3.5l0.1,1.7l-18,0.3l-0.3-3.4l-25.3,0.4 l-0.7-8.4l-3.6,0.1l-0.4-5.1l-3.6,0.1l-0.4-5.1l-3.6,0.1l-0.4-5.1L89.2,269.7L89.2,269.7z"
+  },
+  {
+    "geo": "0125_ekero",
+    "name": "Ekerö",
+    "rank": "22",
+    "shape_lores_svg": "M197.1,359.2l-14.4,0.2l-0.1-1.7l-10.8,0.2l-0.1-1.7l-7.2,0.1l-3.8-3.3l-3.7-1.6l-7.2,0.1 l-0.1-1.7l-3.7-1.6l-10.8,0.2l-3.5,1.8l-7.2,0.1l-0.1-1.7l-7.2,0.1L117,347l-10.8,0.2l-0.1-1.7l-14.4,0.3l-1-11.8l-3.7-1.6 l-10.8,0.2l-0.3-3.4l-3.7-1.6l-3.7-1.6l-0.8-10.1l3.6-0.1l-0.3-3.4l3.6-0.1L73.3,297l3.6-0.1l-0.3-3.4l25.3-0.5l3.7,1.6l25.3-0.4 l0.3,3.4l18-0.3l-0.1-1.7l7-3.5l7.2-0.1l11.2,4.9l7.2-0.1l3.7,1.6l0.1,1.7l3.7,1.6l10.8-0.2l0.2,3.4l3.6-0.1l0.2,3.4l3.6-0.1 l0.2,3.4l3.6-0.1l0.2,3.4l3.6-0.1l0.2,3.4l3.6-0.1l0.2,3.4l3.6-0.1l0.4,5.1l14.4-0.2l0.1,1.7l7.2-0.1l0.1,1.7l3.7,1.6l7.2-0.1 l3.7,1.6l0.1,1.7l3.7,1.6l7.2-0.1l3.7,1.6l0.1,1.7l3.7,1.6l7.2-0.1l0.1,1.7l-3.5,1.7l0.1,1.7l-7.2,0.1l0.1,1.7l-7.2,0.1l0.1,1.7 l-7.2,0.1l0.1,1.7l-7.2,0.1l-3.5,1.7l0.2,3.4l0.2,3.4l-21.5,0.3l0.1,1.7l-14.4,0.2l-0.1-1.7l-10.8,0.2l-0.1-1.7L197.1,359.2 L197.1,359.2z"
+  },
+  {
+    "geo": "0123_jarfalla",
+    "name": "Järfälla",
+    "rank": "23",
+    "shape_lores_svg": "M211.6,311.6l-3.6,0.1l-0.2-3.4l-3.6,0.1l-0.2-3.4l-3.6,0.1l-0.2-3.4L200,300l7.2-0.1l3.5-1.7 l-0.2-3.4l3.5-1.7l3.6-0.1l-0.2-3.4l3.6-0.1l-0.2-3.4l3.6-0.1l-0.8-11.8l3.6-0.1l-0.4-5.1l3.6-0.1l7.5,3.3l0.2,3.4l3.6-0.1l0.2,3.4 l-3.5,1.7l-3.5,1.7l0.1,1.7l3.7,1.6l3.6-0.1l0.2,3.4l7.2-0.1l0.1,1.7l7.2-0.1l0.6,8.4l3.6-0.1l3.7,1.6l0.3,5.1l-7,3.5l-7.1,1.8 l0.1,1.7l-7,3.5l-7.2,0.1l-0.4-5.1l-7.2,0.1l0.1,1.7l-7.2,0.1l-0.1-1.7L211.6,311.6L211.6,311.6z"
+  },
+  {
+    "geo": "0183_sundbyberg",
+    "name": "Sundbyberg",
+    "rank": "24",
+    "shape_lores_svg": "M294.5,310.4l3.7,1.6l-7.2,0.1L294.5,310.4 M291,312.1l3.7,1.6l0.1,1.7l3.7,1.6l3.6-0.1 l0.2,3.4l-3.6,0.1l0.3,5.1l-7.2,0.1l-3.8-3.3l-3.6,0.1l-3.7-1.6l-0.3-5.1l7-3.5L291,312.1L291,312.1z"
+  },
+  {
+    "geo": "0117_osteraker",
+    "name": "Österåker",
+    "rank": "31",
+    "shape_lores_svg": "M579.5,239.5l-2.5,1.4l-8.2,2.2l-4.8,3l-5,0.4l-5.4,1.9l-9.3,1.6l-17.3,7.8l-4.3,0.5 l-10.2,4.2l-4.3,0.1l-4.5,3.7l-9.8,2.6l0.5,1.5l-4.5,2.1l-2.3,3.6l-7.9,2l-3.4-1.1l-3.9,5l-7,5.2l-4.1,0.6l-7.9-1.8h-7.9l-4.8,0.9 l-8.2-0.4l-12.9-2.1l3.4,2.3l10.4,2.2l-0.7,2.1l-8.6,1.9l0.7,2.3l-10.4-0.8l-5.9,0.5l-5.4-0.6l-4.1,1.1l21.8,0.4l5.2,2.5l-3.6,1.3 l-7.3-0.9l-5.6,0.1l-0.1-1.7l-10.8,0.1l0.3,5.1l-10.8,0.1l-3.7-1.6l-0.2-3.4l-4.6-3.2l-4.2,0.3l-5.9-3.9l-3.8-1.3l-0.2-3.6l3.6,0 l-0.3-5.1l-3.6,0l-0.2-3.4l3.6,0l-0.3-5.1l28.9-0.4l-0.1-1.7l14.5-0.2l3.5-1.7l-0.3-5.1l7.2-0.1l-0.1-1.7l14.5-0.2l3.5-1.7 l-0.2-3.4l21.7-0.3l-0.3-5.1l3.5-1.7l10.9-0.1l3.7,1.6l7.1-3.5l0.1,1.7l10.9-0.1l7.1-3.5l-0.3-6.8l3.6,0l-0.2-3.4l3.6,0l0.2,3.4 l10.9-0.1l-0.1-1.7l10.9-0.1l3.7,1.7l3.6,0l7.1-3.5l0.2,3.4l3.7,1.7l7.3-0.1l0.1,1.7l7.2-0.1l-0.1-1.7L579.5,239.5 M551.8,294.4 l3.6,3.4l-6.8,0.3l-3-2.5l-9.3-2.7l-3,0.6v5.5l-6.4-3.9l0.2-3l-2-4.5l-3-0.3l-4.8-3.8l-3.2-6.1l0.5-5.4l4.5-0.5l7-3.1l6.6-2 l2.7-2.8l-1.6-1.9l3.4-1.4l6.8-0.8l2.5-3.7l-0.7-1.7l8.9-0.8l10.9-5.6l4.1-1.5l15.9,0l8.4,1.3l-3.4,2.2l-4.5-2.8l-11.1,1.6 l-1.4,2.4l10.2,1.7l2.7,2.3l-5,3l8.2-0.7l4.1-1.3l6.4-0.4l9.8-2.3l17.9-1.9l10-2.1l7.5,0.7l-1.6,3.6l-3.4-0.5l-3.9,2.3l-3.4-1.9 l-8.2,0.4l-1.4,2l-6.6-0.9l-5.7,1.9l-4.3-0.3l-6.8,1.6l-9.8,0.7l-8.6,2.8l-0.9,1.8L572,265l4.8,1.6l-3.4,1.6l-5.7-0.7l0.2,2.3 l-9.1,2.9l-8.4-2.4l0.7,4.7l-0.7,3.7l3.9,1.5l-0.2,2.6l-3.6,4.6l1.4,4l-3.4,0.9L551.8,294.4 M658.3,264.6l0.5,2.5l-4.1,1.4l-5.9-1 L658.3,264.6 M511.8,268.3l0.5,2.1l-3,1.4l-5.5-0.5L511.8,268.3 M660.1,271.1l-4.5,3.3l-3.4-1.7L660.1,271.1 M621.7,271.7 l-16.6,3.3l-2.7-1.6l8.2-1.3l2.3,0.4L621.7,271.7 M600.6,282.1l14.5-5.1l7-1.1l5.7,1.6l4.1-1.7l8.2-0.5l3.9,0.7l1.1,1.9l-3,1.9 l-7.5-2.2l-1.4,2.4l-10.7,2.9l-9.3-0.1l-3.6-1.5l-3.4,1.4L600.6,282.1 M585.6,278l-7.5,4.9l-15.9-2.1L585.6,278 M478.9,282.3l2.7,1 l-5.7,2.3l-1.4-2.3L478.9,282.3 M595.9,284.8l1.6-1.3l7.9,0.5l3.4-0.8l8.6,0.3l-2.5,2l-5.7,0.7l-3.9,1.9l-8.8-0.7L595.9,284.8  M533.9,299.6l9.3,4.6l-9.3,0.7V299.6L533.9,299.6z"
+  },
+  {
+    "geo": "0187_vaxholm",
+    "name": "Vaxholm",
+    "rank": "32",
+    "shape_lores_svg": "M475.5,310.8l-13.9-1.8l-7-3.1l-6.6,0.9l-8.9,0.3l-7-1.1l-4.3-1.9l-2-3.8l3.6-0.2l3.9-1.9 l-5.4-1l4.8-2l-3.4-1.8l5.9-2.1l5.7-0.3l10.2,4.3l2.3,2.1l-6.6,0.3l-5.2,2l-7.3,1.3l3.9,3.1l4.5-0.3l11.8,1.6l3-3.3l-7.3-2.2 l3.9-0.9l11.6,3.1l1.8-0.8l6.6,1.8l-2,1.7l-4.3,0.2l-7.3-1l-1.1,1l16.1,0.7l10.2,1.9l-0.5,3.1L475.5,310.8 M414.9,298.6l8.4,2.8 l2.5,2l-5.2,2.6l13.2,2.3l5.5-0.5l1.4,2.1l5,0.3l-1.6,2.2l-3.6,1.1l-5.9,0.2l-5-1.6l-12-0.3l-9.5,0.8l-4.1-1.1l-12.7,0.3l-4.5-1.8 l-10.2-0.1l-7.5-2.1l1.1-6.4l3.4-2.7l1.6-4.3l0.2-0.1l4.2-0.3l4.6,3.2l0.2,3.4l3.7,1.6l10.8-0.1l-0.3-5.1l10.8-0.1l0.1,1.7 L414.9,298.6 M457.8,309.4l7.9,2.6l14.3,7.7l-7.3,0.2l-7.7-2.3l-4.1-2.6l-8.2-1.3l1.6-3.8L457.8,309.4 M475.7,315.7l-7-2.9l3.2-1.9 l5.5,1.6l1.6,1.9L475.7,315.7L475.7,315.7z"
+  },
+  {
+    "geo": "0186_lidingo",
+    "name": "Lidingö",
+    "rank": "33",
+    "shape_lores_svg": "M402.1,325.1l-3.6,2.3l-4.8,0.8l-3.4,2.1l-8.6-0.6l-5.7,0.6l-3-1.3l-5.9-0.5l-12.7-6l-1.1-4.3 l-2.3-1.8l-6.6-2.7l0.9-1.5l5.5-2l11.1,0.3l11.4,4.2l1.4-2.2l9.8,0.8l0.5,2.2l8.9-0.8l2.3,1.3l6.1-0.4l7.3,0.6l2,1.7v2.9l-13.6-0.1 l5.2,2.2L402.1,325.1L402.1,325.1z"
+  },
+  {
+    "geo": "0162_danderyd",
+    "name": "Danderyd",
+    "rank": "41",
+    "shape_lores_svg": "M311.6,294.9l14.4-0.2l3.7,1.6l0.3,5.1l13.8-0.2l4.1,4.6l-1.8,3.7l-2,0.8l-5,5l-9.8,0.1 l-1.8,1.3l-7.4-1.6l-11.1-4.9l-0.2-3.4l-3.6,0.1l-0.3-5.1l2.1-0.9l-7.6-3.8l-6.1-4.1l1.9-0.9l11.3,5.3l1.6-2.3L311.6,294.9 L311.6,294.9z"
+  },
+  {
+    "geo": "0184_solna",
+    "name": "Solna",
+    "rank": "42",
+    "shape_lores_svg": "M327.4,316.7l7.3,0.5l-2.8,3.3l2.3,2l-3.2,1.2l-1.9-3.8l-5.1,0.1l0.5,8.4l-7,3.5l-10.8,0.2 l-0.1-1.7l-7.2,0.1l-3.7-1.6l-0.1-1.7l-3.7-1.6l7.2-0.1l-0.3-5.1l3.6-0.1l-0.2-3.4l-3.6,0.1l-3.7-1.6l-0.1-1.7l-3.7-1.6l7.2-0.1 l3.5-1.7l7.2-0.1l11.1,4.9L327.4,316.7L327.4,316.7z"
+  },
+  {
+    "geo": "0180_stockholm",
+    "name": "Stockholm",
+    "rank": "43",
+    "shape_lores_svg": "M211.6,311.6l10.8-0.2l0.1,1.7l7.2-0.1l-0.1-1.7l7.2-0.1l0.4,5.1l7.2-0.1l7-3.5l-0.1-1.7 l7.1-1.8l7-3.5l-0.3-5.1l-0.3-5.1l7.2-0.1l3.7,1.6l0.3,5.1l11.2,4.9l7.2-0.1l0.2,3.4l-3.5,1.7l-3.6,0.1l-7,3.5l0.3,5.1l3.7,1.6 l3.6-0.1l3.8,3.3l3.7,1.6l0.1,1.7l3.7,1.6l7.2-0.1l0.1,1.7l10.8-0.2l7-3.5l-0.5-8.4l5.1-0.1l1.9,3.8l3.2-1.2l-2.3-2l2.8-3.3 l10.9,2.7l8.9,5.1l-0.2,2.2l6.1,0.5l9.1,4.8l-1.6,4.5l-8.2-0.7l-7.3,1.1l-6.6-0.4l-3.2-1.3l-3,1.9l13.2,1.1l12.3-1l2,0.7l7.5-1.2 l-2.7,2.5l-14.4,0.2l-3.5,1.7l0.3,5.1l3.7,1.6l0.3,5.1l3.6,0l7.4,3.3l0.2,3.4l7.3,1.6l0.2,3.4l3.7,1.6l10.8-0.1l-3.5,1.7l0.3,5.1 l-7.2,0.1l-3.7-1.6l-7.2,0.1l-0.1-1.7l-7.2,0.1l-7,3.5l-14.3,0.2l-11.1-4.9l-0.1-1.7l-7.2,0.1l-3.7-1.6l-0.1-1.7l-7.2,0.1l-0.1-1.7 l-7.2,0.1l-0.1-1.7l-7.2,0.1l-0.1-1.7l-7.2,0.1l-0.2-3.4l-7.3-1.6l-10.8,0.2l0.1,1.7l-3.5,1.7l-14.4,0.2l-3.7-1.6l-0.2-3.4l3.5-1.7 l7.2-0.1l-0.1-1.7l7.2-0.1l-0.1-1.7l7.2-0.1l-0.1-1.7l7.2-0.1l-0.1-1.7l3.5-1.7l-0.1-1.7l-7.2,0.1l-3.7-1.6l-0.1-1.7l-3.7-1.6 l-7.2,0.1l-3.7-1.6l-0.1-1.7l-3.7-1.6l-7.2,0.1l-3.7-1.6l-0.1-1.7l-7.2,0.1l-0.1-1.7l-14.4,0.2l-0.4-5.1l-3.6,0.1l-0.2-3.4 l-3.6,0.1l-0.2-3.4l-3.6,0.1L211.6,311.6L211.6,311.6z"
+  },
+  {
+    "geo": "0128_salem",
+    "name": "Salem",
+    "rank": "51",
+    "shape_lores_svg": "M131.7,350.1l3.5-1.8l10.8-0.2l3.7,1.6l0.1,1.7l7.2-0.1l3.7,1.6l3.8,3.3l7.2-0.1l0.1,1.7l10.8-0.2 l0.1,1.7l14.4-0.2l0.5,6.8l3.7,1.6l7.2-0.1l3.7,1.6l0.5,6.8l7.3,1.6l0.2,3.4l3.6-0.1l0.5,6.8l-3.5,1.7l-10.7,0.2l0.1,1.7l-10.7,0.2 l0.1,1.7l-7.2,0.1l-3.7-1.6L188,383l-7.3-1.6l-0.2-3.4l-14.3,0.2l-3.7-1.6l-0.5-6.8l3.7,1.6l10.8-0.2l-0.1-1.7l-7.2,0.1l-0.4-5.1 l-28.7,0.5l-0.1-1.7l-7.4-3.3l-3.6,0.1l-0.5-6.8l3.6-0.1L131.7,350.1L131.7,350.1z"
+  },
+  {
+    "geo": "0181_sodertalje",
+    "name": "Södertälje",
+    "rank": "52",
+    "shape_lores_svg": "M134.2,478.6l-6.9,0.1l-0.3-3.4l-3.6,0.1l-0.7-8.4l-17.8,0.3l-0.1-1.7l-10.7,0.2l-0.1-1.7 l-7.1,0.1l-0.1-1.7l-7.1,0.1L80,466l-24.9,0.5l-3.6,0.1l-0.3-3.4l-3.6,0.1l-0.6-6.8l-3.6,0.1l-0.4-5.1l-3.6,0.1l-0.4-5.1l-3.6,0.1 l-0.3-3.4l-3.6,0.1l-1-11.8l-3.6,0.1l-1-11.8l3.6-0.1l-0.9-10.9l22.6,0.4l47.4,2.4l2-10.7l20-8.2l-1.8-5.4l4.9-4.2l-10.2-14.1 l-11.7,3.5l-52.6-11.6l-10.8-5.4l3.6-0.2l-2-23.6l-3.6,0.1l-0.3-3.4l36-0.7l3.7,1.6l0.3,3.4l10.8-0.2l3.7,1.6l1,11.8l14.4-0.3 l0.1,1.7L117,347l0.1,1.7l7.2-0.1l0.1,1.7l7.2-0.1l0.3,3.4l-3.6,0.1l0.5,6.8l3.6-0.1l7.4,3.3l0.1,1.7l28.7-0.5l0.4,5.1l7.2-0.1 l0.1,1.7l-10.8,0.2l-3.7-1.6l0.5,6.8l3.7,1.6l14.3-0.2l0.2,3.4l7.3,1.6l0.6,8.4l3.7,1.6l7.2-0.1l3.7,1.6l0.1,1.7l-3.5,1.7l0.2,3.4 l-3.6,0.1l0.2,3.4l-3.5,1.7l-7.2,0.1l3.9,8.3l3.7,2.2l-3,3.1l-4.4-0.5l-5.7-5.4l-1.1-5.2l-1.8-2.2l-2.5-8.5l-5.7-2.9l-1.4,3.9 l3,1.3l-0.5,2.3l3.2,2.9l2.3,4l0.9,5l-2.5,4l-4.8,0.2l-9.8-1.7l-0.2,2l5,0.7l-0.9,3l-7.5,1.5l-0.9,1.8h-6.1l2,4.7l5.5,1.8l-2,9 l-3.9-0.7l-2.5,3.4l2.7,6.5l3.4,4.2l-0.9,4.3l-4.1,3.3l1.4,2.1v2.1l0.9-6l4.3-1.5l4.1-2.7v-1.8l3.9-1.1l0.7-3l-3.4-0.6l3-6.1 l-2.5-0.5l-4.1,5.4l2.3,0.7l-2,2.8l-4.5-3.8l6.6-7.1l1.4-4.3l-3-2.8l3-0.9l-0.2-3l9.1-1.4l0.7,6.6l9.3,5.3l0.2,2.8l3.9,2.2 l-2.5,3.9l5.7,1.6l0.7,2.6l-2,3.1l3.2,1.7l-2.7,4.6l-3.9-0.9l3,5.6l-2.7,1.9l4.1,1.8l-5,7.2l1.1,0.3v6l-3.9-0.1l-4.8,1.4l5,4.2v2.7 l-3.2,0.5l-5.4-4.1l-1.6-3.2l-5.9,2.8l-6.6-3.8l1.4-6l3.2-1l-0.2-7l-7.7-0.3l-2.5-2.9v1.2l-2.5,1.8l3.2,4.7l-2.3,3.4l-5-3.8l-7-3.2 l0.5,3.9L134.2,478.6 M190.7,463.9l1.6,3.8l-4.8,0.7l0.2-2.8L190.7,463.9 M195.3,492.7l4.8,2.8l-3.6,0.9L195.3,492.7 M181.9,509.4 l3.2,0.4l5.7,3l2.5,4.4l-1.1,2.3l-5.2-0.7l1.1-3.2l-3.2-2.9l-3.9-1.4L181.9,509.4L181.9,509.4z"
+  },
+  {
+    "geo": "0140_nykvarn",
+    "name": "Nykvarn",
+    "rank": "53",
+    "shape_lores_svg": "M28.8,408.7l-0.4-4.3l-3.6,0.1l-0.3-3.4l-3.6,0.1l-0.3-3.4l-7.3-1.6L5.9,393l3.4-1.8L9,387.9 L5.5,388l-3.7-1.6L1,377.9l3.6-0.1l3.4-1.8L7.6,371l3.6-0.1l-0.3-3.4l7.2-0.1l-0.1-1.7l7.2-0.1l-0.4-5.1l3.6-0.1l3.4-1.8l-0.1-1.7 l7.2-0.1l-0.1-1.6l10.8,5.4l52.6,11.6l11.7-3.5l10.2,14.1l-4.9,4.2l1.8,5.4l-20,8.2l-2,10.7l-47.4-2.4L28.8,408.7L28.8,408.7z"
+  },
+  {
+    "geo": "0182_nacka",
+    "name": "Nacka",
+    "rank": "61",
+    "shape_lores_svg": "M437.7,335.2L433,337l-5.7,4.5l1.6,0.7l-0.9,4.2l3.4,1.3l3.9,4.6l-1.8,1.4l3.4,5.3l6.1-0.3 l0.5-3.9l12,2.5l0.2,0l-3,1.5l-4.8,0.3l-3,1.7l-14.5-0.1l-6.1-3.4l-6.8-0.8l-7.9,0.1l8.2,4.4l2.2,0.2l0.1,1.7l-3.5,1.7l-25.1,0.3 l0.1,1.7l-10.8,0.1l-3.7-1.6l-0.2-3.4l-7.3-1.6l-0.2-3.4l-7.4-3.3l-3.6,0l-0.3-5.1l-3.7-1.6l-0.3-5.1l3.5-1.7l14.4-0.2l2.7-2.5 l17.7-5l5.5-0.6l0.7-2.7l6.6-2.5l5.4,0.7l3-3.2l5.2-1.5l5.4-0.1l4.5-1.1l5,0.8l1.4,2.2l10.2-1.3l0.9-2l5.7,0.8l-5.2,0.4l0.2,3.6 l3.7,1.1l0.6,3.4l7,3.3l-3.5,1.8l-7.6,0.6l-10.5-3.7L437.7,335.2 M452.3,359.7l7.3,0.7l1.4,2.8l-4.8-0.3L452.3,359.7 M468.2,363.3 l1.6,2.4l4.8,2.2l-0.7,4.6l-3.9-1.1l-4.8-5.2L468.2,363.3L468.2,363.3z"
+  },
+  {
+    "geo": "0138_tyreso",
+    "name": "Tyresö",
+    "rank": "62",
+    "shape_lores_svg": "M466,397.8l-8.2,0.1l0.1,1.7l-14.3,0.2l-3.8-3.3l-3.6,0l-0.2-3.4l-3.6,0l-0.2-3.4l-3.7-1.6 l-3.6,0l-18.4-8.2l-14.3,0.2l0.1,1.7l-7.2,0.1l-3.7-1.6l-3.7-1.6l-0.2-3.4l3.5-1.7l7.2-0.1l-0.3-5.1l3.5-1.7l-0.1-1.7l25.1-0.3 l3.5-1.7l-0.1-1.7l1.5,1.1l28.2,7.1l3,2.4l5.2-0.2l6.4,4.3l4.3,1.6l1.8,2.5l5.7,3.9v3.6l-5.7,0.6l1.1-2.8l-4.3-2.4l-9.3-2.7 l-6.8,0.3l-3.9-5.3l-5.9-4l-6.4-0.2l6.1,5.4l-3.4,2.6l8.9,0.3l7.3,1.9l3.2-0.1l9.5,4.2l1.1,2.1l-5.7,0.1l-2.7,2.4l-2.7,5.4l4.3-1 l4.8-2.6l6.4,3.4L466,397.8L466,397.8z"
+  },
+  {
+    "geo": "0120_varmdo",
+    "name": "Värmdö",
+    "rank": "63",
+    "shape_lores_svg": "M635.6,281.9l1.6,1.5l-5.2,1.5l-3-1.6L635.6,281.9 M596.5,287.4l4.1,1.8l0.2,1.9l-9.1,0.6 l-3.2-1.3l-7.3-0.5l-5.5,3l-7.9-0.2l0.5-3.2l11.1-4l6.4-0.9l3.4,0.8l6.6-0.6L596.5,287.4 M681.9,285.4l-5.2,2.9l-5-0.3l2.5-2.3 L681.9,285.4 M639,285.7l0.2,2.2l-4.1,2.7l-5.9,1.8v-4.5L639,285.7 M679.4,300.6l-7.5,2.7l-1.8,1.9l-6.8,3.4l-4.5,3.8l-5.4-0.9 l0.9-2.7l-2.5-2.4l4.8-0.8l2.7-2.1l-3.4-2.3l-1.1-5.3l4.3-3.1l6.8-1.6l12.7-1.7l5.9,1.6l2,1.6l-7.9,5.7L679.4,300.6 M486.8,292.5 l-4.1,4.9l-6.6-0.5l-2.7-2l10.2-0.5L486.8,292.5 M601.1,297.2l-11.4-1.5l0.9-1.4l10.7-1.1L601.1,297.2 M609.2,293.9l2.5,1.7 l-8.6,0.5l0.5-1.4L609.2,293.9 M495.9,295.5l7.7,1.8l-1.4,1l-9.3-1L495.9,295.5 M612,296.4l3,1.3l-1.8,3.1l-3.2,0.2l-3-3.6 L612,296.4 M572.2,297.7l-4.5,4.4l5,0.3l-0.9-3.4l4.5,0.5l3.6,4l1.4,3.9l7.7-0.1l6.4,0.9l-7.3,2.9l-2.7-1l-10,0.4l-4.5,1l-9.3-1 l1.8-4.1l-2-3.6l1.6-1.6L572.2,297.7 M598.1,297.4l0.2,1.1l5.9,1.8l-3.9,1.7l-5.2-0.4L598.1,297.4 M558.4,328.6l6.8,2l3.9-1.1 l3.4,6.4l-1.6,1.1l6.6,3.7l-1.1,4.1l-6.1,2.1l-8.4,0.8v1.9l5.2,0.5l5-2.1l14.5-0.2l4.8-1.8l4.5,2.6l-5.2,3.2l3.2,2.7l-4.1,0.9 l-7.3,3l-3.2-1.6l-5.4,0.4l1.1,2.1l-0.9,3.2l-4.8,2.4l-4.1,0.1l-4.8-1.6l1.8-1.6l-13.4-0.4l-11.8-2.8l2-1.9l-8.6-1l-5.7-3.2 l-0.5-2.3l-8.4-0.5l-7.7-1.4l-3.9-2l-3.9,0.1l-7.7-2.6l-5.2-2.5l-4.3,0.1l-2.5,3l4.3,0.8l2,2.3l13.2,0.7l15.4,2.4l6.6,0.4l-1.4,4.2 l5.7,1l12.7,3.9l0.7,1.6l9.1,0.4l0.9,1.6l6.4-0.6l2.5,2.6l-8.4-0.1l-2-1.3l-5.9,3.2l-4.8,0.4l5.4,2.9l1.1,2.2l-6.8,1.6L535,374 l-10,0.8l-6.6,2.5l-3.9-0.4l-3.2-2.1l-3.6,1.6l-5.9-2.7l-3.4-4.2l-5.7-2.7l-4.5,1.8l-4.8-2.5l-3.9-0.6l-3.9-4.4l-8.4-3.7l-0.2-2.1 l-4.3-1.1l-6.1-0.1l-5.4,0.9l-9.5-3.8l1.4-3l7.3-0.7l-3.6-2.5l0.7-3l3.4-1.4l-13-5.4l-1.3-2.8l10.5,3.7l7.6-0.6l3.5-1.8l-7-3.3 l-0.6-3.4l-3.7-1.1l-0.2-3.6l5.2-0.4l4.8,1.7l10.2-1.3l6.8,0.9l3,3.2l14.8,5.2l-0.7,4l4.8,2.4l6.8-2.4l-1.6-1.8l2.7-2.5l-6.1-3.3 l-5.9-6.3l2-2.4l-2.7-5.7v-3.3l-6.4-4v-3.8l-7.7-2.5l5-1.9l5.4,1.8l5.7,0.5l6.1-1.3l14.3,3.6l9.8,4.4l2.5,1.8l0.7,4.9l7,2.8 l9.5-0.3l4.3,2.3l-5.5,2.5l9.5-0.1l1.1-2.5l10.2,0.3l3.9,3.1l-2,3.7l-3.4-1.1l-11.4,1.1l-3.4-1.5l-7.7,0.9l-2.3,2.4l3.2,0.8l5-2 l9.3,0.4L558.4,328.6 M723,298.5l3.6,2.5l-3.9,1l-3.4-1.3L723,298.5 M589.7,298.6l4.1,1.3l-2.3,3.2l-9.1-0.5l-1.1-2.8L589.7,298.6  M696.9,298.7l2.3,2.2l7.3,0.5l-1.4,2.1l-3.9,1.6l-3.9,3.1l-5.9,0.1l-3.2-7.6l2-1.5L696.9,298.7 M620.8,302.1l7.7,0.8l1.6,2.9 l-9.1-1.3L620.8,302.1 M693.7,323.7l-7-4.9l-5.5,2.1l-0.5-2.8l5.5-0.1l-0.2-2.1l-7-2l-4.3-4.2l1.4-5.4l8.9-0.6l13.9,14.5l-2.3,4.9 L693.7,323.7 M641.3,306.3l0.9,1.8l4.5,2.2l-1.6,2.2l-5,0.3l-7.7-3l3-2.1L641.3,306.3 M591.3,312.7l-0.5,2.1l9.3-0.7l-1.6,2.3 l-4.5-1.5l-4.5,0.5l-3.6-2.6L591.3,312.7 M669.4,313.3l3.6,2l-5.4,2.8l-1.6-3.6L669.4,313.3 M641,313.9l2.3,2.9l-6.8,2.9l-3.9-3.1 l4.8-2.7H641 M594.5,318.5l5,0.1l4.3,5l7.3,2.7l-0.5,2.5l-2.7,1.9l4.3,1.9v1.9l-4.3,3.8l-3.4-0.3l-6.1,4.4l-3.2-0.9l-5,0.7 l-10.2,4.4l-0.9-1.1l5-5.3l5.7-1.1l-4.8-2.5l3.9-2.7l-1.8-2.7l-2.7-0.7l-6.4-4.7l-5-0.5l-0.2-2.3l-3.9-4.3l0.5-1.3l10.9-1.1 l4.3,0.2l-0.2,2.1l5.5,0.7L594.5,318.5 M672.4,329.6l3.4,1.3l-7.5,5l-5.2,1.6l-1.4-4.5l4.5-2.5l-4.1-1.6l1.4-2.4l9.3-1l2-2.1 l3.9-0.2l5,2.5l-9.1,1.6L672.4,329.6 M670.6,339.7l3.4,0.5l-6.6,3.1h-7.9l2.3-3.1L670.6,339.7 M772.3,341.4l4.1,3.3l-7-0.6 L772.3,341.4 M644,341.5l7.9,2.8l-7,0.7l-6.8-0.1l1.6-3.3L644,341.5 M636,348l-1.8,4.4l-4.3,1.8l-3.4,3v2.1l-4.3,2.9l-4.8-0.2 l-6.4-2.8l-7.3,0.8l-0.7,6.1l-4.3-1.9v-4.9l3-4.8l6.1-4.2l10.7-4.4l10.7,0.3L636,348 M663.1,345.3l0.2,2.4l-6.1,1.5l-1.6-2.4 L663.1,345.3 M696.9,346.4l-0.7,1.4l-5.9,1.1l-6.4-1.8L696.9,346.4 M681.2,347.6l2,3.8l4.1,2.6l-5.7,0.5l-6.6-2.2v-3.6L681.2,347.6  M616.7,366.9l4.1,1.9l-3.6,4l5,0.7l-1.8,2.1l-5.9-0.3l-3.6-2.9l6.6-2.4L616.7,366.9 M600.4,367l2.7,3l-5.2-0.2L600.4,367  M555.7,369.6l2.3,2.8l-3.9,0.7l-8.2-2.3L555.7,369.6 M582.9,390.1l-7.7,2.7l-1.4-3.3l5.2-2.1l4.3-4.7l5.7-2.3l2.5-2.8l4.8-0.4 l1.4,4.3l5.2-2.2l8.2-0.3l1.4,2.7l-6.1,2l-2,2.9l-5-0.6l-9.5,3L582.9,390.1 M572.5,386.5l-1.8,2.8l2.5,1.6l-5.9,3.4l-6.1,0.5 l6.6-6.9L572.5,386.5 M594.9,389.6l0.2,2.3l-3.9,2.4l-4.3,0.2l-0.5-2.4L594.9,389.6 M574.3,393.4l-0.9,2l-5.4,3l-7.9,1.9l-2.5-1.1 l3.6-2.1l8.6-3L574.3,393.4 M603.6,397.6l-4.8,2.8l-9.3,3.2l1.6,2.7l-5.9,1.7l-4.1-2.3l15.9-7.9L603.6,397.6 M551.1,405.9l-1.4,3.2 L547,411l-7.3,0.8l-0.2-1.7l4.3-2.1l5.9-0.5L551.1,405.9 M584.3,408.6l-3.4,1.4l-3.6,4.4l-4.8,2.5l-1.8-2.7l4.1-0.7l2-2.7 L584.3,408.6 M615.6,414.8l0.5,2.5l-2.7,1.8l-5.7-0.8L615.6,414.8 M602.7,417.2l4.5,0.5l-6.1,2.7l-3.2-2L602.7,417.2 M569.1,420.4 l-0.7,2.4l-3.6,0.5l-3.2,2.5l-3.4,0.6l-0.9-3.2l9.3-3.2L569.1,420.4 M555.4,421l-0.7,4.3l-6.4-0.5l1.6-2.3L555.4,421L555.4,421z"
+  },
+  {
+    "geo": "0126_huddinge",
+    "name": "Huddinge",
+    "rank": "71",
+    "shape_lores_svg": "M300.4,401.6l-0.3-5.1l-3.6,0.1l-0.3-5.1l-7.4-3.3l-7.2,0.1l-0.2-3.4l-3.6,0.1l-0.6-8.4 l-3.7-1.6l-7.2,0.1l-0.3-5.1l-7.2,0.1l-0.1-1.7l-7.2,0.1l-0.2-3.4l3.6-0.1l-0.2-3.4L251,360l-0.2-3.4l3.7,1.6l14.4-0.2l3.5-1.7 l-0.1-1.7l10.8-0.2l7.3,1.6l0.2,3.4l7.2-0.1l0.1,1.7l7.2-0.1l0.1,1.7l7.2-0.1l0.1,1.7l7.2-0.1l0.1,1.7l3.7,1.6l7.2-0.1l0.1,1.7 l11.1,4.9l14.3-0.2l7-3.5l7.2-0.1l0.1,1.7l7.2-0.1l3.7,1.6l-3.5,1.7l0.2,3.4l3.7,1.6l-10.5,5.2l0.1,1.7l-14.3,0.2l-7,3.5l0.5,8.4 l-3.6,0l0.2,3.4l-3.5,1.7l-17.9,0.2l0.1,1.7l-10.7,0.2l-0.1-1.7l-7.2,0.1L300.4,401.6L300.4,401.6z"
+  },
+  {
+    "geo": "0127_botkyrka",
+    "name": "Botkyrka",
+    "rank": "72",
+    "shape_lores_svg": "M186.4,419.7l4.4,0.5l3-3.1l-3.7-2.2l-3.9-8.3l7.2-0.1l3.5-1.7l-0.2-3.4l3.6-0.1l-0.2-3.4 l3.5-1.7l-0.1-1.7l-3.7-1.6l-0.1-1.7l10.7-0.2l-0.1-1.7l10.7-0.2l3.5-1.7l-0.5-6.8l-3.6,0.1l-0.2-3.4l-7.3-1.6l-0.5-6.8l-3.7-1.6 l-7.2,0.1l-3.7-1.6l-0.5-6.8l7.2-0.1l0.1,1.7l10.8-0.2l0.1,1.7l14.4-0.2l-0.1-1.7L251,360l3.7,1.6l0.2,3.4l-3.6,0.1l0.2,3.4 l7.2-0.1l0.1,1.7l7.2-0.1l0.3,5.1l7.2-0.1l3.7,1.6l0.6,8.4l3.6-0.1l0.2,3.4l7.2-0.1l7.4,3.3l0.3,5.1l3.6-0.1l0.3,5.1l-3.5,1.7 l-7.2,0.1l0.1,1.7l-7.2,0.1l-3.5,1.7l0.1,1.7l-7,1.8l0.2,3.4l3.7,1.6l-3.6,0.1l0.4,6.8l-7.1,0.1l-3.5,1.7l0.1,1.7l-3.5,1.7 l-17.9,0.3l-0.1-1.7l-3.7-1.6l-10.7,0.2l0.1,1.7l-7.1,0.1l-0.1-1.7l-7.6-0.7l6.1-2.6l-5.7-2l-0.7-2.1l-4.5,0.2l-6.4,2.8l-0.9,6.7 l-3,1.8l0.7,3.3l2.5,2.2l-12.5-0.4l-5.9,2.8l-2.3-3l-0.9-3.8l-2-1.1l0.9-4.1L186.4,419.7L186.4,419.7z"
+  },
+  {
+    "geo": "0136_haninge",
+    "name": "Haninge",
+    "rank": "73",
+    "shape_lores_svg": "M306.6,442.4l-14.3-0.1l-3.7-1.6l-0.7-10.1l3.6-0.1l-0.2-3.4l3.5-1.7l7.1-0.1l-0.2-3.4l-3.6,0.1 l-0.2-3.4l-7.3-1.6l-0.1-1.7l-14.3,0.2l-3.7-1.6l-0.2-3.4l7-1.8l-0.1-1.7l3.5-1.7l7.2-0.1l-0.1-1.7l7.2-0.1l3.5-1.7l7.4,3.3 l7.2-0.1l0.1,1.7l10.7-0.2l-0.1-1.7l17.9-0.2l3.5-1.7l-0.2-3.4l3.6,0l-0.5-8.4l7-3.5l14.3-0.2l-0.1-1.7l10.5-5.2l3.7,1.6l7.2-0.1 l-0.1-1.7l14.3-0.2l18.4,8.2l3.6,0l3.7,1.6l0.2,3.4l3.6,0l0.2,3.4l3.6,0l3.8,3.3l14.3-0.2l-0.1-1.7l8.2-0.1l5.9-2.1l4.8,0.3 l5.2,1.7l-2.3,2.3l4.1,0.8l-1.1-4.8l4.8-1.7l10-1.1l-2.7,5.1l-7.5,3l0.5,1.5l-9.1,4.3l-6.1,2.1l-1.6-3.1l-7-0.1l-4.8,3.6l-6.8,0.6 l-4.5-0.9l-3.6,1.6l-15,1.5l-6.8,2.8l-3.2,2.5l7,3.1l6.6-1.1l4.3-2.2l1.4,4.3l3.9,1.1l-17.9,3.9l-12.9,0.5l-10.9,4.3l11.1-1l10-1.6 l7.4-0.4l-0.8,1.7l-10.2-0.1l-9.3,1.3l-5,1.6l-8.6,1.3l-8.2-0.2l3.6-2.3l-2-2.7l10-0.6l6.4-2.4l-8.2-2.3l10.9-4.7l0.2-4.8 l-14.8,3.6l5.2,1.8l-8.4,4.4l-5.9,2.1l-7,1.1l-7.5,0.4l-5.4,1.1l0.2,2.6l-14.5,1.3l0.7,5.4l-4.3,1.9l-5.9-1.5h-9.5l-0.5,1l-9.5,1.6 v1.8l3.6,1.5l0.7,6.7l-8.9-1l-5-2.6V444L306.6,442.4 M502.3,398l-7.7,4.6l-2.5-0.8l5.9-2.8L502.3,398 M455.1,430l-0.2-1.7l4.8-1.7 l9.3,0.5l5.5-1.7l-0.2-2l4.1-1l7.7-5l7.9-3.3l9.1-2l1.8,2.2l-1.1,1.9l0.7,3.8l3,2l-1.1,3l-5.2,2.5l-0.7,1.7l-4.5,2.5l-4.1,4.9 l-0.7,2.6l-10.2,3.1l1.1,3.1l-3.6,3.8l-2.7,1.1l0.5,2.2l-3.2,2.4l-5.2-2.2l-5,1.1l-7,0.4l-10.4-8.4l3.2-2l9.5-1.1l-5.9-4.8 l11.1-5.7l1.4-2.3H455.1 M516.6,412.4l0.9,1.6l-5.5,3.3l-0.9,1.8l-5.7-1.3l0.9-2.1l4.8-2.5L516.6,412.4 M435.1,414.1l-2.3,2.5 l-9.1,0.6l3.2-2.2L435.1,414.1 M475.5,417.1l0.9,2.8l-5.9,1.3l-5.4,0.2l-3-1.4L475.5,417.1 M533.2,419.7l0.2,1.8l-7,1.9l-0.9-2.4 L533.2,419.7 M520.2,426.2l-0.7,3.1l-3.9-1L520.2,426.2 M528.2,434l-5.7,3l1.4,5.2l1.8,1.8l-4.8,2.8l-5.9-0.6l0.9-2.1l-0.7-6.5 l7-1.4L528.2,434 M369.2,434.9l-3.2,1.6l7.7,1.8l7.3,0.7l2.5,1.8l-10.7,0.8l-11.1-1.9l-0.7-2L369.2,434.9 M440.1,438.2l4.1,4.6 l-5.9-0.3l-2-2.6L440.1,438.2 M378.3,442.5l2.5,1.4l5.9,0.8l-0.9,1.9h-5.2l-4.3-1.6L378.3,442.5 M341.3,444.4l-6.1,6.4l-3.4,0.3 l-0.7-4.3l4.8-0.4L341.3,444.4 M532,445.6l7,3.3l-6.8,0.8l-4.8-1.4L532,445.6 M322.7,472.8l-1.8,0.1l3.4-3.4l5.9-1.9l-1.6-5.1 l3-1.8l8.9-1.1l2-4.2l-0.7-3.8l5-2.7l3.6,1.6l5.4-0.1l8.2-2.5l10.9-2l3.9,1.7l5,0.5l6.4-0.8l6.6,0.7l0.7,2.1l-9.5,2.3l-3.6,2.4 l0.5,4.8l-5.4-3.7l-6.6,0.1l3.9,2.7l-1.8,1.6l-4.5-1l-4.5,3l1.4,3.1l4.1,0.9l-3,2.4l-11.6,0.5l-5.7-0.2l-1.6-2.9l-7-0.4l-2.5,3.2 l-8.9,2.7l-3,2.7L322.7,472.8 M378.1,458.1l3.2,5.5l-3.2,1.1l-4.5-1.5L378.1,458.1 M395.3,493.5l-5.9,0.3l-0.5-2.2l-4.1-1.4 l-1.4-3.3l-4.1,1l-7.3,4.1l-5.4-0.5l-0.9-2l7.9-1l1.6-7.3l4.5-3.8l7,3.1l3.6-0.3l7.3,1.3v-3l7.9-1.9l2.5-3.5l15.9-1.6l3,1.8 l9.1-3.8l0.5-1.8l5.7-0.2l11.8-3.3l2.5,1.6l-1.8,4.4l-11.1,2.7l-5.5,3.8l-9.8,2.3l-6.1,2.8l3.9,1.8h4.5l5.4-1.3l4.1,4l-4.8-0.5 l-12,1.3l-7,2.1l-8.2-0.8l-2.7,2.2l-3.2-1.5l-2.3,2.9L395.3,493.5 M470.7,466l6.4,1l4.8,2.3l-3.4,2.5L470.7,466 M535,469.7l6.6,1.8 l-3.9,1.3L535,469.7 M350.8,512.7l-3.4-1.7l-2-4.9h4.5l-0.5-4.3l7-0.3l6.4-4.7l7-3.8l2.5,2.2l-6.6,0.9l-4.1,2.8l2.3,0.7l-0.9,6.1 l-4.8,3.9l-5.2,0.7L350.8,512.7 M377.4,493.4l2.7,4.2l-5.2,0.3L377.4,493.4L377.4,493.4z"
+  },
+  {
+    "geo": "0192_nynashamn",
+    "name": "Nynäshamn",
+    "rank": "74",
+    "shape_lores_svg": "M212.1,424.1l7.6,0.7l0.1,1.7l7.1-0.1l-0.1-1.7l10.7-0.2l3.7,1.6l0.1,1.7l17.9-0.3l3.5-1.7 l-0.1-1.7l3.5-1.7l7.1-0.1l-0.4-6.8l3.6-0.1l14.3-0.2l0.1,1.7l7.3,1.6l0.2,3.4l3.6-0.1l0.2,3.4l-7.1,0.1l-3.5,1.7l0.2,3.4l-3.6,0.1 l0.7,10.1l3.7,1.6l14.3,0.1l-2.3,1.8l5.4,2.7l5.9,5.1l-4.5,3l2,1.5l-3.4,4l-3-0.6l-5,1.1l-0.5,4l-10,8.7l-3,1.7l3.4,2.1l0.7,2.5 l4.8-0.1l1.6,2.1l-3,1.7l1.4,5.2l-4.5,0.3l-2.7,2l-1.6,5.3l-10.7,10.8l-6.4,3.9l2,2.4l5.7,4l0.5,6.7l-4.5,4l0.2-5.6l-8.9,0.5 l-10-2.3l-3.9-4.6l-2-5.3l-5.7-4.1l-0.9,4.9l4.1,1.1l6.1,5.4l1.1,3.8l-4.1,2.7l3.2,3l-2,2l-4.8-0.5l-1.8,5.9l-10.2-3.2L225,534 l-1.1-4.9l6.1,0.7l2-3.7l-0.2-5.5l-4.3-5.2l2-2.7l4.3-1.6l-2.5-3.3l0.2-4.6l2-2.1l4.8,0.9l0.9-2.8l-5-3.7l-2.5-0.6v-2.7l-6.6-2.8 l-2.3-3.2l-8.4-8.2l-1.1,3.4l6.4,3.6l11.1,10.1l0.5,2.7l-6.1,4l2.3,1.4l-3.2,5l-3.4-1.7l-3.9,0.9l-3.9-6.4l0.9-2.6l-1.6-2.6 l-5.7-0.1l-4.3-4.6l-2-4.9l-3.9-1.8l4.8-8.9l-2.5-4.6l2.5-3.2l-1.8-2.1l3.2-2.8l5.9,0.6l-3.2-4.2l-1.4-9.1l-1.4-1.9l-1.1-13.3 l4.5,0.9l1.4-4l-3.4-2l-1.1-2.7L212.1,424.1 M320.9,472.9l1.8-0.1l-4.8,2.9l0.7,4.9l-9.1,3.6l-3.2-1.6l-5.5,0.9l-0.7-5.9l-8.4-4.1 l10.4-3.2l0.7-2.1l5.7-0.4l-1.1-2.4l8.9-5.5l4.8-1.7l4.5-0.2l-2.3,4l-6.1,4.5l5.2,0.2L320.9,472.9 M295.6,491.5l3.2,0.9l-1.8,3.9 l1.4,1.3l-2.3,2.8l-4.3-0.4l1.4,4.4l-0.7,4.1l-3.6,1.4l0.7-4.9l-2.3-3.1l3.9-7.4L295.6,491.5 M322.7,509.9l-2.7,4.8l-4.1-0.2 L322.7,509.9"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "municipality": "0160_taby",
+    "year": "2014",
+    "population_20xx_12_31": 67334
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2014",
+    "population_20xx_12_31": 41816
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2014",
+    "population_20xx_12_31": 41180
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2014",
+    "population_20xx_12_31": 40541
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2014",
+    "population_20xx_12_31": 70701
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2014",
+    "population_20xx_12_31": 26698
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2014",
+    "population_20xx_12_31": 104185
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2014",
+    "population_20xx_12_31": 88901
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2014",
+    "population_20xx_12_31": 16140
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2014",
+    "population_20xx_12_31": 82407
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2014",
+    "population_20xx_12_31": 45390
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2014",
+    "population_20xx_12_31": 25287
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2014",
+    "population_20xx_12_31": 9815
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2014",
+    "population_20xx_12_31": 31969
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2014",
+    "population_20xx_12_31": 32295
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2014",
+    "population_20xx_12_31": 69325
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2014",
+    "population_20xx_12_31": 911989
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2014",
+    "population_20xx_12_31": 92235
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2014",
+    "population_20xx_12_31": 96217
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2014",
+    "population_20xx_12_31": 44090
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2014",
+    "population_20xx_12_31": 74041
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2014",
+    "population_20xx_12_31": 45465
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2014",
+    "population_20xx_12_31": 11329
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2014",
+    "population_20xx_12_31": 57568
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2014",
+    "population_20xx_12_31": 44085
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2014",
+    "population_20xx_12_31": 27041
+  }
+]

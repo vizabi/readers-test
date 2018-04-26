@@ -1,0 +1,1002 @@
+[
+  {
+    "geo": "lbr",
+    "name": "Liberia",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "world",
+    "name": "World",
+    "world_4region": null
+  },
+  {
+    "geo": "europe",
+    "name": "Europe",
+    "world_4region": null
+  },
+  {
+    "geo": "americas",
+    "name": "The Americas",
+    "world_4region": null
+  },
+  {
+    "geo": "asia",
+    "name": "Asia",
+    "world_4region": null
+  },
+  {
+    "geo": "afg",
+    "name": "Afghanistan",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "alb",
+    "name": "Albania",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "dza",
+    "name": "Algeria",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "and",
+    "name": "Andorra",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "ago",
+    "name": "Angola",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "atg",
+    "name": "Antigua and Barbuda",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "arg",
+    "name": "Argentina",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "arm",
+    "name": "Armenia",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "aus",
+    "name": "Australia",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "aut",
+    "name": "Austria",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "aze",
+    "name": "Azerbaijan",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "bhs",
+    "name": "Bahamas",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "bhr",
+    "name": "Bahrain",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "bgd",
+    "name": "Bangladesh",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "brb",
+    "name": "Barbados",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "blr",
+    "name": "Belarus",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "bel",
+    "name": "Belgium",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "blz",
+    "name": "Belize",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "ben",
+    "name": "Benin",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "btn",
+    "name": "Bhutan",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "bol",
+    "name": "Bolivia",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "bih",
+    "name": "Bosnia and Herzegovina",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "bwa",
+    "name": "Botswana",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "bra",
+    "name": "Brazil",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "brn",
+    "name": "Brunei",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "bgr",
+    "name": "Bulgaria",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "bfa",
+    "name": "Burkina Faso",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "bdi",
+    "name": "Burundi",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "khm",
+    "name": "Cambodia",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "cmr",
+    "name": "Cameroon",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "can",
+    "name": "Canada",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "cpv",
+    "name": "Cape Verde",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "caf",
+    "name": "Central African Republic",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "tcd",
+    "name": "Chad",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "chl",
+    "name": "Chile",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "chn",
+    "name": "China",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "col",
+    "name": "Colombia",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "com",
+    "name": "Comoros",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "cod",
+    "name": "Congo, Dem. Rep.",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "cog",
+    "name": "Congo, Rep.",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "cri",
+    "name": "Costa Rica",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "civ",
+    "name": "Cote d'Ivoire",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "hrv",
+    "name": "Croatia",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "cub",
+    "name": "Cuba",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "cyp",
+    "name": "Cyprus",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "cze",
+    "name": "Czech Republic",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "dnk",
+    "name": "Denmark",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "dji",
+    "name": "Djibouti",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "dma",
+    "name": "Dominica",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "dom",
+    "name": "Dominican Republic",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "ecu",
+    "name": "Ecuador",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "egy",
+    "name": "Egypt",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "slv",
+    "name": "El Salvador",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "gnq",
+    "name": "Equatorial Guinea",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "eri",
+    "name": "Eritrea",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "est",
+    "name": "Estonia",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "eth",
+    "name": "Ethiopia",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "fji",
+    "name": "Fiji",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "fin",
+    "name": "Finland",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "fra",
+    "name": "France",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "gab",
+    "name": "Gabon",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "gmb",
+    "name": "Gambia",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "geo",
+    "name": "Georgia",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "deu",
+    "name": "Germany",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "gha",
+    "name": "Ghana",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "grc",
+    "name": "Greece",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "grd",
+    "name": "Grenada",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "gtm",
+    "name": "Guatemala",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "gin",
+    "name": "Guinea",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "gnb",
+    "name": "Guinea-Bissau",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "guy",
+    "name": "Guyana",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "hti",
+    "name": "Haiti",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "hos",
+    "name": "Holy See",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "hnd",
+    "name": "Honduras",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "hun",
+    "name": "Hungary",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "isl",
+    "name": "Iceland",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "ind",
+    "name": "India",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "idn",
+    "name": "Indonesia",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "irn",
+    "name": "Iran",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "irq",
+    "name": "Iraq",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "irl",
+    "name": "Ireland",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "isr",
+    "name": "Israel",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "ita",
+    "name": "Italy",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "jam",
+    "name": "Jamaica",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "jpn",
+    "name": "Japan",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "jor",
+    "name": "Jordan",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "kaz",
+    "name": "Kazakhstan",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "ken",
+    "name": "Kenya",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "kir",
+    "name": "Kiribati",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "kwt",
+    "name": "Kuwait",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "kgz",
+    "name": "Kyrgyz Republic",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "lao",
+    "name": "Lao",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "lva",
+    "name": "Latvia",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "lbn",
+    "name": "Lebanon",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "lso",
+    "name": "Lesotho",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "africa",
+    "name": "Africa",
+    "world_4region": null
+  },
+  {
+    "geo": "lby",
+    "name": "Libya",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "lie",
+    "name": "Liechtenstein",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "ltu",
+    "name": "Lithuania",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "lux",
+    "name": "Luxembourg",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "mkd",
+    "name": "Macedonia, FYR",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "mdg",
+    "name": "Madagascar",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "mwi",
+    "name": "Malawi",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "mys",
+    "name": "Malaysia",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "mdv",
+    "name": "Maldives",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "mli",
+    "name": "Mali",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "mlt",
+    "name": "Malta",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "mhl",
+    "name": "Marshall Islands",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "mrt",
+    "name": "Mauritania",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "mus",
+    "name": "Mauritius",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "mex",
+    "name": "Mexico",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "fsm",
+    "name": "Micronesia, Fed. Sts.",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "mda",
+    "name": "Moldova",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "mco",
+    "name": "Monaco",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "mng",
+    "name": "Mongolia",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "mne",
+    "name": "Montenegro",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "mar",
+    "name": "Morocco",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "moz",
+    "name": "Mozambique",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "mmr",
+    "name": "Myanmar",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "nam",
+    "name": "Namibia",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "nru",
+    "name": "Nauru",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "npl",
+    "name": "Nepal",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "nld",
+    "name": "Netherlands",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "nzl",
+    "name": "New Zealand",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "nic",
+    "name": "Nicaragua",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "ner",
+    "name": "Niger",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "nga",
+    "name": "Nigeria",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "prk",
+    "name": "North Korea",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "nor",
+    "name": "Norway",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "omn",
+    "name": "Oman",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "pak",
+    "name": "Pakistan",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "plw",
+    "name": "Palau",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "pse",
+    "name": "Palestine",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "pan",
+    "name": "Panama",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "png",
+    "name": "Papua New Guinea",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "pry",
+    "name": "Paraguay",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "per",
+    "name": "Peru",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "phl",
+    "name": "Philippines",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "pol",
+    "name": "Poland",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "prt",
+    "name": "Portugal",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "qat",
+    "name": "Qatar",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "rou",
+    "name": "Romania",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "rus",
+    "name": "Russia",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "rwa",
+    "name": "Rwanda",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "wsm",
+    "name": "Samoa",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "smr",
+    "name": "San Marino",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "stp",
+    "name": "Sao Tome and Principe",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "sau",
+    "name": "Saudi Arabia",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "sen",
+    "name": "Senegal",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "srb",
+    "name": "Serbia",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "syc",
+    "name": "Seychelles",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "sle",
+    "name": "Sierra Leone",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "sgp",
+    "name": "Singapore",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "svk",
+    "name": "Slovak Republic",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "svn",
+    "name": "Slovenia",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "slb",
+    "name": "Solomon Islands",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "som",
+    "name": "Somalia",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "zaf",
+    "name": "South Africa",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "kor",
+    "name": "South Korea",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "ssd",
+    "name": "South Sudan",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "esp",
+    "name": "Spain",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "lka",
+    "name": "Sri Lanka",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "kna",
+    "name": "St. Kitts and Nevis",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "lca",
+    "name": "St. Lucia",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "vct",
+    "name": "St. Vincent and the Grenadines",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "sdn",
+    "name": "Sudan",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "sur",
+    "name": "Suriname",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "swz",
+    "name": "Swaziland",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "swe",
+    "name": "Sweden",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "che",
+    "name": "Switzerland",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "syr",
+    "name": "Syria",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "tjk",
+    "name": "Tajikistan",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "tza",
+    "name": "Tanzania",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "tha",
+    "name": "Thailand",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "tls",
+    "name": "Timor-Leste",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "tgo",
+    "name": "Togo",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "ton",
+    "name": "Tonga",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "tto",
+    "name": "Trinidad and Tobago",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "tun",
+    "name": "Tunisia",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "tur",
+    "name": "Turkey",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "tkm",
+    "name": "Turkmenistan",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "tuv",
+    "name": "Tuvalu",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "uga",
+    "name": "Uganda",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "ukr",
+    "name": "Ukraine",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "are",
+    "name": "United Arab Emirates",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "gbr",
+    "name": "United Kingdom",
+    "world_4region": "europe"
+  },
+  {
+    "geo": "usa",
+    "name": "United States",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "ury",
+    "name": "Uruguay",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "uzb",
+    "name": "Uzbekistan",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "vut",
+    "name": "Vanuatu",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "ven",
+    "name": "Venezuela",
+    "world_4region": "americas"
+  },
+  {
+    "geo": "vnm",
+    "name": "Vietnam",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "yem",
+    "name": "Yemen",
+    "world_4region": "asia"
+  },
+  {
+    "geo": "zmb",
+    "name": "Zambia",
+    "world_4region": "africa"
+  },
+  {
+    "geo": "zwe",
+    "name": "Zimbabwe",
+    "world_4region": "africa"
+  }
+]

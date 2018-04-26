@@ -5,6 +5,7 @@ import { GenericExpectationStrategy } from '../src/expectations/generic-expectat
 import { QuickExactExpectationStrategy } from '../src/expectations/quick-exact-expectation-strategy';
 import { WsReader } from "../src/family-definition/ws-reader";
 import { DdfCsvReader } from "../src/family-definition/ddf-csv-reader";
+import { WsReaderMongoless } from "../src/family-definition/ws-reader-mongoless";
 
 describe('Schema supporting', () => {
   describe('for concepts', () => {
@@ -70,7 +71,7 @@ describe('Schema supporting', () => {
         .withExpectationStrategy(GenericExpectationStrategy),
       new TestCase()
         .forDataSource(sg)
-        .unsupportedFor('performance and functionality should be considered', WsReader, DdfCsvReader)
+        .unsupportedFor('performance and functionality should be considered', WsReader, WsReaderMongoless, DdfCsvReader)
         .withTitle('should max-min response be expected')
         .withFixturePath('../../test/result-fixtures/schema/schema-4-#datasource#.json')
         .withRequest({
@@ -83,7 +84,7 @@ describe('Schema supporting', () => {
         .withExpectationStrategy(QuickExactExpectationStrategy),
       new TestCase()
         .forDataSource(sankey)
-        .unsupportedFor('performance and functionality should be considered', WsReader, DdfCsvReader)
+        .unsupportedFor('performance and functionality should be considered', WsReader, WsReaderMongoless, DdfCsvReader)
         .withTitle('simple max-min test')
         .withFixturePath('../../test/result-fixtures/schema/schema-5-#datasource#.json')
         .withRequest({
@@ -107,7 +108,7 @@ describe('Schema supporting', () => {
     const testCases = [
       new TestCase()
         .forDataSource(sg)
-        .unsupportedFor('this is an issue, should be resolved later', WsReader, DdfCsvReader)
+        .unsupportedFor('this is an issue, should be resolved later', WsReader, WsReaderMongoless, DdfCsvReader)
         .withTitle('simple test')
         .withFixturePath('../../test/result-fixtures/schema/schema-6-#datasource#.json')
         .withRequest({

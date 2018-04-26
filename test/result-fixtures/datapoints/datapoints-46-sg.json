@@ -1,0 +1,1367 @@
+[
+  {
+    "geo": "lbn",
+    "time": "2018",
+    "population_total": 6093509,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18280,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "afg",
+    "time": "2018",
+    "population_total": 36373176,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2137,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "alb",
+    "time": "2018",
+    "population_total": 2934363,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12303,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "and",
+    "time": "2018",
+    "population_total": 76953,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 51493,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "are",
+    "time": "2018",
+    "population_total": 9541615,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 62069,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "arg",
+    "time": "2018",
+    "population_total": 44688864,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16939,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "arm",
+    "time": "2018",
+    "population_total": 2934152,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8316,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "atg",
+    "time": "2018",
+    "population_total": 103050,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 22080,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "aus",
+    "time": "2018",
+    "population_total": 24772247,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 46369,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "aut",
+    "time": "2018",
+    "population_total": 8751820,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 45564,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "aze",
+    "time": "2018",
+    "population_total": 9923914,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18248,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "bdi",
+    "time": "2018",
+    "population_total": 11216450,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 845,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "bel",
+    "time": "2018",
+    "population_total": 11498519,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 42347,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "ben",
+    "time": "2018",
+    "population_total": 11485674,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2010,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "bfa",
+    "time": "2018",
+    "population_total": 19751651,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1834,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "bgd",
+    "time": "2018",
+    "population_total": 166368149,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3754,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "bgr",
+    "time": "2018",
+    "population_total": 7036848,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17653,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "bhr",
+    "time": "2018",
+    "population_total": 1566993,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 45061,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "bhs",
+    "time": "2018",
+    "population_total": 399285,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23183,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "bih",
+    "time": "2018",
+    "population_total": 3503554,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11053,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "blr",
+    "time": "2018",
+    "population_total": 9452113,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17840,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "blz",
+    "time": "2018",
+    "population_total": 382444,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8650,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "bol",
+    "time": "2018",
+    "population_total": 11215674,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6695,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "bra",
+    "time": "2018",
+    "population_total": 210867954,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16185,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "brb",
+    "time": "2018",
+    "population_total": 286388,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 13579,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "brn",
+    "time": "2018",
+    "population_total": 434076,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 85166,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "btn",
+    "time": "2018",
+    "population_total": 817054,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9946,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "bwa",
+    "time": "2018",
+    "population_total": 2333201,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18669,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "caf",
+    "time": "2018",
+    "population_total": 4737423,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 669,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "can",
+    "time": "2018",
+    "population_total": 36953765,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 44614,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "che",
+    "time": "2018",
+    "population_total": 8544034,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 58093,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "chl",
+    "time": "2018",
+    "population_total": 18197209,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 24279,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "chn",
+    "time": "2018",
+    "population_total": 1415045928,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 15698,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "civ",
+    "time": "2018",
+    "population_total": 24905843,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3956,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "cmr",
+    "time": "2018",
+    "population_total": 24678234,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3112,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "cod",
+    "time": "2018",
+    "population_total": 84004989,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 913,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "cog",
+    "time": "2018",
+    "population_total": 5399895,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6748,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "col",
+    "time": "2018",
+    "population_total": 49464683,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 13937,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "com",
+    "time": "2018",
+    "population_total": 832347,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1514,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "cpv",
+    "time": "2018",
+    "population_total": 553335,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7061,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "cri",
+    "time": "2018",
+    "population_total": 4953199,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 15467,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "cub",
+    "time": "2018",
+    "population_total": 11489082,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 20122,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "cyp",
+    "time": "2018",
+    "population_total": 1189085,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 30865,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "cze",
+    "time": "2018",
+    "population_total": 10625250,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 31426,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "deu",
+    "time": "2018",
+    "population_total": 82293457,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 45683,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "dji",
+    "time": "2018",
+    "population_total": 971408,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3546,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "dma",
+    "time": "2018",
+    "population_total": 74308,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11072,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "dnk",
+    "time": "2018",
+    "population_total": 5754356,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 45930,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "dom",
+    "time": "2018",
+    "population_total": 10882996,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 13690,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "dza",
+    "time": "2018",
+    "population_total": 42008054,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14310,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "ecu",
+    "time": "2018",
+    "population_total": 16863425,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11904,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "egy",
+    "time": "2018",
+    "population_total": 99375741,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11933,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "eri",
+    "time": "2018",
+    "population_total": 5187948,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1135,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "esp",
+    "time": "2018",
+    "population_total": 46397452,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 34892,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "est",
+    "time": "2018",
+    "population_total": 1306788,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 29887,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "eth",
+    "time": "2018",
+    "population_total": 107534882,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1793,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "fin",
+    "time": "2018",
+    "population_total": 5542517,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 40282,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "fji",
+    "time": "2018",
+    "population_total": 912241,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8517,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "fra",
+    "time": "2018",
+    "population_total": 65233271,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 39105,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "fsm",
+    "time": "2018",
+    "population_total": 106227,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3604,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "gab",
+    "time": "2018",
+    "population_total": 2067561,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 21108,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "gbr",
+    "time": "2018",
+    "population_total": 66573504,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 39981,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "geo",
+    "time": "2018",
+    "population_total": 3907131,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8711,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "gha",
+    "time": "2018",
+    "population_total": 29463643,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4633,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "gin",
+    "time": "2018",
+    "population_total": 13052608,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1420,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "gmb",
+    "time": "2018",
+    "population_total": 2163765,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1805,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "gnb",
+    "time": "2018",
+    "population_total": 1907268,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1457,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "gnq",
+    "time": "2018",
+    "population_total": 1313894,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23118,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "grc",
+    "time": "2018",
+    "population_total": 11142161,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 27990,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "grd",
+    "time": "2018",
+    "population_total": 108339,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12298,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "gtm",
+    "time": "2018",
+    "population_total": 17245346,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7581,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "guy",
+    "time": "2018",
+    "population_total": 782225,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7543,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "hnd",
+    "time": "2018",
+    "population_total": 9417167,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4485,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "hos",
+    "time": "2018",
+    "population_total": 801,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "hrv",
+    "time": "2018",
+    "population_total": 4164783,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 21439,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "hti",
+    "time": "2018",
+    "population_total": 11112945,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1839,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "hun",
+    "time": "2018",
+    "population_total": 9688847,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 25938,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "idn",
+    "time": "2018",
+    "population_total": 266794980,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11968,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "ind",
+    "time": "2018",
+    "population_total": 1354051854,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7078,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "irl",
+    "time": "2018",
+    "population_total": 4803748,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 50280,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "irn",
+    "time": "2018",
+    "population_total": 82011735,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 15798,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "irq",
+    "time": "2018",
+    "population_total": 39339753,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17096,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "isl",
+    "time": "2018",
+    "population_total": 337780,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 44466,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "isr",
+    "time": "2018",
+    "population_total": 8452841,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 32571,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "ita",
+    "time": "2018",
+    "population_total": 59290969,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 34002,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "jam",
+    "time": "2018",
+    "population_total": 2898677,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9145,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "jor",
+    "time": "2018",
+    "population_total": 9903802,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12555,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "jpn",
+    "time": "2018",
+    "population_total": 127185332,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 37217,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "kaz",
+    "time": "2018",
+    "population_total": 18403860,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 25676,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "ken",
+    "time": "2018",
+    "population_total": 50950879,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3285,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "kgz",
+    "time": "2018",
+    "population_total": 6132932,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3663,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "khm",
+    "time": "2018",
+    "population_total": 16245729,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3860,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "kir",
+    "time": "2018",
+    "population_total": 118414,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1852,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "kna",
+    "time": "2018",
+    "population_total": 55850,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 22231,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "kor",
+    "time": "2018",
+    "population_total": 51164435,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 38117,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "kwt",
+    "time": "2018",
+    "population_total": 4197128,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 83454,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "lao",
+    "time": "2018",
+    "population_total": 6961210,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6122,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "ago",
+    "time": "2018",
+    "population_total": 30774205,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8146,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "lbr",
+    "time": "2018",
+    "population_total": 4853516,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1152,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "lby",
+    "time": "2018",
+    "population_total": 6470956,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 25534,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "lca",
+    "time": "2018",
+    "population_total": 179667,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10423,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "lie",
+    "time": "2018",
+    "population_total": 38155,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": null,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "lka",
+    "time": "2018",
+    "population_total": 20950041,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12574,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "lso",
+    "time": "2018",
+    "population_total": 2263010,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3050,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "ltu",
+    "time": "2018",
+    "population_total": 2876475,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 30030,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "lux",
+    "time": "2018",
+    "population_total": 590321,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 88513,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "lva",
+    "time": "2018",
+    "population_total": 1929938,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 26314,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mar",
+    "time": "2018",
+    "population_total": 36191805,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8321,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mco",
+    "time": "2018",
+    "population_total": 38897,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 70015,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mda",
+    "time": "2018",
+    "population_total": 4041065,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5471,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mdg",
+    "time": "2018",
+    "population_total": 26262810,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1492,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mdv",
+    "time": "2018",
+    "population_total": 444259,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 15605,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mex",
+    "time": "2018",
+    "population_total": 130759074,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18149,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mhl",
+    "time": "2018",
+    "population_total": 53167,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3675,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mkd",
+    "time": "2018",
+    "population_total": 2085051,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14042,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mli",
+    "time": "2018",
+    "population_total": 19107706,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1792,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mlt",
+    "time": "2018",
+    "population_total": 432089,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 32495,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mmr",
+    "time": "2018",
+    "population_total": 53855735,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4945,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mne",
+    "time": "2018",
+    "population_total": 629219,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 15788,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mng",
+    "time": "2018",
+    "population_total": 3121772,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 13253,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "moz",
+    "time": "2018",
+    "population_total": 30528673,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1370,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mrt",
+    "time": "2018",
+    "population_total": 4540068,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4314,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mus",
+    "time": "2018",
+    "population_total": 1268315,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 20320,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mwi",
+    "time": "2018",
+    "population_total": 19164728,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 872,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "mys",
+    "time": "2018",
+    "population_total": 32042458,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 26766,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "nam",
+    "time": "2018",
+    "population_total": 2587801,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11479,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "ner",
+    "time": "2018",
+    "population_total": 22311375,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1103,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "nga",
+    "time": "2018",
+    "population_total": 195875237,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6201,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "nic",
+    "time": "2018",
+    "population_total": 6284757,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5108,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "nld",
+    "time": "2018",
+    "population_total": 17084459,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 47934,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "nor",
+    "time": "2018",
+    "population_total": 5353363,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 65856,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "npl",
+    "time": "2018",
+    "population_total": 29624035,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2592,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "nru",
+    "time": "2018",
+    "population_total": 11312,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 22895,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "nzl",
+    "time": "2018",
+    "population_total": 4749598,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 35946,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "omn",
+    "time": "2018",
+    "population_total": 4829946,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 46427,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "pak",
+    "time": "2018",
+    "population_total": 200813818,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5180,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "pan",
+    "time": "2018",
+    "population_total": 4162618,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23451,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "per",
+    "time": "2018",
+    "population_total": 32551815,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 13135,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "phl",
+    "time": "2018",
+    "population_total": 106512074,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7717,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "plw",
+    "time": "2018",
+    "population_total": 21964,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14875,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "png",
+    "time": "2018",
+    "population_total": 8418346,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2602,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "pol",
+    "time": "2018",
+    "population_total": 38104832,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 27573,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "prk",
+    "time": "2018",
+    "population_total": 25610672,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1388,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "prt",
+    "time": "2018",
+    "population_total": 10291196,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 27398,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "pry",
+    "time": "2018",
+    "population_total": 6896908,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8781,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "pse",
+    "time": "2018",
+    "population_total": 5052776,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3982,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "qat",
+    "time": "2018",
+    "population_total": 2694849,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 141850,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "rou",
+    "time": "2018",
+    "population_total": 19580634,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 21591,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "rus",
+    "time": "2018",
+    "population_total": 143964709,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23971,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "rwa",
+    "time": "2018",
+    "population_total": 12501156,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1784,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "sau",
+    "time": "2018",
+    "population_total": 33554343,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 54242,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "sdn",
+    "time": "2018",
+    "population_total": 41511526,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4224,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "sen",
+    "time": "2018",
+    "population_total": 16294270,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2475,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "sgp",
+    "time": "2018",
+    "population_total": 5791901,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 87051,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "slb",
+    "time": "2018",
+    "population_total": 623281,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2123,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "sle",
+    "time": "2018",
+    "population_total": 7719729,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2409,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "slv",
+    "time": "2018",
+    "population_total": 6411558,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8224,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "smr",
+    "time": "2018",
+    "population_total": 33557,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 41677,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "som",
+    "time": "2018",
+    "population_total": 15181925,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 630,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "srb",
+    "time": "2018",
+    "population_total": 8762027,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14104,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "ssd",
+    "time": "2018",
+    "population_total": 12919053,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3071,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "stp",
+    "time": "2018",
+    "population_total": 208818,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3309,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "sur",
+    "time": "2018",
+    "population_total": 568301,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 19077,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "svk",
+    "time": "2018",
+    "population_total": 5449816,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 29706,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "svn",
+    "time": "2018",
+    "population_total": 2081260,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 30034,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "swe",
+    "time": "2018",
+    "population_total": 9982709,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 47242,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "swz",
+    "time": "2018",
+    "population_total": 1391385,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6150,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "syc",
+    "time": "2018",
+    "population_total": 95235,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 27607,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "syr",
+    "time": "2018",
+    "population_total": 18284407,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2900,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "tcd",
+    "time": "2018",
+    "population_total": 15353184,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2426,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "tgo",
+    "time": "2018",
+    "population_total": 7990926,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1584,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "tha",
+    "time": "2018",
+    "population_total": 69183173,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16265,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "tjk",
+    "time": "2018",
+    "population_total": 9107211,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2808,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "tkm",
+    "time": "2018",
+    "population_total": 5851466,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 19530,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "tls",
+    "time": "2018",
+    "population_total": 1324094,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1441,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "ton",
+    "time": "2018",
+    "population_total": 109008,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5318,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "tto",
+    "time": "2018",
+    "population_total": 1372598,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 31213,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "tun",
+    "time": "2018",
+    "population_total": 11659174,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12414,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "tur",
+    "time": "2018",
+    "population_total": 81916871,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 20859,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "tuv",
+    "time": "2018",
+    "population_total": 11287,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3790,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "tza",
+    "time": "2018",
+    "population_total": 59091392,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2876,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "uga",
+    "time": "2018",
+    "population_total": 44270563,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1829,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "ukr",
+    "time": "2018",
+    "population_total": 44009214,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9519,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "ury",
+    "time": "2018",
+    "population_total": 3469551,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 22245,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "usa",
+    "time": "2018",
+    "population_total": 326766748,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 56068,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "uzb",
+    "time": "2018",
+    "population_total": 32364996,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6525,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "vct",
+    "time": "2018",
+    "population_total": 110200,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11419,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "ven",
+    "time": "2018",
+    "population_total": 32381221,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14368,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "vnm",
+    "time": "2018",
+    "population_total": 96491146,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6485,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "vut",
+    "time": "2018",
+    "population_total": 282117,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3015,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "wsm",
+    "time": "2018",
+    "population_total": 197695,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5501,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "yem",
+    "time": "2018",
+    "population_total": 28915284,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4112,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "zaf",
+    "time": "2018",
+    "population_total": 57398421,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12899,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "zmb",
+    "time": "2018",
+    "population_total": 17609178,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4430,
+    "gapminder_gini": null
+  },
+  {
+    "geo": "zwe",
+    "time": "2018",
+    "population_total": 16913261,
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1935,
+    "gapminder_gini": null
+  }
+]

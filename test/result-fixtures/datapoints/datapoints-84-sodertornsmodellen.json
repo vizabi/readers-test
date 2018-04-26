@@ -1,0 +1,2342 @@
+[
+  {
+    "municipality": "0160_taby",
+    "year": "2000",
+    "population_20xx_12_31": 60197,
+    "cumulative_immigration_surplus_employed_aged_20_64": -274
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2000",
+    "population_20xx_12_31": 37576,
+    "cumulative_immigration_surplus_employed_aged_20_64": 120
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2000",
+    "population_20xx_12_31": 23965,
+    "cumulative_immigration_surplus_employed_aged_20_64": 206
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2000",
+    "population_20xx_12_31": 35001,
+    "cumulative_immigration_surplus_employed_aged_20_64": -31
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2000",
+    "population_20xx_12_31": 52611,
+    "cumulative_immigration_surplus_employed_aged_20_64": 257
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2000",
+    "population_20xx_12_31": 9286,
+    "cumulative_immigration_surplus_employed_aged_20_64": 203
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2000",
+    "population_20xx_12_31": 40584,
+    "cumulative_immigration_surplus_employed_aged_20_64": -24
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2000",
+    "population_20xx_12_31": 56605,
+    "cumulative_immigration_surplus_employed_aged_20_64": 505
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2000",
+    "population_20xx_12_31": 33868,
+    "cumulative_immigration_surplus_employed_aged_20_64": 409
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2000",
+    "population_20xx_12_31": 74974,
+    "cumulative_immigration_surplus_employed_aged_20_64": 509
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2000",
+    "population_20xx_12_31": 77882,
+    "cumulative_immigration_surplus_employed_aged_20_64": 84
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2000",
+    "population_20xx_12_31": 750348,
+    "cumulative_immigration_surplus_employed_aged_20_64": 3709
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2000",
+    "population_20xx_12_31": 58048,
+    "cumulative_immigration_surplus_employed_aged_20_64": 103
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2000",
+    "population_20xx_12_31": 29570,
+    "cumulative_immigration_surplus_employed_aged_20_64": -17
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2000",
+    "population_20xx_12_31": 8052,
+    "cumulative_immigration_surplus_employed_aged_20_64": 62
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2000",
+    "population_20xx_12_31": 25228,
+    "cumulative_immigration_surplus_employed_aged_20_64": 252
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2000",
+    "population_20xx_12_31": 20878,
+    "cumulative_immigration_surplus_employed_aged_20_64": 30
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2000",
+    "population_20xx_12_31": 39071,
+    "cumulative_immigration_surplus_employed_aged_20_64": 134
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2000",
+    "population_20xx_12_31": 69644,
+    "cumulative_immigration_surplus_employed_aged_20_64": 444
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2000",
+    "population_20xx_12_31": 13766,
+    "cumulative_immigration_surplus_employed_aged_20_64": 104
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2000",
+    "population_20xx_12_31": 73097,
+    "cumulative_immigration_surplus_employed_aged_20_64": 21
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2000",
+    "population_20xx_12_31": 84535,
+    "cumulative_immigration_surplus_employed_aged_20_64": 547
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2000",
+    "population_20xx_12_31": 22266,
+    "cumulative_immigration_surplus_employed_aged_20_64": 158
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2000",
+    "population_20xx_12_31": 60471,
+    "cumulative_immigration_surplus_employed_aged_20_64": 71
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2000",
+    "population_20xx_12_31": 31260,
+    "cumulative_immigration_surplus_employed_aged_20_64": 529
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2000",
+    "population_20xx_12_31": 34427,
+    "cumulative_immigration_surplus_employed_aged_20_64": 236
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2001",
+    "population_20xx_12_31": 58266,
+    "cumulative_immigration_surplus_employed_aged_20_64": 96
+  },
+  {
+    "municipality": "0160_taby",
+    "year": "2001",
+    "population_20xx_12_31": 60229,
+    "cumulative_immigration_surplus_employed_aged_20_64": -360
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2001",
+    "population_20xx_12_31": 74151,
+    "cumulative_immigration_surplus_employed_aged_20_64": 177
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2001",
+    "population_20xx_12_31": 70432,
+    "cumulative_immigration_surplus_employed_aged_20_64": 736
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2001",
+    "population_20xx_12_31": 35518,
+    "cumulative_immigration_surplus_employed_aged_20_64": 163
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2001",
+    "population_20xx_12_31": 39434,
+    "cumulative_immigration_surplus_employed_aged_20_64": 184
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2001",
+    "population_20xx_12_31": 53286,
+    "cumulative_immigration_surplus_employed_aged_20_64": 556
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2001",
+    "population_20xx_12_31": 25643,
+    "cumulative_immigration_surplus_employed_aged_20_64": 441
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2001",
+    "population_20xx_12_31": 9470,
+    "cumulative_immigration_surplus_employed_aged_20_64": 245
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2001",
+    "population_20xx_12_31": 21076,
+    "cumulative_immigration_surplus_employed_aged_20_64": 84
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2001",
+    "population_20xx_12_31": 32096,
+    "cumulative_immigration_surplus_employed_aged_20_64": 912
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2001",
+    "population_20xx_12_31": 85700,
+    "cumulative_immigration_surplus_employed_aged_20_64": 717
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2001",
+    "population_20xx_12_31": 40895,
+    "cumulative_immigration_surplus_employed_aged_20_64": 39
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2001",
+    "population_20xx_12_31": 8090,
+    "cumulative_immigration_surplus_employed_aged_20_64": 78
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2001",
+    "population_20xx_12_31": 56953,
+    "cumulative_immigration_surplus_employed_aged_20_64": 690
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2001",
+    "population_20xx_12_31": 24332,
+    "cumulative_immigration_surplus_employed_aged_20_64": 391
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2001",
+    "population_20xx_12_31": 33967,
+    "cumulative_immigration_surplus_employed_aged_20_64": 449
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2001",
+    "population_20xx_12_31": 37524,
+    "cumulative_immigration_surplus_employed_aged_20_64": -96
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2001",
+    "population_20xx_12_31": 75741,
+    "cumulative_immigration_surplus_employed_aged_20_64": 835
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2001",
+    "population_20xx_12_31": 61132,
+    "cumulative_immigration_surplus_employed_aged_20_64": 350
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2001",
+    "population_20xx_12_31": 22626,
+    "cumulative_immigration_surplus_employed_aged_20_64": 230
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2001",
+    "population_20xx_12_31": 29632,
+    "cumulative_immigration_surplus_employed_aged_20_64": -109
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2001",
+    "population_20xx_12_31": 78794,
+    "cumulative_immigration_surplus_employed_aged_20_64": 139
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2001",
+    "population_20xx_12_31": 35108,
+    "cumulative_immigration_surplus_employed_aged_20_64": 546
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2001",
+    "population_20xx_12_31": 754948,
+    "cumulative_immigration_surplus_employed_aged_20_64": 5334
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2001",
+    "population_20xx_12_31": 13839,
+    "cumulative_immigration_surplus_employed_aged_20_64": 61
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2002",
+    "population_20xx_12_31": 58515,
+    "cumulative_immigration_surplus_employed_aged_20_64": -14
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2002",
+    "population_20xx_12_31": 29755,
+    "cumulative_immigration_surplus_employed_aged_20_64": -109
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2002",
+    "population_20xx_12_31": 79613,
+    "cumulative_immigration_surplus_employed_aged_20_64": 83
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2002",
+    "population_20xx_12_31": 61290,
+    "cumulative_immigration_surplus_employed_aged_20_64": 320
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2002",
+    "population_20xx_12_31": 22936,
+    "cumulative_immigration_surplus_employed_aged_20_64": 358
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2002",
+    "population_20xx_12_31": 37444,
+    "cumulative_immigration_surplus_employed_aged_20_64": -271
+  },
+  {
+    "municipality": "0160_taby",
+    "year": "2002",
+    "population_20xx_12_31": 60198,
+    "cumulative_immigration_surplus_employed_aged_20_64": -555
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2002",
+    "population_20xx_12_31": 76624,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1187
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2002",
+    "population_20xx_12_31": 33797,
+    "cumulative_immigration_surplus_employed_aged_20_64": 231
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2002",
+    "population_20xx_12_31": 8204,
+    "cumulative_immigration_surplus_employed_aged_20_64": 104
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2002",
+    "population_20xx_12_31": 57585,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1027
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2002",
+    "population_20xx_12_31": 24528,
+    "cumulative_immigration_surplus_employed_aged_20_64": 482
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2002",
+    "population_20xx_12_31": 758148,
+    "cumulative_immigration_surplus_employed_aged_20_64": 5241
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2002",
+    "population_20xx_12_31": 86457,
+    "cumulative_immigration_surplus_employed_aged_20_64": 452
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2002",
+    "population_20xx_12_31": 21162,
+    "cumulative_immigration_surplus_employed_aged_20_64": 97
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2002",
+    "population_20xx_12_31": 41192,
+    "cumulative_immigration_surplus_employed_aged_20_64": 130
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2002",
+    "population_20xx_12_31": 9631,
+    "cumulative_immigration_surplus_employed_aged_20_64": 267
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2002",
+    "population_20xx_12_31": 39720,
+    "cumulative_immigration_surplus_employed_aged_20_64": 123
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2002",
+    "population_20xx_12_31": 53702,
+    "cumulative_immigration_surplus_employed_aged_20_64": 831
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2002",
+    "population_20xx_12_31": 25905,
+    "cumulative_immigration_surplus_employed_aged_20_64": 503
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2002",
+    "population_20xx_12_31": 70902,
+    "cumulative_immigration_surplus_employed_aged_20_64": 857
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2002",
+    "population_20xx_12_31": 35771,
+    "cumulative_immigration_surplus_employed_aged_20_64": 187
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2002",
+    "population_20xx_12_31": 35633,
+    "cumulative_immigration_surplus_employed_aged_20_64": 760
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2002",
+    "population_20xx_12_31": 75216,
+    "cumulative_immigration_surplus_employed_aged_20_64": 119
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2002",
+    "population_20xx_12_31": 13875,
+    "cumulative_immigration_surplus_employed_aged_20_64": 47
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2002",
+    "population_20xx_12_31": 32664,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1137
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2003",
+    "population_20xx_12_31": 8269,
+    "cumulative_immigration_surplus_employed_aged_20_64": 103
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2003",
+    "population_20xx_12_31": 761721,
+    "cumulative_immigration_surplus_employed_aged_20_64": 5382
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2003",
+    "population_20xx_12_31": 33738,
+    "cumulative_immigration_surplus_employed_aged_20_64": 110
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2003",
+    "population_20xx_12_31": 36028,
+    "cumulative_immigration_surplus_employed_aged_20_64": 208
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2003",
+    "population_20xx_12_31": 24587,
+    "cumulative_immigration_surplus_employed_aged_20_64": 473
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2003",
+    "population_20xx_12_31": 21252,
+    "cumulative_immigration_surplus_employed_aged_20_64": 92
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2003",
+    "population_20xx_12_31": 58884,
+    "cumulative_immigration_surplus_employed_aged_20_64": -43
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2003",
+    "population_20xx_12_31": 36183,
+    "cumulative_immigration_surplus_employed_aged_20_64": 917
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2003",
+    "population_20xx_12_31": 87121,
+    "cumulative_immigration_surplus_employed_aged_20_64": 181
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2003",
+    "population_20xx_12_31": 77470,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1444
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2003",
+    "population_20xx_12_31": 29884,
+    "cumulative_immigration_surplus_employed_aged_20_64": -198
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2003",
+    "population_20xx_12_31": 9725,
+    "cumulative_immigration_surplus_employed_aged_20_64": 331
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2003",
+    "population_20xx_12_31": 40097,
+    "cumulative_immigration_surplus_employed_aged_20_64": 142
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2003",
+    "population_20xx_12_31": 33134,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1274
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2003",
+    "population_20xx_12_31": 80049,
+    "cumulative_immigration_surplus_employed_aged_20_64": -120
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2003",
+    "population_20xx_12_31": 37397,
+    "cumulative_immigration_surplus_employed_aged_20_64": -533
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2003",
+    "population_20xx_12_31": 71377,
+    "cumulative_immigration_surplus_employed_aged_20_64": 691
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2003",
+    "population_20xx_12_31": 23311,
+    "cumulative_immigration_surplus_employed_aged_20_64": 472
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2003",
+    "population_20xx_12_31": 57994,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1274
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2003",
+    "population_20xx_12_31": 26306,
+    "cumulative_immigration_surplus_employed_aged_20_64": 637
+  },
+  {
+    "municipality": "0160_taby",
+    "year": "2003",
+    "population_20xx_12_31": 60168,
+    "cumulative_immigration_surplus_employed_aged_20_64": -847
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2003",
+    "population_20xx_12_31": 61473,
+    "cumulative_immigration_surplus_employed_aged_20_64": 270
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2003",
+    "population_20xx_12_31": 75432,
+    "cumulative_immigration_surplus_employed_aged_20_64": -277
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2003",
+    "population_20xx_12_31": 14057,
+    "cumulative_immigration_surplus_employed_aged_20_64": 94
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2003",
+    "population_20xx_12_31": 54021,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1094
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2003",
+    "population_20xx_12_31": 41194,
+    "cumulative_immigration_surplus_employed_aged_20_64": 17
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2004",
+    "population_20xx_12_31": 80405,
+    "cumulative_immigration_surplus_employed_aged_20_64": -423
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2004",
+    "population_20xx_12_31": 54366,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1272
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2004",
+    "population_20xx_12_31": 36867,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1131
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2004",
+    "population_20xx_12_31": 26889,
+    "cumulative_immigration_surplus_employed_aged_20_64": 857
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2004",
+    "population_20xx_12_31": 75830,
+    "cumulative_immigration_surplus_employed_aged_20_64": -512
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2004",
+    "population_20xx_12_31": 14127,
+    "cumulative_immigration_surplus_employed_aged_20_64": 69
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2004",
+    "population_20xx_12_31": 41407,
+    "cumulative_immigration_surplus_employed_aged_20_64": 38
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2004",
+    "population_20xx_12_31": 34029,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1666
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2004",
+    "population_20xx_12_31": 59098,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1665
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2004",
+    "population_20xx_12_31": 33816,
+    "cumulative_immigration_surplus_employed_aged_20_64": 34
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2004",
+    "population_20xx_12_31": 71355,
+    "cumulative_immigration_surplus_employed_aged_20_64": 323
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2004",
+    "population_20xx_12_31": 78715,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1941
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2004",
+    "population_20xx_12_31": 37517,
+    "cumulative_immigration_surplus_employed_aged_20_64": -671
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2004",
+    "population_20xx_12_31": 9904,
+    "cumulative_immigration_surplus_employed_aged_20_64": 394
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2004",
+    "population_20xx_12_31": 36322,
+    "cumulative_immigration_surplus_employed_aged_20_64": 181
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2004",
+    "population_20xx_12_31": 61564,
+    "cumulative_immigration_surplus_employed_aged_20_64": 66
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2004",
+    "population_20xx_12_31": 765044,
+    "cumulative_immigration_surplus_employed_aged_20_64": 5456
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2004",
+    "population_20xx_12_31": 40605,
+    "cumulative_immigration_surplus_employed_aged_20_64": 221
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2004",
+    "population_20xx_12_31": 58897,
+    "cumulative_immigration_surplus_employed_aged_20_64": -324
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2004",
+    "population_20xx_12_31": 30100,
+    "cumulative_immigration_surplus_employed_aged_20_64": -168
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2004",
+    "population_20xx_12_31": 24670,
+    "cumulative_immigration_surplus_employed_aged_20_64": 446
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2004",
+    "population_20xx_12_31": 23594,
+    "cumulative_immigration_surplus_employed_aged_20_64": 565
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2004",
+    "population_20xx_12_31": 87681,
+    "cumulative_immigration_surplus_employed_aged_20_64": 106
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2004",
+    "population_20xx_12_31": 21348,
+    "cumulative_immigration_surplus_employed_aged_20_64": 73
+  },
+  {
+    "municipality": "0160_taby",
+    "year": "2004",
+    "population_20xx_12_31": 60422,
+    "cumulative_immigration_surplus_employed_aged_20_64": -954
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2004",
+    "population_20xx_12_31": 8328,
+    "cumulative_immigration_surplus_employed_aged_20_64": 138
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2005",
+    "population_20xx_12_31": 80553,
+    "cumulative_immigration_surplus_employed_aged_20_64": -778
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2005",
+    "population_20xx_12_31": 60575,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2289
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2005",
+    "population_20xx_12_31": 37624,
+    "cumulative_immigration_surplus_employed_aged_20_64": -766
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2005",
+    "population_20xx_12_31": 24648,
+    "cumulative_immigration_surplus_employed_aged_20_64": 378
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2005",
+    "population_20xx_12_31": 34933,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2114
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2005",
+    "population_20xx_12_31": 61743,
+    "cumulative_immigration_surplus_employed_aged_20_64": -47
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2005",
+    "population_20xx_12_31": 771038,
+    "cumulative_immigration_surplus_employed_aged_20_64": 6307
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2005",
+    "population_20xx_12_31": 37336,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1279
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2005",
+    "population_20xx_12_31": 34016,
+    "cumulative_immigration_surplus_employed_aged_20_64": 20
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2005",
+    "population_20xx_12_31": 41134,
+    "cumulative_immigration_surplus_employed_aged_20_64": 358
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2005",
+    "population_20xx_12_31": 59355,
+    "cumulative_immigration_surplus_employed_aged_20_64": -202
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2005",
+    "population_20xx_12_31": 27397,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1061
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2005",
+    "population_20xx_12_31": 30226,
+    "cumulative_immigration_surplus_employed_aged_20_64": -176
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2005",
+    "population_20xx_12_31": 10123,
+    "cumulative_immigration_surplus_employed_aged_20_64": 518
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2005",
+    "population_20xx_12_31": 54596,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1461
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2005",
+    "population_20xx_12_31": 80247,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2510
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2005",
+    "population_20xx_12_31": 14334,
+    "cumulative_immigration_surplus_employed_aged_20_64": 118
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2005",
+    "population_20xx_12_31": 88750,
+    "cumulative_immigration_surplus_employed_aged_20_64": 26
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2005",
+    "population_20xx_12_31": 71837,
+    "cumulative_immigration_surplus_employed_aged_20_64": 146
+  },
+  {
+    "municipality": "0160_taby",
+    "year": "2005",
+    "population_20xx_12_31": 60594,
+    "cumulative_immigration_surplus_employed_aged_20_64": -1044
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2005",
+    "population_20xx_12_31": 41892,
+    "cumulative_immigration_surplus_employed_aged_20_64": 220
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2005",
+    "population_20xx_12_31": 21327,
+    "cumulative_immigration_surplus_employed_aged_20_64": -41
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2005",
+    "population_20xx_12_31": 36711,
+    "cumulative_immigration_surplus_employed_aged_20_64": 231
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2005",
+    "population_20xx_12_31": 24010,
+    "cumulative_immigration_surplus_employed_aged_20_64": 677
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2005",
+    "population_20xx_12_31": 8354,
+    "cumulative_immigration_surplus_employed_aged_20_64": 140
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2005",
+    "population_20xx_12_31": 76592,
+    "cumulative_immigration_surplus_employed_aged_20_64": -811
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2006",
+    "population_20xx_12_31": 61717,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2879
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2006",
+    "population_20xx_12_31": 10440,
+    "cumulative_immigration_surplus_employed_aged_20_64": 648
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2006",
+    "population_20xx_12_31": 8609,
+    "cumulative_immigration_surplus_employed_aged_20_64": 266
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2006",
+    "population_20xx_12_31": 42321,
+    "cumulative_immigration_surplus_employed_aged_20_64": 336
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2006",
+    "population_20xx_12_31": 77553,
+    "cumulative_immigration_surplus_employed_aged_20_64": -1170
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2006",
+    "population_20xx_12_31": 14715,
+    "cumulative_immigration_surplus_employed_aged_20_64": 219
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2006",
+    "population_20xx_12_31": 24301,
+    "cumulative_immigration_surplus_employed_aged_20_64": 779
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2006",
+    "population_20xx_12_31": 21638,
+    "cumulative_immigration_surplus_employed_aged_20_64": 15
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2006",
+    "population_20xx_12_31": 27868,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1179
+  },
+  {
+    "municipality": "0160_taby",
+    "year": "2006",
+    "population_20xx_12_31": 61006,
+    "cumulative_immigration_surplus_employed_aged_20_64": -953
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2006",
+    "population_20xx_12_31": 37848,
+    "cumulative_immigration_surplus_employed_aged_20_64": -840
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2006",
+    "population_20xx_12_31": 54836,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1561
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2006",
+    "population_20xx_12_31": 90182,
+    "cumulative_immigration_surplus_employed_aged_20_64": -247
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2006",
+    "population_20xx_12_31": 36976,
+    "cumulative_immigration_surplus_employed_aged_20_64": 238
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2006",
+    "population_20xx_12_31": 30492,
+    "cumulative_immigration_surplus_employed_aged_20_64": 3
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2006",
+    "population_20xx_12_31": 35803,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2421
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2006",
+    "population_20xx_12_31": 41476,
+    "cumulative_immigration_surplus_employed_aged_20_64": 344
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2006",
+    "population_20xx_12_31": 60528,
+    "cumulative_immigration_surplus_employed_aged_20_64": 35
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2006",
+    "population_20xx_12_31": 34529,
+    "cumulative_immigration_surplus_employed_aged_20_64": 24
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2006",
+    "population_20xx_12_31": 24992,
+    "cumulative_immigration_surplus_employed_aged_20_64": 435
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2006",
+    "population_20xx_12_31": 82421,
+    "cumulative_immigration_surplus_employed_aged_20_64": 3319
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2006",
+    "population_20xx_12_31": 37879,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1507
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2006",
+    "population_20xx_12_31": 62342,
+    "cumulative_immigration_surplus_employed_aged_20_64": -119
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2006",
+    "population_20xx_12_31": 72956,
+    "cumulative_immigration_surplus_employed_aged_20_64": 83
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2006",
+    "population_20xx_12_31": 782885,
+    "cumulative_immigration_surplus_employed_aged_20_64": 9494
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2006",
+    "population_20xx_12_31": 81791,
+    "cumulative_immigration_surplus_employed_aged_20_64": -1193
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2007",
+    "population_20xx_12_31": 25353,
+    "cumulative_immigration_surplus_employed_aged_20_64": 532
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2007",
+    "population_20xx_12_31": 22221,
+    "cumulative_immigration_surplus_employed_aged_20_64": 175
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2007",
+    "population_20xx_12_31": 30789,
+    "cumulative_immigration_surplus_employed_aged_20_64": 44
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2007",
+    "population_20xx_12_31": 8926,
+    "cumulative_immigration_surplus_employed_aged_20_64": 415
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2007",
+    "population_20xx_12_31": 36870,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2820
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2007",
+    "population_20xx_12_31": 38055,
+    "cumulative_immigration_surplus_employed_aged_20_64": -960
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2007",
+    "population_20xx_12_31": 38286,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1497
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2007",
+    "population_20xx_12_31": 35078,
+    "cumulative_immigration_surplus_employed_aged_20_64": 118
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2007",
+    "population_20xx_12_31": 42047,
+    "cumulative_immigration_surplus_employed_aged_20_64": 448
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2007",
+    "population_20xx_12_31": 79031,
+    "cumulative_immigration_surplus_employed_aged_20_64": -1334
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2007",
+    "population_20xx_12_31": 10600,
+    "cumulative_immigration_surplus_employed_aged_20_64": 677
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2007",
+    "population_20xx_12_31": 61387,
+    "cumulative_immigration_surplus_employed_aged_20_64": 188
+  },
+  {
+    "municipality": "0160_taby",
+    "year": "2007",
+    "population_20xx_12_31": 61633,
+    "cumulative_immigration_surplus_employed_aged_20_64": -814
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2007",
+    "population_20xx_12_31": 42710,
+    "cumulative_immigration_surplus_employed_aged_20_64": 399
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2007",
+    "population_20xx_12_31": 84303,
+    "cumulative_immigration_surplus_employed_aged_20_64": 3858
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2007",
+    "population_20xx_12_31": 37793,
+    "cumulative_immigration_surplus_employed_aged_20_64": 433
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2007",
+    "population_20xx_12_31": 55225,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1640
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2007",
+    "population_20xx_12_31": 63427,
+    "cumulative_immigration_surplus_employed_aged_20_64": 0
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2007",
+    "population_20xx_12_31": 15065,
+    "cumulative_immigration_surplus_employed_aged_20_64": 333
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2007",
+    "population_20xx_12_31": 91827,
+    "cumulative_immigration_surplus_employed_aged_20_64": -220
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2007",
+    "population_20xx_12_31": 24687,
+    "cumulative_immigration_surplus_employed_aged_20_64": 821
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2007",
+    "population_20xx_12_31": 28382,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1347
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2007",
+    "population_20xx_12_31": 795163,
+    "cumulative_immigration_surplus_employed_aged_20_64": 13036
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2007",
+    "population_20xx_12_31": 73698,
+    "cumulative_immigration_surplus_employed_aged_20_64": -90
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2007",
+    "population_20xx_12_31": 83642,
+    "cumulative_immigration_surplus_employed_aged_20_64": -1477
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2007",
+    "population_20xx_12_31": 63318,
+    "cumulative_immigration_surplus_employed_aged_20_64": 3478
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2008",
+    "population_20xx_12_31": 36079,
+    "cumulative_immigration_surplus_employed_aged_20_64": 331
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2008",
+    "population_20xx_12_31": 38372,
+    "cumulative_immigration_surplus_employed_aged_20_64": 450
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2008",
+    "population_20xx_12_31": 74968,
+    "cumulative_immigration_surplus_employed_aged_20_64": -66
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2008",
+    "population_20xx_12_31": 810120,
+    "cumulative_immigration_surplus_employed_aged_20_64": 17482
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2008",
+    "population_20xx_12_31": 94209,
+    "cumulative_immigration_surplus_employed_aged_20_64": 101
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2008",
+    "population_20xx_12_31": 64355,
+    "cumulative_immigration_surplus_employed_aged_20_64": 83
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2008",
+    "population_20xx_12_31": 80055,
+    "cumulative_immigration_surplus_employed_aged_20_64": -1674
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2008",
+    "population_20xx_12_31": 38720,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1580
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2008",
+    "population_20xx_12_31": 85661,
+    "cumulative_immigration_surplus_employed_aged_20_64": 4161
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2008",
+    "population_20xx_12_31": 38248,
+    "cumulative_immigration_surplus_employed_aged_20_64": -1034
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2008",
+    "population_20xx_12_31": 37376,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2932
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2008",
+    "population_20xx_12_31": 25499,
+    "cumulative_immigration_surplus_employed_aged_20_64": 488
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2008",
+    "population_20xx_12_31": 62097,
+    "cumulative_immigration_surplus_employed_aged_20_64": 176
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2008",
+    "population_20xx_12_31": 84753,
+    "cumulative_immigration_surplus_employed_aged_20_64": -1758
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2008",
+    "population_20xx_12_31": 28954,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1499
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2008",
+    "population_20xx_12_31": 30851,
+    "cumulative_immigration_surplus_employed_aged_20_64": -9
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2008",
+    "population_20xx_12_31": 15177,
+    "cumulative_immigration_surplus_employed_aged_20_64": 269
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2008",
+    "population_20xx_12_31": 42332,
+    "cumulative_immigration_surplus_employed_aged_20_64": 386
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2008",
+    "population_20xx_12_31": 65289,
+    "cumulative_immigration_surplus_employed_aged_20_64": 4207
+  },
+  {
+    "municipality": "0160_taby",
+    "year": "2008",
+    "population_20xx_12_31": 62266,
+    "cumulative_immigration_surplus_employed_aged_20_64": -668
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2008",
+    "population_20xx_12_31": 24779,
+    "cumulative_immigration_surplus_employed_aged_20_64": 805
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2008",
+    "population_20xx_12_31": 10747,
+    "cumulative_immigration_surplus_employed_aged_20_64": 708
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2008",
+    "population_20xx_12_31": 55528,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1701
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2008",
+    "population_20xx_12_31": 9035,
+    "cumulative_immigration_surplus_employed_aged_20_64": 478
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2008",
+    "population_20xx_12_31": 22682,
+    "cumulative_immigration_surplus_employed_aged_20_64": 235
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2008",
+    "population_20xx_12_31": 43111,
+    "cumulative_immigration_surplus_employed_aged_20_64": 550
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2009",
+    "population_20xx_12_31": 38641,
+    "cumulative_immigration_surplus_employed_aged_20_64": -1137
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2009",
+    "population_20xx_12_31": 81195,
+    "cumulative_immigration_surplus_employed_aged_20_64": -2010
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2009",
+    "population_20xx_12_31": 31150,
+    "cumulative_immigration_surplus_employed_aged_20_64": 71
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2009",
+    "population_20xx_12_31": 88085,
+    "cumulative_immigration_surplus_employed_aged_20_64": 4965
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2009",
+    "population_20xx_12_31": 15313,
+    "cumulative_immigration_surplus_employed_aged_20_64": 247
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2009",
+    "population_20xx_12_31": 39219,
+    "cumulative_immigration_surplus_employed_aged_20_64": 440
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2009",
+    "population_20xx_12_31": 39173,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1634
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2009",
+    "population_20xx_12_31": 42602,
+    "cumulative_immigration_surplus_employed_aged_20_64": 225
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2009",
+    "population_20xx_12_31": 37756,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2939
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2009",
+    "population_20xx_12_31": 66909,
+    "cumulative_immigration_surplus_employed_aged_20_64": 4520
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2009",
+    "population_20xx_12_31": 11001,
+    "cumulative_immigration_surplus_employed_aged_20_64": 791
+  },
+  {
+    "municipality": "0160_taby",
+    "year": "2009",
+    "population_20xx_12_31": 63014,
+    "cumulative_immigration_surplus_employed_aged_20_64": -572
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2009",
+    "population_20xx_12_31": 829417,
+    "cumulative_immigration_surplus_employed_aged_20_64": 21963
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2009",
+    "population_20xx_12_31": 25781,
+    "cumulative_immigration_surplus_employed_aged_20_64": 514
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2009",
+    "population_20xx_12_31": 29361,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1626
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2009",
+    "population_20xx_12_31": 63347,
+    "cumulative_immigration_surplus_employed_aged_20_64": 350
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2009",
+    "population_20xx_12_31": 85270,
+    "cumulative_immigration_surplus_employed_aged_20_64": -2521
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2009",
+    "population_20xx_12_31": 9227,
+    "cumulative_immigration_surplus_employed_aged_20_64": 542
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2009",
+    "population_20xx_12_31": 65295,
+    "cumulative_immigration_surplus_employed_aged_20_64": 50
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2009",
+    "population_20xx_12_31": 76237,
+    "cumulative_immigration_surplus_employed_aged_20_64": -40
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2009",
+    "population_20xx_12_31": 37722,
+    "cumulative_immigration_surplus_employed_aged_20_64": 827
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2009",
+    "population_20xx_12_31": 43445,
+    "cumulative_immigration_surplus_employed_aged_20_64": 561
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2009",
+    "population_20xx_12_31": 23202,
+    "cumulative_immigration_surplus_employed_aged_20_64": 310
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2009",
+    "population_20xx_12_31": 25095,
+    "cumulative_immigration_surplus_employed_aged_20_64": 887
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2009",
+    "population_20xx_12_31": 55927,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1764
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2009",
+    "population_20xx_12_31": 95798,
+    "cumulative_immigration_surplus_employed_aged_20_64": -121
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2010",
+    "population_20xx_12_31": 77054,
+    "cumulative_immigration_surplus_employed_aged_20_64": -184
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2010",
+    "population_20xx_12_31": 90108,
+    "cumulative_immigration_surplus_employed_aged_20_64": 5506
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2010",
+    "population_20xx_12_31": 9331,
+    "cumulative_immigration_surplus_employed_aged_20_64": 620
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2010",
+    "population_20xx_12_31": 30114,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1890
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2010",
+    "population_20xx_12_31": 38301,
+    "cumulative_immigration_surplus_employed_aged_20_64": 3122
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2010",
+    "population_20xx_12_31": 68144,
+    "cumulative_immigration_surplus_employed_aged_20_64": 4634
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2010",
+    "population_20xx_12_31": 26032,
+    "cumulative_immigration_surplus_employed_aged_20_64": 512
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2010",
+    "population_20xx_12_31": 31330,
+    "cumulative_immigration_surplus_employed_aged_20_64": 97
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2010",
+    "population_20xx_12_31": 42947,
+    "cumulative_immigration_surplus_employed_aged_20_64": 137
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2010",
+    "population_20xx_12_31": 86246,
+    "cumulative_immigration_surplus_employed_aged_20_64": -3073
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2010",
+    "population_20xx_12_31": 64630,
+    "cumulative_immigration_surplus_employed_aged_20_64": 651
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2010",
+    "population_20xx_12_31": 39990,
+    "cumulative_immigration_surplus_employed_aged_20_64": 504
+  },
+  {
+    "municipality": "0160_taby",
+    "year": "2010",
+    "population_20xx_12_31": 63789,
+    "cumulative_immigration_surplus_employed_aged_20_64": -457
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2010",
+    "population_20xx_12_31": 847073,
+    "cumulative_immigration_surplus_employed_aged_20_64": 27020
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2010",
+    "population_20xx_12_31": 38633,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1028
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2010",
+    "population_20xx_12_31": 10965,
+    "cumulative_immigration_surplus_employed_aged_20_64": 747
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2010",
+    "population_20xx_12_31": 66211,
+    "cumulative_immigration_surplus_employed_aged_20_64": 6
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2010",
+    "population_20xx_12_31": 39289,
+    "cumulative_immigration_surplus_employed_aged_20_64": -1037
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2010",
+    "population_20xx_12_31": 44017,
+    "cumulative_immigration_surplus_employed_aged_20_64": 685
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2010",
+    "population_20xx_12_31": 25410,
+    "cumulative_immigration_surplus_employed_aged_20_64": 889
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2010",
+    "population_20xx_12_31": 56080,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1799
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2010",
+    "population_20xx_12_31": 15391,
+    "cumulative_immigration_surplus_employed_aged_20_64": 187
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2010",
+    "population_20xx_12_31": 23676,
+    "cumulative_immigration_surplus_employed_aged_20_64": 433
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2010",
+    "population_20xx_12_31": 39521,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1650
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2010",
+    "population_20xx_12_31": 82608,
+    "cumulative_immigration_surplus_employed_aged_20_64": -2143
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2010",
+    "population_20xx_12_31": 97453,
+    "cumulative_immigration_surplus_employed_aged_20_64": -158
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2011",
+    "population_20xx_12_31": 67320,
+    "cumulative_immigration_surplus_employed_aged_20_64": 156
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2011",
+    "population_20xx_12_31": 30715,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2082
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2011",
+    "population_20xx_12_31": 25767,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1022
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2011",
+    "population_20xx_12_31": 69946,
+    "cumulative_immigration_surplus_employed_aged_20_64": 5081
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2011",
+    "population_20xx_12_31": 9331,
+    "cumulative_immigration_surplus_employed_aged_20_64": 606
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2011",
+    "population_20xx_12_31": 78326,
+    "cumulative_immigration_surplus_employed_aged_20_64": -61
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2011",
+    "population_20xx_12_31": 99049,
+    "cumulative_immigration_surplus_employed_aged_20_64": -284
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2011",
+    "population_20xx_12_31": 87685,
+    "cumulative_immigration_surplus_employed_aged_20_64": -3305
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2011",
+    "population_20xx_12_31": 15694,
+    "cumulative_immigration_surplus_employed_aged_20_64": 282
+  },
+  {
+    "municipality": "0160_taby",
+    "year": "2011",
+    "population_20xx_12_31": 64558,
+    "cumulative_immigration_surplus_employed_aged_20_64": -312
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2011",
+    "population_20xx_12_31": 84677,
+    "cumulative_immigration_surplus_employed_aged_20_64": -2045
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2011",
+    "population_20xx_12_31": 26248,
+    "cumulative_immigration_surplus_employed_aged_20_64": 524
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2011",
+    "population_20xx_12_31": 864324,
+    "cumulative_immigration_surplus_employed_aged_20_64": 31373
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2011",
+    "population_20xx_12_31": 39539,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1187
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2011",
+    "population_20xx_12_31": 38894,
+    "cumulative_immigration_surplus_employed_aged_20_64": 3309
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2011",
+    "population_20xx_12_31": 23984,
+    "cumulative_immigration_surplus_employed_aged_20_64": 474
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2011",
+    "population_20xx_12_31": 41329,
+    "cumulative_immigration_surplus_employed_aged_20_64": 857
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2011",
+    "population_20xx_12_31": 44081,
+    "cumulative_immigration_surplus_employed_aged_20_64": 598
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2011",
+    "population_20xx_12_31": 65891,
+    "cumulative_immigration_surplus_employed_aged_20_64": 862
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2011",
+    "population_20xx_12_31": 31799,
+    "cumulative_immigration_surplus_employed_aged_20_64": 171
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2011",
+    "population_20xx_12_31": 43328,
+    "cumulative_immigration_surplus_employed_aged_20_64": 124
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2011",
+    "population_20xx_12_31": 40194,
+    "cumulative_immigration_surplus_employed_aged_20_64": -854
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2011",
+    "population_20xx_12_31": 39792,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1661
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2011",
+    "population_20xx_12_31": 56245,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1822
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2011",
+    "population_20xx_12_31": 91616,
+    "cumulative_immigration_surplus_employed_aged_20_64": 5872
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2011",
+    "population_20xx_12_31": 11141,
+    "cumulative_immigration_surplus_employed_aged_20_64": 824
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2012",
+    "population_20xx_12_31": 68210,
+    "cumulative_immigration_surplus_employed_aged_20_64": 139
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2012",
+    "population_20xx_12_31": 40269,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1736
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2012",
+    "population_20xx_12_31": 26572,
+    "cumulative_immigration_surplus_employed_aged_20_64": 617
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2012",
+    "population_20xx_12_31": 71293,
+    "cumulative_immigration_surplus_employed_aged_20_64": 5406
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2012",
+    "population_20xx_12_31": 40793,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1575
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2012",
+    "population_20xx_12_31": 92873,
+    "cumulative_immigration_surplus_employed_aged_20_64": 6076
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2012",
+    "population_20xx_12_31": 11126,
+    "cumulative_immigration_surplus_employed_aged_20_64": 828
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2012",
+    "population_20xx_12_31": 39387,
+    "cumulative_immigration_surplus_employed_aged_20_64": 3430
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2012",
+    "population_20xx_12_31": 89473,
+    "cumulative_immigration_surplus_employed_aged_20_64": -3425
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2012",
+    "population_20xx_12_31": 881235,
+    "cumulative_immigration_surplus_employed_aged_20_64": 35965
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2012",
+    "population_20xx_12_31": 66859,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1022
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2012",
+    "population_20xx_12_31": 40723,
+    "cumulative_immigration_surplus_employed_aged_20_64": -831
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2012",
+    "population_20xx_12_31": 31960,
+    "cumulative_immigration_surplus_employed_aged_20_64": 238
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2012",
+    "population_20xx_12_31": 44434,
+    "cumulative_immigration_surplus_employed_aged_20_64": 679
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2012",
+    "population_20xx_12_31": 31215,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2190
+  },
+  {
+    "municipality": "0160_taby",
+    "year": "2012",
+    "population_20xx_12_31": 65364,
+    "cumulative_immigration_surplus_employed_aged_20_64": -4
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2012",
+    "population_20xx_12_31": 9442,
+    "cumulative_immigration_surplus_employed_aged_20_64": 656
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2012",
+    "population_20xx_12_31": 26160,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1027
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2012",
+    "population_20xx_12_31": 24353,
+    "cumulative_immigration_surplus_employed_aged_20_64": 505
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2012",
+    "population_20xx_12_31": 43764,
+    "cumulative_immigration_surplus_employed_aged_20_64": 140
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2012",
+    "population_20xx_12_31": 56634,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1943
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2012",
+    "population_20xx_12_31": 79430,
+    "cumulative_immigration_surplus_employed_aged_20_64": 31
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2012",
+    "population_20xx_12_31": 101010,
+    "cumulative_immigration_surplus_employed_aged_20_64": -201
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2012",
+    "population_20xx_12_31": 15881,
+    "cumulative_immigration_surplus_employed_aged_20_64": 301
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2012",
+    "population_20xx_12_31": 86274,
+    "cumulative_immigration_surplus_employed_aged_20_64": -2319
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2012",
+    "population_20xx_12_31": 42272,
+    "cumulative_immigration_surplus_employed_aged_20_64": 912
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2013",
+    "population_20xx_12_31": 102557,
+    "cumulative_immigration_surplus_employed_aged_20_64": -311
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2013",
+    "population_20xx_12_31": 40495,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1710
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2013",
+    "population_20xx_12_31": 44281,
+    "cumulative_immigration_surplus_employed_aged_20_64": 245
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2013",
+    "population_20xx_12_31": 897700,
+    "cumulative_immigration_surplus_employed_aged_20_64": 39982
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2013",
+    "population_20xx_12_31": 31616,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2245
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2013",
+    "population_20xx_12_31": 11188,
+    "cumulative_immigration_surplus_employed_aged_20_64": 826
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2013",
+    "population_20xx_12_31": 26796,
+    "cumulative_immigration_surplus_employed_aged_20_64": 648
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2013",
+    "population_20xx_12_31": 24703,
+    "cumulative_immigration_surplus_employed_aged_20_64": 557
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2013",
+    "population_20xx_12_31": 42626,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2260
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2013",
+    "population_20xx_12_31": 68145,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1328
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2013",
+    "population_20xx_12_31": 16001,
+    "cumulative_immigration_surplus_employed_aged_20_64": 257
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2013",
+    "population_20xx_12_31": 9523,
+    "cumulative_immigration_surplus_employed_aged_20_64": 669
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2013",
+    "population_20xx_12_31": 32222,
+    "cumulative_immigration_surplus_employed_aged_20_64": 308
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2013",
+    "population_20xx_12_31": 43372,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1082
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2013",
+    "population_20xx_12_31": 69167,
+    "cumulative_immigration_surplus_employed_aged_20_64": 174
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2013",
+    "population_20xx_12_31": 45178,
+    "cumulative_immigration_surplus_employed_aged_20_64": 876
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2013",
+    "population_20xx_12_31": 94423,
+    "cumulative_immigration_surplus_employed_aged_20_64": 6496
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2013",
+    "population_20xx_12_31": 39784,
+    "cumulative_immigration_surplus_employed_aged_20_64": 3480
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2013",
+    "population_20xx_12_31": 41449,
+    "cumulative_immigration_surplus_employed_aged_20_64": -723
+  },
+  {
+    "municipality": "0160_taby",
+    "year": "2013",
+    "population_20xx_12_31": 66292,
+    "cumulative_immigration_surplus_employed_aged_20_64": 298
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2013",
+    "population_20xx_12_31": 56845,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2012
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2013",
+    "population_20xx_12_31": 87580,
+    "cumulative_immigration_surplus_employed_aged_20_64": -2686
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2013",
+    "population_20xx_12_31": 80932,
+    "cumulative_immigration_surplus_employed_aged_20_64": 207
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2013",
+    "population_20xx_12_31": 91072,
+    "cumulative_immigration_surplus_employed_aged_20_64": -3826
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2013",
+    "population_20xx_12_31": 26355,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1021
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2013",
+    "population_20xx_12_31": 72740,
+    "cumulative_immigration_surplus_employed_aged_20_64": 5913
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2014",
+    "population_20xx_12_31": 41816,
+    "cumulative_immigration_surplus_employed_aged_20_64": -677
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2014",
+    "population_20xx_12_31": 57568,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2237
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2014",
+    "population_20xx_12_31": 45465,
+    "cumulative_immigration_surplus_employed_aged_20_64": 874
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2014",
+    "population_20xx_12_31": 74041,
+    "cumulative_immigration_surplus_employed_aged_20_64": 6355
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2014",
+    "population_20xx_12_31": 44090,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2801
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2014",
+    "population_20xx_12_31": 96217,
+    "cumulative_immigration_surplus_employed_aged_20_64": 7097
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2014",
+    "population_20xx_12_31": 92235,
+    "cumulative_immigration_surplus_employed_aged_20_64": -4272
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2014",
+    "population_20xx_12_31": 911989,
+    "cumulative_immigration_surplus_employed_aged_20_64": 42940
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2014",
+    "population_20xx_12_31": 69325,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1423
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2014",
+    "population_20xx_12_31": 32295,
+    "cumulative_immigration_surplus_employed_aged_20_64": 213
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2014",
+    "population_20xx_12_31": 44085,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1011
+  },
+  {
+    "municipality": "0160_taby",
+    "year": "2014",
+    "population_20xx_12_31": 67334,
+    "cumulative_immigration_surplus_employed_aged_20_64": 620
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2014",
+    "population_20xx_12_31": 9815,
+    "cumulative_immigration_surplus_employed_aged_20_64": 821
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2014",
+    "population_20xx_12_31": 11329,
+    "cumulative_immigration_surplus_employed_aged_20_64": 875
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2014",
+    "population_20xx_12_31": 25287,
+    "cumulative_immigration_surplus_employed_aged_20_64": 750
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2014",
+    "population_20xx_12_31": 45390,
+    "cumulative_immigration_surplus_employed_aged_20_64": 608
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2014",
+    "population_20xx_12_31": 82407,
+    "cumulative_immigration_surplus_employed_aged_20_64": 398
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2014",
+    "population_20xx_12_31": 16140,
+    "cumulative_immigration_surplus_employed_aged_20_64": 176
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2014",
+    "population_20xx_12_31": 88901,
+    "cumulative_immigration_surplus_employed_aged_20_64": -3016
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2014",
+    "population_20xx_12_31": 104185,
+    "cumulative_immigration_surplus_employed_aged_20_64": -365
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2014",
+    "population_20xx_12_31": 26698,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1084
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2014",
+    "population_20xx_12_31": 70701,
+    "cumulative_immigration_surplus_employed_aged_20_64": 515
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2014",
+    "population_20xx_12_31": 40541,
+    "cumulative_immigration_surplus_employed_aged_20_64": 3765
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2014",
+    "population_20xx_12_31": 41180,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1886
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2014",
+    "population_20xx_12_31": 31969,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2303
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2014",
+    "population_20xx_12_31": 27041,
+    "cumulative_immigration_surplus_employed_aged_20_64": 749
+  }
+]

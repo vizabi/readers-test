@@ -1,0 +1,158 @@
+[
+  {
+    "municipality": "0160_taby",
+    "year": "2014",
+    "population_20xx_12_31": 67334,
+    "cumulative_immigration_surplus_employed_aged_20_64": 620
+  },
+  {
+    "municipality": "0114_upplands_vasby",
+    "year": "2014",
+    "population_20xx_12_31": 41816,
+    "cumulative_immigration_surplus_employed_aged_20_64": -677
+  },
+  {
+    "municipality": "0117_osteraker",
+    "year": "2014",
+    "population_20xx_12_31": 41180,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1886
+  },
+  {
+    "municipality": "0120_varmdo",
+    "year": "2014",
+    "population_20xx_12_31": 40541,
+    "cumulative_immigration_surplus_employed_aged_20_64": 3765
+  },
+  {
+    "municipality": "0123_jarfalla",
+    "year": "2014",
+    "population_20xx_12_31": 70701,
+    "cumulative_immigration_surplus_employed_aged_20_64": 515
+  },
+  {
+    "municipality": "0125_ekero",
+    "year": "2014",
+    "population_20xx_12_31": 26698,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1084
+  },
+  {
+    "municipality": "0126_huddinge",
+    "year": "2014",
+    "population_20xx_12_31": 104185,
+    "cumulative_immigration_surplus_employed_aged_20_64": -365
+  },
+  {
+    "municipality": "0127_botkyrka",
+    "year": "2014",
+    "population_20xx_12_31": 88901,
+    "cumulative_immigration_surplus_employed_aged_20_64": -3016
+  },
+  {
+    "municipality": "0128_salem",
+    "year": "2014",
+    "population_20xx_12_31": 16140,
+    "cumulative_immigration_surplus_employed_aged_20_64": 176
+  },
+  {
+    "municipality": "0136_haninge",
+    "year": "2014",
+    "population_20xx_12_31": 82407,
+    "cumulative_immigration_surplus_employed_aged_20_64": 398
+  },
+  {
+    "municipality": "0138_tyreso",
+    "year": "2014",
+    "population_20xx_12_31": 45390,
+    "cumulative_immigration_surplus_employed_aged_20_64": 608
+  },
+  {
+    "municipality": "0139_upplands_bro",
+    "year": "2014",
+    "population_20xx_12_31": 25287,
+    "cumulative_immigration_surplus_employed_aged_20_64": 750
+  },
+  {
+    "municipality": "0140_nykvarn",
+    "year": "2014",
+    "population_20xx_12_31": 9815,
+    "cumulative_immigration_surplus_employed_aged_20_64": 821
+  },
+  {
+    "municipality": "0115_vallentuna",
+    "year": "2014",
+    "population_20xx_12_31": 31969,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2303
+  },
+  {
+    "municipality": "0162_danderyd",
+    "year": "2014",
+    "population_20xx_12_31": 32295,
+    "cumulative_immigration_surplus_employed_aged_20_64": 213
+  },
+  {
+    "municipality": "0163_sollentuna",
+    "year": "2014",
+    "population_20xx_12_31": 69325,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1423
+  },
+  {
+    "municipality": "0180_stockholm",
+    "year": "2014",
+    "population_20xx_12_31": 911989,
+    "cumulative_immigration_surplus_employed_aged_20_64": 42940
+  },
+  {
+    "municipality": "0181_sodertalje",
+    "year": "2014",
+    "population_20xx_12_31": 92235,
+    "cumulative_immigration_surplus_employed_aged_20_64": -4272
+  },
+  {
+    "municipality": "0182_nacka",
+    "year": "2014",
+    "population_20xx_12_31": 96217,
+    "cumulative_immigration_surplus_employed_aged_20_64": 7097
+  },
+  {
+    "municipality": "0183_sundbyberg",
+    "year": "2014",
+    "population_20xx_12_31": 44090,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2801
+  },
+  {
+    "municipality": "0184_solna",
+    "year": "2014",
+    "population_20xx_12_31": 74041,
+    "cumulative_immigration_surplus_employed_aged_20_64": 6355
+  },
+  {
+    "municipality": "0186_lidingo",
+    "year": "2014",
+    "population_20xx_12_31": 45465,
+    "cumulative_immigration_surplus_employed_aged_20_64": 874
+  },
+  {
+    "municipality": "0187_vaxholm",
+    "year": "2014",
+    "population_20xx_12_31": 11329,
+    "cumulative_immigration_surplus_employed_aged_20_64": 875
+  },
+  {
+    "municipality": "0188_norrtalje",
+    "year": "2014",
+    "population_20xx_12_31": 57568,
+    "cumulative_immigration_surplus_employed_aged_20_64": 2237
+  },
+  {
+    "municipality": "0191_sigtuna",
+    "year": "2014",
+    "population_20xx_12_31": 44085,
+    "cumulative_immigration_surplus_employed_aged_20_64": 1011
+  },
+  {
+    "municipality": "0192_nynashamn",
+    "year": "2014",
+    "population_20xx_12_31": 27041,
+    "cumulative_immigration_surplus_employed_aged_20_64": 749
+  }
+]

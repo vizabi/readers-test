@@ -1,0 +1,5432 @@
+[
+  {
+    "basomrade": "2150720_pungpinan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5433212996389891
+  },
+  {
+    "basomrade": "4111110_norra_runby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2541123085649461
+  },
+  {
+    "basomrade": "4111130_runby_lovsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2671118530884808
+  },
+  {
+    "basomrade": "4111140_prastgardsmarken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1936619718309859
+  },
+  {
+    "basomrade": "4111900_eds_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2388663967611336
+  },
+  {
+    "basomrade": "4122100_lowenstromska_sjukhuset",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1509433962264151
+  },
+  {
+    "basomrade": "4122210_norra_vilunda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2585551330798479
+  },
+  {
+    "basomrade": "4122230_apoteksskogen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16889880952380953
+  },
+  {
+    "basomrade": "4122240_vasbyskogen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13963210702341136
+  },
+  {
+    "basomrade": "4122310_korpkulla",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23375262054507337
+  },
+  {
+    "basomrade": "4122340_vilunda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13182897862232779
+  },
+  {
+    "basomrade": "4122420_norra_smedby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14434389140271492
+  },
+  {
+    "basomrade": "4122430_sodra_smedby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17215189873417722
+  },
+  {
+    "basomrade": "4122520_skalby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20576923076923076
+  },
+  {
+    "basomrade": "4122530_carlslund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17925311203319502
+  },
+  {
+    "basomrade": "4122540_brunnby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22664015904572565
+  },
+  {
+    "basomrade": "4122600_vastra_odenslunda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18421052631578946
+  },
+  {
+    "basomrade": "4133110_sanda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.402088772845953
+  },
+  {
+    "basomrade": "4133120_ostra_odenslunda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23377960865087538
+  },
+  {
+    "basomrade": "4133200_frestaby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21368421052631578
+  },
+  {
+    "basomrade": "4133310_vastra_bollstanas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2503293807641634
+  },
+  {
+    "basomrade": "4133330_ostra_bollstanas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2592964824120603
+  },
+  {
+    "basomrade": "4133350_sodra_bollstanas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.29908972691807545
+  },
+  {
+    "basomrade": "4133910_fresta_norra_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2059800664451827
+  },
+  {
+    "basomrade": "4133920_fresta_sodra_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17894736842105263
+  },
+  {
+    "basomrade": "4210110_centrala_vallentuna",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16022443890274315
+  },
+  {
+    "basomrade": "4210210_norra_vallentuna_tatort",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20988805970149255
+  },
+  {
+    "basomrade": "4210220_nv_a_vallentuna_tatort",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.33278553820870993
+  },
+  {
+    "basomrade": "4210320_ostra_ormsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2733463035019455
+  },
+  {
+    "basomrade": "4210330_vastra_ormsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2773006134969325
+  },
+  {
+    "basomrade": "4210340_aby_bostadsomrade",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23507462686567165
+  },
+  {
+    "basomrade": "4210410_vastra_ballsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3836150845253576
+  },
+  {
+    "basomrade": "4210420_kragstalund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3195635229929852
+  },
+  {
+    "basomrade": "4210430_ballstaberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4077868852459016
+  },
+  {
+    "basomrade": "4210440_karlberg_rickeby_okvista",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2900997697620875
+  },
+  {
+    "basomrade": "4210510_vallentuna_glesbygd_v",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.144
+  },
+  {
+    "basomrade": "4210530_vallentuna_glesbygd_no",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2289156626506024
+  },
+  {
+    "basomrade": "4210540_ostra_vallentuna_tatort_vallentuna_glesbygd_so",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24864864864864866
+  },
+  {
+    "basomrade": "4220000_markims_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2988505747126437
+  },
+  {
+    "basomrade": "4230100_lindholmen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.28725701943844495
+  },
+  {
+    "basomrade": "4230500_sodra_lindholmen_orkesta_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14465408805031446
+  },
+  {
+    "basomrade": "4240000_frosunda_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18421052631578946
+  },
+  {
+    "basomrade": "4250100_karsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20164609053497942
+  },
+  {
+    "basomrade": "4250200_ekskogen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23076923076923078
+  },
+  {
+    "basomrade": "4250500_karsta_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1872146118721461
+  },
+  {
+    "basomrade": "4260500_vada_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18248175182481752
+  },
+  {
+    "basomrade": "4270100_karby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17754569190600522
+  },
+  {
+    "basomrade": "4270200_brottby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.39473684210526316
+  },
+  {
+    "basomrade": "4270501_ovr_osseby_garns_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19749652294853964
+  },
+  {
+    "basomrade": "4270502_algeby_garns_ekskogen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.06220095693779904
+  },
+  {
+    "basomrade": "4280000_angarns_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20089285714285715
+  },
+  {
+    "basomrade": "4440110_ljustero",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13509749303621169
+  },
+  {
+    "basomrade": "4440120_ingmarso_mfl_oar",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16346153846153846
+  },
+  {
+    "basomrade": "4440200_roslags_kulla_fd_forsaml",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11627906976744186
+  },
+  {
+    "basomrade": "4450110_ekbacken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2565947242206235
+  },
+  {
+    "basomrade": "4450120_runo_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1628175519630485
+  },
+  {
+    "basomrade": "4450130_akersberga",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15331137943651665
+  },
+  {
+    "basomrade": "4450140_kullen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2578947368421053
+  },
+  {
+    "basomrade": "4450150_ostra_sora",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.27515151515151515
+  },
+  {
+    "basomrade": "4450160_vastra_sora",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24759615384615385
+  },
+  {
+    "basomrade": "4450170_neptunus",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19480519480519481
+  },
+  {
+    "basomrade": "4450180_kungsangen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3725231175693527
+  },
+  {
+    "basomrade": "4450190_tunagard_osterskar",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4294320137693632
+  },
+  {
+    "basomrade": "4450210_akerstorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24734607218683652
+  },
+  {
+    "basomrade": "4450220_smedby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2491961414790997
+  },
+  {
+    "basomrade": "4450230_hacksta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.25055432372505543
+  },
+  {
+    "basomrade": "4450240_skansta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21792260692464357
+  },
+  {
+    "basomrade": "4450250_singo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19217081850533807
+  },
+  {
+    "basomrade": "4450260_asatra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1493099121706399
+  },
+  {
+    "basomrade": "4450310_margretelund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3423580786026201
+  },
+  {
+    "basomrade": "4450320_trasatra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2294997421351212
+  },
+  {
+    "basomrade": "4450330_flaxenvik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18341121495327103
+  },
+  {
+    "basomrade": "4450340_skargardsstad",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2805907172995781
+  },
+  {
+    "basomrade": "4451231_sodra_runo_sodra_runotaljo_sodra_runo_nas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.373109243697479
+  },
+  {
+    "basomrade": "4451240_norra_runo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.28292682926829266
+  },
+  {
+    "basomrade": "4451250_svinninge",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2328767123287671
+  },
+  {
+    "basomrade": "4451410_rydbo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.36454849498327757
+  },
+  {
+    "basomrade": "4451420_svartgarn",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.31275720164609055
+  },
+  {
+    "basomrade": "4451430_ostra_ryds_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16666666666666666
+  },
+  {
+    "basomrade": "5610200_mortnas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3664047151277014
+  },
+  {
+    "basomrade": "5610500_gustavsbergs_glesbygd_gustavsbergs_glesbygd_v",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3333333333333333
+  },
+  {
+    "basomrade": "5611110_munkmora",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13197278911564625
+  },
+  {
+    "basomrade": "5611120_lugnet_flerbostadshus",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12876254180602006
+  },
+  {
+    "basomrade": "5611130_lugnet_smahus",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23737373737373738
+  },
+  {
+    "basomrade": "5611140_hojdhagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3609129814550642
+  },
+  {
+    "basomrade": "5611150_sodra_gustavsberg_hasthagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3031423290203327
+  },
+  {
+    "basomrade": "5611160_osby_grind",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3076923076923077
+  },
+  {
+    "basomrade": "5611170_osbydalen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.25176803394625175
+  },
+  {
+    "basomrade": "5611190_holmviksskogen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19444444444444445
+  },
+  {
+    "basomrade": "5620100_brunn",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2495164410058027
+  },
+  {
+    "basomrade": "5620510_norra_ingaro_sodra_farstalandet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.25848142164781907
+  },
+  {
+    "basomrade": "5620520_sydvastra_ingaro",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2457293035479632
+  },
+  {
+    "basomrade": "5620530_langvik_klacknaset_skalsmara",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2100418410041841
+  },
+  {
+    "basomrade": "5630110_hemmesta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21793416572077184
+  },
+  {
+    "basomrade": "5630120_fruvik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3394109396914446
+  },
+  {
+    "basomrade": "5630130_hemmestahojden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.07365439093484419
+  },
+  {
+    "basomrade": "5630200_angsvik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20704845814977973
+  },
+  {
+    "basomrade": "5630300_skepsdalsstrom",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3067828251400124
+  },
+  {
+    "basomrade": "5630400_kopparmora",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14814814814814814
+  },
+  {
+    "basomrade": "5630510_norra_varmdo_torsby_evlinge_saltaro_skarmaro",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19728260869565217
+  },
+  {
+    "basomrade": "5630520_sodra_varmdolandet_stromma_bullando_alvsala_fagerdala_fagelbrolandet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19783783783783784
+  },
+  {
+    "basomrade": "5630600_varmdo_norra_skargard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.09523809523809523
+  },
+  {
+    "basomrade": "5640100_djurhamn",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17761557177615572
+  },
+  {
+    "basomrade": "5640200_stavsnas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.175
+  },
+  {
+    "basomrade": "5640510_stavsnas_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18820861678004536
+  },
+  {
+    "basomrade": "5640520_djuro_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11394891944990176
+  },
+  {
+    "basomrade": "5640600_djuro_skargard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18840579710144928
+  },
+  {
+    "basomrade": "5650000_moja_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.06956521739130435
+  },
+  {
+    "basomrade": "5660000_namdo_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22727272727272727
+  },
+  {
+    "basomrade": "3311110_staket",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.28382502543234994
+  },
+  {
+    "basomrade": "3312220_vastra_kallhall",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23498845265588914
+  },
+  {
+    "basomrade": "3312230_skogstorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2869822485207101
+  },
+  {
+    "basomrade": "3312240_norra_kallhall",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17429837518463812
+  },
+  {
+    "basomrade": "3312250_bonas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.32894736842105265
+  },
+  {
+    "basomrade": "3312260_termosvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15543478260869564
+  },
+  {
+    "basomrade": "3312270_ladersatra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23272727272727273
+  },
+  {
+    "basomrade": "3312300_molnsattra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2791411042944785
+  },
+  {
+    "basomrade": "3324100_olovslund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3860797144556811
+  },
+  {
+    "basomrade": "3324200_berghem",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.32286634460547503
+  },
+  {
+    "basomrade": "3324310_sodra_nibble",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16283185840707964
+  },
+  {
+    "basomrade": "3324320_norra_nibble",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.30703789636504253
+  },
+  {
+    "basomrade": "3324410_tallbohov",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16467423789599522
+  },
+  {
+    "basomrade": "3324420_hammaren",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1808634772462077
+  },
+  {
+    "basomrade": "3324430_jakobsbergs_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20689655172413793
+  },
+  {
+    "basomrade": "3324500_vibblaby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.27162849872773537
+  },
+  {
+    "basomrade": "3335100_norra_viksjo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.25508058864751226
+  },
+  {
+    "basomrade": "3335210_ostra_viksjo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3291492329149233
+  },
+  {
+    "basomrade": "3335220_viksjo_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18542336548767416
+  },
+  {
+    "basomrade": "3335310_ostra_lund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2786177105831533
+  },
+  {
+    "basomrade": "3335320_vastra_lund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2222222222222222
+  },
+  {
+    "basomrade": "3335410_ostra_sandvik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22116689280868385
+  },
+  {
+    "basomrade": "3335420_sandvik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2893481717011129
+  },
+  {
+    "basomrade": "3335600_fjallen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2915326902465166
+  },
+  {
+    "basomrade": "3346110_skalby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2757936507936508
+  },
+  {
+    "basomrade": "3346120_ormbacka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.37816455696202533
+  },
+  {
+    "basomrade": "3346200_skalby_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.29162833486660533
+  },
+  {
+    "basomrade": "3347300_jarfalla_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4490566037735849
+  },
+  {
+    "basomrade": "3347400_barkrby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21825813221406087
+  },
+  {
+    "basomrade": "3347500_barsbro",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4015233949945593
+  },
+  {
+    "basomrade": "3210100_drottningholm",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4603174603174603
+  },
+  {
+    "basomrade": "3210500_lovo_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.38323353293413176
+  },
+  {
+    "basomrade": "3220101_tappstrom_narlunda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.38917975567190227
+  },
+  {
+    "basomrade": "3220102_ostra_narlunda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.33195020746887965
+  },
+  {
+    "basomrade": "3220103_ekero_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1989010989010989
+  },
+  {
+    "basomrade": "3220211_alvnas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.38421052631578945
+  },
+  {
+    "basomrade": "3220212_brunna",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2779220779220779
+  },
+  {
+    "basomrade": "3220230_knalleborg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3539967373572594
+  },
+  {
+    "basomrade": "3220261_ostra_trakvista",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.38327272727272726
+  },
+  {
+    "basomrade": "3220262_gallsta_o",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4968017057569296
+  },
+  {
+    "basomrade": "3220270_sandudden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.47674418604651164
+  },
+  {
+    "basomrade": "3220500_ekero_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2773403324584427
+  },
+  {
+    "basomrade": "3230000_munso_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15873015873015872
+  },
+  {
+    "basomrade": "3240000_adelso_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14824120603015076
+  },
+  {
+    "basomrade": "3250100_farentuna_fd_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2163265306122449
+  },
+  {
+    "basomrade": "3250201_hilleshogs_fd_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2457831325301205
+  },
+  {
+    "basomrade": "3250202_ricksattra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24096385542168675
+  },
+  {
+    "basomrade": "3250310_stenhamra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2222222222222222
+  },
+  {
+    "basomrade": "3250320_sanga_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2727272727272727
+  },
+  {
+    "basomrade": "3250400_ska_fd_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.279322853688029
+  },
+  {
+    "basomrade": "5310420_skogsang_milsten",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3787748058671268
+  },
+  {
+    "basomrade": "5310810_fullersta_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.27552140504939626
+  },
+  {
+    "basomrade": "5310830_fridhem",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3524317121918721
+  },
+  {
+    "basomrade": "5310840_kallbrink_vistaberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4229895502044525
+  },
+  {
+    "basomrade": "5310850_vardkasen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.28859060402684567
+  },
+  {
+    "basomrade": "5310910_sjodalen_huddinge_c",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21048951048951048
+  },
+  {
+    "basomrade": "5310941_solgard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3298611111111111
+  },
+  {
+    "basomrade": "5310942_sorskogen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.29541864139020535
+  },
+  {
+    "basomrade": "5310950_horningsns_balingsnas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3462819089900111
+  },
+  {
+    "basomrade": "5311010_stuvsta_kvarnberget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19478527607361965
+  },
+  {
+    "basomrade": "5311030_segersminne",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3795136330140015
+  },
+  {
+    "basomrade": "5311041_stensangen_hogmora",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3062200956937799
+  },
+  {
+    "basomrade": "5311042_kynas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3302516692347201
+  },
+  {
+    "basomrade": "5311110_glado_kvarn",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15903614457831325
+  },
+  {
+    "basomrade": "5311120_adran",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.10755148741418764
+  },
+  {
+    "basomrade": "5320110_trangsunds_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18065205772314272
+  },
+  {
+    "basomrade": "5320120_trangsunds_smahus",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.34267167748548
+  },
+  {
+    "basomrade": "5320310_vastra_skogas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16419849311509482
+  },
+  {
+    "basomrade": "5320320_ostra_skogas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23756906077348067
+  },
+  {
+    "basomrade": "5320410_lanna_drevviken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23721881390593047
+  },
+  {
+    "basomrade": "5320510_trangsunds_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.27631578947368424
+  },
+  {
+    "basomrade": "5320520_vidja",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13870246085011187
+  },
+  {
+    "basomrade": "5330110_varby_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14317874831157137
+  },
+  {
+    "basomrade": "5330200_masmo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1949898442789438
+  },
+  {
+    "basomrade": "5330331_smista_juringe",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.27437106918238996
+  },
+  {
+    "basomrade": "5330332_jakobslund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.31144465290806755
+  },
+  {
+    "basomrade": "5330340_krakvik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.35
+  },
+  {
+    "basomrade": "5330410_utsalje",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.29645476772616136
+  },
+  {
+    "basomrade": "5330430_snattringe_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4117647058823529
+  },
+  {
+    "basomrade": "5340500_glomsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2727272727272727
+  },
+  {
+    "basomrade": "5340630_kasta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.29153605015673983
+  },
+  {
+    "basomrade": "5340640_grantorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2739375320020481
+  },
+  {
+    "basomrade": "5340710_visattra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22319474835886213
+  },
+  {
+    "basomrade": "5110110_albyslatten",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13830409356725146
+  },
+  {
+    "basomrade": "5110120_albyberget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1452991452991453
+  },
+  {
+    "basomrade": "5110150_rotemannen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15873015873015872
+  },
+  {
+    "basomrade": "5110160_alby_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17165991902834007
+  },
+  {
+    "basomrade": "5110240_aspberget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17391304347826086
+  },
+  {
+    "basomrade": "5110260_ostra_eriksberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13831258644536654
+  },
+  {
+    "basomrade": "5110270_vastra_eriksberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15536105032822758
+  },
+  {
+    "basomrade": "5110280_tre_kallor",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.184
+  },
+  {
+    "basomrade": "5110290_sturehov",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22591362126245848
+  },
+  {
+    "basomrade": "5110311_krogarvagen_vardshusvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12409090909090909
+  },
+  {
+    "basomrade": "5110312_forvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12781954887218044
+  },
+  {
+    "basomrade": "5110320_fittja_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12547528517110265
+  },
+  {
+    "basomrade": "5110410_sodra_hallunda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1512639867384998
+  },
+  {
+    "basomrade": "5110420_slagsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16512215669755687
+  },
+  {
+    "basomrade": "5110430_brunna",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1076555023923445
+  },
+  {
+    "basomrade": "5110450_sodra_norsborg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.10893512851897184
+  },
+  {
+    "basomrade": "5110460_tornbergsfaltet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15398886827458255
+  },
+  {
+    "basomrade": "5110480_nordostra_norsborg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.10727969348659004
+  },
+  {
+    "basomrade": "5110490_nordvastra_norsborg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11990407673860912
+  },
+  {
+    "basomrade": "5120730_tumba_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18587360594795538
+  },
+  {
+    "basomrade": "5120750_segersjo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14437086092715232
+  },
+  {
+    "basomrade": "5120780_tumba_villastad",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23187108325872874
+  },
+  {
+    "basomrade": "5120790_skacklinge",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19955849889624724
+  },
+  {
+    "basomrade": "5120810_storvreten",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1268370607028754
+  },
+  {
+    "basomrade": "5120820_blockvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18487394957983194
+  },
+  {
+    "basomrade": "5120830_grytstigen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22685185185185186
+  },
+  {
+    "basomrade": "5120840_vedstigen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1326530612244898
+  },
+  {
+    "basomrade": "5120910_tumba_bruk",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19582504970178927
+  },
+  {
+    "basomrade": "5120920_tumba_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17465753424657535
+  },
+  {
+    "basomrade": "5120930_kommunalhuset",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23185011709601874
+  },
+  {
+    "basomrade": "5120940_tuna",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1431316042267051
+  },
+  {
+    "basomrade": "5120950_nackdala",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23863636363636365
+  },
+  {
+    "basomrade": "5120970_loviseberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2708333333333333
+  },
+  {
+    "basomrade": "5130810_uttran",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2719186785260483
+  },
+  {
+    "basomrade": "5130820_varsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15903413821815154
+  },
+  {
+    "basomrade": "5130830_grodinge_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14128440366972478
+  },
+  {
+    "basomrade": "5140110_tullinge_villastad",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3702239789196311
+  },
+  {
+    "basomrade": "5140620_tullingeberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2484548825710754
+  },
+  {
+    "basomrade": "5140641_tullinge_parkhem",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.29042690815006467
+  },
+  {
+    "basomrade": "5140642_lanthem_n",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3954802259887006
+  },
+  {
+    "basomrade": "5140650_tullinge_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.281786941580756
+  },
+  {
+    "basomrade": "5140660_banslatt",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.30515759312320917
+  },
+  {
+    "basomrade": "5140690_tullinge_glesbygd_riksten",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3411644535240041
+  },
+  {
+    "basomrade": "5140711_tullinge_skog",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3227132579650565
+  },
+  {
+    "basomrade": "5140712_lanthem_s",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3486238532110092
+  },
+  {
+    "basomrade": "5711010_soderby_garde",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15021459227467812
+  },
+  {
+    "basomrade": "5711020_soderby_park",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2550335570469799
+  },
+  {
+    "basomrade": "5711110_skyttorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1570815450643777
+  },
+  {
+    "basomrade": "5711120_skogsang",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21403508771929824
+  },
+  {
+    "basomrade": "5711130_soderby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2421340629274966
+  },
+  {
+    "basomrade": "5711200_salems_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11579818031430934
+  },
+  {
+    "basomrade": "5712110_norra_ronninge",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.40822784810126583
+  },
+  {
+    "basomrade": "5712210_uttringe",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.41736227045075125
+  },
+  {
+    "basomrade": "5712220_ostra_ronninge",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.46344647519582244
+  },
+  {
+    "basomrade": "5712300_ronninge_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2931726907630522
+  },
+  {
+    "basomrade": "5713000_salems_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22950819672131148
+  },
+  {
+    "basomrade": "5211120_gudo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2345132743362832
+  },
+  {
+    "basomrade": "5211131_sodra_vendelso",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22144522144522144
+  },
+  {
+    "basomrade": "5211132_sagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12568306010928962
+  },
+  {
+    "basomrade": "5211140_norra_vendelso",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2579710144927536
+  },
+  {
+    "basomrade": "5211150_dalen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3257443082311734
+  },
+  {
+    "basomrade": "5211210_vendelsomalm",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17942583732057416
+  },
+  {
+    "basomrade": "5211220_eriksberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13161465400271372
+  },
+  {
+    "basomrade": "5211230_ramsdalen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24483133841131666
+  },
+  {
+    "basomrade": "5211320_brandbergens_industriomr",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1518624641833811
+  },
+  {
+    "basomrade": "5211330_brandbergen_flerbost_hus",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12382176520994002
+  },
+  {
+    "basomrade": "5211340_brandbergen_smahus",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19114470842332612
+  },
+  {
+    "basomrade": "5211430_kolartorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14942528735632185
+  },
+  {
+    "basomrade": "5211440_vega_vega_soderhagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20108695652173914
+  },
+  {
+    "basomrade": "5211450_kvarntorp_kvarntorp_v_gamla_nynasvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18661257606490872
+  },
+  {
+    "basomrade": "5211511_haninge_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17915904936014626
+  },
+  {
+    "basomrade": "5211512_vastra_handen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1395784543325527
+  },
+  {
+    "basomrade": "5211520_norra_handen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2336842105263158
+  },
+  {
+    "basomrade": "5211540_valla",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16448152562574495
+  },
+  {
+    "basomrade": "5211550_sodra_handen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20947630922693267
+  },
+  {
+    "basomrade": "5211610_jordbro_flerbostadshus",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12076076993583867
+  },
+  {
+    "basomrade": "5211620_jordbro_smahus",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1820830298616169
+  },
+  {
+    "basomrade": "5211710_norrby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14925373134328357
+  },
+  {
+    "basomrade": "5211800_norra_soderby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17193308550185873
+  },
+  {
+    "basomrade": "5211920_galo_sandemar",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.10638297872340426
+  },
+  {
+    "basomrade": "5211930_tyresta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17391304347826086
+  },
+  {
+    "basomrade": "5211940_osterhaninge_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19543973941368079
+  },
+  {
+    "basomrade": "5211950_arsta_havsbad_o",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17088607594936708
+  },
+  {
+    "basomrade": "5222100_dalaro",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24274809160305344
+  },
+  {
+    "basomrade": "5222500_smadalaro",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18571428571428572
+  },
+  {
+    "basomrade": "5233000_uto",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13725490196078433
+  },
+  {
+    "basomrade": "5240000_orno_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21666666666666667
+  },
+  {
+    "basomrade": "5255110_aby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12730627306273062
+  },
+  {
+    "basomrade": "5255121_jagartorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2193126022913257
+  },
+  {
+    "basomrade": "5255130_vasterhaninge_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.29515418502202645
+  },
+  {
+    "basomrade": "5255140_ribby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16531604538087522
+  },
+  {
+    "basomrade": "5255150_nedersta_nodesta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19481981981981983
+  },
+  {
+    "basomrade": "5255210_norra_tungelsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13919768003866603
+  },
+  {
+    "basomrade": "5255220_sodra_tungelsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1400709219858156
+  },
+  {
+    "basomrade": "5255910_vasterhaninge_glesbygd_n",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.10784313725490197
+  },
+  {
+    "basomrade": "5255920_vasterhaninge_glesbygd_s",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12617702448210924
+  },
+  {
+    "basomrade": "5255930_arsta_havsbad_v_berga",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.174496644295302
+  },
+  {
+    "basomrade": "5260000_musko_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.10298102981029811
+  },
+  {
+    "basomrade": "5511000_vastra_trollbacken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3518763796909492
+  },
+  {
+    "basomrade": "5511120_centrala_trollbacken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2916160388821385
+  },
+  {
+    "basomrade": "5511130_sodergarden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2691065662002153
+  },
+  {
+    "basomrade": "5511140_skalsatra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2858707557502738
+  },
+  {
+    "basomrade": "5511150_norra_hanviken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.27564102564102566
+  },
+  {
+    "basomrade": "5511160_sodra_hanviken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.30042918454935624
+  },
+  {
+    "basomrade": "5512010_norra_lindalen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21584699453551912
+  },
+  {
+    "basomrade": "5513010_tyreso_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19795221843003413
+  },
+  {
+    "basomrade": "5513020_simvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.152
+  },
+  {
+    "basomrade": "5513110_granitvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13875
+  },
+  {
+    "basomrade": "5513120_pluggvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12462908011869436
+  },
+  {
+    "basomrade": "5513140_mellanbergsvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15684496826835903
+  },
+  {
+    "basomrade": "5513150_granangsringen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1279333838001514
+  },
+  {
+    "basomrade": "5513160_vastra_farmarstigen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21455938697318008
+  },
+  {
+    "basomrade": "5513170_ostra_farmarstigen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14188422247446084
+  },
+  {
+    "basomrade": "5513210_ostra_bollmora",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20163934426229507
+  },
+  {
+    "basomrade": "5513220_bondevagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3800738007380074
+  },
+  {
+    "basomrade": "5513310_norra_bollmora",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1756440281030445
+  },
+  {
+    "basomrade": "5513330_vastra_fardala",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.29476584022038566
+  },
+  {
+    "basomrade": "5513410_fardala",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.32517482517482516
+  },
+  {
+    "basomrade": "5514000_krusboda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23779795686719638
+  },
+  {
+    "basomrade": "5515010_oringe",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.25255623721881393
+  },
+  {
+    "basomrade": "5515120_strand_norr_tyreso_strand_centrum_strand_syd_gimmersta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.33879781420765026
+  },
+  {
+    "basomrade": "5515210_vissvass_raksta_solberga_bergholm",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21456692913385828
+  },
+  {
+    "basomrade": "5515220_inre_brevik_yttre_brevik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22922848664688428
+  },
+  {
+    "basomrade": "4010130_gamla_bro_tatort",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18181818181818182
+  },
+  {
+    "basomrade": "4010140_bro_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1601892531260561
+  },
+  {
+    "basomrade": "4010500_kockbacka_bro_glesbygd_ostra_bro_sodra_bro",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2862796833773087
+  },
+  {
+    "basomrade": "4020000_lassa_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21768707482993196
+  },
+  {
+    "basomrade": "4050100_habo_tibble_kyrkby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1962025316455696
+  },
+  {
+    "basomrade": "4050200_mariedal_nashagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.09583333333333334
+  },
+  {
+    "basomrade": "4050500_habo_tibble_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17297297297297298
+  },
+  {
+    "basomrade": "4060000_hatuna_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1906158357771261
+  },
+  {
+    "basomrade": "4070110_sodra_kungsangen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23657870791628755
+  },
+  {
+    "basomrade": "4070120_norra_kungsangen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1994704324801412
+  },
+  {
+    "basomrade": "4070130_tibblehojden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.25578034682080925
+  },
+  {
+    "basomrade": "4070150_tibbleangen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17687074829931973
+  },
+  {
+    "basomrade": "4070160_sylta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.30686695278969955
+  },
+  {
+    "basomrade": "4070170_kungsangens_glesbygd_rankhus",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21153846153846154
+  },
+  {
+    "basomrade": "4070210_brunna_tatort",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.188911704312115
+  },
+  {
+    "basomrade": "6410100_nykvarn",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1891643709825528
+  },
+  {
+    "basomrade": "6410500_turinge_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20037629350893696
+  },
+  {
+    "basomrade": "6420000_taxinge_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15066225165562913
+  },
+  {
+    "basomrade": "3910110_vastra_nasbypark",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6041379310344828
+  },
+  {
+    "basomrade": "3910120_ornstigen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3805668016194332
+  },
+  {
+    "basomrade": "3910130_nasbyparks_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3174468085106383
+  },
+  {
+    "basomrade": "3910140_nasby_slott",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5557986870897156
+  },
+  {
+    "basomrade": "3910170_ostra_nasbypark",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5441616766467066
+  },
+  {
+    "basomrade": "3910190_lahall",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5470588235294118
+  },
+  {
+    "basomrade": "3910210_nasbydal",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3523076923076923
+  },
+  {
+    "basomrade": "3910220_grindtorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2727272727272727
+  },
+  {
+    "basomrade": "3910240_taby_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3260233918128655
+  },
+  {
+    "basomrade": "3910270_marknadsvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.28128724672228844
+  },
+  {
+    "basomrade": "3910280_akerbyvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.28758949880668255
+  },
+  {
+    "basomrade": "3910310_sodra_viggbyholm",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5311398354876615
+  },
+  {
+    "basomrade": "3910320_viggbygardet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2309941520467836
+  },
+  {
+    "basomrade": "3910330_mellersta_viggbyholm",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.41260744985673353
+  },
+  {
+    "basomrade": "3910350_norra_viggbyholm",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5177865612648221
+  },
+  {
+    "basomrade": "3910370_norra_hagernas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2524752475247525
+  },
+  {
+    "basomrade": "3910380_sodra_hagernas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.31285831285831284
+  },
+  {
+    "basomrade": "3910480_norra_landsbygden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.38387096774193546
+  },
+  {
+    "basomrade": "3910730_ella",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5020618556701031
+  },
+  {
+    "basomrade": "3910770_vastra_ensta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.558047493403694
+  },
+  {
+    "basomrade": "3910780_ostra_ensta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4718826405867971
+  },
+  {
+    "basomrade": "3910790_kullagrand",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21052631578947367
+  },
+  {
+    "basomrade": "3910810_norra_ellagard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5824175824175825
+  },
+  {
+    "basomrade": "3910820_sodra_ellagard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5016722408026756
+  },
+  {
+    "basomrade": "3910830_ava",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4584837545126354
+  },
+  {
+    "basomrade": "3910840_vastra_ellagard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.418848167539267
+  },
+  {
+    "basomrade": "3910910_skarpang",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5214073760067826
+  },
+  {
+    "basomrade": "3910920_gripsvall",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.571753986332574
+  },
+  {
+    "basomrade": "3911010_ostra_roslags_nasby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4029268292682927
+  },
+  {
+    "basomrade": "3911020_vastra_roslags_nasby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5164835164835165
+  },
+  {
+    "basomrade": "3911510_lansen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3764404609475032
+  },
+  {
+    "basomrade": "3911520_sodra_gribbylund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.49902152641878667
+  },
+  {
+    "basomrade": "3911530_gribbylunds_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20489690721649484
+  },
+  {
+    "basomrade": "3911540_norra_gribbylund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.45492883500263576
+  },
+  {
+    "basomrade": "3911550_sveavagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.43243243243243246
+  },
+  {
+    "basomrade": "3911610_ostra_vallabrink",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.44680851063829785
+  },
+  {
+    "basomrade": "3911620_vastra_vallabrink",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.45016611295681064
+  },
+  {
+    "basomrade": "3911660_visinge",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4343675417661098
+  },
+  {
+    "basomrade": "3911670_vallatorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3921852387843705
+  },
+  {
+    "basomrade": "3911680_erikslund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3325301204819277
+  },
+  {
+    "basomrade": "3911740_s_a_midgards_industriomr",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3829787234042553
+  },
+  {
+    "basomrade": "3911750_taby_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.42738589211618255
+  },
+  {
+    "basomrade": "3911760_midgard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.27415730337078653
+  },
+  {
+    "basomrade": "3911780_ostra_taby_kyrkby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4813811780636425
+  },
+  {
+    "basomrade": "3911790_runborg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4343675417661098
+  },
+  {
+    "basomrade": "3110110_ostra_enebyberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6121262458471761
+  },
+  {
+    "basomrade": "3110120_vastra_enebyberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5986277873070326
+  },
+  {
+    "basomrade": "3110260_satra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5573770491803278
+  },
+  {
+    "basomrade": "3110270_nora",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6478454680534919
+  },
+  {
+    "basomrade": "3110280_klingsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5851648351648352
+  },
+  {
+    "basomrade": "3110330_morbyskogen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.50231124807396
+  },
+  {
+    "basomrade": "3110340_kevinge",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.47796610169491527
+  },
+  {
+    "basomrade": "3110350_morby_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.48344370860927155
+  },
+  {
+    "basomrade": "3110370_morbylund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3594306049822064
+  },
+  {
+    "basomrade": "3110430_norra_djursholm",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5542544886807181
+  },
+  {
+    "basomrade": "3110440_sodra_djursholm",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6104347826086957
+  },
+  {
+    "basomrade": "3110450_osby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6061946902654868
+  },
+  {
+    "basomrade": "3110460_ekeby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5671794871794872
+  },
+  {
+    "basomrade": "3110510_norra_stocksund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.649810366624526
+  },
+  {
+    "basomrade": "3110530_inverness",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.41032608695652173
+  },
+  {
+    "basomrade": "3110540_sodra_stocksund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5783606557377049
+  },
+  {
+    "basomrade": "3110610_klockargarden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.47020725388601037
+  },
+  {
+    "basomrade": "3110620_berga",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6125461254612546
+  },
+  {
+    "basomrade": "3610120_gillberga",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.36015625
+  },
+  {
+    "basomrade": "3610140_rotsunda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1989247311827957
+  },
+  {
+    "basomrade": "3610170_rotebro_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2440775305096913
+  },
+  {
+    "basomrade": "3610180_rotsunda_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2479946524064171
+  },
+  {
+    "basomrade": "3610210_vastra_viby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.432289156626506
+  },
+  {
+    "basomrade": "3610230_ostra_viby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.37610619469026546
+  },
+  {
+    "basomrade": "3610310_vastra_norrviken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3835832675611681
+  },
+  {
+    "basomrade": "3610330_ostra_norrviken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.49508196721311476
+  },
+  {
+    "basomrade": "3610400_vaxmora",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.43125533731853116
+  },
+  {
+    "basomrade": "3610510_klasro",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.27626459143968873
+  },
+  {
+    "basomrade": "3610530_haggviks_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.34855233853006684
+  },
+  {
+    "basomrade": "3610540_skalby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.46273291925465837
+  },
+  {
+    "basomrade": "3610610_edsbergs_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2401095556908095
+  },
+  {
+    "basomrade": "3610650_ovriga_edsberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.35838926174496644
+  },
+  {
+    "basomrade": "3610660_landsnora",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.48668639053254437
+  },
+  {
+    "basomrade": "3610670_vasjoomradet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21428571428571427
+  },
+  {
+    "basomrade": "3610680_kvarnskogen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5606060606060606
+  },
+  {
+    "basomrade": "3610730_turebergs_industriomr",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.39926062846580407
+  },
+  {
+    "basomrade": "3610750_fagelsangen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4501940491591203
+  },
+  {
+    "basomrade": "3610760_tojnan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.40200117716303707
+  },
+  {
+    "basomrade": "3610770_nytorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5108695652173914
+  },
+  {
+    "basomrade": "3610780_skansen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5559748427672956
+  },
+  {
+    "basomrade": "3610810_falkberget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5355191256830601
+  },
+  {
+    "basomrade": "3610830_sjoberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.40178970917225953
+  },
+  {
+    "basomrade": "3610920_ostra_helenelund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5936564931178935
+  },
+  {
+    "basomrade": "3610931_tegelhagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4930795847750865
+  },
+  {
+    "basomrade": "3610940_helenelunds_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.28369384359401
+  },
+  {
+    "basomrade": "3610951_vastra_helenelund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.47322970639032813
+  },
+  {
+    "basomrade": "3612710_bagarby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2081117021276596
+  },
+  {
+    "basomrade": "1010120_skeppsbron",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.43174603174603177
+  },
+  {
+    "basomrade": "1010130_munkbron",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4156804733727811
+  },
+  {
+    "basomrade": "1010140_stortorget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5109826589595375
+  },
+  {
+    "basomrade": "1010201_centralstationen_n",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4251968503937008
+  },
+  {
+    "basomrade": "1010220_klara_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5384615384615384
+  },
+  {
+    "basomrade": "1010230_centralposten",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4366812227074236
+  },
+  {
+    "basomrade": "1010240_oscarsteatern",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.58
+  },
+  {
+    "basomrade": "1010250_brunkeberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4811320754716981
+  },
+  {
+    "basomrade": "1010290_oxtorget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4088888888888889
+  },
+  {
+    "basomrade": "1010310_norrlandsgatan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3793103448275862
+  },
+  {
+    "basomrade": "1110111_brunnsgatan_n",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.531986531986532
+  },
+  {
+    "basomrade": "1110112_brunnsgatan_s",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4015151515151515
+  },
+  {
+    "basomrade": "1110120_johannes_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5535248041775457
+  },
+  {
+    "basomrade": "1110210_wenner_gren_center",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5934065934065934
+  },
+  {
+    "basomrade": "1110220_vanadislunden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5241721854304636
+  },
+  {
+    "basomrade": "1110230_surbrunnsomradet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4844984802431611
+  },
+  {
+    "basomrade": "1110240_norra_real",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.48632218844984804
+  },
+  {
+    "basomrade": "1110250_elverket",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.59
+  },
+  {
+    "basomrade": "1120110_tegnerlunden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5081967213114754
+  },
+  {
+    "basomrade": "1120120_tandlakarhogskolan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5308641975308642
+  },
+  {
+    "basomrade": "1120131_norra_bantorget_o",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.39659367396593675
+  },
+  {
+    "basomrade": "1120140_adolf_fredriks_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.44272445820433437
+  },
+  {
+    "basomrade": "1120150_skandiahuset",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4938650306748466
+  },
+  {
+    "basomrade": "1120210_kungssten",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5345622119815668
+  },
+  {
+    "basomrade": "1120220_saltmatargatan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4206008583690987
+  },
+  {
+    "basomrade": "1120230_sjokatten",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.49514563106796117
+  },
+  {
+    "basomrade": "1130110_atlasomradet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5348837209302325
+  },
+  {
+    "basomrade": "1130120_gustav_vasa_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5086754126110876
+  },
+  {
+    "basomrade": "1130130_observatoriegatan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5210008936550492
+  },
+  {
+    "basomrade": "1130140_sabbatsberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.46237458193979936
+  },
+  {
+    "basomrade": "1130150_polstjarnan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5344180225281602
+  },
+  {
+    "basomrade": "1130170_betlehemskyrkan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.49301825993555315
+  },
+  {
+    "basomrade": "1140110_norrtull",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3113207547169811
+  },
+  {
+    "basomrade": "1140120_tre_liljor",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5274684484038604
+  },
+  {
+    "basomrade": "1140130_matteuskyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5565853658536586
+  },
+  {
+    "basomrade": "1140140_halsingehojden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5567294441892513
+  },
+  {
+    "basomrade": "1140150_centralgaraget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5071161048689139
+  },
+  {
+    "basomrade": "1140210_norra_station_1_norra_station_2",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5039370078740157
+  },
+  {
+    "basomrade": "1140220_birkagarden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5843694493783304
+  },
+  {
+    "basomrade": "1140230_rorstrand",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5625
+  },
+  {
+    "basomrade": "1140240_rodaberget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5548117154811716
+  },
+  {
+    "basomrade": "1140250_s_t_eriksplan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5655430711610487
+  },
+  {
+    "basomrade": "1210110_roslagstull",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5496979681493684
+  },
+  {
+    "basomrade": "1210120_larkstaden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5187032418952618
+  },
+  {
+    "basomrade": "1210131_danderydsplan_v",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5516840882694541
+  },
+  {
+    "basomrade": "1210132_danderydsplan_o",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.566068515497553
+  },
+  {
+    "basomrade": "1210140_eriksberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5590551181102362
+  },
+  {
+    "basomrade": "1210151_stureplan_o",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.375
+  },
+  {
+    "basomrade": "1210161_humlegarden_o",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.553030303030303
+  },
+  {
+    "basomrade": "1210171_stureparken_o",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5125858123569794
+  },
+  {
+    "basomrade": "1210172_stureparken_v",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6235632183908046
+  },
+  {
+    "basomrade": "1210210_roslagstulls_sjukhus",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5467811158798284
+  },
+  {
+    "basomrade": "1210220_ostra_station",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5823627287853578
+  },
+  {
+    "basomrade": "1210320_ekhagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6307403936269915
+  },
+  {
+    "basomrade": "1210330_frescati",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6388888888888888
+  },
+  {
+    "basomrade": "1210410_centrala_hjorthagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.49732977303070763
+  },
+  {
+    "basomrade": "1220110_ostermalmshallen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4482758620689655
+  },
+  {
+    "basomrade": "1220120_dramatiska_teatern",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4652014652014652
+  },
+  {
+    "basomrade": "1220130_ostermalmstorg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4801819363222872
+  },
+  {
+    "basomrade": "1220140_skvalberget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.45
+  },
+  {
+    "basomrade": "1220150_tyskbagaromradet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5518909410729991
+  },
+  {
+    "basomrade": "1220160_hedvig_eleonora_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.47716535433070867
+  },
+  {
+    "basomrade": "1220170_kronkvarnen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5209452201933404
+  },
+  {
+    "basomrade": "1230110_karlaplan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5215889464594128
+  },
+  {
+    "basomrade": "1230120_historiska_musuet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5342913128674069
+  },
+  {
+    "basomrade": "1230130_strandvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5354141656662665
+  },
+  {
+    "basomrade": "1230140_oscarskyrkan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5429787234042553
+  },
+  {
+    "basomrade": "1230161_gustav_adolfskyrkan_v",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5370226032735775
+  },
+  {
+    "basomrade": "1230162_gustav_adolfskyrkan_o",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5136804942630185
+  },
+  {
+    "basomrade": "1230210_djurgardsstaden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.33796296296296297
+  },
+  {
+    "basomrade": "1230220_sodra_djurgarden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4180790960451977
+  },
+  {
+    "basomrade": "1230300_hastgardet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5660377358490566
+  },
+  {
+    "basomrade": "1230310_olaus_petri_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5441382531527323
+  },
+  {
+    "basomrade": "1230320_tessinparken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5108045977011494
+  },
+  {
+    "basomrade": "1230330_smedsbacken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5277060005742177
+  },
+  {
+    "basomrade": "1230350_kampementsbacken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4789915966386555
+  },
+  {
+    "basomrade": "1230360_oregrundsgatan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5539473684210526
+  },
+  {
+    "basomrade": "1230390_ladugardsgardet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.41935483870967744
+  },
+  {
+    "basomrade": "1310100_stadshuset",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.8
+  },
+  {
+    "basomrade": "1310110_eira",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5658747300215983
+  },
+  {
+    "basomrade": "1310120_kungsklippan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5370229007633588
+  },
+  {
+    "basomrade": "1310130_kungsbroplan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.541862652869238
+  },
+  {
+    "basomrade": "1310140_tekniska_namndhuset",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5359116022099447
+  },
+  {
+    "basomrade": "1310150_landstingshuset",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4786610878661088
+  },
+  {
+    "basomrade": "1310160_pontonjarparken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.560799555802332
+  },
+  {
+    "basomrade": "1310170_s_t_eriks_sjukhus",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5642256902761105
+  },
+  {
+    "basomrade": "1310180_wargentinsgatan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.556378132118451
+  },
+  {
+    "basomrade": "1310190_kronoberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5201048951048951
+  },
+  {
+    "basomrade": "1320110_karlsvik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5910837817063798
+  },
+  {
+    "basomrade": "1320120_hemmet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5564610011641443
+  },
+  {
+    "basomrade": "1320130_fridhemsplan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.56957928802589
+  },
+  {
+    "basomrade": "1320140_s_t_eriksgatan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4876523913723038
+  },
+  {
+    "basomrade": "1320150_alstromergatan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5182636315510852
+  },
+  {
+    "basomrade": "1320210_ralambshov",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5745682888540031
+  },
+  {
+    "basomrade": "1320220_svedbergsplan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.46075085324232085
+  },
+  {
+    "basomrade": "1320240_mariebergsparken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5752032520325203
+  },
+  {
+    "basomrade": "1320310_ostra_stadshagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3809931506849315
+  },
+  {
+    "basomrade": "1320410_vastra_kristineberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5139013452914798
+  },
+  {
+    "basomrade": "1320420_thorildsplan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4760312151616499
+  },
+  {
+    "basomrade": "1320500_fredhall",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4980884762424904
+  },
+  {
+    "basomrade": "1330100_lilla_essingen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.46616541353383456
+  },
+  {
+    "basomrade": "1330200_stora_essingen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.47909474491752974
+  },
+  {
+    "basomrade": "1410110_mariaberget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5302763080540859
+  },
+  {
+    "basomrade": "1410120_maria_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.44502617801047123
+  },
+  {
+    "basomrade": "1410130_swedenborgsgatan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.46021505376344085
+  },
+  {
+    "basomrade": "1410140_gullfjardsplan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4644808743169399
+  },
+  {
+    "basomrade": "1410150_bergsgruvan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4756554307116105
+  },
+  {
+    "basomrade": "1410210_sodra_station_vast",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4772093023255814
+  },
+  {
+    "basomrade": "1410220_sodra_station_ost",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4421182266009852
+  },
+  {
+    "basomrade": "1420110_hogalidskyrkan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5413078149920255
+  },
+  {
+    "basomrade": "1420120_skinnarviksringen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5079171741778319
+  },
+  {
+    "basomrade": "1420130_ludvigsberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4710884353741497
+  },
+  {
+    "basomrade": "1420140_bergsund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4418353576248313
+  },
+  {
+    "basomrade": "1420210_hornstull",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4355289421157685
+  },
+  {
+    "basomrade": "1420220_bysistappan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.44818871103622576
+  },
+  {
+    "basomrade": "1420230_sodra_namndhuset",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4624505928853755
+  },
+  {
+    "basomrade": "1420240_zinkensdamm",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4475421863536317
+  },
+  {
+    "basomrade": "1420310_sodersjukhuset",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.49625468164794007
+  },
+  {
+    "basomrade": "1420320_tanto",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.561014263074485
+  },
+  {
+    "basomrade": "1420330_skoldgatan_syd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3515625
+  },
+  {
+    "basomrade": "1420360_skoldgatan_nord",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.39078498293515357
+  },
+  {
+    "basomrade": "1420410_langholmen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.37662337662337664
+  },
+  {
+    "basomrade": "1420420_reimersholme",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6136939983093829
+  },
+  {
+    "basomrade": "1430120_vastra_aso",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.26226226226226224
+  },
+  {
+    "basomrade": "1430130_blekingetappan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.44707347447073476
+  },
+  {
+    "basomrade": "1430140_helgalunden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4482880338863396
+  },
+  {
+    "basomrade": "1430150_eriksdal",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4296028880866426
+  },
+  {
+    "basomrade": "1430160_asotorget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5386965376782077
+  },
+  {
+    "basomrade": "1430180_rosenlund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.376657824933687
+  },
+  {
+    "basomrade": "1430210_mosebacke",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.422866092404072
+  },
+  {
+    "basomrade": "1430220_ostra_aso",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3892744479495268
+  },
+  {
+    "basomrade": "1430230_katarina_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4703880190605854
+  },
+  {
+    "basomrade": "1430240_bjurholmsplan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4386541866936504
+  },
+  {
+    "basomrade": "1430250_nytorget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4291374580920451
+  },
+  {
+    "basomrade": "1440110_ersta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.43796992481203006
+  },
+  {
+    "basomrade": "1440120_sofia_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4536898395721925
+  },
+  {
+    "basomrade": "1440210_tullgarden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.42289719626168226
+  },
+  {
+    "basomrade": "1440220_vita_bergen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4247787610619469
+  },
+  {
+    "basomrade": "1440230_blecktornet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.471019809244314
+  },
+  {
+    "basomrade": "1440240_vintertullen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5879120879120879
+  },
+  {
+    "basomrade": "1440250_barnangen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5070564516129032
+  },
+  {
+    "basomrade": "1440260_mjardgrand",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.46636085626911317
+  },
+  {
+    "basomrade": "1440311_danviken_n",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.43501805054151627
+  },
+  {
+    "basomrade": "1440312_danviken_s",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5003101736972705
+  },
+  {
+    "basomrade": "2110120_sankt_sigfrid",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.47791653975022846
+  },
+  {
+    "basomrade": "2110130_ornsberg_nord_ost",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.44751381215469616
+  },
+  {
+    "basomrade": "2110140_vinterviken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.35285815102328866
+  },
+  {
+    "basomrade": "2110150_ornsberg_syd_ost",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3146067415730337
+  },
+  {
+    "basomrade": "2110220_ostra_grondal",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.46738333740532617
+  },
+  {
+    "basomrade": "2110230_ekensberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.39430284857571213
+  },
+  {
+    "basomrade": "2110310_axelsbergs_torg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.09375
+  },
+  {
+    "basomrade": "2110320_klubbacken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.41032608695652173
+  },
+  {
+    "basomrade": "2110330_axelsberg_syd_ost",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.36942675159235666
+  },
+  {
+    "basomrade": "2110340_stensborg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5136876006441223
+  },
+  {
+    "basomrade": "2110350_sankt_mickelsgatan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5580221997981837
+  },
+  {
+    "basomrade": "2110370_ornsberg_syd_vast",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.452991452991453
+  },
+  {
+    "basomrade": "2110380_hagerstenshamnen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4860813704496788
+  },
+  {
+    "basomrade": "2110390_axelsberg_nord",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.34507042253521125
+  },
+  {
+    "basomrade": "2110520_norra_hagerstensasen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3668188736681887
+  },
+  {
+    "basomrade": "2110530_sodra_hagerstensasen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.34690971233266876
+  },
+  {
+    "basomrade": "2110620_nybohov",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.34685598377281945
+  },
+  {
+    "basomrade": "2110650_liljeholmsberget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5377049180327869
+  },
+  {
+    "basomrade": "2110660_lovholmen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5261984392419174
+  },
+  {
+    "basomrade": "2110681_nyboda_o",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5271277963486758
+  },
+  {
+    "basomrade": "2110720_svandammen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4331770222743259
+  },
+  {
+    "basomrade": "2110730_fastlagsvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4436046511627907
+  },
+  {
+    "basomrade": "2110740_telefonplan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5041876046901173
+  },
+  {
+    "basomrade": "2110810_norra_malarhojden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5545706371191136
+  },
+  {
+    "basomrade": "2110820_gulddragaren",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2857142857142857
+  },
+  {
+    "basomrade": "2110920_karusellvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.28858218318695106
+  },
+  {
+    "basomrade": "2110930_korpmossen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3996101364522417
+  },
+  {
+    "basomrade": "2110940_hokmossen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.35064935064935066
+  },
+  {
+    "basomrade": "2120100_fruangen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.30479648385247465
+  },
+  {
+    "basomrade": "2120201_herrangen_v",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.45106035889070145
+  },
+  {
+    "basomrade": "2120202_herrangen_o",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4967948717948718
+  },
+  {
+    "basomrade": "2120300_liseberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.40266222961730447
+  },
+  {
+    "basomrade": "2120401_langbro_v",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4262948207171315
+  },
+  {
+    "basomrade": "2120402_langbro_o",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4055742431523306
+  },
+  {
+    "basomrade": "2120500_langsjo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4707482993197279
+  },
+  {
+    "basomrade": "2120620_norra_solberga",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2233468286099865
+  },
+  {
+    "basomrade": "2120630_vastra_solberga",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.35276073619631904
+  },
+  {
+    "basomrade": "2120660_sodra_solberga",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.36424242424242426
+  },
+  {
+    "basomrade": "2120700_vastertorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.31185693287604116
+  },
+  {
+    "basomrade": "2120820_vastra_alvsjo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4900900900900901
+  },
+  {
+    "basomrade": "2120900_orby_slott",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.32729007633587787
+  },
+  {
+    "basomrade": "2121020_ostbergahojden_ostbergavagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23555697414618576
+  },
+  {
+    "basomrade": "2130100_bandhagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.25353198047778064
+  },
+  {
+    "basomrade": "2130210_hogdalens_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.30844793713163066
+  },
+  {
+    "basomrade": "2130220_ostra_hogdalen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23346303501945526
+  },
+  {
+    "basomrade": "2130230_vastra_hogdalen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.25
+  },
+  {
+    "basomrade": "2130240_skebokvarnsvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2073170731707317
+  },
+  {
+    "basomrade": "2130320_ragsveds_torg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18638631503920172
+  },
+  {
+    "basomrade": "2130330_bjursatra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1798907805974944
+  },
+  {
+    "basomrade": "2130340_snosatra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2189409368635438
+  },
+  {
+    "basomrade": "2130420_backaskiftsvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.34779240898528274
+  },
+  {
+    "basomrade": "2130430_ostra_stureby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.49416609471516815
+  },
+  {
+    "basomrade": "2130440_vastra_stureby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3932820153953814
+  },
+  {
+    "basomrade": "2130501_orby_n",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2590725806451613
+  },
+  {
+    "basomrade": "2130502_orby_s",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4106483921982077
+  },
+  {
+    "basomrade": "2130620_hagsatra_torg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18927845528455284
+  },
+  {
+    "basomrade": "2130630_ormkarr",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2323612417685795
+  },
+  {
+    "basomrade": "2140120_ostra_enskedefaltet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4206896551724138
+  },
+  {
+    "basomrade": "2140210_vastra_enskede_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4336890243902439
+  },
+  {
+    "basomrade": "2140220_tradskolan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3771712158808933
+  },
+  {
+    "basomrade": "2140320_enskede_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.46390658174097665
+  },
+  {
+    "basomrade": "2140330_svampvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.41550925925925924
+  },
+  {
+    "basomrade": "2140340_sandsborg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3581445523193096
+  },
+  {
+    "basomrade": "2140350_dalen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.28031237155774763
+  },
+  {
+    "basomrade": "2140620_gullmarsplan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.37479978643886813
+  },
+  {
+    "basomrade": "2140630_skarmarbrink",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3222811671087533
+  },
+  {
+    "basomrade": "2140820_skanskvarn",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.43662952646239556
+  },
+  {
+    "basomrade": "2140830_arsta_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4307920059215396
+  },
+  {
+    "basomrade": "2140840_arsta_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4209039548022599
+  },
+  {
+    "basomrade": "2140850_valla_garde",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.314777998674619
+  },
+  {
+    "basomrade": "2150100_bjorkhagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4749232343909928
+  },
+  {
+    "basomrade": "2150200_enskededalen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5180635838150289
+  },
+  {
+    "basomrade": "2150400_hammarbyhojden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4211589249650458
+  },
+  {
+    "basomrade": "2150500_karrtorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3682142857142857
+  },
+  {
+    "basomrade": "4111120_sodra_runby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22596153846153846
+  },
+  {
+    "basomrade": "2150731_skarpnacksfaltet_o",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.35736897643334503
+  },
+  {
+    "basomrade": "2150732_skarpnacksfaltet_v",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2462751971954426
+  },
+  {
+    "basomrade": "2150740_skarpa_by",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14754098360655737
+  },
+  {
+    "basomrade": "2150820_lagaplan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.359286842699165
+  },
+  {
+    "basomrade": "2150830_sodra_bagarmossen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5795847750865052
+  },
+  {
+    "basomrade": "2150840_norra_bagarmossen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2048632218844985
+  },
+  {
+    "basomrade": "2160120_havsornstorget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14968652037617555
+  },
+  {
+    "basomrade": "2160130_fagersjovagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3735294117647059
+  },
+  {
+    "basomrade": "2160220_sodra_farsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19562179785747555
+  },
+  {
+    "basomrade": "2160230_vastra_farsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3463114754098361
+  },
+  {
+    "basomrade": "2160240_ostra_farsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24361734850815134
+  },
+  {
+    "basomrade": "2160260_norra_farsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22325581395348837
+  },
+  {
+    "basomrade": "2160320_ullerudsbacken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2163336229365769
+  },
+  {
+    "basomrade": "2160330_farsta_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.37168141592920356
+  },
+  {
+    "basomrade": "2160520_gubbangstorget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2999651203348448
+  },
+  {
+    "basomrade": "2160530_gubbangens_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3081232492997199
+  },
+  {
+    "basomrade": "2160620_vastra_hokarangen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24542454245424541
+  },
+  {
+    "basomrade": "2160630_sondagsvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24380165289256198
+  },
+  {
+    "basomrade": "2160640_lingvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23343605546995377
+  },
+  {
+    "basomrade": "2160720_vastra_larsboda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3174061433447099
+  },
+  {
+    "basomrade": "2160760_ostra_larsboda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21839080459770116
+  },
+  {
+    "basomrade": "2160820_bagarfruvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24429223744292236
+  },
+  {
+    "basomrade": "2160830_vastra_skondal",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.34076433121019106
+  },
+  {
+    "basomrade": "2160840_norra_skondal",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.37530864197530867
+  },
+  {
+    "basomrade": "2160850_stora_skondal",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.45126353790613716
+  },
+  {
+    "basomrade": "2160920_sodra_svedmyra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.26916666666666667
+  },
+  {
+    "basomrade": "2160930_norra_svedmyra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.47113594040968343
+  },
+  {
+    "basomrade": "2161020_norra_tallkrogen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.25125628140703515
+  },
+  {
+    "basomrade": "2161030_sodra_tallkrogen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.38031496062992126
+  },
+  {
+    "basomrade": "2170120_bredangs_alle",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21794603639405982
+  },
+  {
+    "basomrade": "2170130_yttre_bredang",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2954876273653566
+  },
+  {
+    "basomrade": "2170220_satra_torg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1909060514877967
+  },
+  {
+    "basomrade": "2170230_norra_satra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3223350253807107
+  },
+  {
+    "basomrade": "2170310_skarholmens_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1447084233261339
+  },
+  {
+    "basomrade": "2170321_skarholmens_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.27492447129909364
+  },
+  {
+    "basomrade": "2170322_mellersta_skarholmen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1629513343799058
+  },
+  {
+    "basomrade": "2170330_sodra_skarholmen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17830882352941177
+  },
+  {
+    "basomrade": "2170420_ostra_varberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17425354870288792
+  },
+  {
+    "basomrade": "2170430_vastra_varberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3363329583802025
+  },
+  {
+    "basomrade": "2210120_norra_abrahamsberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.36688311688311687
+  },
+  {
+    "basomrade": "2210130_sodra_abrahamsberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4135135135135135
+  },
+  {
+    "basomrade": "2210200_beckomberga",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.37177121771217714
+  },
+  {
+    "basomrade": "2210300_blackeberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.31841616828212005
+  },
+  {
+    "basomrade": "2210400_bromma_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5193199381761978
+  },
+  {
+    "basomrade": "2210500_ballsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24892703862660945
+  },
+  {
+    "basomrade": "2210600_eneby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.37554585152838427
+  },
+  {
+    "basomrade": "2210700_mariehall",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.37118491921005387
+  },
+  {
+    "basomrade": "2210830_runstensplan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5566914498141264
+  },
+  {
+    "basomrade": "2210840_angbylunden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5241090146750524
+  },
+  {
+    "basomrade": "2210850_attehagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5375375375375375
+  },
+  {
+    "basomrade": "2210860_akeshovsbadet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5829383886255924
+  },
+  {
+    "basomrade": "2210920_sodra_riksby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4157523510971787
+  },
+  {
+    "basomrade": "2211121_farjestadsvagen_v",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.7021276595744681
+  },
+  {
+    "basomrade": "2211130_angbyhojden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.7363344051446945
+  },
+  {
+    "basomrade": "2211220_johannesfred",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3533527696793003
+  },
+  {
+    "basomrade": "2211300_akeshov",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.41106719367588934
+  },
+  {
+    "basomrade": "2211420_ostra_akeslund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.43694690265486724
+  },
+  {
+    "basomrade": "2211460_vastra_akeslund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3354632587859425
+  },
+  {
+    "basomrade": "2220100_alvik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4448669201520912
+  },
+  {
+    "basomrade": "2220200_hoglandet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6482861400894188
+  },
+  {
+    "basomrade": "2220300_nockeby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6030042918454935
+  },
+  {
+    "basomrade": "2220400_nockebyhov",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.46464646464646464
+  },
+  {
+    "basomrade": "2220500_olovslund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5531135531135531
+  },
+  {
+    "basomrade": "2220600_smedslatten",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6048109965635738
+  },
+  {
+    "basomrade": "2220700_stora_mossen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6460905349794238
+  },
+  {
+    "basomrade": "2220820_sodra_traneberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4449304174950298
+  },
+  {
+    "basomrade": "2220830_norra_traneberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.34408602150537637
+  },
+  {
+    "basomrade": "2220840_minneberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.50418410041841
+  },
+  {
+    "basomrade": "2220900_ulvsunda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.43455497382198954
+  },
+  {
+    "basomrade": "2221000_alsten",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6424546023794615
+  },
+  {
+    "basomrade": "2221100_appelviken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5990990990990991
+  },
+  {
+    "basomrade": "2230100_grimsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21040189125295508
+  },
+  {
+    "basomrade": "2230200_kalvesta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3406644829199813
+  },
+  {
+    "basomrade": "2230300_nalsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.35696619950535863
+  },
+  {
+    "basomrade": "2230420_vastra_racksta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2679153094462541
+  },
+  {
+    "basomrade": "2230430_ostra_racksta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4547169811320755
+  },
+  {
+    "basomrade": "2230440_racksta_sjukhus",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2222222222222222
+  },
+  {
+    "basomrade": "2230520_norra_vinsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2602674307545368
+  },
+  {
+    "basomrade": "2230560_sodra_vinsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17972350230414746
+  },
+  {
+    "basomrade": "2230610_vallingby_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22564102564102564
+  },
+  {
+    "basomrade": "2230620_sodra_vallingby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20650210716435882
+  },
+  {
+    "basomrade": "2230630_norra_vallingby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5806451612903226
+  },
+  {
+    "basomrade": "2240121_sodra_bromsten_n",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23255813953488372
+  },
+  {
+    "basomrade": "2240122_sodra_bromsten_s",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.34065934065934067
+  },
+  {
+    "basomrade": "2240130_norra_bromsten",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2956048230260599
+  },
+  {
+    "basomrade": "2240200_flysta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3769808173477898
+  },
+  {
+    "basomrade": "2240520_norra_rinkeby_kvarnby_norra_rinkeby_askeby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.10820426956885726
+  },
+  {
+    "basomrade": "2240530_sodra_rinkeby_knutby_sodra_rinkeby_bredby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.10211706102117062
+  },
+  {
+    "basomrade": "2240621_solhojden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3384223918575064
+  },
+  {
+    "basomrade": "2240622_spanga_torg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.27365728900255754
+  },
+  {
+    "basomrade": "2240631_solhems_villastad_vast",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3661800486618005
+  },
+  {
+    "basomrade": "2240632_spanga_gymnasium",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.49072753209700426
+  },
+  {
+    "basomrade": "2240640_solhems_villastad_nord",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5858585858585859
+  },
+  {
+    "basomrade": "2240650_logvagen_erland",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.25980392156862747
+  },
+  {
+    "basomrade": "2240700_sundby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3351206434316354
+  },
+  {
+    "basomrade": "2240820_norra_tensta_spanga_kyrkvag_norra_tensta_tensta_alle",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1254681647940075
+  },
+  {
+    "basomrade": "2240830_sodra_tensta_spanga_kyrka_sodra_tensta_tensta_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12875536480686695
+  },
+  {
+    "basomrade": "2240840_hjulsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.183536825521859
+  },
+  {
+    "basomrade": "2250120_hasselby_torg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17144512018534608
+  },
+  {
+    "basomrade": "2250130_vastra_hasselby_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3347022587268994
+  },
+  {
+    "basomrade": "2250140_sodra_hasselby_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17166589755422243
+  },
+  {
+    "basomrade": "2250200_hasselby_strand",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20590461771385316
+  },
+  {
+    "basomrade": "2250310_backlura",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.25156669650850494
+  },
+  {
+    "basomrade": "2250320_trollboda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.30772994129158515
+  },
+  {
+    "basomrade": "2250332_hasselby_villastrand",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4273232724384432
+  },
+  {
+    "basomrade": "2250340_hasselby_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.36608344549125166
+  },
+  {
+    "basomrade": "2250350_akermyntan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24430955993930198
+  },
+  {
+    "basomrade": "2250370_radisvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2869415807560137
+  },
+  {
+    "basomrade": "2250380_smedshagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14397649363369247
+  },
+  {
+    "basomrade": "2260120_centrala_akalla",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20736196319018405
+  },
+  {
+    "basomrade": "2260130_sodra_akalla",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.25862068965517243
+  },
+  {
+    "basomrade": "2260220_norra_husby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21123953766440812
+  },
+  {
+    "basomrade": "2260230_sodra_husby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15605170387779083
+  },
+  {
+    "basomrade": "2260310_kista_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4883227176220807
+  },
+  {
+    "basomrade": "2260320_ovre_kista",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.326783114992722
+  },
+  {
+    "basomrade": "2260330_nedre_kista",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.29715950473415875
+  },
+  {
+    "basomrade": "6310110_ostra_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19813717188823032
+  },
+  {
+    "basomrade": "6310120_vastra_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21875
+  },
+  {
+    "basomrade": "6310130_kvarnberga",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20014936519790888
+  },
+  {
+    "basomrade": "6310170_vardsholmen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20570264765784113
+  },
+  {
+    "basomrade": "6310320_blombacka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1471927162367223
+  },
+  {
+    "basomrade": "6310330_mariekalla",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2516923076923077
+  },
+  {
+    "basomrade": "6310340_saltskog",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18225806451612903
+  },
+  {
+    "basomrade": "6310351_sodra_vastergard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20123203285420946
+  },
+  {
+    "basomrade": "6310352_norra_vastergard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1725125268432355
+  },
+  {
+    "basomrade": "6310353_vastra_vastergard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21114369501466276
+  },
+  {
+    "basomrade": "6310360_barstafaltet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1394422310756972
+  },
+  {
+    "basomrade": "6310370_barstabergen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1524966261808367
+  },
+  {
+    "basomrade": "6310422_stationsomradet_sodra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20944558521560575
+  },
+  {
+    "basomrade": "6320510_vastra_grusasen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24169184290030213
+  },
+  {
+    "basomrade": "6320520_ostra_grusasen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1676829268292683
+  },
+  {
+    "basomrade": "6320541_sodra_brunnsang",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14088729016786572
+  },
+  {
+    "basomrade": "6320542_norra_brunnsang",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2100149476831091
+  },
+  {
+    "basomrade": "6320550_ragnhildsborg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.246
+  },
+  {
+    "basomrade": "6320611_kusens_backe",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21252059308072488
+  },
+  {
+    "basomrade": "6320612_sjukhuset",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19292604501607716
+  },
+  {
+    "basomrade": "6320621_ostra_rosenlund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21345707656612528
+  },
+  {
+    "basomrade": "6320622_rosenborg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3018867924528302
+  },
+  {
+    "basomrade": "6320940_viksberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21052631578947367
+  },
+  {
+    "basomrade": "6321710_igelsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3652694610778443
+  },
+  {
+    "basomrade": "6321720_ostertalje",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.33100558659217877
+  },
+  {
+    "basomrade": "6321740_fornhojden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1832412523020258
+  },
+  {
+    "basomrade": "6330210_karlhov",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1473551637279597
+  },
+  {
+    "basomrade": "6330220_sodra_ronna",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14907332796132153
+  },
+  {
+    "basomrade": "6330230_norra_ronna",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13404088050314467
+  },
+  {
+    "basomrade": "6330240_vastra_ronna",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20388349514563106
+  },
+  {
+    "basomrade": "6330250_lina_hage",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15344938749194068
+  },
+  {
+    "basomrade": "6330260_lina",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23622047244094488
+  },
+  {
+    "basomrade": "6330380_norra_geneta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11812627291242363
+  },
+  {
+    "basomrade": "6330391_vastra_geneta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18435754189944134
+  },
+  {
+    "basomrade": "6330392_ostra_geneta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13220338983050847
+  },
+  {
+    "basomrade": "6341410_pershagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.28878923766816145
+  },
+  {
+    "basomrade": "6341430_tveta_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1951219512195122
+  },
+  {
+    "basomrade": "6341451_hovsjo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12947474071595852
+  },
+  {
+    "basomrade": "6351200_enhorna_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1437389770723104
+  },
+  {
+    "basomrade": "6351210_ekeby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18510158013544017
+  },
+  {
+    "basomrade": "6381100_molnbo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22641509433962265
+  },
+  {
+    "basomrade": "6381500_vardinge_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2361904761904762
+  },
+  {
+    "basomrade": "6382100_jarna",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20904373610081542
+  },
+  {
+    "basomrade": "6382500_overjarna_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.26015037593984963
+  },
+  {
+    "basomrade": "6383000_ytterjarna_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.29069767441860467
+  },
+  {
+    "basomrade": "6391100_holo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14446529080675422
+  },
+  {
+    "basomrade": "6391500_holo_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19158460161145927
+  },
+  {
+    "basomrade": "6392000_morko_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21033210332103322
+  },
+  {
+    "basomrade": "5411010_henriksdal",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.27006507592190887
+  },
+  {
+    "basomrade": "5411020_finnberget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.37305699481865284
+  },
+  {
+    "basomrade": "5411030_kvarnholmen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3770491803278688
+  },
+  {
+    "basomrade": "5411040_danviken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4751479289940828
+  },
+  {
+    "basomrade": "5411100_alphyddan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3560126582278481
+  },
+  {
+    "basomrade": "5411110_finntorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3858218318695107
+  },
+  {
+    "basomrade": "5411130_ekudden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3819241982507289
+  },
+  {
+    "basomrade": "5411140_jarla_industriomr",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5300285986653956
+  },
+  {
+    "basomrade": "5411200_sickla_industriomr",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5367372353673724
+  },
+  {
+    "basomrade": "5411210_tallbacken",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.41658031088082903
+  },
+  {
+    "basomrade": "5411220_nysatra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5657894736842105
+  },
+  {
+    "basomrade": "5411320_jarlaberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.35074145712443583
+  },
+  {
+    "basomrade": "5411330_vikdalen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5177304964539007
+  },
+  {
+    "basomrade": "5411340_nacka_strand",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.38023952095808383
+  },
+  {
+    "basomrade": "5411410_nacka_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3156881616939365
+  },
+  {
+    "basomrade": "5411500_storangen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5236051502145923
+  },
+  {
+    "basomrade": "5411600_duvnas_utskog",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4444444444444444
+  },
+  {
+    "basomrade": "5411610_skuru",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.46648550724637683
+  },
+  {
+    "basomrade": "5411700_skogalund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3584656084656085
+  },
+  {
+    "basomrade": "5411710_vastra_ektorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.30756578947368424
+  },
+  {
+    "basomrade": "5411720_ostra_ektorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.28860294117647056
+  },
+  {
+    "basomrade": "5411740_saltangen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3991825613079019
+  },
+  {
+    "basomrade": "5411800_duvnas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6169354838709677
+  },
+  {
+    "basomrade": "5411900_hasthagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5617021276595745
+  },
+  {
+    "basomrade": "5413001_fisksatra_sm",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3546325878594249
+  },
+  {
+    "basomrade": "5413002_fisksatra_fh",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18984607075344315
+  },
+  {
+    "basomrade": "5414001_erstavik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.43902439024390244
+  },
+  {
+    "basomrade": "5414100_kolarangen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.42884990253411304
+  },
+  {
+    "basomrade": "5414200_alta_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4110429447852761
+  },
+  {
+    "basomrade": "5414300_stenso",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22974683544303798
+  },
+  {
+    "basomrade": "5414310_hedvigslund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4205397301349325
+  },
+  {
+    "basomrade": "5423100_igelboda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5116448326055313
+  },
+  {
+    "basomrade": "5423201_solsidan_norr",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6417910447761194
+  },
+  {
+    "basomrade": "5423202_saltsjobaden_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3098827470686767
+  },
+  {
+    "basomrade": "5423230_tattby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5767857142857142
+  },
+  {
+    "basomrade": "5423300_neglingeon",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4675642594859241
+  },
+  {
+    "basomrade": "5423400_solsidan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5614973262032086
+  },
+  {
+    "basomrade": "5423500_algo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.34022988505747126
+  },
+  {
+    "basomrade": "5432000_norra_bjorknas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4179389312977099
+  },
+  {
+    "basomrade": "5432020_sodra_bjorknas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.36108676599474143
+  },
+  {
+    "basomrade": "5432030_klinten",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24404761904761904
+  },
+  {
+    "basomrade": "5432100_eknas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4206405693950178
+  },
+  {
+    "basomrade": "5432200_vastra_kummelnas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.38875
+  },
+  {
+    "basomrade": "5432220_ostra_kummelnas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3705501618122977
+  },
+  {
+    "basomrade": "5432300_kil",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.33755274261603374
+  },
+  {
+    "basomrade": "5432400_krokhojden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.34190231362467866
+  },
+  {
+    "basomrade": "5432410_orminge",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16750539180445723
+  },
+  {
+    "basomrade": "5432500_mensattra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.31225905936777176
+  },
+  {
+    "basomrade": "5432600_kallvagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3651389932381668
+  },
+  {
+    "basomrade": "5432610_eriksvik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3442879499217527
+  },
+  {
+    "basomrade": "5432700_norra_lannersta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.42760372565622357
+  },
+  {
+    "basomrade": "5432710_sodra_lannersta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.47107438016528924
+  },
+  {
+    "basomrade": "5432810_boo_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.45965770171149145
+  },
+  {
+    "basomrade": "5432900_gustavsvik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2689655172413793
+  },
+  {
+    "basomrade": "3810100_lilla_alby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.33011823273179836
+  },
+  {
+    "basomrade": "3810110_sundbybergs_industriomrade",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4
+  },
+  {
+    "basomrade": "3810220_rasten",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.33357452966714907
+  },
+  {
+    "basomrade": "3810230_sundbybergs_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3261802575107296
+  },
+  {
+    "basomrade": "3810240_starrbacksgatan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3483812129502964
+  },
+  {
+    "basomrade": "3810300_storskogen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2517814726840855
+  },
+  {
+    "basomrade": "3810310_lotsjo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.48559670781893005
+  },
+  {
+    "basomrade": "3810320_tule",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.375
+  },
+  {
+    "basomrade": "3810400_duvbo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4345132743362832
+  },
+  {
+    "basomrade": "3810410_hasthagen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4282115869017632
+  },
+  {
+    "basomrade": "3810500_or",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21552511415525114
+  },
+  {
+    "basomrade": "3810610_hallonbergen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14705882352941177
+  },
+  {
+    "basomrade": "3810720_rissne_norra_arbetsomrade",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24193548387096775
+  },
+  {
+    "basomrade": "3810740_norra_rissne",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2311212814645309
+  },
+  {
+    "basomrade": "3810750_sodra_rissne",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21548387096774194
+  },
+  {
+    "basomrade": "3810810_ursviks_smahusomrade",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.42857142857142855
+  },
+  {
+    "basomrade": "3710120_vastra_ritorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2687224669603524
+  },
+  {
+    "basomrade": "3710130_ostra_ritorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4221218961625282
+  },
+  {
+    "basomrade": "3710141_sodra_frosunda_norra_frosunda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.510677808727948
+  },
+  {
+    "basomrade": "3710143_ballongberget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3357487922705314
+  },
+  {
+    "basomrade": "3710160_bagartorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24805194805194805
+  },
+  {
+    "basomrade": "3710170_rastahem",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3772455089820359
+  },
+  {
+    "basomrade": "3710180_agnesberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.291044776119403
+  },
+  {
+    "basomrade": "3710200_ulriksdal",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3875
+  },
+  {
+    "basomrade": "3710310_norra_bergshamra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5810344827586207
+  },
+  {
+    "basomrade": "3710320_bergshamra_torg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4789833822091887
+  },
+  {
+    "basomrade": "3710330_stocksundstorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.45645645645645644
+  },
+  {
+    "basomrade": "3710340_ostra_bergshamra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5310077519379846
+  },
+  {
+    "basomrade": "3710350_sodra_bergshamra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5611061552185549
+  },
+  {
+    "basomrade": "3710360_kungshamra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.7053571428571429
+  },
+  {
+    "basomrade": "3710420_karolinska_sjukhuset_nya_karolinska_solna_kyrkby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.35208711433756806
+  },
+  {
+    "basomrade": "3710430_karolinska_institutet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.46646341463414637
+  },
+  {
+    "basomrade": "3710520_jungfrudansen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3808338518979465
+  },
+  {
+    "basomrade": "3710530_sodra_huvusta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4436060365369341
+  },
+  {
+    "basomrade": "3710540_vastra_skogen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5396551724137931
+  },
+  {
+    "basomrade": "3710550_gamla_huvusta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.39181818181818184
+  },
+  {
+    "basomrade": "3710570_huvudstafaltet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.36693548387096775
+  },
+  {
+    "basomrade": "3710580_pampas_marina_ingenting",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5233160621761658
+  },
+  {
+    "basomrade": "3720610_solna_station_stora_frosunda_brahelund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3535958904109589
+  },
+  {
+    "basomrade": "3720620_blakulla",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2666232073011734
+  },
+  {
+    "basomrade": "3720630_rudviken_vastra_hagalund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3607142857142857
+  },
+  {
+    "basomrade": "3720710_rasunda_kyrka_sodra_rasunda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.45675675675675675
+  },
+  {
+    "basomrade": "3720730_skogskronet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3368
+  },
+  {
+    "basomrade": "3720740_rasundaskolan_rasundastadion",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.46814404432132967
+  },
+  {
+    "basomrade": "3720750_charlottenburg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3962033067973056
+  },
+  {
+    "basomrade": "3720760_sodra_vasalund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3702090592334495
+  },
+  {
+    "basomrade": "3720770_norra_vasalund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.43973941368078173
+  },
+  {
+    "basomrade": "3720780_ekensberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.31459797033567527
+  },
+  {
+    "basomrade": "3720790_hallen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.288
+  },
+  {
+    "basomrade": "3720910_skytteholm",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.34461009174311924
+  },
+  {
+    "basomrade": "3720920_albygard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.35233918128654973
+  },
+  {
+    "basomrade": "3720930_solna_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.39863325740318906
+  },
+  {
+    "basomrade": "3720940_hanneberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.39082969432314413
+  },
+  {
+    "basomrade": "3720950_albydal",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.40136986301369865
+  },
+  {
+    "basomrade": "3411110_norra_sticklinge",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5741106719367589
+  },
+  {
+    "basomrade": "3411120_sodra_sticklinge",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4700996677740864
+  },
+  {
+    "basomrade": "3411200_islinge",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5863636363636363
+  },
+  {
+    "basomrade": "3411310_vastra_naset",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.353870458135861
+  },
+  {
+    "basomrade": "3411320_ostra_naset",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.362002567394095
+  },
+  {
+    "basomrade": "3411400_bo_garde",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6317460317460317
+  },
+  {
+    "basomrade": "3411510_bo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6673076923076923
+  },
+  {
+    "basomrade": "3411520_bjornbo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5183673469387755
+  },
+  {
+    "basomrade": "3411610_boson",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3333333333333333
+  },
+  {
+    "basomrade": "3411620_rudboda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.48178506375227687
+  },
+  {
+    "basomrade": "3412100_elfvik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5164835164835165
+  },
+  {
+    "basomrade": "3413110_torsviksplatan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.45472061657032753
+  },
+  {
+    "basomrade": "3413120_lidingo_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2619047619047619
+  },
+  {
+    "basomrade": "3413130_stureplatan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5179640718562875
+  },
+  {
+    "basomrade": "3413140_herserud",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5607476635514018
+  },
+  {
+    "basomrade": "3413150_torsviks_torg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.46522781774580335
+  },
+  {
+    "basomrade": "3413210_bredablick",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.46440677966101696
+  },
+  {
+    "basomrade": "3413220_norra_hersby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.6391509433962265
+  },
+  {
+    "basomrade": "3413230_sodra_hersby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5721716514954487
+  },
+  {
+    "basomrade": "3413240_hersbyholm",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.521108179419525
+  },
+  {
+    "basomrade": "3413300_stockby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.526595744680851
+  },
+  {
+    "basomrade": "3413410_baggeby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3354978354978355
+  },
+  {
+    "basomrade": "3413420_bodal",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.34710743801652894
+  },
+  {
+    "basomrade": "3413500_larsberg",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.24530587522713507
+  },
+  {
+    "basomrade": "3413600_mosstorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5195652173913043
+  },
+  {
+    "basomrade": "3413710_centrala_gangsatra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2412280701754386
+  },
+  {
+    "basomrade": "3413720_norra_gangsatra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5668662674650699
+  },
+  {
+    "basomrade": "3413810_bergsatra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.410958904109589
+  },
+  {
+    "basomrade": "3413820_centrala_skrsatra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.31485148514851485
+  },
+  {
+    "basomrade": "3413830_kottla_molna_kappsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5578231292517006
+  },
+  {
+    "basomrade": "3414210_centrala_kappala",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23402417962003455
+  },
+  {
+    "basomrade": "3414240_killinge",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5168738898756661
+  },
+  {
+    "basomrade": "3414250_ostra_kappala",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5824468085106383
+  },
+  {
+    "basomrade": "3414310_brevik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.506900878293601
+  },
+  {
+    "basomrade": "3414320_hogberga",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.532258064516129
+  },
+  {
+    "basomrade": "4311441_bogesund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2535211267605634
+  },
+  {
+    "basomrade": "4311442_storholmen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.34545454545454546
+  },
+  {
+    "basomrade": "4311443_kullon",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5946547884187082
+  },
+  {
+    "basomrade": "4311460_karlsudd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4
+  },
+  {
+    "basomrade": "4311610_ostra_vaxon",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.3009433962264151
+  },
+  {
+    "basomrade": "4311620_vastra_vaxon",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.26963562753036435
+  },
+  {
+    "basomrade": "4311650_engarn_storang",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.35795454545454547
+  },
+  {
+    "basomrade": "4311661_ytterby_overby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4008
+  },
+  {
+    "basomrade": "4311730_tynningo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.28272251308900526
+  },
+  {
+    "basomrade": "4311810_rindo_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.30847457627118646
+  },
+  {
+    "basomrade": "4311820_rindo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.25906735751295334
+  },
+  {
+    "basomrade": "4311830_skarpo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.34
+  },
+  {
+    "basomrade": "6110310_norrtalje_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22095671981776766
+  },
+  {
+    "basomrade": "6110320_fagelsangen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21344421344421344
+  },
+  {
+    "basomrade": "6110330_vastra_rodenstaden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11855670103092783
+  },
+  {
+    "basomrade": "6110340_ostra_rodenstaden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19902912621359223
+  },
+  {
+    "basomrade": "6110350_norgegardet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12588116817724068
+  },
+  {
+    "basomrade": "6110360_roslagsstaden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17348377997179126
+  },
+  {
+    "basomrade": "6110410_grossgardet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22808671065032987
+  },
+  {
+    "basomrade": "6110430_sodra_bergen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17759237187127533
+  },
+  {
+    "basomrade": "6110440_vastra_kvisthamra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1590909090909091
+  },
+  {
+    "basomrade": "6110450_kvisthamra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.27975460122699386
+  },
+  {
+    "basomrade": "6121000_malsta_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16289592760180996
+  },
+  {
+    "basomrade": "6122000_loharads_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11567164179104478
+  },
+  {
+    "basomrade": "6123100_svanberga",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1568627450980392
+  },
+  {
+    "basomrade": "6123210_farsna",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1569620253164557
+  },
+  {
+    "basomrade": "6123220_sodra_estuna",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13333333333333333
+  },
+  {
+    "basomrade": "6123500_estuna_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11683848797250859
+  },
+  {
+    "basomrade": "6125000_roslags_bro",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1506276150627615
+  },
+  {
+    "basomrade": "6126500_vato_fastland",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1493212669683258
+  },
+  {
+    "basomrade": "6126600_vato",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14285714285714285
+  },
+  {
+    "basomrade": "6131100_sodersvik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21551724137931033
+  },
+  {
+    "basomrade": "6131501_radmansolandet",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15088757396449703
+  },
+  {
+    "basomrade": "6131502_graddo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16666666666666666
+  },
+  {
+    "basomrade": "6132120_osthamra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18840579710144928
+  },
+  {
+    "basomrade": "6132200_frotuna",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19753086419753085
+  },
+  {
+    "basomrade": "6132501_frotuna_o_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14934289127837516
+  },
+  {
+    "basomrade": "6132502_spillersboda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19135802469135801
+  },
+  {
+    "basomrade": "6133100_furusund",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.22413793103448276
+  },
+  {
+    "basomrade": "6133200_kopmanholm",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.25
+  },
+  {
+    "basomrade": "6133600_yxlan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11403508771929824
+  },
+  {
+    "basomrade": "6133700_blido",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15658362989323843
+  },
+  {
+    "basomrade": "6134100_bergshamra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16095890410958905
+  },
+  {
+    "basomrade": "6134510_lanna_fastland",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1563106796116505
+  },
+  {
+    "basomrade": "6134520_svartno",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14925373134328357
+  },
+  {
+    "basomrade": "6135000_riala_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.10909090909090909
+  },
+  {
+    "basomrade": "6141110_sodra_rimbo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11624649859943978
+  },
+  {
+    "basomrade": "6141120_hasta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1259259259259259
+  },
+  {
+    "basomrade": "6141130_vastertorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11350844277673545
+  },
+  {
+    "basomrade": "6141500_rimbo_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2016
+  },
+  {
+    "basomrade": "6142100_ranas",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.09427609427609428
+  },
+  {
+    "basomrade": "6142500_fasterna_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1458966565349544
+  },
+  {
+    "basomrade": "6143100_edsbro",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.091324200913242
+  },
+  {
+    "basomrade": "6143500_edsbro_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11716621253405994
+  },
+  {
+    "basomrade": "6144000_skederids_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13733905579399142
+  },
+  {
+    "basomrade": "6145000_husby_sjuhundra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.183206106870229
+  },
+  {
+    "basomrade": "6146000_ro_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15434083601286175
+  },
+  {
+    "basomrade": "6147000_nartuna_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1676300578034682
+  },
+  {
+    "basomrade": "6148000_gottrora_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.09615384615384616
+  },
+  {
+    "basomrade": "6151100_ostra_hallstavik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.07858328721638075
+  },
+  {
+    "basomrade": "6151200_herrang",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.08771929824561403
+  },
+  {
+    "basomrade": "6151500_havero_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.10642570281124498
+  },
+  {
+    "basomrade": "6152100_vastra_hallstavik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.04712041884816754
+  },
+  {
+    "basomrade": "6152500_edebo_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.0959409594095941
+  },
+  {
+    "basomrade": "6154100_skebobruk",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13414634146341464
+  },
+  {
+    "basomrade": "6154500_ununge_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.136986301369863
+  },
+  {
+    "basomrade": "6161000_singo_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1910828025477707
+  },
+  {
+    "basomrade": "6162100_almsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11546840958605664
+  },
+  {
+    "basomrade": "6162200_grisslehamn",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.0851063829787234
+  },
+  {
+    "basomrade": "6162510_vaddo_fastland",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.134375
+  },
+  {
+    "basomrade": "6162520_vaddo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15212981744421908
+  },
+  {
+    "basomrade": "6163500_bjorko",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23076923076923078
+  },
+  {
+    "basomrade": "6164100_soderby_karl",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1111111111111111
+  },
+  {
+    "basomrade": "6164500_soderby_karls_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15577889447236182
+  },
+  {
+    "basomrade": "3510110_gamla_marsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17859327217125381
+  },
+  {
+    "basomrade": "3510120_marsta_kyrka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.23008849557522124
+  },
+  {
+    "basomrade": "3510130_tingvalla",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15356151711378355
+  },
+  {
+    "basomrade": "3510140_ekillatorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1643835616438356
+  },
+  {
+    "basomrade": "3510150_sodra_ekilla",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13286713286713286
+  },
+  {
+    "basomrade": "3510160_marsta_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18571428571428572
+  },
+  {
+    "basomrade": "3510210_ostra_norrbacka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.171875
+  },
+  {
+    "basomrade": "3510220_vastra_norrbacka",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.20126782884310618
+  },
+  {
+    "basomrade": "3510260_norra_ekilla",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15816326530612246
+  },
+  {
+    "basomrade": "3510270_ostra_arenberga",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1977401129943503
+  },
+  {
+    "basomrade": "3510280_satuna",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17865253595760788
+  },
+  {
+    "basomrade": "3510450_marsta_vastra_glesbygd_marsta_maby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18032786885245902
+  },
+  {
+    "basomrade": "3522020_ostra_sigtuna",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.31561461794019935
+  },
+  {
+    "basomrade": "3522030_gamla_sigtuna",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.35555555555555557
+  },
+  {
+    "basomrade": "3522040_brannbo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16913319238900634
+  },
+  {
+    "basomrade": "3522050_prastangen_och_hallsbo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.29476584022038566
+  },
+  {
+    "basomrade": "3522060_sjudargarden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.36904761904761907
+  },
+  {
+    "basomrade": "3532010_munkholmen",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2596830985915493
+  },
+  {
+    "basomrade": "3534030_sankt_olofs_glesbygd_pilsbo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.36346153846153845
+  },
+  {
+    "basomrade": "3541000_sankt_pers_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21301775147928995
+  },
+  {
+    "basomrade": "3542000_haga_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.29457364341085274
+  },
+  {
+    "basomrade": "3551110_norra_valsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.15058670143415906
+  },
+  {
+    "basomrade": "3551120_valsta_centrum",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13406156901688182
+  },
+  {
+    "basomrade": "3551130_sodra_valsta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11373390557939914
+  },
+  {
+    "basomrade": "3551140_ostra_steninge",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16786414108425865
+  },
+  {
+    "basomrade": "3551150_steninge_gard",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.2593283582089552
+  },
+  {
+    "basomrade": "3560210_rosersbergs_bostadsomr",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.18922018348623854
+  },
+  {
+    "basomrade": "3560500_rosersbergs_nya_arbetsomr_arlanda_stad_ost_norrsunda_glesbygd_brista_varmeverk",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.13100436681222707
+  },
+  {
+    "basomrade": "3560610_sodra_skanela",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12320916905444126
+  },
+  {
+    "basomrade": "3580100_skepptuna_fd_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1453287197231834
+  },
+  {
+    "basomrade": "3580210_ostra_lunda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11065573770491803
+  },
+  {
+    "basomrade": "3580300_vidbo_fd_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11797752808988764
+  },
+  {
+    "basomrade": "6210240_nicksta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12054001928640308
+  },
+  {
+    "basomrade": "6210270_kallsmo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1919191919191919
+  },
+  {
+    "basomrade": "6210350_vastra_nynashamn_c",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14527421236872812
+  },
+  {
+    "basomrade": "6210360_ostra_nynashamn_c",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.19032921810699588
+  },
+  {
+    "basomrade": "6210410_nynashamn_sv_esto",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21549295774647886
+  },
+  {
+    "basomrade": "6210440_sandhamn_mm",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16243654822335024
+  },
+  {
+    "basomrade": "6210490_trehorningen_mm",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21739130434782608
+  },
+  {
+    "basomrade": "6210520_vaktberget",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14623655913978495
+  },
+  {
+    "basomrade": "6210570_rappsta_hacktorp",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.16937354988399073
+  },
+  {
+    "basomrade": "6210640_hamnvik",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1797752808988764
+  },
+  {
+    "basomrade": "6220100_sorunda",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.10243055555555555
+  },
+  {
+    "basomrade": "6220200_stora_vika",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.11581920903954802
+  },
+  {
+    "basomrade": "6220300_grodby",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1927710843373494
+  },
+  {
+    "basomrade": "6220510_liso",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.10849056603773585
+  },
+  {
+    "basomrade": "6220520_sorunda_vastra_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1203599550056243
+  },
+  {
+    "basomrade": "6220530_sorunda_ostra_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.14082503556187767
+  },
+  {
+    "basomrade": "6230000_toro_forsamling",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.1169811320754717
+  },
+  {
+    "basomrade": "6240100_osmo",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12279792746113989
+  },
+  {
+    "basomrade": "6240510_jarflotta",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.12307692307692308
+  },
+  {
+    "basomrade": "6240530_osmo_ostra_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17475728155339806
+  },
+  {
+    "basomrade": "6240540_osmo_vastra_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.17061611374407584
+  },
+  {
+    "basomrade": "6240550_osmo_norra_glesbygd",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.21499448732083792
+  },
+  {
+    "basomrade": "3720720_filmstaden",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5810473815461347
+  },
+  {
+    "basomrade": "3710110_jarvafaltet_jarvastaden_norra_jarvastaden_sodra_jarvastaden_ostra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5781694144400228
+  },
+  {
+    "basomrade": "3810821_kymlinge_brotorp_stora_ursvik_norra",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5676470588235294
+  },
+  {
+    "basomrade": "4010120_skallsta_vastra_raby_garde",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.36633663366336633
+  },
+  {
+    "basomrade": "1120132_norra_bantorget_v",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.47752808988764045
+  },
+  {
+    "basomrade": "1320330_lindhagensplan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.5961538461538461
+  },
+  {
+    "basomrade": "3710150_bangarden_nationalarenan",
+    "year": "2014",
+    "post_secondary_education_min_3_years_aged_25_64": 0.4634146341463415
+  }
+]

@@ -29,6 +29,8 @@ export class GenericExpectationStrategy extends AbstractExpectationStrategy {
     const fixtureDataStr = JSON.stringify(fixtureData, null, 2);
     const dataStr = JSON.stringify(data, null, 2);
 
+    // console.log(dataStr);
+
     expect(!err).to.be.true;
     expect(data.length).to.equal(fixtureData.length);
     try {

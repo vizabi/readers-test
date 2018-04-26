@@ -1,0 +1,4822 @@
+[
+  {
+    "geo": "rus",
+    "time": "1800",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1430
+  },
+  {
+    "geo": "chn",
+    "time": "1800",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "usa",
+    "time": "1800",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2128
+  },
+  {
+    "geo": "nga",
+    "time": "1800",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 851
+  },
+  {
+    "geo": "rus",
+    "time": "1801",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1432
+  },
+  {
+    "geo": "usa",
+    "time": "1801",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2168
+  },
+  {
+    "geo": "nga",
+    "time": "1801",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 853
+  },
+  {
+    "geo": "chn",
+    "time": "1801",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "chn",
+    "time": "1802",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "usa",
+    "time": "1802",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2203
+  },
+  {
+    "geo": "nga",
+    "time": "1802",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 854
+  },
+  {
+    "geo": "rus",
+    "time": "1802",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1433
+  },
+  {
+    "geo": "nga",
+    "time": "1803",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 856
+  },
+  {
+    "geo": "usa",
+    "time": "1803",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2167
+  },
+  {
+    "geo": "rus",
+    "time": "1803",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1435
+  },
+  {
+    "geo": "chn",
+    "time": "1803",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "chn",
+    "time": "1804",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "usa",
+    "time": "1804",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2166
+  },
+  {
+    "geo": "rus",
+    "time": "1804",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1437
+  },
+  {
+    "geo": "nga",
+    "time": "1804",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 857
+  },
+  {
+    "geo": "chn",
+    "time": "1805",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "rus",
+    "time": "1805",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1439
+  },
+  {
+    "geo": "nga",
+    "time": "1805",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 859
+  },
+  {
+    "geo": "usa",
+    "time": "1805",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2211
+  },
+  {
+    "geo": "rus",
+    "time": "1806",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1440
+  },
+  {
+    "geo": "nga",
+    "time": "1806",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 860
+  },
+  {
+    "geo": "usa",
+    "time": "1806",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2252
+  },
+  {
+    "geo": "chn",
+    "time": "1806",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "nga",
+    "time": "1807",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 862
+  },
+  {
+    "geo": "rus",
+    "time": "1807",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1442
+  },
+  {
+    "geo": "usa",
+    "time": "1807",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2274
+  },
+  {
+    "geo": "chn",
+    "time": "1807",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "usa",
+    "time": "1808",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2115
+  },
+  {
+    "geo": "rus",
+    "time": "1808",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1444
+  },
+  {
+    "geo": "nga",
+    "time": "1808",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 864
+  },
+  {
+    "geo": "chn",
+    "time": "1808",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "chn",
+    "time": "1809",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "usa",
+    "time": "1809",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2218
+  },
+  {
+    "geo": "nga",
+    "time": "1809",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 865
+  },
+  {
+    "geo": "rus",
+    "time": "1809",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1445
+  },
+  {
+    "geo": "chn",
+    "time": "1810",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "rus",
+    "time": "1810",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1447
+  },
+  {
+    "geo": "nga",
+    "time": "1810",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 867
+  },
+  {
+    "geo": "usa",
+    "time": "1810",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2283
+  },
+  {
+    "geo": "rus",
+    "time": "1811",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1449
+  },
+  {
+    "geo": "nga",
+    "time": "1811",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 868
+  },
+  {
+    "geo": "usa",
+    "time": "1811",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2328
+  },
+  {
+    "geo": "chn",
+    "time": "1811",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "usa",
+    "time": "1812",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2289
+  },
+  {
+    "geo": "nga",
+    "time": "1812",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 870
+  },
+  {
+    "geo": "rus",
+    "time": "1812",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1451
+  },
+  {
+    "geo": "chn",
+    "time": "1812",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "rus",
+    "time": "1813",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1452
+  },
+  {
+    "geo": "chn",
+    "time": "1813",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "usa",
+    "time": "1813",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2314
+  },
+  {
+    "geo": "nga",
+    "time": "1813",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 871
+  },
+  {
+    "geo": "rus",
+    "time": "1814",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1454
+  },
+  {
+    "geo": "usa",
+    "time": "1814",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2358
+  },
+  {
+    "geo": "nga",
+    "time": "1814",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 873
+  },
+  {
+    "geo": "chn",
+    "time": "1814",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "nga",
+    "time": "1815",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 874
+  },
+  {
+    "geo": "usa",
+    "time": "1815",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2349
+  },
+  {
+    "geo": "rus",
+    "time": "1815",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1456
+  },
+  {
+    "geo": "chn",
+    "time": "1815",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "nga",
+    "time": "1816",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 876
+  },
+  {
+    "geo": "usa",
+    "time": "1816",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2254
+  },
+  {
+    "geo": "chn",
+    "time": "1816",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "rus",
+    "time": "1816",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1457
+  },
+  {
+    "geo": "usa",
+    "time": "1817",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2252
+  },
+  {
+    "geo": "rus",
+    "time": "1817",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1459
+  },
+  {
+    "geo": "nga",
+    "time": "1817",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 878
+  },
+  {
+    "geo": "chn",
+    "time": "1817",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "nga",
+    "time": "1818",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 879
+  },
+  {
+    "geo": "usa",
+    "time": "1818",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2259
+  },
+  {
+    "geo": "rus",
+    "time": "1818",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1461
+  },
+  {
+    "geo": "chn",
+    "time": "1818",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "nga",
+    "time": "1819",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 881
+  },
+  {
+    "geo": "rus",
+    "time": "1819",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1463
+  },
+  {
+    "geo": "usa",
+    "time": "1819",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2255
+  },
+  {
+    "geo": "chn",
+    "time": "1819",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "usa",
+    "time": "1820",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2242
+  },
+  {
+    "geo": "rus",
+    "time": "1820",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1464
+  },
+  {
+    "geo": "chn",
+    "time": "1820",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "nga",
+    "time": "1820",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 882
+  },
+  {
+    "geo": "chn",
+    "time": "1821",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "nga",
+    "time": "1821",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 886
+  },
+  {
+    "geo": "rus",
+    "time": "1821",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1474
+  },
+  {
+    "geo": "usa",
+    "time": "1821",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2277
+  },
+  {
+    "geo": "nga",
+    "time": "1822",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 890
+  },
+  {
+    "geo": "rus",
+    "time": "1822",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1483
+  },
+  {
+    "geo": "usa",
+    "time": "1822",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2340
+  },
+  {
+    "geo": "chn",
+    "time": "1822",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "chn",
+    "time": "1823",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "nga",
+    "time": "1823",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 894
+  },
+  {
+    "geo": "usa",
+    "time": "1823",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2315
+  },
+  {
+    "geo": "rus",
+    "time": "1823",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1493
+  },
+  {
+    "geo": "usa",
+    "time": "1824",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2378
+  },
+  {
+    "geo": "chn",
+    "time": "1824",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "nga",
+    "time": "1824",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 898
+  },
+  {
+    "geo": "rus",
+    "time": "1824",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1503
+  },
+  {
+    "geo": "nga",
+    "time": "1825",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 903
+  },
+  {
+    "geo": "usa",
+    "time": "1825",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2432
+  },
+  {
+    "geo": "chn",
+    "time": "1825",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "rus",
+    "time": "1825",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1513
+  },
+  {
+    "geo": "chn",
+    "time": "1826",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "nga",
+    "time": "1826",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 907
+  },
+  {
+    "geo": "usa",
+    "time": "1826",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2448
+  },
+  {
+    "geo": "rus",
+    "time": "1826",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1522
+  },
+  {
+    "geo": "usa",
+    "time": "1827",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2459
+  },
+  {
+    "geo": "chn",
+    "time": "1827",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "nga",
+    "time": "1827",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 911
+  },
+  {
+    "geo": "rus",
+    "time": "1827",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1532
+  },
+  {
+    "geo": "nga",
+    "time": "1828",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 915
+  },
+  {
+    "geo": "usa",
+    "time": "1828",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2459
+  },
+  {
+    "geo": "chn",
+    "time": "1828",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "rus",
+    "time": "1828",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1542
+  },
+  {
+    "geo": "chn",
+    "time": "1829",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 986
+  },
+  {
+    "geo": "nga",
+    "time": "1829",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 919
+  },
+  {
+    "geo": "usa",
+    "time": "1829",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2379
+  },
+  {
+    "geo": "rus",
+    "time": "1829",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1552
+  },
+  {
+    "geo": "usa",
+    "time": "1830",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2552
+  },
+  {
+    "geo": "chn",
+    "time": "1830",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 986
+  },
+  {
+    "geo": "nga",
+    "time": "1830",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 923
+  },
+  {
+    "geo": "rus",
+    "time": "1830",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1562
+  },
+  {
+    "geo": "nga",
+    "time": "1831",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 928
+  },
+  {
+    "geo": "usa",
+    "time": "1831",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2709
+  },
+  {
+    "geo": "chn",
+    "time": "1831",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 986
+  },
+  {
+    "geo": "rus",
+    "time": "1831",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1572
+  },
+  {
+    "geo": "chn",
+    "time": "1832",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 986
+  },
+  {
+    "geo": "nga",
+    "time": "1832",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 932
+  },
+  {
+    "geo": "usa",
+    "time": "1832",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2807
+  },
+  {
+    "geo": "rus",
+    "time": "1832",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1583
+  },
+  {
+    "geo": "usa",
+    "time": "1833",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2906
+  },
+  {
+    "geo": "chn",
+    "time": "1833",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 986
+  },
+  {
+    "geo": "nga",
+    "time": "1833",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 936
+  },
+  {
+    "geo": "rus",
+    "time": "1833",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1593
+  },
+  {
+    "geo": "nga",
+    "time": "1834",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 940
+  },
+  {
+    "geo": "usa",
+    "time": "1834",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2768
+  },
+  {
+    "geo": "chn",
+    "time": "1834",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 986
+  },
+  {
+    "geo": "rus",
+    "time": "1834",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1603
+  },
+  {
+    "geo": "chn",
+    "time": "1835",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 986
+  },
+  {
+    "geo": "nga",
+    "time": "1835",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 945
+  },
+  {
+    "geo": "usa",
+    "time": "1835",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2874
+  },
+  {
+    "geo": "rus",
+    "time": "1835",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1613
+  },
+  {
+    "geo": "usa",
+    "time": "1836",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2916
+  },
+  {
+    "geo": "chn",
+    "time": "1836",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 986
+  },
+  {
+    "geo": "nga",
+    "time": "1836",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 949
+  },
+  {
+    "geo": "rus",
+    "time": "1836",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1624
+  },
+  {
+    "geo": "nga",
+    "time": "1837",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 953
+  },
+  {
+    "geo": "usa",
+    "time": "1837",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2826
+  },
+  {
+    "geo": "chn",
+    "time": "1837",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 986
+  },
+  {
+    "geo": "rus",
+    "time": "1837",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1634
+  },
+  {
+    "geo": "rus",
+    "time": "1838",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1645
+  },
+  {
+    "geo": "nga",
+    "time": "1838",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 958
+  },
+  {
+    "geo": "usa",
+    "time": "1838",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2800
+  },
+  {
+    "geo": "chn",
+    "time": "1838",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 986
+  },
+  {
+    "geo": "nga",
+    "time": "1839",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 962
+  },
+  {
+    "geo": "usa",
+    "time": "1839",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2937
+  },
+  {
+    "geo": "rus",
+    "time": "1839",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1656
+  },
+  {
+    "geo": "chn",
+    "time": "1839",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 986
+  },
+  {
+    "geo": "rus",
+    "time": "1840",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1666
+  },
+  {
+    "geo": "usa",
+    "time": "1840",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2792
+  },
+  {
+    "geo": "nga",
+    "time": "1840",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 966
+  },
+  {
+    "geo": "chn",
+    "time": "1840",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 986
+  },
+  {
+    "geo": "chn",
+    "time": "1841",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1031
+  },
+  {
+    "geo": "usa",
+    "time": "1841",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2735
+  },
+  {
+    "geo": "nga",
+    "time": "1841",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 971
+  },
+  {
+    "geo": "rus",
+    "time": "1841",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1677
+  },
+  {
+    "geo": "chn",
+    "time": "1842",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1033
+  },
+  {
+    "geo": "usa",
+    "time": "1842",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2712
+  },
+  {
+    "geo": "rus",
+    "time": "1842",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1688
+  },
+  {
+    "geo": "nga",
+    "time": "1842",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 975
+  },
+  {
+    "geo": "nga",
+    "time": "1843",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 980
+  },
+  {
+    "geo": "usa",
+    "time": "1843",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2754
+  },
+  {
+    "geo": "rus",
+    "time": "1843",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1699
+  },
+  {
+    "geo": "chn",
+    "time": "1843",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 999
+  },
+  {
+    "geo": "rus",
+    "time": "1844",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1710
+  },
+  {
+    "geo": "nga",
+    "time": "1844",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 984
+  },
+  {
+    "geo": "usa",
+    "time": "1844",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2905
+  },
+  {
+    "geo": "chn",
+    "time": "1844",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 973
+  },
+  {
+    "geo": "chn",
+    "time": "1845",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 980
+  },
+  {
+    "geo": "usa",
+    "time": "1845",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2951
+  },
+  {
+    "geo": "nga",
+    "time": "1845",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 989
+  },
+  {
+    "geo": "rus",
+    "time": "1845",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1721
+  },
+  {
+    "geo": "usa",
+    "time": "1846",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2968
+  },
+  {
+    "geo": "chn",
+    "time": "1846",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 980
+  },
+  {
+    "geo": "nga",
+    "time": "1846",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 993
+  },
+  {
+    "geo": "rus",
+    "time": "1846",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1732
+  },
+  {
+    "geo": "chn",
+    "time": "1847",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 986
+  },
+  {
+    "geo": "rus",
+    "time": "1847",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1744
+  },
+  {
+    "geo": "usa",
+    "time": "1847",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3046
+  },
+  {
+    "geo": "nga",
+    "time": "1847",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 998
+  },
+  {
+    "geo": "nga",
+    "time": "1848",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1002
+  },
+  {
+    "geo": "usa",
+    "time": "1848",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3126
+  },
+  {
+    "geo": "chn",
+    "time": "1848",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 995
+  },
+  {
+    "geo": "rus",
+    "time": "1848",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1755
+  },
+  {
+    "geo": "nga",
+    "time": "1849",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1007
+  },
+  {
+    "geo": "usa",
+    "time": "1849",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3046
+  },
+  {
+    "geo": "chn",
+    "time": "1849",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 992
+  },
+  {
+    "geo": "rus",
+    "time": "1849",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1766
+  },
+  {
+    "geo": "rus",
+    "time": "1850",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1778
+  },
+  {
+    "geo": "usa",
+    "time": "1850",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3059
+  },
+  {
+    "geo": "nga",
+    "time": "1850",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1011
+  },
+  {
+    "geo": "chn",
+    "time": "1850",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 985
+  },
+  {
+    "geo": "nga",
+    "time": "1851",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1016
+  },
+  {
+    "geo": "usa",
+    "time": "1851",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3184
+  },
+  {
+    "geo": "rus",
+    "time": "1851",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1789
+  },
+  {
+    "geo": "chn",
+    "time": "1851",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 975
+  },
+  {
+    "geo": "nga",
+    "time": "1852",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1020
+  },
+  {
+    "geo": "chn",
+    "time": "1852",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1017
+  },
+  {
+    "geo": "rus",
+    "time": "1852",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1801
+  },
+  {
+    "geo": "usa",
+    "time": "1852",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3347
+  },
+  {
+    "geo": "rus",
+    "time": "1853",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1812
+  },
+  {
+    "geo": "chn",
+    "time": "1853",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1011
+  },
+  {
+    "geo": "usa",
+    "time": "1853",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3576
+  },
+  {
+    "geo": "nga",
+    "time": "1853",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1025
+  },
+  {
+    "geo": "chn",
+    "time": "1854",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 991
+  },
+  {
+    "geo": "usa",
+    "time": "1854",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3586
+  },
+  {
+    "geo": "rus",
+    "time": "1854",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1824
+  },
+  {
+    "geo": "nga",
+    "time": "1854",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1030
+  },
+  {
+    "geo": "usa",
+    "time": "1855",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3507
+  },
+  {
+    "geo": "rus",
+    "time": "1855",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1836
+  },
+  {
+    "geo": "chn",
+    "time": "1855",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 984
+  },
+  {
+    "geo": "nga",
+    "time": "1855",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1034
+  },
+  {
+    "geo": "chn",
+    "time": "1856",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1013
+  },
+  {
+    "geo": "usa",
+    "time": "1856",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3582
+  },
+  {
+    "geo": "nga",
+    "time": "1856",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1039
+  },
+  {
+    "geo": "rus",
+    "time": "1856",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1848
+  },
+  {
+    "geo": "chn",
+    "time": "1857",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 999
+  },
+  {
+    "geo": "usa",
+    "time": "1857",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3503
+  },
+  {
+    "geo": "rus",
+    "time": "1857",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1860
+  },
+  {
+    "geo": "nga",
+    "time": "1857",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1044
+  },
+  {
+    "geo": "chn",
+    "time": "1858",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1029
+  },
+  {
+    "geo": "rus",
+    "time": "1858",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1872
+  },
+  {
+    "geo": "nga",
+    "time": "1858",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1049
+  },
+  {
+    "geo": "usa",
+    "time": "1858",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3522
+  },
+  {
+    "geo": "nga",
+    "time": "1859",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1053
+  },
+  {
+    "geo": "usa",
+    "time": "1859",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3617
+  },
+  {
+    "geo": "rus",
+    "time": "1859",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1884
+  },
+  {
+    "geo": "chn",
+    "time": "1859",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1007
+  },
+  {
+    "geo": "nga",
+    "time": "1860",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1058
+  },
+  {
+    "geo": "usa",
+    "time": "1860",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3714
+  },
+  {
+    "geo": "rus",
+    "time": "1860",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1896
+  },
+  {
+    "geo": "chn",
+    "time": "1860",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1023
+  },
+  {
+    "geo": "usa",
+    "time": "1861",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3638
+  },
+  {
+    "geo": "nga",
+    "time": "1861",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1063
+  },
+  {
+    "geo": "rus",
+    "time": "1861",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1909
+  },
+  {
+    "geo": "chn",
+    "time": "1861",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1044
+  },
+  {
+    "geo": "usa",
+    "time": "1862",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3751
+  },
+  {
+    "geo": "nga",
+    "time": "1862",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1068
+  },
+  {
+    "geo": "chn",
+    "time": "1862",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1074
+  },
+  {
+    "geo": "rus",
+    "time": "1862",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1921
+  },
+  {
+    "geo": "chn",
+    "time": "1863",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1095
+  },
+  {
+    "geo": "rus",
+    "time": "1863",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1933
+  },
+  {
+    "geo": "nga",
+    "time": "1863",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1073
+  },
+  {
+    "geo": "usa",
+    "time": "1863",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3995
+  },
+  {
+    "geo": "usa",
+    "time": "1864",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4127
+  },
+  {
+    "geo": "chn",
+    "time": "1864",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1098
+  },
+  {
+    "geo": "rus",
+    "time": "1864",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1946
+  },
+  {
+    "geo": "nga",
+    "time": "1864",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1078
+  },
+  {
+    "geo": "chn",
+    "time": "1865",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1066
+  },
+  {
+    "geo": "usa",
+    "time": "1865",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3914
+  },
+  {
+    "geo": "rus",
+    "time": "1865",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1959
+  },
+  {
+    "geo": "nga",
+    "time": "1865",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1083
+  },
+  {
+    "geo": "usa",
+    "time": "1866",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3884
+  },
+  {
+    "geo": "nga",
+    "time": "1866",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1088
+  },
+  {
+    "geo": "rus",
+    "time": "1866",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1971
+  },
+  {
+    "geo": "chn",
+    "time": "1866",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1087
+  },
+  {
+    "geo": "chn",
+    "time": "1867",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1087
+  },
+  {
+    "geo": "nga",
+    "time": "1867",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1093
+  },
+  {
+    "geo": "usa",
+    "time": "1867",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4013
+  },
+  {
+    "geo": "rus",
+    "time": "1867",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1984
+  },
+  {
+    "geo": "rus",
+    "time": "1868",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1997
+  },
+  {
+    "geo": "nga",
+    "time": "1868",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1097
+  },
+  {
+    "geo": "chn",
+    "time": "1868",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1113
+  },
+  {
+    "geo": "usa",
+    "time": "1868",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4066
+  },
+  {
+    "geo": "chn",
+    "time": "1869",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1101
+  },
+  {
+    "geo": "nga",
+    "time": "1869",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1102
+  },
+  {
+    "geo": "rus",
+    "time": "1869",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2010
+  },
+  {
+    "geo": "usa",
+    "time": "1869",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4175
+  },
+  {
+    "geo": "usa",
+    "time": "1870",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4058
+  },
+  {
+    "geo": "chn",
+    "time": "1870",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1099
+  },
+  {
+    "geo": "nga",
+    "time": "1870",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1108
+  },
+  {
+    "geo": "rus",
+    "time": "1870",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2023
+  },
+  {
+    "geo": "rus",
+    "time": "1871",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2036
+  },
+  {
+    "geo": "usa",
+    "time": "1871",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4154
+  },
+  {
+    "geo": "chn",
+    "time": "1871",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1084
+  },
+  {
+    "geo": "nga",
+    "time": "1871",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1113
+  },
+  {
+    "geo": "rus",
+    "time": "1872",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2049
+  },
+  {
+    "geo": "usa",
+    "time": "1872",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4218
+  },
+  {
+    "geo": "chn",
+    "time": "1872",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1090
+  },
+  {
+    "geo": "nga",
+    "time": "1872",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1118
+  },
+  {
+    "geo": "usa",
+    "time": "1873",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4323
+  },
+  {
+    "geo": "chn",
+    "time": "1873",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1057
+  },
+  {
+    "geo": "nga",
+    "time": "1873",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1123
+  },
+  {
+    "geo": "rus",
+    "time": "1873",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2062
+  },
+  {
+    "geo": "chn",
+    "time": "1874",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1000
+  },
+  {
+    "geo": "rus",
+    "time": "1874",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2076
+  },
+  {
+    "geo": "usa",
+    "time": "1874",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4196
+  },
+  {
+    "geo": "nga",
+    "time": "1874",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1128
+  },
+  {
+    "geo": "rus",
+    "time": "1875",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2089
+  },
+  {
+    "geo": "nga",
+    "time": "1875",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1133
+  },
+  {
+    "geo": "usa",
+    "time": "1875",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4316
+  },
+  {
+    "geo": "chn",
+    "time": "1875",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1026
+  },
+  {
+    "geo": "rus",
+    "time": "1876",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2103
+  },
+  {
+    "geo": "usa",
+    "time": "1876",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4269
+  },
+  {
+    "geo": "chn",
+    "time": "1876",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1061
+  },
+  {
+    "geo": "nga",
+    "time": "1876",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1138
+  },
+  {
+    "geo": "rus",
+    "time": "1877",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2116
+  },
+  {
+    "geo": "chn",
+    "time": "1877",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1001
+  },
+  {
+    "geo": "nga",
+    "time": "1877",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1143
+  },
+  {
+    "geo": "usa",
+    "time": "1877",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4311
+  },
+  {
+    "geo": "chn",
+    "time": "1878",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1014
+  },
+  {
+    "geo": "nga",
+    "time": "1878",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1149
+  },
+  {
+    "geo": "rus",
+    "time": "1878",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2130
+  },
+  {
+    "geo": "usa",
+    "time": "1878",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4396
+  },
+  {
+    "geo": "usa",
+    "time": "1879",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4834
+  },
+  {
+    "geo": "nga",
+    "time": "1879",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1154
+  },
+  {
+    "geo": "rus",
+    "time": "1879",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2144
+  },
+  {
+    "geo": "chn",
+    "time": "1879",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1031
+  },
+  {
+    "geo": "rus",
+    "time": "1880",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2158
+  },
+  {
+    "geo": "chn",
+    "time": "1880",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1015
+  },
+  {
+    "geo": "nga",
+    "time": "1880",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1159
+  },
+  {
+    "geo": "usa",
+    "time": "1880",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5292
+  },
+  {
+    "geo": "nga",
+    "time": "1881",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1164
+  },
+  {
+    "geo": "rus",
+    "time": "1881",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2172
+  },
+  {
+    "geo": "chn",
+    "time": "1881",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1011
+  },
+  {
+    "geo": "usa",
+    "time": "1881",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5344
+  },
+  {
+    "geo": "rus",
+    "time": "1882",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2186
+  },
+  {
+    "geo": "nga",
+    "time": "1882",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1170
+  },
+  {
+    "geo": "usa",
+    "time": "1882",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5549
+  },
+  {
+    "geo": "chn",
+    "time": "1882",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1003
+  },
+  {
+    "geo": "usa",
+    "time": "1883",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5552
+  },
+  {
+    "geo": "nga",
+    "time": "1883",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1175
+  },
+  {
+    "geo": "chn",
+    "time": "1883",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1005
+  },
+  {
+    "geo": "rus",
+    "time": "1883",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2200
+  },
+  {
+    "geo": "rus",
+    "time": "1884",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2214
+  },
+  {
+    "geo": "nga",
+    "time": "1884",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1180
+  },
+  {
+    "geo": "chn",
+    "time": "1884",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 977
+  },
+  {
+    "geo": "usa",
+    "time": "1884",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5521
+  },
+  {
+    "geo": "usa",
+    "time": "1885",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5439
+  },
+  {
+    "geo": "nga",
+    "time": "1885",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1186
+  },
+  {
+    "geo": "chn",
+    "time": "1885",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 974
+  },
+  {
+    "geo": "rus",
+    "time": "1885",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2229
+  },
+  {
+    "geo": "nga",
+    "time": "1886",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1191
+  },
+  {
+    "geo": "usa",
+    "time": "1886",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5479
+  },
+  {
+    "geo": "chn",
+    "time": "1886",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 959
+  },
+  {
+    "geo": "rus",
+    "time": "1886",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2143
+  },
+  {
+    "geo": "usa",
+    "time": "1887",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5603
+  },
+  {
+    "geo": "chn",
+    "time": "1887",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 940
+  },
+  {
+    "geo": "nga",
+    "time": "1887",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1197
+  },
+  {
+    "geo": "rus",
+    "time": "1887",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2506
+  },
+  {
+    "geo": "rus",
+    "time": "1888",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2411
+  },
+  {
+    "geo": "usa",
+    "time": "1888",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5461
+  },
+  {
+    "geo": "chn",
+    "time": "1888",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 945
+  },
+  {
+    "geo": "nga",
+    "time": "1888",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1202
+  },
+  {
+    "geo": "nga",
+    "time": "1889",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1207
+  },
+  {
+    "geo": "rus",
+    "time": "1889",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2242
+  },
+  {
+    "geo": "usa",
+    "time": "1889",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5680
+  },
+  {
+    "geo": "chn",
+    "time": "1889",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 955
+  },
+  {
+    "geo": "rus",
+    "time": "1890",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2233
+  },
+  {
+    "geo": "chn",
+    "time": "1890",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 918
+  },
+  {
+    "geo": "nga",
+    "time": "1890",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1213
+  },
+  {
+    "geo": "usa",
+    "time": "1890",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5646
+  },
+  {
+    "geo": "usa",
+    "time": "1891",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5772
+  },
+  {
+    "geo": "nga",
+    "time": "1891",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1218
+  },
+  {
+    "geo": "rus",
+    "time": "1891",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2046
+  },
+  {
+    "geo": "chn",
+    "time": "1891",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 933
+  },
+  {
+    "geo": "nga",
+    "time": "1892",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1224
+  },
+  {
+    "geo": "chn",
+    "time": "1892",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 916
+  },
+  {
+    "geo": "usa",
+    "time": "1892",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6207
+  },
+  {
+    "geo": "rus",
+    "time": "1892",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2240
+  },
+  {
+    "geo": "nga",
+    "time": "1893",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1230
+  },
+  {
+    "geo": "rus",
+    "time": "1893",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2539
+  },
+  {
+    "geo": "chn",
+    "time": "1893",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 921
+  },
+  {
+    "geo": "usa",
+    "time": "1893",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5792
+  },
+  {
+    "geo": "usa",
+    "time": "1894",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5519
+  },
+  {
+    "geo": "nga",
+    "time": "1894",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1235
+  },
+  {
+    "geo": "rus",
+    "time": "1894",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2887
+  },
+  {
+    "geo": "chn",
+    "time": "1894",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 911
+  },
+  {
+    "geo": "usa",
+    "time": "1895",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6070
+  },
+  {
+    "geo": "nga",
+    "time": "1895",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1241
+  },
+  {
+    "geo": "rus",
+    "time": "1895",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2672
+  },
+  {
+    "geo": "chn",
+    "time": "1895",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 940
+  },
+  {
+    "geo": "chn",
+    "time": "1896",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 895
+  },
+  {
+    "geo": "rus",
+    "time": "1896",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2944
+  },
+  {
+    "geo": "usa",
+    "time": "1896",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5837
+  },
+  {
+    "geo": "nga",
+    "time": "1896",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1246
+  },
+  {
+    "geo": "chn",
+    "time": "1897",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 904
+  },
+  {
+    "geo": "rus",
+    "time": "1897",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2895
+  },
+  {
+    "geo": "usa",
+    "time": "1897",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6280
+  },
+  {
+    "geo": "nga",
+    "time": "1897",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1252
+  },
+  {
+    "geo": "rus",
+    "time": "1898",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2972
+  },
+  {
+    "geo": "usa",
+    "time": "1898",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6299
+  },
+  {
+    "geo": "chn",
+    "time": "1898",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 876
+  },
+  {
+    "geo": "nga",
+    "time": "1898",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1258
+  },
+  {
+    "geo": "chn",
+    "time": "1899",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 882
+  },
+  {
+    "geo": "usa",
+    "time": "1899",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6752
+  },
+  {
+    "geo": "nga",
+    "time": "1899",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1264
+  },
+  {
+    "geo": "rus",
+    "time": "1899",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3154
+  },
+  {
+    "geo": "rus",
+    "time": "1900",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3087
+  },
+  {
+    "geo": "nga",
+    "time": "1900",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1269
+  },
+  {
+    "geo": "usa",
+    "time": "1900",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6819
+  },
+  {
+    "geo": "chn",
+    "time": "1900",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 894
+  },
+  {
+    "geo": "usa",
+    "time": "1901",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7442
+  },
+  {
+    "geo": "nga",
+    "time": "1901",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1275
+  },
+  {
+    "geo": "rus",
+    "time": "1901",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3165
+  },
+  {
+    "geo": "chn",
+    "time": "1901",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 893
+  },
+  {
+    "geo": "chn",
+    "time": "1902",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 922
+  },
+  {
+    "geo": "usa",
+    "time": "1902",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7372
+  },
+  {
+    "geo": "rus",
+    "time": "1902",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3439
+  },
+  {
+    "geo": "nga",
+    "time": "1902",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1281
+  },
+  {
+    "geo": "chn",
+    "time": "1903",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 916
+  },
+  {
+    "geo": "rus",
+    "time": "1903",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3203
+  },
+  {
+    "geo": "usa",
+    "time": "1903",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7589
+  },
+  {
+    "geo": "nga",
+    "time": "1903",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1287
+  },
+  {
+    "geo": "chn",
+    "time": "1904",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 936
+  },
+  {
+    "geo": "nga",
+    "time": "1904",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1293
+  },
+  {
+    "geo": "usa",
+    "time": "1904",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7355
+  },
+  {
+    "geo": "rus",
+    "time": "1904",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3542
+  },
+  {
+    "geo": "chn",
+    "time": "1905",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 856
+  },
+  {
+    "geo": "rus",
+    "time": "1905",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3136
+  },
+  {
+    "geo": "nga",
+    "time": "1905",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1299
+  },
+  {
+    "geo": "usa",
+    "time": "1905",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7744
+  },
+  {
+    "geo": "nga",
+    "time": "1906",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1304
+  },
+  {
+    "geo": "rus",
+    "time": "1906",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2997
+  },
+  {
+    "geo": "usa",
+    "time": "1906",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8474
+  },
+  {
+    "geo": "chn",
+    "time": "1906",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 898
+  },
+  {
+    "geo": "chn",
+    "time": "1907",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 917
+  },
+  {
+    "geo": "rus",
+    "time": "1907",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2881
+  },
+  {
+    "geo": "nga",
+    "time": "1907",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1310
+  },
+  {
+    "geo": "usa",
+    "time": "1907",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8452
+  },
+  {
+    "geo": "nga",
+    "time": "1908",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1316
+  },
+  {
+    "geo": "usa",
+    "time": "1908",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7612
+  },
+  {
+    "geo": "chn",
+    "time": "1908",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 945
+  },
+  {
+    "geo": "rus",
+    "time": "1908",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3146
+  },
+  {
+    "geo": "nga",
+    "time": "1909",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1322
+  },
+  {
+    "geo": "chn",
+    "time": "1909",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 956
+  },
+  {
+    "geo": "usa",
+    "time": "1909",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8374
+  },
+  {
+    "geo": "rus",
+    "time": "1909",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3267
+  },
+  {
+    "geo": "rus",
+    "time": "1910",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3487
+  },
+  {
+    "geo": "chn",
+    "time": "1910",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 991
+  },
+  {
+    "geo": "usa",
+    "time": "1910",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8287
+  },
+  {
+    "geo": "nga",
+    "time": "1910",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1328
+  },
+  {
+    "geo": "chn",
+    "time": "1911",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 983
+  },
+  {
+    "geo": "nga",
+    "time": "1911",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1334
+  },
+  {
+    "geo": "usa",
+    "time": "1911",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8416
+  },
+  {
+    "geo": "rus",
+    "time": "1911",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3222
+  },
+  {
+    "geo": "rus",
+    "time": "1912",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3481
+  },
+  {
+    "geo": "usa",
+    "time": "1912",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8666
+  },
+  {
+    "geo": "chn",
+    "time": "1912",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 938
+  },
+  {
+    "geo": "nga",
+    "time": "1912",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1341
+  },
+  {
+    "geo": "chn",
+    "time": "1913",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 936
+  },
+  {
+    "geo": "rus",
+    "time": "1913",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3658
+  },
+  {
+    "geo": "nga",
+    "time": "1913",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1347
+  },
+  {
+    "geo": "usa",
+    "time": "1913",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8824
+  },
+  {
+    "geo": "rus",
+    "time": "1914",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3494
+  },
+  {
+    "geo": "chn",
+    "time": "1914",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 946
+  },
+  {
+    "geo": "usa",
+    "time": "1914",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7981
+  },
+  {
+    "geo": "nga",
+    "time": "1914",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1371
+  },
+  {
+    "geo": "usa",
+    "time": "1915",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8081
+  },
+  {
+    "geo": "chn",
+    "time": "1915",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 957
+  },
+  {
+    "geo": "nga",
+    "time": "1915",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1396
+  },
+  {
+    "geo": "rus",
+    "time": "1915",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3596
+  },
+  {
+    "geo": "usa",
+    "time": "1916",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9061
+  },
+  {
+    "geo": "nga",
+    "time": "1916",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1422
+  },
+  {
+    "geo": "chn",
+    "time": "1916",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 968
+  },
+  {
+    "geo": "rus",
+    "time": "1916",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3198
+  },
+  {
+    "geo": "usa",
+    "time": "1917",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8703
+  },
+  {
+    "geo": "nga",
+    "time": "1917",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1448
+  },
+  {
+    "geo": "rus",
+    "time": "1917",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2808
+  },
+  {
+    "geo": "chn",
+    "time": "1917",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 979
+  },
+  {
+    "geo": "nga",
+    "time": "1918",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1475
+  },
+  {
+    "geo": "chn",
+    "time": "1918",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 990
+  },
+  {
+    "geo": "usa",
+    "time": "1918",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9375
+  },
+  {
+    "geo": "rus",
+    "time": "1918",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1719
+  },
+  {
+    "geo": "chn",
+    "time": "1919",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1001
+  },
+  {
+    "geo": "nga",
+    "time": "1919",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1502
+  },
+  {
+    "geo": "usa",
+    "time": "1919",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9401
+  },
+  {
+    "geo": "rus",
+    "time": "1919",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1482
+  },
+  {
+    "geo": "nga",
+    "time": "1920",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1529
+  },
+  {
+    "geo": "chn",
+    "time": "1920",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1012
+  },
+  {
+    "geo": "usa",
+    "time": "1920",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9181
+  },
+  {
+    "geo": "rus",
+    "time": "1920",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1489
+  },
+  {
+    "geo": "nga",
+    "time": "1921",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1559
+  },
+  {
+    "geo": "chn",
+    "time": "1921",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1017
+  },
+  {
+    "geo": "rus",
+    "time": "1921",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1364
+  },
+  {
+    "geo": "usa",
+    "time": "1921",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8789
+  },
+  {
+    "geo": "rus",
+    "time": "1922",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1584
+  },
+  {
+    "geo": "usa",
+    "time": "1922",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9135
+  },
+  {
+    "geo": "chn",
+    "time": "1922",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1021
+  },
+  {
+    "geo": "nga",
+    "time": "1922",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1590
+  },
+  {
+    "geo": "chn",
+    "time": "1923",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1026
+  },
+  {
+    "geo": "usa",
+    "time": "1923",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10150
+  },
+  {
+    "geo": "rus",
+    "time": "1923",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1826
+  },
+  {
+    "geo": "nga",
+    "time": "1923",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1621
+  },
+  {
+    "geo": "chn",
+    "time": "1924",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1031
+  },
+  {
+    "geo": "usa",
+    "time": "1924",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10249
+  },
+  {
+    "geo": "rus",
+    "time": "1924",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2315
+  },
+  {
+    "geo": "nga",
+    "time": "1924",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1653
+  },
+  {
+    "geo": "rus",
+    "time": "1925",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2895
+  },
+  {
+    "geo": "chn",
+    "time": "1925",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1035
+  },
+  {
+    "geo": "usa",
+    "time": "1925",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10316
+  },
+  {
+    "geo": "nga",
+    "time": "1925",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1685
+  },
+  {
+    "geo": "usa",
+    "time": "1926",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10828
+  },
+  {
+    "geo": "nga",
+    "time": "1926",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1718
+  },
+  {
+    "geo": "rus",
+    "time": "1926",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3253
+  },
+  {
+    "geo": "chn",
+    "time": "1926",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1040
+  },
+  {
+    "geo": "usa",
+    "time": "1927",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10771
+  },
+  {
+    "geo": "rus",
+    "time": "1927",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3391
+  },
+  {
+    "geo": "chn",
+    "time": "1927",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1045
+  },
+  {
+    "geo": "nga",
+    "time": "1927",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1752
+  },
+  {
+    "geo": "usa",
+    "time": "1928",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10746
+  },
+  {
+    "geo": "rus",
+    "time": "1928",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3569
+  },
+  {
+    "geo": "chn",
+    "time": "1928",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1050
+  },
+  {
+    "geo": "nga",
+    "time": "1928",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1787
+  },
+  {
+    "geo": "rus",
+    "time": "1929",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3613
+  },
+  {
+    "geo": "nga",
+    "time": "1929",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1822
+  },
+  {
+    "geo": "usa",
+    "time": "1929",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11272
+  },
+  {
+    "geo": "chn",
+    "time": "1929",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1054
+  },
+  {
+    "geo": "usa",
+    "time": "1930",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10139
+  },
+  {
+    "geo": "nga",
+    "time": "1930",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1857
+  },
+  {
+    "geo": "rus",
+    "time": "1930",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3779
+  },
+  {
+    "geo": "chn",
+    "time": "1930",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1055
+  },
+  {
+    "geo": "usa",
+    "time": "1931",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9277
+  },
+  {
+    "geo": "rus",
+    "time": "1931",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3816
+  },
+  {
+    "geo": "chn",
+    "time": "1931",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1048
+  },
+  {
+    "geo": "nga",
+    "time": "1931",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1894
+  },
+  {
+    "geo": "usa",
+    "time": "1932",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7991
+  },
+  {
+    "geo": "rus",
+    "time": "1932",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3760
+  },
+  {
+    "geo": "chn",
+    "time": "1932",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1064
+  },
+  {
+    "geo": "nga",
+    "time": "1932",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1931
+  },
+  {
+    "geo": "nga",
+    "time": "1933",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1969
+  },
+  {
+    "geo": "chn",
+    "time": "1933",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1047
+  },
+  {
+    "geo": "rus",
+    "time": "1933",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3904
+  },
+  {
+    "geo": "usa",
+    "time": "1933",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7769
+  },
+  {
+    "geo": "rus",
+    "time": "1934",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4265
+  },
+  {
+    "geo": "chn",
+    "time": "1934",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 942
+  },
+  {
+    "geo": "nga",
+    "time": "1934",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2007
+  },
+  {
+    "geo": "usa",
+    "time": "1934",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8308
+  },
+  {
+    "geo": "nga",
+    "time": "1935",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2046
+  },
+  {
+    "geo": "rus",
+    "time": "1935",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4880
+  },
+  {
+    "geo": "chn",
+    "time": "1935",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1004
+  },
+  {
+    "geo": "usa",
+    "time": "1935",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8872
+  },
+  {
+    "geo": "usa",
+    "time": "1936",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10058
+  },
+  {
+    "geo": "rus",
+    "time": "1936",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5216
+  },
+  {
+    "geo": "nga",
+    "time": "1936",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2086
+  },
+  {
+    "geo": "chn",
+    "time": "1936",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1052
+  },
+  {
+    "geo": "usa",
+    "time": "1937",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10413
+  },
+  {
+    "geo": "nga",
+    "time": "1937",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2127
+  },
+  {
+    "geo": "rus",
+    "time": "1937",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5652
+  },
+  {
+    "geo": "chn",
+    "time": "1937",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1012
+  },
+  {
+    "geo": "chn",
+    "time": "1938",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 973
+  },
+  {
+    "geo": "rus",
+    "time": "1938",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5640
+  },
+  {
+    "geo": "nga",
+    "time": "1938",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2169
+  },
+  {
+    "geo": "usa",
+    "time": "1938",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9911
+  },
+  {
+    "geo": "nga",
+    "time": "1939",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2211
+  },
+  {
+    "geo": "chn",
+    "time": "1939",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 905
+  },
+  {
+    "geo": "usa",
+    "time": "1939",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10605
+  },
+  {
+    "geo": "rus",
+    "time": "1939",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5873
+  },
+  {
+    "geo": "rus",
+    "time": "1940",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5632
+  },
+  {
+    "geo": "chn",
+    "time": "1940",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 841
+  },
+  {
+    "geo": "nga",
+    "time": "1940",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2254
+  },
+  {
+    "geo": "usa",
+    "time": "1940",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11320
+  },
+  {
+    "geo": "usa",
+    "time": "1941",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 13239
+  },
+  {
+    "geo": "chn",
+    "time": "1941",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 782
+  },
+  {
+    "geo": "nga",
+    "time": "1941",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2298
+  },
+  {
+    "geo": "rus",
+    "time": "1941",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5530
+  },
+  {
+    "geo": "nga",
+    "time": "1942",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2343
+  },
+  {
+    "geo": "usa",
+    "time": "1942",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 15702
+  },
+  {
+    "geo": "chn",
+    "time": "1942",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 727
+  },
+  {
+    "geo": "rus",
+    "time": "1942",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5430
+  },
+  {
+    "geo": "rus",
+    "time": "1943",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5331
+  },
+  {
+    "geo": "nga",
+    "time": "1943",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2389
+  },
+  {
+    "geo": "chn",
+    "time": "1943",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 676
+  },
+  {
+    "geo": "usa",
+    "time": "1943",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18551
+  },
+  {
+    "geo": "rus",
+    "time": "1944",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5235
+  },
+  {
+    "geo": "usa",
+    "time": "1944",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 19847
+  },
+  {
+    "geo": "chn",
+    "time": "1944",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 629
+  },
+  {
+    "geo": "nga",
+    "time": "1944",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2436
+  },
+  {
+    "geo": "chn",
+    "time": "1945",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 585
+  },
+  {
+    "geo": "nga",
+    "time": "1945",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2483
+  },
+  {
+    "geo": "usa",
+    "time": "1945",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18828
+  },
+  {
+    "geo": "rus",
+    "time": "1945",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5140
+  },
+  {
+    "geo": "nga",
+    "time": "1946",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2532
+  },
+  {
+    "geo": "chn",
+    "time": "1946",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 570
+  },
+  {
+    "geo": "rus",
+    "time": "1946",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5047
+  },
+  {
+    "geo": "usa",
+    "time": "1946",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14777
+  },
+  {
+    "geo": "chn",
+    "time": "1947",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 556
+  },
+  {
+    "geo": "usa",
+    "time": "1947",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14267
+  },
+  {
+    "geo": "nga",
+    "time": "1947",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2581
+  },
+  {
+    "geo": "rus",
+    "time": "1947",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5611
+  },
+  {
+    "geo": "rus",
+    "time": "1948",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6343
+  },
+  {
+    "geo": "chn",
+    "time": "1948",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 542
+  },
+  {
+    "geo": "nga",
+    "time": "1948",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2631
+  },
+  {
+    "geo": "usa",
+    "time": "1948",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14544
+  },
+  {
+    "geo": "rus",
+    "time": "1949",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6932
+  },
+  {
+    "geo": "usa",
+    "time": "1949",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14340
+  },
+  {
+    "geo": "nga",
+    "time": "1949",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2683
+  },
+  {
+    "geo": "chn",
+    "time": "1949",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 529
+  },
+  {
+    "geo": "usa",
+    "time": "1950",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 15319
+  },
+  {
+    "geo": "rus",
+    "time": "1950",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7514
+  },
+  {
+    "geo": "chn",
+    "time": "1950",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 535
+  },
+  {
+    "geo": "nga",
+    "time": "1950",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2735
+  },
+  {
+    "geo": "chn",
+    "time": "1951",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 582
+  },
+  {
+    "geo": "nga",
+    "time": "1951",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2843
+  },
+  {
+    "geo": "rus",
+    "time": "1951",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7424
+  },
+  {
+    "geo": "usa",
+    "time": "1951",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16198
+  },
+  {
+    "geo": "usa",
+    "time": "1952",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16508
+  },
+  {
+    "geo": "nga",
+    "time": "1952",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2971
+  },
+  {
+    "geo": "chn",
+    "time": "1952",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 631
+  },
+  {
+    "geo": "rus",
+    "time": "1952",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7775
+  },
+  {
+    "geo": "usa",
+    "time": "1953",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16974
+  },
+  {
+    "geo": "nga",
+    "time": "1953",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2981
+  },
+  {
+    "geo": "chn",
+    "time": "1953",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 692
+  },
+  {
+    "geo": "rus",
+    "time": "1953",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7981
+  },
+  {
+    "geo": "usa",
+    "time": "1954",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16558
+  },
+  {
+    "geo": "rus",
+    "time": "1954",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8234
+  },
+  {
+    "geo": "chn",
+    "time": "1954",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 694
+  },
+  {
+    "geo": "nga",
+    "time": "1954",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3141
+  },
+  {
+    "geo": "chn",
+    "time": "1955",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 706
+  },
+  {
+    "geo": "usa",
+    "time": "1955",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17409
+  },
+  {
+    "geo": "nga",
+    "time": "1955",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3106
+  },
+  {
+    "geo": "rus",
+    "time": "1955",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8787
+  },
+  {
+    "geo": "rus",
+    "time": "1956",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9465
+  },
+  {
+    "geo": "chn",
+    "time": "1956",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 736
+  },
+  {
+    "geo": "nga",
+    "time": "1956",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2975
+  },
+  {
+    "geo": "usa",
+    "time": "1956",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17428
+  },
+  {
+    "geo": "nga",
+    "time": "1957",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2975
+  },
+  {
+    "geo": "chn",
+    "time": "1957",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 780
+  },
+  {
+    "geo": "rus",
+    "time": "1957",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9496
+  },
+  {
+    "geo": "usa",
+    "time": "1957",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17430
+  },
+  {
+    "geo": "chn",
+    "time": "1958",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 889
+  },
+  {
+    "geo": "nga",
+    "time": "1958",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3090
+  },
+  {
+    "geo": "rus",
+    "time": "1958",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10037
+  },
+  {
+    "geo": "usa",
+    "time": "1958",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16961
+  },
+  {
+    "geo": "rus",
+    "time": "1959",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9755
+  },
+  {
+    "geo": "usa",
+    "time": "1959",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17909
+  },
+  {
+    "geo": "chn",
+    "time": "1959",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 958
+  },
+  {
+    "geo": "nga",
+    "time": "1959",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3151
+  },
+  {
+    "geo": "nga",
+    "time": "1960",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3810
+  },
+  {
+    "geo": "chn",
+    "time": "1960",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 889
+  },
+  {
+    "geo": "usa",
+    "time": "1960",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18059
+  },
+  {
+    "geo": "rus",
+    "time": "1960",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10496
+  },
+  {
+    "geo": "rus",
+    "time": "1961",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10908
+  },
+  {
+    "geo": "nga",
+    "time": "1961",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3551
+  },
+  {
+    "geo": "usa",
+    "time": "1961",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18170
+  },
+  {
+    "geo": "chn",
+    "time": "1961",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 558
+  },
+  {
+    "geo": "nga",
+    "time": "1962",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3585
+  },
+  {
+    "geo": "rus",
+    "time": "1962",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11027
+  },
+  {
+    "geo": "usa",
+    "time": "1962",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18966
+  },
+  {
+    "geo": "chn",
+    "time": "1962",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 567
+  },
+  {
+    "geo": "rus",
+    "time": "1963",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10620
+  },
+  {
+    "geo": "nga",
+    "time": "1963",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3788
+  },
+  {
+    "geo": "usa",
+    "time": "1963",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 19497
+  },
+  {
+    "geo": "chn",
+    "time": "1963",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 635
+  },
+  {
+    "geo": "chn",
+    "time": "1964",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 713
+  },
+  {
+    "geo": "rus",
+    "time": "1964",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11836
+  },
+  {
+    "geo": "nga",
+    "time": "1964",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3803
+  },
+  {
+    "geo": "usa",
+    "time": "1964",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 20338
+  },
+  {
+    "geo": "nga",
+    "time": "1965",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3524
+  },
+  {
+    "geo": "rus",
+    "time": "1965",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12363
+  },
+  {
+    "geo": "chn",
+    "time": "1965",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 772
+  },
+  {
+    "geo": "usa",
+    "time": "1965",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 21361
+  },
+  {
+    "geo": "usa",
+    "time": "1966",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 22495
+  },
+  {
+    "geo": "rus",
+    "time": "1966",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12823
+  },
+  {
+    "geo": "chn",
+    "time": "1966",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 826
+  },
+  {
+    "geo": "nga",
+    "time": "1966",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3252
+  },
+  {
+    "geo": "nga",
+    "time": "1967",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2666
+  },
+  {
+    "geo": "rus",
+    "time": "1967",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 13256
+  },
+  {
+    "geo": "usa",
+    "time": "1967",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 22803
+  },
+  {
+    "geo": "chn",
+    "time": "1967",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 719
+  },
+  {
+    "geo": "nga",
+    "time": "1968",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2610
+  },
+  {
+    "geo": "usa",
+    "time": "1968",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23647
+  },
+  {
+    "geo": "rus",
+    "time": "1968",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 13902
+  },
+  {
+    "geo": "chn",
+    "time": "1968",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 669
+  },
+  {
+    "geo": "chn",
+    "time": "1969",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 732
+  },
+  {
+    "geo": "rus",
+    "time": "1969",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 13972
+  },
+  {
+    "geo": "nga",
+    "time": "1969",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2988
+  },
+  {
+    "geo": "usa",
+    "time": "1969",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 24147
+  },
+  {
+    "geo": "rus",
+    "time": "1970",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14915
+  },
+  {
+    "geo": "nga",
+    "time": "1970",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3483
+  },
+  {
+    "geo": "usa",
+    "time": "1970",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23908
+  },
+  {
+    "geo": "chn",
+    "time": "1970",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 848
+  },
+  {
+    "geo": "rus",
+    "time": "1971",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 15170
+  },
+  {
+    "geo": "chn",
+    "time": "1971",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 876
+  },
+  {
+    "geo": "nga",
+    "time": "1971",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3889
+  },
+  {
+    "geo": "usa",
+    "time": "1971",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 24350
+  },
+  {
+    "geo": "rus",
+    "time": "1972",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 15113
+  },
+  {
+    "geo": "chn",
+    "time": "1972",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 843
+  },
+  {
+    "geo": "nga",
+    "time": "1972",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3928
+  },
+  {
+    "geo": "usa",
+    "time": "1972",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 25374
+  },
+  {
+    "geo": "chn",
+    "time": "1973",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 894
+  },
+  {
+    "geo": "rus",
+    "time": "1973",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16236
+  },
+  {
+    "geo": "nga",
+    "time": "1973",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4042
+  },
+  {
+    "geo": "usa",
+    "time": "1973",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 26567
+  },
+  {
+    "geo": "chn",
+    "time": "1974",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 888
+  },
+  {
+    "geo": "usa",
+    "time": "1974",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 26258
+  },
+  {
+    "geo": "rus",
+    "time": "1974",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16594
+  },
+  {
+    "geo": "nga",
+    "time": "1974",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4381
+  },
+  {
+    "geo": "chn",
+    "time": "1975",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 920
+  },
+  {
+    "geo": "nga",
+    "time": "1975",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4044
+  },
+  {
+    "geo": "usa",
+    "time": "1975",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 25934
+  },
+  {
+    "geo": "rus",
+    "time": "1975",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16530
+  },
+  {
+    "geo": "chn",
+    "time": "1976",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 891
+  },
+  {
+    "geo": "rus",
+    "time": "1976",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17192
+  },
+  {
+    "geo": "nga",
+    "time": "1976",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4288
+  },
+  {
+    "geo": "usa",
+    "time": "1976",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 27041
+  },
+  {
+    "geo": "chn",
+    "time": "1977",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 904
+  },
+  {
+    "geo": "usa",
+    "time": "1977",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 27990
+  },
+  {
+    "geo": "rus",
+    "time": "1977",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17487
+  },
+  {
+    "geo": "nga",
+    "time": "1977",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4415
+  },
+  {
+    "geo": "chn",
+    "time": "1978",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1016
+  },
+  {
+    "geo": "nga",
+    "time": "1978",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4040
+  },
+  {
+    "geo": "usa",
+    "time": "1978",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 29281
+  },
+  {
+    "geo": "rus",
+    "time": "1978",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17818
+  },
+  {
+    "geo": "nga",
+    "time": "1979",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4192
+  },
+  {
+    "geo": "chn",
+    "time": "1979",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1059
+  },
+  {
+    "geo": "rus",
+    "time": "1979",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17632
+  },
+  {
+    "geo": "usa",
+    "time": "1979",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 29951
+  },
+  {
+    "geo": "usa",
+    "time": "1980",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 29619
+  },
+  {
+    "geo": "chn",
+    "time": "1980",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1073
+  },
+  {
+    "geo": "rus",
+    "time": "1980",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17557
+  },
+  {
+    "geo": "nga",
+    "time": "1980",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4250
+  },
+  {
+    "geo": "chn",
+    "time": "1981",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1099
+  },
+  {
+    "geo": "rus",
+    "time": "1981",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17619
+  },
+  {
+    "geo": "usa",
+    "time": "1981",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 30070
+  },
+  {
+    "geo": "nga",
+    "time": "1981",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3598
+  },
+  {
+    "geo": "nga",
+    "time": "1982",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3474
+  },
+  {
+    "geo": "rus",
+    "time": "1982",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17951
+  },
+  {
+    "geo": "chn",
+    "time": "1982",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1175
+  },
+  {
+    "geo": "usa",
+    "time": "1982",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 29230
+  },
+  {
+    "geo": "chn",
+    "time": "1983",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1229
+  },
+  {
+    "geo": "rus",
+    "time": "1983",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18417
+  },
+  {
+    "geo": "usa",
+    "time": "1983",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 30185
+  },
+  {
+    "geo": "nga",
+    "time": "1983",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3221
+  },
+  {
+    "geo": "usa",
+    "time": "1984",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 32110
+  },
+  {
+    "geo": "chn",
+    "time": "1984",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1456
+  },
+  {
+    "geo": "rus",
+    "time": "1984",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18527
+  },
+  {
+    "geo": "nga",
+    "time": "1984",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3081
+  },
+  {
+    "geo": "rus",
+    "time": "1985",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18576
+  },
+  {
+    "geo": "usa",
+    "time": "1985",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 33065
+  },
+  {
+    "geo": "chn",
+    "time": "1985",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1557
+  },
+  {
+    "geo": "nga",
+    "time": "1985",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3258
+  },
+  {
+    "geo": "chn",
+    "time": "1986",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1604
+  },
+  {
+    "geo": "rus",
+    "time": "1986",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 19221
+  },
+  {
+    "geo": "usa",
+    "time": "1986",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 33899
+  },
+  {
+    "geo": "nga",
+    "time": "1986",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2901
+  },
+  {
+    "geo": "usa",
+    "time": "1987",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 34787
+  },
+  {
+    "geo": "chn",
+    "time": "1987",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1652
+  },
+  {
+    "geo": "rus",
+    "time": "1987",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 19355
+  },
+  {
+    "geo": "nga",
+    "time": "1987",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2526
+  },
+  {
+    "geo": "rus",
+    "time": "1988",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 19660
+  },
+  {
+    "geo": "usa",
+    "time": "1988",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 35929
+  },
+  {
+    "geo": "chn",
+    "time": "1988",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1597
+  },
+  {
+    "geo": "nga",
+    "time": "1988",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2650
+  },
+  {
+    "geo": "chn",
+    "time": "1989",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1474
+  },
+  {
+    "geo": "rus",
+    "time": "1989",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 19906
+  },
+  {
+    "geo": "usa",
+    "time": "1989",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 36830
+  },
+  {
+    "geo": "nga",
+    "time": "1989",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2753
+  },
+  {
+    "geo": "usa",
+    "time": "1990",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 37062
+  },
+  {
+    "geo": "chn",
+    "time": "1990",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1516
+  },
+  {
+    "geo": "rus",
+    "time": "1990",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 19349
+  },
+  {
+    "geo": "nga",
+    "time": "1990",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3030
+  },
+  {
+    "geo": "rus",
+    "time": "1991",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18332
+  },
+  {
+    "geo": "usa",
+    "time": "1991",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 36543
+  },
+  {
+    "geo": "chn",
+    "time": "1991",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1634
+  },
+  {
+    "geo": "nga",
+    "time": "1991",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2936
+  },
+  {
+    "geo": "chn",
+    "time": "1992",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 1845
+  },
+  {
+    "geo": "rus",
+    "time": "1992",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 15661
+  },
+  {
+    "geo": "usa",
+    "time": "1992",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 37321
+  },
+  {
+    "geo": "nga",
+    "time": "1992",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2875
+  },
+  {
+    "geo": "usa",
+    "time": "1993",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 37844
+  },
+  {
+    "geo": "chn",
+    "time": "1993",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2078
+  },
+  {
+    "geo": "rus",
+    "time": "1993",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14320
+  },
+  {
+    "geo": "nga",
+    "time": "1993",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2863
+  },
+  {
+    "geo": "rus",
+    "time": "1994",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12535
+  },
+  {
+    "geo": "usa",
+    "time": "1994",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 38892
+  },
+  {
+    "geo": "chn",
+    "time": "1994",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2323
+  },
+  {
+    "geo": "nga",
+    "time": "1994",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2817
+  },
+  {
+    "geo": "chn",
+    "time": "1995",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2551
+  },
+  {
+    "geo": "rus",
+    "time": "1995",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12013
+  },
+  {
+    "geo": "usa",
+    "time": "1995",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 39476
+  },
+  {
+    "geo": "nga",
+    "time": "1995",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2740
+  },
+  {
+    "geo": "usa",
+    "time": "1996",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 40501
+  },
+  {
+    "geo": "chn",
+    "time": "1996",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2775
+  },
+  {
+    "geo": "rus",
+    "time": "1996",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11597
+  },
+  {
+    "geo": "nga",
+    "time": "1996",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2805
+  },
+  {
+    "geo": "rus",
+    "time": "1997",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11779
+  },
+  {
+    "geo": "usa",
+    "time": "1997",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 41812
+  },
+  {
+    "geo": "chn",
+    "time": "1997",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3000
+  },
+  {
+    "geo": "nga",
+    "time": "1997",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2813
+  },
+  {
+    "geo": "chn",
+    "time": "1998",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3205
+  },
+  {
+    "geo": "rus",
+    "time": "1998",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11173
+  },
+  {
+    "geo": "usa",
+    "time": "1998",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 43166
+  },
+  {
+    "geo": "nga",
+    "time": "1998",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2818
+  },
+  {
+    "geo": "usa",
+    "time": "1999",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 44673
+  },
+  {
+    "geo": "chn",
+    "time": "1999",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3419
+  },
+  {
+    "geo": "rus",
+    "time": "1999",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11925
+  },
+  {
+    "geo": "nga",
+    "time": "1999",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2761
+  },
+  {
+    "geo": "rus",
+    "time": "2000",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 13173
+  },
+  {
+    "geo": "usa",
+    "time": "2000",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 45986
+  },
+  {
+    "geo": "chn",
+    "time": "2000",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3678
+  },
+  {
+    "geo": "nga",
+    "time": "2000",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2836
+  },
+  {
+    "geo": "chn",
+    "time": "2001",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3955
+  },
+  {
+    "geo": "rus",
+    "time": "2001",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 13902
+  },
+  {
+    "geo": "usa",
+    "time": "2001",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 45978
+  },
+  {
+    "geo": "nga",
+    "time": "2001",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2888
+  },
+  {
+    "geo": "nga",
+    "time": "2002",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 2922
+  },
+  {
+    "geo": "rus",
+    "time": "2002",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14629
+  },
+  {
+    "geo": "chn",
+    "time": "2002",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4285
+  },
+  {
+    "geo": "usa",
+    "time": "2002",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 46367
+  },
+  {
+    "geo": "rus",
+    "time": "2003",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 15768
+  },
+  {
+    "geo": "usa",
+    "time": "2003",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 47260
+  },
+  {
+    "geo": "chn",
+    "time": "2003",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4685
+  },
+  {
+    "geo": "nga",
+    "time": "2003",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 3144
+  },
+  {
+    "geo": "chn",
+    "time": "2004",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5127
+  },
+  {
+    "geo": "usa",
+    "time": "2004",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 48597
+  },
+  {
+    "geo": "rus",
+    "time": "2004",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16967
+  },
+  {
+    "geo": "nga",
+    "time": "2004",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4098
+  },
+  {
+    "geo": "chn",
+    "time": "2005",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5675
+  },
+  {
+    "geo": "rus",
+    "time": "2005",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18118
+  },
+  {
+    "geo": "usa",
+    "time": "2005",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 49762
+  },
+  {
+    "geo": "nga",
+    "time": "2005",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4130
+  },
+  {
+    "geo": "rus",
+    "time": "2006",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 19660
+  },
+  {
+    "geo": "chn",
+    "time": "2006",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6360
+  },
+  {
+    "geo": "usa",
+    "time": "2006",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 50599
+  },
+  {
+    "geo": "nga",
+    "time": "2006",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4353
+  },
+  {
+    "geo": "usa",
+    "time": "2007",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 51011
+  },
+  {
+    "geo": "chn",
+    "time": "2007",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7225
+  },
+  {
+    "geo": "rus",
+    "time": "2007",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 21374
+  },
+  {
+    "geo": "nga",
+    "time": "2007",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4528
+  },
+  {
+    "geo": "usa",
+    "time": "2008",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 50384
+  },
+  {
+    "geo": "rus",
+    "time": "2008",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 22506
+  },
+  {
+    "geo": "chn",
+    "time": "2008",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7880
+  },
+  {
+    "geo": "nga",
+    "time": "2008",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4684
+  },
+  {
+    "geo": "rus",
+    "time": "2009",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 20739
+  },
+  {
+    "geo": "usa",
+    "time": "2009",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 48558
+  },
+  {
+    "geo": "chn",
+    "time": "2009",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8565
+  },
+  {
+    "geo": "nga",
+    "time": "2009",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 4874
+  },
+  {
+    "geo": "chn",
+    "time": "2010",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9430
+  },
+  {
+    "geo": "usa",
+    "time": "2010",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 49373
+  },
+  {
+    "geo": "rus",
+    "time": "2010",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 21664
+  },
+  {
+    "geo": "nga",
+    "time": "2010",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5114
+  },
+  {
+    "geo": "chn",
+    "time": "2011",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10274
+  },
+  {
+    "geo": "rus",
+    "time": "2011",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 22570
+  },
+  {
+    "geo": "usa",
+    "time": "2011",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 49781
+  },
+  {
+    "geo": "nga",
+    "time": "2011",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5217
+  },
+  {
+    "geo": "rus",
+    "time": "2012",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23299
+  },
+  {
+    "geo": "chn",
+    "time": "2012",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11017
+  },
+  {
+    "geo": "usa",
+    "time": "2012",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 50549
+  },
+  {
+    "geo": "nga",
+    "time": "2012",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5291
+  },
+  {
+    "geo": "usa",
+    "time": "2013",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 51282
+  },
+  {
+    "geo": "chn",
+    "time": "2013",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11805
+  },
+  {
+    "geo": "rus",
+    "time": "2013",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23561
+  },
+  {
+    "geo": "nga",
+    "time": "2013",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5423
+  },
+  {
+    "geo": "usa",
+    "time": "2014",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 52118
+  },
+  {
+    "geo": "rus",
+    "time": "2014",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23293
+  },
+  {
+    "geo": "chn",
+    "time": "2014",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 12609
+  },
+  {
+    "geo": "nga",
+    "time": "2014",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5607
+  },
+  {
+    "geo": "rus",
+    "time": "2015",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23038
+  },
+  {
+    "geo": "usa",
+    "time": "2015",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 53354
+  },
+  {
+    "geo": "chn",
+    "time": "2015",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 13334
+  },
+  {
+    "geo": "nga",
+    "time": "2015",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5727
+  },
+  {
+    "geo": "chn",
+    "time": "2016",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14060
+  },
+  {
+    "geo": "usa",
+    "time": "2016",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 54408
+  },
+  {
+    "geo": "rus",
+    "time": "2016",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23268
+  },
+  {
+    "geo": "nga",
+    "time": "2016",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 5866
+  },
+  {
+    "geo": "chn",
+    "time": "2017",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 14841
+  },
+  {
+    "geo": "rus",
+    "time": "2017",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23617
+  },
+  {
+    "geo": "usa",
+    "time": "2017",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 55317
+  },
+  {
+    "geo": "nga",
+    "time": "2017",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6024
+  },
+  {
+    "geo": "rus",
+    "time": "2018",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23971
+  },
+  {
+    "geo": "chn",
+    "time": "2018",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 15698
+  },
+  {
+    "geo": "usa",
+    "time": "2018",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 56068
+  },
+  {
+    "geo": "nga",
+    "time": "2018",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6201
+  },
+  {
+    "geo": "usa",
+    "time": "2019",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 56820
+  },
+  {
+    "geo": "chn",
+    "time": "2019",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 16606
+  },
+  {
+    "geo": "rus",
+    "time": "2019",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 24331
+  },
+  {
+    "geo": "nga",
+    "time": "2019",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6394
+  },
+  {
+    "geo": "usa",
+    "time": "2020",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 57811
+  },
+  {
+    "geo": "rus",
+    "time": "2020",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 24545
+  },
+  {
+    "geo": "chn",
+    "time": "2020",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 17546
+  },
+  {
+    "geo": "nga",
+    "time": "2020",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6565
+  },
+  {
+    "geo": "rus",
+    "time": "2021",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 24761
+  },
+  {
+    "geo": "usa",
+    "time": "2021",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 58819
+  },
+  {
+    "geo": "chn",
+    "time": "2021",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 18540
+  },
+  {
+    "geo": "nga",
+    "time": "2021",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6739
+  },
+  {
+    "geo": "rus",
+    "time": "2022",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 25089
+  },
+  {
+    "geo": "chn",
+    "time": "2022",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 19562
+  },
+  {
+    "geo": "usa",
+    "time": "2022",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 59791
+  },
+  {
+    "geo": "nga",
+    "time": "2022",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 6925
+  },
+  {
+    "geo": "chn",
+    "time": "2023",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 20623
+  },
+  {
+    "geo": "rus",
+    "time": "2023",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 25445
+  },
+  {
+    "geo": "usa",
+    "time": "2023",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 60758
+  },
+  {
+    "geo": "nga",
+    "time": "2023",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7119
+  },
+  {
+    "geo": "usa",
+    "time": "2024",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 61749
+  },
+  {
+    "geo": "rus",
+    "time": "2024",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 25810
+  },
+  {
+    "geo": "chn",
+    "time": "2024",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 21720
+  },
+  {
+    "geo": "nga",
+    "time": "2024",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7320
+  },
+  {
+    "geo": "usa",
+    "time": "2025",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 62795
+  },
+  {
+    "geo": "chn",
+    "time": "2025",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 22844
+  },
+  {
+    "geo": "rus",
+    "time": "2025",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 26183
+  },
+  {
+    "geo": "nga",
+    "time": "2025",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7523
+  },
+  {
+    "geo": "chn",
+    "time": "2026",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 23993
+  },
+  {
+    "geo": "usa",
+    "time": "2026",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 63904
+  },
+  {
+    "geo": "rus",
+    "time": "2026",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 26564
+  },
+  {
+    "geo": "nga",
+    "time": "2026",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7728
+  },
+  {
+    "geo": "rus",
+    "time": "2027",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 26977
+  },
+  {
+    "geo": "usa",
+    "time": "2027",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 65040
+  },
+  {
+    "geo": "chn",
+    "time": "2027",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 25170
+  },
+  {
+    "geo": "nga",
+    "time": "2027",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 7939
+  },
+  {
+    "geo": "rus",
+    "time": "2028",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 27409
+  },
+  {
+    "geo": "chn",
+    "time": "2028",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 26373
+  },
+  {
+    "geo": "usa",
+    "time": "2028",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 66213
+  },
+  {
+    "geo": "nga",
+    "time": "2028",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8155
+  },
+  {
+    "geo": "chn",
+    "time": "2029",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 27599
+  },
+  {
+    "geo": "rus",
+    "time": "2029",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 27858
+  },
+  {
+    "geo": "usa",
+    "time": "2029",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 67432
+  },
+  {
+    "geo": "nga",
+    "time": "2029",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8376
+  },
+  {
+    "geo": "usa",
+    "time": "2030",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 68700
+  },
+  {
+    "geo": "rus",
+    "time": "2030",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 28326
+  },
+  {
+    "geo": "chn",
+    "time": "2030",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 28846
+  },
+  {
+    "geo": "nga",
+    "time": "2030",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8601
+  },
+  {
+    "geo": "usa",
+    "time": "2031",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 70017
+  },
+  {
+    "geo": "chn",
+    "time": "2031",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 30112
+  },
+  {
+    "geo": "rus",
+    "time": "2031",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 28816
+  },
+  {
+    "geo": "nga",
+    "time": "2031",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 8831
+  },
+  {
+    "geo": "chn",
+    "time": "2032",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 31394
+  },
+  {
+    "geo": "usa",
+    "time": "2032",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 71382
+  },
+  {
+    "geo": "rus",
+    "time": "2032",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 29329
+  },
+  {
+    "geo": "nga",
+    "time": "2032",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9065
+  },
+  {
+    "geo": "rus",
+    "time": "2033",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 29865
+  },
+  {
+    "geo": "usa",
+    "time": "2033",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 72798
+  },
+  {
+    "geo": "chn",
+    "time": "2033",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 32690
+  },
+  {
+    "geo": "nga",
+    "time": "2033",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9305
+  },
+  {
+    "geo": "rus",
+    "time": "2034",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 30424
+  },
+  {
+    "geo": "chn",
+    "time": "2034",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 33998
+  },
+  {
+    "geo": "usa",
+    "time": "2034",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 74268
+  },
+  {
+    "geo": "nga",
+    "time": "2034",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9549
+  },
+  {
+    "geo": "chn",
+    "time": "2035",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 35313
+  },
+  {
+    "geo": "rus",
+    "time": "2035",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 31008
+  },
+  {
+    "geo": "usa",
+    "time": "2035",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 75794
+  },
+  {
+    "geo": "nga",
+    "time": "2035",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 9798
+  },
+  {
+    "geo": "usa",
+    "time": "2036",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 77377
+  },
+  {
+    "geo": "rus",
+    "time": "2036",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 31618
+  },
+  {
+    "geo": "chn",
+    "time": "2036",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 36633
+  },
+  {
+    "geo": "nga",
+    "time": "2036",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10053
+  },
+  {
+    "geo": "usa",
+    "time": "2037",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 79021
+  },
+  {
+    "geo": "chn",
+    "time": "2037",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 37955
+  },
+  {
+    "geo": "rus",
+    "time": "2037",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 32255
+  },
+  {
+    "geo": "nga",
+    "time": "2037",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10312
+  },
+  {
+    "geo": "chn",
+    "time": "2038",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 39275
+  },
+  {
+    "geo": "usa",
+    "time": "2038",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 80727
+  },
+  {
+    "geo": "rus",
+    "time": "2038",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 32920
+  },
+  {
+    "geo": "nga",
+    "time": "2038",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10576
+  },
+  {
+    "geo": "rus",
+    "time": "2039",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 33614
+  },
+  {
+    "geo": "usa",
+    "time": "2039",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 82498
+  },
+  {
+    "geo": "chn",
+    "time": "2039",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 40590
+  },
+  {
+    "geo": "nga",
+    "time": "2039",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 10846
+  },
+  {
+    "geo": "rus",
+    "time": "2040",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 34339
+  },
+  {
+    "geo": "chn",
+    "time": "2040",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 41897
+  },
+  {
+    "geo": "usa",
+    "time": "2040",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 84337
+  },
+  {
+    "geo": "nga",
+    "time": "2040",
+    "income_per_person_gdppercapita_ppp_inflation_adjusted": 11120
+  }
+]

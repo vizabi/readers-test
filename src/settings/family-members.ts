@@ -5,8 +5,11 @@ import {
 import { AbstractFamilyMember } from '../family-definition/abstract-family-member';
 import { WsReader } from '../family-definition/ws-reader';
 import { DdfCsvReader } from '../family-definition/ddf-csv-reader';
+import { WsReaderMongoless } from '../family-definition/ws-reader-mongoless';
 
 const wsPath = 'http://waffle-server-dev.gapminderdev.org/api/ddf/ql';
+const wsPath2 = 'http://localhost:3000/api/ddf/ml-ql';
+// const wsPath = 'https://waffle-server-stage.gapminder.org/api/ddf/ql';
 const ghWsAcc = 'buchslava';
 
 export const familyMembers: AbstractFamilyMember[] = [
@@ -17,6 +20,9 @@ export const familyMembers: AbstractFamilyMember[] = [
   new WsReader()
     .forDataSource(sg)
     .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-systema-globalis`}),
+  new WsReaderMongoless()
+    .forDataSource(sg)
+    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-systema-globalis`}),
 
   new DdfCsvReader()
     .forDataSource(presentation)
@@ -24,6 +30,9 @@ export const familyMembers: AbstractFamilyMember[] = [
   new WsReader()
     .forDataSource(presentation)
     .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-presentation-set`}),
+  new WsReaderMongoless()
+    .forDataSource(presentation)
+    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-presentation-set`}),
 
   new DdfCsvReader()
     .forDataSource(sankey)
@@ -31,6 +40,9 @@ export const familyMembers: AbstractFamilyMember[] = [
   new WsReader()
     .forDataSource(sankey)
     .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-sankey`}),
+  new WsReaderMongoless()
+    .forDataSource(sankey)
+    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-sankey`}),
 
   new DdfCsvReader()
     .forDataSource(sgtiny)
@@ -38,6 +50,9 @@ export const familyMembers: AbstractFamilyMember[] = [
   new WsReader()
     .forDataSource(sgtiny)
     .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-systema-globalis-tiny`}),
+  new WsReaderMongoless()
+    .forDataSource(sgtiny)
+    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-systema-globalis-tiny`}),
 
   new DdfCsvReader()
     .forDataSource(popwpp)
@@ -45,6 +60,9 @@ export const familyMembers: AbstractFamilyMember[] = [
   new WsReader()
     .forDataSource(popwpp)
     .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-gm-population`}),
+  new WsReaderMongoless()
+    .forDataSource(popwpp)
+    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-gm-population`}),
 
   new DdfCsvReader()
     .forDataSource(bubbles3)
@@ -52,6 +70,9 @@ export const familyMembers: AbstractFamilyMember[] = [
   new WsReader()
     .forDataSource(bubbles3)
     .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-bubbles-3`}),
+  new WsReaderMongoless()
+    .forDataSource(bubbles3)
+    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-bubbles-3`}),
 
   new DdfCsvReader()
     .forDataSource(popwppbig)
@@ -59,6 +80,9 @@ export const familyMembers: AbstractFamilyMember[] = [
   new WsReader()
     .forDataSource(popwppbig)
     .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-gm-population-big`}),
+  new WsReaderMongoless()
+    .forDataSource(popwppbig)
+    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-gm-population-big`}),
 
   new DdfCsvReader()
     .forDataSource(sgmixentity)
@@ -66,6 +90,9 @@ export const familyMembers: AbstractFamilyMember[] = [
   new WsReader()
     .forDataSource(sgmixentity)
     .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-sg-mix-entity`}),
+  new WsReaderMongoless()
+    .forDataSource(sgmixentity)
+    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-sg-mix-entity`}),
 
   new DdfCsvReader()
     .forDataSource(staticassets)
@@ -73,6 +100,9 @@ export const familyMembers: AbstractFamilyMember[] = [
   new WsReader()
     .forDataSource(staticassets)
     .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-static-assets`}),
+  new WsReaderMongoless()
+    .forDataSource(staticassets)
+    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-static-assets`}),
 
   new DdfCsvReader()
     .forDataSource(gmassets)
@@ -80,6 +110,9 @@ export const familyMembers: AbstractFamilyMember[] = [
   new WsReader()
     .forDataSource(gmassets)
     .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-gm-static-assets`}),
+  new WsReaderMongoless()
+    .forDataSource(gmassets)
+    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-gm-static-assets`}),
 
   new DdfCsvReader()
     .forDataSource(sodertornsmodellen)
@@ -87,10 +120,17 @@ export const familyMembers: AbstractFamilyMember[] = [
   new WsReader()
     .forDataSource(sodertornsmodellen)
     .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-sodertornsmodellen`}),
+  new WsReaderMongoless()
+    .forDataSource(sodertornsmodellen)
+    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-sodertornsmodellen`}),
+
   new DdfCsvReader()
     .forDataSource(datetesting)
     .init({path: './test/data-fixtures/ddf--gapminder--date_testing'}),
   new WsReader()
     .forDataSource(datetesting)
-    .init({path: wsPath, dataset: `${ghWsAcc}/`})
+    .init({path: wsPath, dataset: `${ghWsAcc}/`}),
+  new WsReaderMongoless()
+    .forDataSource(datetesting)
+    .init({path: wsPath2, dataset: `${ghWsAcc}/`})
 ];

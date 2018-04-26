@@ -1,0 +1,1290 @@
+[
+  {
+    "geo": "pol",
+    "time": "2002",
+    "residential_electricity_use_total": 21660000000,
+    "cervical_cancer_number_of_female_deaths": 2278,
+    "trade_balance_percent_of_gdp": -3.40802
+  },
+  {
+    "geo": "alb",
+    "time": "2002",
+    "residential_electricity_use_total": 3071000000,
+    "cervical_cancer_number_of_female_deaths": 146,
+    "trade_balance_percent_of_gdp": -24.73649
+  },
+  {
+    "geo": "ago",
+    "time": "2002",
+    "residential_electricity_use_total": 971200000,
+    "cervical_cancer_number_of_female_deaths": 926,
+    "trade_balance_percent_of_gdp": 10.84682
+  },
+  {
+    "geo": "arg",
+    "time": "2002",
+    "residential_electricity_use_total": 21250000000,
+    "cervical_cancer_number_of_female_deaths": 1679,
+    "trade_balance_percent_of_gdp": 15.01256
+  },
+  {
+    "geo": "arm",
+    "time": "2002",
+    "residential_electricity_use_total": 1496000000,
+    "cervical_cancer_number_of_female_deaths": 130,
+    "trade_balance_percent_of_gdp": -17.23032
+  },
+  {
+    "geo": "aus",
+    "time": "2002",
+    "residential_electricity_use_total": 51260000000,
+    "cervical_cancer_number_of_female_deaths": 249,
+    "trade_balance_percent_of_gdp": 0.02323
+  },
+  {
+    "geo": "aut",
+    "time": "2002",
+    "residential_electricity_use_total": 15770000000,
+    "cervical_cancer_number_of_female_deaths": 295,
+    "trade_balance_percent_of_gdp": 3.65855
+  },
+  {
+    "geo": "aze",
+    "time": "2002",
+    "residential_electricity_use_total": 10410000000,
+    "cervical_cancer_number_of_female_deaths": 113,
+    "trade_balance_percent_of_gdp": -7.28041
+  },
+  {
+    "geo": "bhr",
+    "time": "2002",
+    "residential_electricity_use_total": 3526000000,
+    "cervical_cancer_number_of_female_deaths": 9,
+    "trade_balance_percent_of_gdp": 13.8278
+  },
+  {
+    "geo": "bgd",
+    "time": "2002",
+    "residential_electricity_use_total": 6775000000,
+    "cervical_cancer_number_of_female_deaths": 6561,
+    "trade_balance_percent_of_gdp": -4.14744
+  },
+  {
+    "geo": "blr",
+    "time": "2002",
+    "residential_electricity_use_total": 5779000000,
+    "cervical_cancer_number_of_female_deaths": 436,
+    "trade_balance_percent_of_gdp": -3.74703
+  },
+  {
+    "geo": "bel",
+    "time": "2002",
+    "residential_electricity_use_total": 25930000000,
+    "cervical_cancer_number_of_female_deaths": 326,
+    "trade_balance_percent_of_gdp": 5.50452
+  },
+  {
+    "geo": "ben",
+    "time": "2002",
+    "residential_electricity_use_total": 236000000,
+    "cervical_cancer_number_of_female_deaths": 448,
+    "trade_balance_percent_of_gdp": -11.1085
+  },
+  {
+    "geo": "bol",
+    "time": "2002",
+    "residential_electricity_use_total": 1447000000,
+    "cervical_cancer_number_of_female_deaths": 987,
+    "trade_balance_percent_of_gdp": -6.08135
+  },
+  {
+    "geo": "bih",
+    "time": "2002",
+    "residential_electricity_use_total": 3783000000,
+    "cervical_cancer_number_of_female_deaths": 227,
+    "trade_balance_percent_of_gdp": -46.58194
+  },
+  {
+    "geo": "bwa",
+    "time": "2002",
+    "residential_electricity_use_total": 367100000,
+    "cervical_cancer_number_of_female_deaths": 126,
+    "trade_balance_percent_of_gdp": 12.47908
+  },
+  {
+    "geo": "bra",
+    "time": "2002",
+    "residential_electricity_use_total": 72770000000,
+    "cervical_cancer_number_of_female_deaths": 8286,
+    "trade_balance_percent_of_gdp": 0.8429
+  },
+  {
+    "geo": "brn",
+    "time": "2002",
+    "residential_electricity_use_total": 389100000,
+    "cervical_cancer_number_of_female_deaths": 13,
+    "trade_balance_percent_of_gdp": 25.49569
+  },
+  {
+    "geo": "bgr",
+    "time": "2002",
+    "residential_electricity_use_total": 9308000000,
+    "cervical_cancer_number_of_female_deaths": 506,
+    "trade_balance_percent_of_gdp": -7.99572
+  },
+  {
+    "geo": "khm",
+    "time": "2002",
+    "residential_electricity_use_total": 263000000,
+    "cervical_cancer_number_of_female_deaths": 949,
+    "trade_balance_percent_of_gdp": -8.84867
+  },
+  {
+    "geo": "cmr",
+    "time": "2002",
+    "residential_electricity_use_total": 457100000,
+    "cervical_cancer_number_of_female_deaths": 1419,
+    "trade_balance_percent_of_gdp": -0.78314
+  },
+  {
+    "geo": "can",
+    "time": "2002",
+    "residential_electricity_use_total": 142700000000,
+    "cervical_cancer_number_of_female_deaths": 581,
+    "trade_balance_percent_of_gdp": 4.33611
+  },
+  {
+    "geo": "chl",
+    "time": "2002",
+    "residential_electricity_use_total": 7163000000,
+    "cervical_cancer_number_of_female_deaths": 931,
+    "trade_balance_percent_of_gdp": 1.14954
+  },
+  {
+    "geo": "chn",
+    "time": "2002",
+    "residential_electricity_use_total": 200200000000,
+    "cervical_cancer_number_of_female_deaths": 25560,
+    "trade_balance_percent_of_gdp": 2.08063
+  },
+  {
+    "geo": "col",
+    "time": "2002",
+    "residential_electricity_use_total": 14410000000,
+    "cervical_cancer_number_of_female_deaths": 3296,
+    "trade_balance_percent_of_gdp": -3.3515
+  },
+  {
+    "geo": "cod",
+    "time": "2002",
+    "residential_electricity_use_total": 1228000000,
+    "cervical_cancer_number_of_female_deaths": 3058,
+    "trade_balance_percent_of_gdp": 2.02584
+  },
+  {
+    "geo": "cog",
+    "time": "2002",
+    "residential_electricity_use_total": 142000000,
+    "cervical_cancer_number_of_female_deaths": 242,
+    "trade_balance_percent_of_gdp": 27.57678
+  },
+  {
+    "geo": "cri",
+    "time": "2002",
+    "residential_electricity_use_total": 2749000000,
+    "cervical_cancer_number_of_female_deaths": 210,
+    "trade_balance_percent_of_gdp": -5.24692
+  },
+  {
+    "geo": "civ",
+    "time": "2002",
+    "residential_electricity_use_total": 913200000,
+    "cervical_cancer_number_of_female_deaths": 1192,
+    "trade_balance_percent_of_gdp": 15.06103
+  },
+  {
+    "geo": "hrv",
+    "time": "2002",
+    "residential_electricity_use_total": 5955000000,
+    "cervical_cancer_number_of_female_deaths": 209,
+    "trade_balance_percent_of_gdp": -7.87603
+  },
+  {
+    "geo": "cub",
+    "time": "2002",
+    "residential_electricity_use_total": 4894000000,
+    "cervical_cancer_number_of_female_deaths": 567,
+    "trade_balance_percent_of_gdp": -1.67518
+  },
+  {
+    "geo": "cyp",
+    "time": "2002",
+    "residential_electricity_use_total": 1157000000,
+    "cervical_cancer_number_of_female_deaths": 25,
+    "trade_balance_percent_of_gdp": 1.17691
+  },
+  {
+    "geo": "cze",
+    "time": "2002",
+    "residential_electricity_use_total": 14120000000,
+    "cervical_cancer_number_of_female_deaths": 476,
+    "trade_balance_percent_of_gdp": -1.28104
+  },
+  {
+    "geo": "dnk",
+    "time": "2002",
+    "residential_electricity_use_total": 10190000000,
+    "cervical_cancer_number_of_female_deaths": 230,
+    "trade_balance_percent_of_gdp": 6.50634
+  },
+  {
+    "geo": "dom",
+    "time": "2002",
+    "residential_electricity_use_total": 3171000000,
+    "cervical_cancer_number_of_female_deaths": 562,
+    "trade_balance_percent_of_gdp": -7.85436
+  },
+  {
+    "geo": "ecu",
+    "time": "2002",
+    "residential_electricity_use_total": 3096000000,
+    "cervical_cancer_number_of_female_deaths": 1064,
+    "trade_balance_percent_of_gdp": -6.3918
+  },
+  {
+    "geo": "egy",
+    "time": "2002",
+    "residential_electricity_use_total": 27720000000,
+    "cervical_cancer_number_of_female_deaths": 2178,
+    "trade_balance_percent_of_gdp": -4.35471
+  },
+  {
+    "geo": "slv",
+    "time": "2002",
+    "residential_electricity_use_total": 1373000000,
+    "cervical_cancer_number_of_female_deaths": 609,
+    "trade_balance_percent_of_gdp": -14.71059
+  },
+  {
+    "geo": "eri",
+    "time": "2002",
+    "residential_electricity_use_total": 78010000,
+    "cervical_cancer_number_of_female_deaths": 438,
+    "trade_balance_percent_of_gdp": -53.0278
+  },
+  {
+    "geo": "est",
+    "time": "2002",
+    "residential_electricity_use_total": 1584000000,
+    "cervical_cancer_number_of_female_deaths": 74,
+    "trade_balance_percent_of_gdp": -7.45282
+  },
+  {
+    "geo": "eth",
+    "time": "2002",
+    "residential_electricity_use_total": 591100000,
+    "cervical_cancer_number_of_female_deaths": 6081,
+    "trade_balance_percent_of_gdp": null
+  },
+  {
+    "geo": "fin",
+    "time": "2002",
+    "residential_electricity_use_total": 19950000000,
+    "cervical_cancer_number_of_female_deaths": 81,
+    "trade_balance_percent_of_gdp": 8.88131
+  },
+  {
+    "geo": "fra",
+    "time": "2002",
+    "residential_electricity_use_total": 133000000000,
+    "cervical_cancer_number_of_female_deaths": 1647,
+    "trade_balance_percent_of_gdp": 1.66403
+  },
+  {
+    "geo": "gab",
+    "time": "2002",
+    "residential_electricity_use_total": 569100000,
+    "cervical_cancer_number_of_female_deaths": 135,
+    "trade_balance_percent_of_gdp": 20.45872
+  },
+  {
+    "geo": "geo",
+    "time": "2002",
+    "residential_electricity_use_total": 2491000000,
+    "cervical_cancer_number_of_female_deaths": 225,
+    "trade_balance_percent_of_gdp": -13.17053
+  },
+  {
+    "geo": "deu",
+    "time": "2002",
+    "residential_electricity_use_total": 136500000000,
+    "cervical_cancer_number_of_female_deaths": 2967,
+    "trade_balance_percent_of_gdp": 4.37507
+  },
+  {
+    "geo": "gha",
+    "time": "2002",
+    "residential_electricity_use_total": 1822000000,
+    "cervical_cancer_number_of_female_deaths": 1572,
+    "trade_balance_percent_of_gdp": -12.25674
+  },
+  {
+    "geo": "grc",
+    "time": "2002",
+    "residential_electricity_use_total": 15780000000,
+    "cervical_cancer_number_of_female_deaths": 239,
+    "trade_balance_percent_of_gdp": -10.12329
+  },
+  {
+    "geo": "gtm",
+    "time": "2002",
+    "residential_electricity_use_total": 1412000000,
+    "cervical_cancer_number_of_female_deaths": 628,
+    "trade_balance_percent_of_gdp": -13.43397
+  },
+  {
+    "geo": "hti",
+    "time": "2002",
+    "residential_electricity_use_total": 93020000,
+    "cervical_cancer_number_of_female_deaths": 1484,
+    "trade_balance_percent_of_gdp": -23.87374
+  },
+  {
+    "geo": "hnd",
+    "time": "2002",
+    "residential_electricity_use_total": 1497000000,
+    "cervical_cancer_number_of_female_deaths": 361,
+    "trade_balance_percent_of_gdp": -12.53629
+  },
+  {
+    "geo": "hun",
+    "time": "2002",
+    "residential_electricity_use_total": 10440000000,
+    "cervical_cancer_number_of_female_deaths": 551,
+    "trade_balance_percent_of_gdp": -2.03208
+  },
+  {
+    "geo": "isl",
+    "time": "2002",
+    "residential_electricity_use_total": 637100000,
+    "cervical_cancer_number_of_female_deaths": 10,
+    "trade_balance_percent_of_gdp": 1.54063
+  },
+  {
+    "geo": "ind",
+    "time": "2002",
+    "residential_electricity_use_total": 83370000000,
+    "cervical_cancer_number_of_female_deaths": 74120,
+    "trade_balance_percent_of_gdp": -0.96301
+  },
+  {
+    "geo": "idn",
+    "time": "2002",
+    "residential_electricity_use_total": 34000000000,
+    "cervical_cancer_number_of_female_deaths": 7566,
+    "trade_balance_percent_of_gdp": 6.29578
+  },
+  {
+    "geo": "irn",
+    "time": "2002",
+    "residential_electricity_use_total": 34950000000,
+    "cervical_cancer_number_of_female_deaths": 581,
+    "trade_balance_percent_of_gdp": 0.65512
+  },
+  {
+    "geo": "irl",
+    "time": "2002",
+    "residential_electricity_use_total": 6580000000,
+    "cervical_cancer_number_of_female_deaths": 88,
+    "trade_balance_percent_of_gdp": 17.18547
+  },
+  {
+    "geo": "isr",
+    "time": "2002",
+    "residential_electricity_use_total": 12730000000,
+    "cervical_cancer_number_of_female_deaths": 82,
+    "trade_balance_percent_of_gdp": -2.7709
+  },
+  {
+    "geo": "ita",
+    "time": "2002",
+    "residential_electricity_use_total": 62970000000,
+    "cervical_cancer_number_of_female_deaths": 1186,
+    "trade_balance_percent_of_gdp": 0.74595
+  },
+  {
+    "geo": "jam",
+    "time": "2002",
+    "residential_electricity_use_total": 1103000000,
+    "cervical_cancer_number_of_female_deaths": 151,
+    "trade_balance_percent_of_gdp": -16.32287
+  },
+  {
+    "geo": "jpn",
+    "time": "2002",
+    "residential_electricity_use_total": 265900000000,
+    "cervical_cancer_number_of_female_deaths": 3573,
+    "trade_balance_percent_of_gdp": 1.34175
+  },
+  {
+    "geo": "jor",
+    "time": "2002",
+    "residential_electricity_use_total": 2500000000,
+    "cervical_cancer_number_of_female_deaths": 32,
+    "trade_balance_percent_of_gdp": -19.22182
+  },
+  {
+    "geo": "kaz",
+    "time": "2002",
+    "residential_electricity_use_total": 5341000000,
+    "cervical_cancer_number_of_female_deaths": 729,
+    "trade_balance_percent_of_gdp": -0.0504
+  },
+  {
+    "geo": "ken",
+    "time": "2002",
+    "residential_electricity_use_total": 981200000,
+    "cervical_cancer_number_of_female_deaths": 2111,
+    "trade_balance_percent_of_gdp": -5.37673
+  },
+  {
+    "geo": "kor",
+    "time": "2002",
+    "residential_electricity_use_total": 42290000000,
+    "cervical_cancer_number_of_female_deaths": 1327,
+    "trade_balance_percent_of_gdp": 1.5
+  },
+  {
+    "geo": "kwt",
+    "time": "2002",
+    "residential_electricity_use_total": 15450000000,
+    "cervical_cancer_number_of_female_deaths": 17,
+    "trade_balance_percent_of_gdp": 8.0069
+  },
+  {
+    "geo": "kgz",
+    "time": "2002",
+    "residential_electricity_use_total": 1719000000,
+    "cervical_cancer_number_of_female_deaths": 186,
+    "trade_balance_percent_of_gdp": -3.75803
+  },
+  {
+    "geo": "lva",
+    "time": "2002",
+    "residential_electricity_use_total": 1317000000,
+    "cervical_cancer_number_of_female_deaths": 165,
+    "trade_balance_percent_of_gdp": -10.14758
+  },
+  {
+    "geo": "lbn",
+    "time": "2002",
+    "residential_electricity_use_total": 3304000000,
+    "cervical_cancer_number_of_female_deaths": 131,
+    "trade_balance_percent_of_gdp": -18.84525
+  },
+  {
+    "geo": "lby",
+    "time": "2002",
+    "residential_electricity_use_total": 3599000000,
+    "cervical_cancer_number_of_female_deaths": 175,
+    "trade_balance_percent_of_gdp": 10.67584
+  },
+  {
+    "geo": "ltu",
+    "time": "2002",
+    "residential_electricity_use_total": 1811000000,
+    "cervical_cancer_number_of_female_deaths": 256,
+    "trade_balance_percent_of_gdp": -5.67566
+  },
+  {
+    "geo": "lux",
+    "time": "2002",
+    "residential_electricity_use_total": 668100000,
+    "cervical_cancer_number_of_female_deaths": 13,
+    "trade_balance_percent_of_gdp": 24.39508
+  },
+  {
+    "geo": "mys",
+    "time": "2002",
+    "residential_electricity_use_total": 13500000000,
+    "cervical_cancer_number_of_female_deaths": 766,
+    "trade_balance_percent_of_gdp": 17.25468
+  },
+  {
+    "geo": "mlt",
+    "time": "2002",
+    "residential_electricity_use_total": 570100000,
+    "cervical_cancer_number_of_female_deaths": 6,
+    "trade_balance_percent_of_gdp": 3.90146
+  },
+  {
+    "geo": "mex",
+    "time": "2002",
+    "residential_electricity_use_total": 38550000000,
+    "cervical_cancer_number_of_female_deaths": 5777,
+    "trade_balance_percent_of_gdp": -1.44599
+  },
+  {
+    "geo": "mda",
+    "time": "2002",
+    "residential_electricity_use_total": 1264000000,
+    "cervical_cancer_number_of_female_deaths": 220,
+    "trade_balance_percent_of_gdp": -25.19349
+  },
+  {
+    "geo": "mng",
+    "time": "2002",
+    "residential_electricity_use_total": 552100000,
+    "cervical_cancer_number_of_female_deaths": 92,
+    "trade_balance_percent_of_gdp": -17.06402
+  },
+  {
+    "geo": "mar",
+    "time": "2002",
+    "residential_electricity_use_total": 4210000000,
+    "cervical_cancer_number_of_female_deaths": 1247,
+    "trade_balance_percent_of_gdp": -2.69886
+  },
+  {
+    "geo": "moz",
+    "time": "2002",
+    "residential_electricity_use_total": 414100000,
+    "cervical_cancer_number_of_female_deaths": 1654,
+    "trade_balance_percent_of_gdp": -31.59531
+  },
+  {
+    "geo": "mmr",
+    "time": "2002",
+    "residential_electricity_use_total": 1431000000,
+    "cervical_cancer_number_of_female_deaths": 2594,
+    "trade_balance_percent_of_gdp": 0.08968
+  },
+  {
+    "geo": "npl",
+    "time": "2002",
+    "residential_electricity_use_total": 627100000,
+    "cervical_cancer_number_of_female_deaths": 1129,
+    "trade_balance_percent_of_gdp": -10.75646
+  },
+  {
+    "geo": "nld",
+    "time": "2002",
+    "residential_electricity_use_total": 22820000000,
+    "cervical_cancer_number_of_female_deaths": 307,
+    "trade_balance_percent_of_gdp": 6.79109
+  },
+  {
+    "geo": "nzl",
+    "time": "2002",
+    "residential_electricity_use_total": 11690000000,
+    "cervical_cancer_number_of_female_deaths": 82,
+    "trade_balance_percent_of_gdp": 3.03813
+  },
+  {
+    "geo": "nic",
+    "time": "2002",
+    "residential_electricity_use_total": 470100000,
+    "cervical_cancer_number_of_female_deaths": 354,
+    "trade_balance_percent_of_gdp": -20.39701
+  },
+  {
+    "geo": "nga",
+    "time": "2002",
+    "residential_electricity_use_total": 7716000000,
+    "cervical_cancer_number_of_female_deaths": 8030,
+    "trade_balance_percent_of_gdp": 8.54774
+  },
+  {
+    "geo": "nor",
+    "time": "2002",
+    "residential_electricity_use_total": 34650000000,
+    "cervical_cancer_number_of_female_deaths": 125,
+    "trade_balance_percent_of_gdp": 13.14296
+  },
+  {
+    "geo": "omn",
+    "time": "2002",
+    "residential_electricity_use_total": 4415000000,
+    "cervical_cancer_number_of_female_deaths": 25,
+    "trade_balance_percent_of_gdp": 21.18814
+  },
+  {
+    "geo": "pak",
+    "time": "2002",
+    "residential_electricity_use_total": 23630000000,
+    "cervical_cancer_number_of_female_deaths": 1605,
+    "trade_balance_percent_of_gdp": -0.0904
+  },
+  {
+    "geo": "pan",
+    "time": "2002",
+    "residential_electricity_use_total": 1261000000,
+    "cervical_cancer_number_of_female_deaths": 166,
+    "trade_balance_percent_of_gdp": -6.57229
+  },
+  {
+    "geo": "pry",
+    "time": "2002",
+    "residential_electricity_use_total": 2803000000,
+    "cervical_cancer_number_of_female_deaths": 513,
+    "trade_balance_percent_of_gdp": 17.46076
+  },
+  {
+    "geo": "per",
+    "time": "2002",
+    "residential_electricity_use_total": 5612000000,
+    "cervical_cancer_number_of_female_deaths": 2663,
+    "trade_balance_percent_of_gdp": -0.69316
+  },
+  {
+    "geo": "phl",
+    "time": "2002",
+    "residential_electricity_use_total": 13720000000,
+    "cervical_cancer_number_of_female_deaths": 4349,
+    "trade_balance_percent_of_gdp": -8.94107
+  },
+  {
+    "geo": "dza",
+    "time": "2002",
+    "residential_electricity_use_total": 12820000000,
+    "cervical_cancer_number_of_female_deaths": 1391,
+    "trade_balance_percent_of_gdp": 9.8749
+  },
+  {
+    "geo": "prt",
+    "time": "2002",
+    "residential_electricity_use_total": 11380000000,
+    "cervical_cancer_number_of_female_deaths": 378,
+    "trade_balance_percent_of_gdp": -8.26995
+  },
+  {
+    "geo": "qat",
+    "time": "2002",
+    "residential_electricity_use_total": 2586000000,
+    "cervical_cancer_number_of_female_deaths": 3,
+    "trade_balance_percent_of_gdp": 32.21582
+  },
+  {
+    "geo": "rou",
+    "time": "2002",
+    "residential_electricity_use_total": 7772000000,
+    "cervical_cancer_number_of_female_deaths": 2094,
+    "trade_balance_percent_of_gdp": -5.60041
+  },
+  {
+    "geo": "rus",
+    "time": "2002",
+    "residential_electricity_use_total": 142700000000,
+    "cervical_cancer_number_of_female_deaths": 7784,
+    "trade_balance_percent_of_gdp": 10.79099
+  },
+  {
+    "geo": "sau",
+    "time": "2002",
+    "residential_electricity_use_total": 65470000000,
+    "cervical_cancer_number_of_female_deaths": 143,
+    "trade_balance_percent_of_gdp": 17.4016
+  },
+  {
+    "geo": "sen",
+    "time": "2002",
+    "residential_electricity_use_total": 515100000,
+    "cervical_cancer_number_of_female_deaths": 640,
+    "trade_balance_percent_of_gdp": -10.41637
+  },
+  {
+    "geo": "srb",
+    "time": "2002",
+    "residential_electricity_use_total": 16300000000,
+    "trade_balance_percent_of_gdp": -18.08014,
+    "cervical_cancer_number_of_female_deaths": null
+  },
+  {
+    "geo": "sgp",
+    "time": "2002",
+    "residential_electricity_use_total": 6349000000,
+    "cervical_cancer_number_of_female_deaths": 205,
+    "trade_balance_percent_of_gdp": 17.65056
+  },
+  {
+    "geo": "svk",
+    "time": "2002",
+    "residential_electricity_use_total": 5158000000,
+    "cervical_cancer_number_of_female_deaths": 242,
+    "trade_balance_percent_of_gdp": -7.23135
+  },
+  {
+    "geo": "svn",
+    "time": "2002",
+    "residential_electricity_use_total": 2704000000,
+    "cervical_cancer_number_of_female_deaths": 79,
+    "trade_balance_percent_of_gdp": 0.988
+  },
+  {
+    "geo": "zaf",
+    "time": "2002",
+    "residential_electricity_use_total": 30420000000,
+    "cervical_cancer_number_of_female_deaths": 3681,
+    "trade_balance_percent_of_gdp": 3.79704
+  },
+  {
+    "geo": "esp",
+    "time": "2002",
+    "residential_electricity_use_total": 50650000000,
+    "cervical_cancer_number_of_female_deaths": 739,
+    "trade_balance_percent_of_gdp": -2.02859
+  },
+  {
+    "geo": "lka",
+    "time": "2002",
+    "residential_electricity_use_total": 2157000000,
+    "cervical_cancer_number_of_female_deaths": 840,
+    "trade_balance_percent_of_gdp": -6.50847
+  },
+  {
+    "geo": "sdn",
+    "time": "2002",
+    "residential_electricity_use_total": 1383000000,
+    "cervical_cancer_number_of_female_deaths": 1354,
+    "trade_balance_percent_of_gdp": -3.43839
+  },
+  {
+    "geo": "swe",
+    "time": "2002",
+    "residential_electricity_use_total": 41480000000,
+    "cervical_cancer_number_of_female_deaths": 249,
+    "trade_balance_percent_of_gdp": 6.31653
+  },
+  {
+    "geo": "che",
+    "time": "2002",
+    "residential_electricity_use_total": 16230000000,
+    "cervical_cancer_number_of_female_deaths": 108,
+    "trade_balance_percent_of_gdp": 6.72457
+  },
+  {
+    "geo": "syr",
+    "time": "2002",
+    "residential_electricity_use_total": 9652000000,
+    "cervical_cancer_number_of_female_deaths": 55,
+    "trade_balance_percent_of_gdp": 7.53014
+  },
+  {
+    "geo": "tjk",
+    "time": "2002",
+    "residential_electricity_use_total": 3306000000,
+    "cervical_cancer_number_of_female_deaths": 70,
+    "trade_balance_percent_of_gdp": -10.63107
+  },
+  {
+    "geo": "tza",
+    "time": "2002",
+    "residential_electricity_use_total": 1120000000,
+    "cervical_cancer_number_of_female_deaths": 6009,
+    "trade_balance_percent_of_gdp": -2.25958
+  },
+  {
+    "geo": "tha",
+    "time": "2002",
+    "residential_electricity_use_total": 22120000000,
+    "cervical_cancer_number_of_female_deaths": 2620,
+    "trade_balance_percent_of_gdp": 6.32176
+  },
+  {
+    "geo": "tgo",
+    "time": "2002",
+    "residential_electricity_use_total": 266000000,
+    "cervical_cancer_number_of_female_deaths": 349,
+    "trade_balance_percent_of_gdp": -12.55863
+  },
+  {
+    "geo": "tto",
+    "time": "2002",
+    "residential_electricity_use_total": 1321000000,
+    "cervical_cancer_number_of_female_deaths": 73,
+    "trade_balance_percent_of_gdp": 5.56931
+  },
+  {
+    "geo": "tun",
+    "time": "2002",
+    "residential_electricity_use_total": 2513000000,
+    "cervical_cancer_number_of_female_deaths": 229,
+    "trade_balance_percent_of_gdp": -3.77248
+  },
+  {
+    "geo": "tur",
+    "time": "2002",
+    "residential_electricity_use_total": 23560000000,
+    "cervical_cancer_number_of_female_deaths": 726,
+    "trade_balance_percent_of_gdp": 1.63454
+  },
+  {
+    "geo": "tkm",
+    "time": "2002",
+    "residential_electricity_use_total": 1307000000,
+    "cervical_cancer_number_of_female_deaths": 96,
+    "trade_balance_percent_of_gdp": 15.64311
+  },
+  {
+    "geo": "ukr",
+    "time": "2002",
+    "residential_electricity_use_total": 21760000000,
+    "cervical_cancer_number_of_female_deaths": 2578,
+    "trade_balance_percent_of_gdp": 4.38023
+  },
+  {
+    "geo": "are",
+    "time": "2002",
+    "residential_electricity_use_total": 14700000000,
+    "cervical_cancer_number_of_female_deaths": 36,
+    "trade_balance_percent_of_gdp": 5.93504
+  },
+  {
+    "geo": "gbr",
+    "time": "2002",
+    "residential_electricity_use_total": 114600000000,
+    "cervical_cancer_number_of_female_deaths": 1529,
+    "trade_balance_percent_of_gdp": -2.92204
+  },
+  {
+    "geo": "usa",
+    "time": "2002",
+    "residential_electricity_use_total": 1265000000000,
+    "cervical_cancer_number_of_female_deaths": 5214,
+    "trade_balance_percent_of_gdp": -3.88489
+  },
+  {
+    "geo": "ury",
+    "time": "2002",
+    "residential_electricity_use_total": 2798000000,
+    "cervical_cancer_number_of_female_deaths": 162,
+    "trade_balance_percent_of_gdp": 1.21428
+  },
+  {
+    "geo": "uzb",
+    "time": "2002",
+    "residential_electricity_use_total": 7383000000,
+    "cervical_cancer_number_of_female_deaths": 379,
+    "trade_balance_percent_of_gdp": 1.46574
+  },
+  {
+    "geo": "ven",
+    "time": "2002",
+    "residential_electricity_use_total": 16600000000,
+    "cervical_cancer_number_of_female_deaths": 1705,
+    "trade_balance_percent_of_gdp": 12.29143
+  },
+  {
+    "geo": "vnm",
+    "time": "2002",
+    "residential_electricity_use_total": 14560000000,
+    "cervical_cancer_number_of_female_deaths": 3334,
+    "trade_balance_percent_of_gdp": -6.67003
+  },
+  {
+    "geo": "yem",
+    "time": "2002",
+    "residential_electricity_use_total": 1766000000,
+    "cervical_cancer_number_of_female_deaths": 206,
+    "trade_balance_percent_of_gdp": -0.72811
+  },
+  {
+    "geo": "zmb",
+    "time": "2002",
+    "residential_electricity_use_total": 1302000000,
+    "cervical_cancer_number_of_female_deaths": 1340,
+    "trade_balance_percent_of_gdp": -10.64914
+  },
+  {
+    "geo": "zwe",
+    "time": "2002",
+    "residential_electricity_use_total": 2487000000,
+    "cervical_cancer_number_of_female_deaths": 1492,
+    "trade_balance_percent_of_gdp": -3.13775
+  },
+  {
+    "geo": "afg",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 254,
+    "trade_balance_percent_of_gdp": -32.90099,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "bhs",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 9,
+    "trade_balance_percent_of_gdp": 3.76962,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "brb",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 18,
+    "trade_balance_percent_of_gdp": -5.39517,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "blz",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 16,
+    "trade_balance_percent_of_gdp": -13.57029,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "btn",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 105,
+    "trade_balance_percent_of_gdp": -19.71936,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "bfa",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 724,
+    "trade_balance_percent_of_gdp": -12.51954,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "bdi",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 722,
+    "trade_balance_percent_of_gdp": -12.30222,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "cpv",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 38,
+    "trade_balance_percent_of_gdp": -35.99979,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "caf",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 306,
+    "trade_balance_percent_of_gdp": -4.18315,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "tcd",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 555,
+    "trade_balance_percent_of_gdp": -100.97093,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "com",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 79,
+    "trade_balance_percent_of_gdp": -12.5773,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "dji",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 90,
+    "trade_balance_percent_of_gdp": -5.17825,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "gnq",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 37,
+    "trade_balance_percent_of_gdp": -6.59909,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "fji",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 61,
+    "trade_balance_percent_of_gdp": -2.43934,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "gmb",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 124,
+    "trade_balance_percent_of_gdp": -5.32818,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "gin",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 1138,
+    "trade_balance_percent_of_gdp": -2.49261,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "gnb",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 99,
+    "trade_balance_percent_of_gdp": -5.51816,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "guy",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 71,
+    "trade_balance_percent_of_gdp": -12.68835,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "irq",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 129,
+    "trade_balance_percent_of_gdp": 21.37806,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "prk",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 558,
+    "residential_electricity_use_total": null,
+    "trade_balance_percent_of_gdp": null
+  },
+  {
+    "geo": "lao",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 159,
+    "trade_balance_percent_of_gdp": -7.5097,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "lso",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 391,
+    "trade_balance_percent_of_gdp": -77.54272,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "lbr",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 256,
+    "trade_balance_percent_of_gdp": 11.57873,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "mkd",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 99,
+    "trade_balance_percent_of_gdp": -18.9314,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "mdg",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 1795,
+    "trade_balance_percent_of_gdp": -6.56547,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "mwi",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 1405,
+    "trade_balance_percent_of_gdp": -10.17956,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "mli",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 1076,
+    "trade_balance_percent_of_gdp": -1.65438,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "mrt",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 209,
+    "trade_balance_percent_of_gdp": -13.92893,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "mus",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 61,
+    "trade_balance_percent_of_gdp": 3.03631,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "nam",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 109,
+    "trade_balance_percent_of_gdp": -2.06997,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "ner",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 532,
+    "trade_balance_percent_of_gdp": -10.57767,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "png",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 341,
+    "trade_balance_percent_of_gdp": 2.91251,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "rwa",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 878,
+    "trade_balance_percent_of_gdp": -16.67921,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "wsm",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 8,
+    "trade_balance_percent_of_gdp": -38.01001,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "sle",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 362,
+    "trade_balance_percent_of_gdp": -21.53326,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "slb",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 31,
+    "trade_balance_percent_of_gdp": -10.41284,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "som",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 906,
+    "residential_electricity_use_total": null,
+    "trade_balance_percent_of_gdp": null
+  },
+  {
+    "geo": "sur",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 26,
+    "trade_balance_percent_of_gdp": -20.7978,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "swz",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 150,
+    "trade_balance_percent_of_gdp": -5.31842,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "uga",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 1932,
+    "trade_balance_percent_of_gdp": -13.85124,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "vut",
+    "time": "2002",
+    "cervical_cancer_number_of_female_deaths": 8,
+    "trade_balance_percent_of_gdp": -7.0772,
+    "residential_electricity_use_total": null
+  },
+  {
+    "geo": "atg",
+    "time": "2002",
+    "trade_balance_percent_of_gdp": -5.80344,
+    "residential_electricity_use_total": null,
+    "cervical_cancer_number_of_female_deaths": null
+  },
+  {
+    "geo": "dma",
+    "time": "2002",
+    "trade_balance_percent_of_gdp": -9.79192,
+    "residential_electricity_use_total": null,
+    "cervical_cancer_number_of_female_deaths": null
+  },
+  {
+    "geo": "grd",
+    "time": "2002",
+    "trade_balance_percent_of_gdp": -18.41182,
+    "residential_electricity_use_total": null,
+    "cervical_cancer_number_of_female_deaths": null
+  },
+  {
+    "geo": "kir",
+    "time": "2002",
+    "trade_balance_percent_of_gdp": -94.87692,
+    "residential_electricity_use_total": null,
+    "cervical_cancer_number_of_female_deaths": null
+  },
+  {
+    "geo": "mdv",
+    "time": "2002",
+    "trade_balance_percent_of_gdp": 4.3314,
+    "residential_electricity_use_total": null,
+    "cervical_cancer_number_of_female_deaths": null
+  },
+  {
+    "geo": "mne",
+    "time": "2002",
+    "trade_balance_percent_of_gdp": -24.52173,
+    "residential_electricity_use_total": null,
+    "cervical_cancer_number_of_female_deaths": null
+  },
+  {
+    "geo": "plw",
+    "time": "2002",
+    "trade_balance_percent_of_gdp": -33.91211,
+    "residential_electricity_use_total": null,
+    "cervical_cancer_number_of_female_deaths": null
+  },
+  {
+    "geo": "syc",
+    "time": "2002",
+    "trade_balance_percent_of_gdp": -7.51796,
+    "residential_electricity_use_total": null,
+    "cervical_cancer_number_of_female_deaths": null
+  },
+  {
+    "geo": "kna",
+    "time": "2002",
+    "trade_balance_percent_of_gdp": -21.43784,
+    "residential_electricity_use_total": null,
+    "cervical_cancer_number_of_female_deaths": null
+  },
+  {
+    "geo": "lca",
+    "time": "2002",
+    "trade_balance_percent_of_gdp": -10.96059,
+    "residential_electricity_use_total": null,
+    "cervical_cancer_number_of_female_deaths": null
+  },
+  {
+    "geo": "vct",
+    "time": "2002",
+    "trade_balance_percent_of_gdp": -7.90374,
+    "residential_electricity_use_total": null,
+    "cervical_cancer_number_of_female_deaths": null
+  },
+  {
+    "geo": "tls",
+    "time": "2002",
+    "trade_balance_percent_of_gdp": -184.68468,
+    "residential_electricity_use_total": null,
+    "cervical_cancer_number_of_female_deaths": null
+  },
+  {
+    "geo": "ton",
+    "time": "2002",
+    "trade_balance_percent_of_gdp": -37.25902,
+    "residential_electricity_use_total": null,
+    "cervical_cancer_number_of_female_deaths": null
+  },
+  {
+    "geo": "pse",
+    "time": "2002",
+    "trade_balance_percent_of_gdp": -49.37848,
+    "residential_electricity_use_total": null,
+    "cervical_cancer_number_of_female_deaths": null
+  }
+]

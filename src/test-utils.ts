@@ -2,7 +2,7 @@ import * as path from 'path';
 import * as rimraf from 'rimraf';
 import * as colors from 'colors';
 import { table } from 'table';
-import { head, keys, isEmpty, split, nth, noop } from 'lodash';
+import { head, keys, isEmpty, split, nth, noop, cloneDeep } from 'lodash';
 import { TestCase } from './test-case';
 import { familyMembers } from './settings/family-members';
 import { AbstractExpectationStrategy } from './expectations/abstract-expectation-strategy';
@@ -85,20 +85,20 @@ export function runTests(testCases: TestCase<AbstractExpectationStrategy>[], agg
 
       aggregatedData[testCaseTitleWithDataset] = {};
 
-      for (const readerCase of familyMembers) {
-        if (dataset === readerCase.dataSource) {
-          readerCase.checkConstraints();
+      for (const familyMember of familyMembers) {
+        if (dataset === familyMember.dataSource) {
+          familyMember.checkConstraints();
 
-          aggregatedData[testCaseTitleWithDataset][readerCase.getTitle()] = {
+          aggregatedData[testCaseTitleWithDataset][familyMember.getTitle()] = {
             executionTime: null
           };
 
-          const title = `"${readerCase.getTitle()}" on "${readerCase.dataSource.title} (${readerCase.dataSource.name})": ${testCase.title}`;
+          const title = `"${familyMember.getTitle()}" on "${familyMember.dataSource.title} (${familyMember.dataSource.name})": ${testCase.title}`;
           const flow = new testCase.expectationStrategy(testCase.fixturePath);
 
-          if (isTestCaseShouldBeOmitted(testCase, readerCase)) {
-            if (aggregatedData[testCaseTitleWithDataset][readerCase.getTitle()]) {
-              aggregatedData[testCaseTitleWithDataset][readerCase.getTitle()].executionTime = '***';
+          if (isTestCaseShouldBeOmitted(testCase, familyMember)) {
+            if (aggregatedData[testCaseTitleWithDataset][familyMember.getTitle()]) {
+              aggregatedData[testCaseTitleWithDataset][familyMember.getTitle()].executionTime = '***';
             }
 
             xit(`***UNSUPPORTED *** ${title}`, noop);
@@ -108,17 +108,17 @@ export function runTests(testCases: TestCase<AbstractExpectationStrategy>[], agg
             it(`${title} [#${currentTestIndex}]`, done => {
               const timeStart = new Date().getTime();
 
-              readerCase.read(testCase.request, (err, data) => {
+              familyMember.read(testCase.request, (err, data) => {
                 // console.log(JSON.stringify(data, null, 2));
 
                 const timeFinish = new Date().getTime();
 
-                if (aggregatedData[testCaseTitleWithDataset][readerCase.getTitle()]) {
-                  aggregatedData[testCaseTitleWithDataset][readerCase.getTitle()].executionTime = timeFinish - timeStart;
+                if (aggregatedData[testCaseTitleWithDataset][familyMember.getTitle()]) {
+                  aggregatedData[testCaseTitleWithDataset][familyMember.getTitle()].executionTime = timeFinish - timeStart;
                 }
 
                 try {
-                  flow.testIt(err, data, readerCase.dataSource.name, currentTestIndex);
+                  flow.testIt(err, data, familyMember.dataSource.name, currentTestIndex);
 
                   done();
                 } catch (err) {

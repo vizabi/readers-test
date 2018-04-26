@@ -1,0 +1,977 @@
+[
+  {
+    "geo": "lbn",
+    "time": "2013",
+    "population_total": 5276102
+  },
+  {
+    "geo": "afg",
+    "time": "2013",
+    "population_total": 31731688
+  },
+  {
+    "geo": "alb",
+    "time": "2013",
+    "population_total": 2918978
+  },
+  {
+    "geo": "and",
+    "time": "2013",
+    "population_total": 80788
+  },
+  {
+    "geo": "are",
+    "time": "2013",
+    "population_total": 9006263
+  },
+  {
+    "geo": "arg",
+    "time": "2013",
+    "population_total": 42539925
+  },
+  {
+    "geo": "arm",
+    "time": "2013",
+    "population_total": 2893509
+  },
+  {
+    "geo": "atg",
+    "time": "2013",
+    "population_total": 97824
+  },
+  {
+    "geo": "aus",
+    "time": "2013",
+    "population_total": 23150729
+  },
+  {
+    "geo": "aut",
+    "time": "2013",
+    "population_total": 8577782
+  },
+  {
+    "geo": "aze",
+    "time": "2013",
+    "population_total": 9385293
+  },
+  {
+    "geo": "bdi",
+    "time": "2013",
+    "population_total": 9600186
+  },
+  {
+    "geo": "bel",
+    "time": "2013",
+    "population_total": 11151512
+  },
+  {
+    "geo": "ben",
+    "time": "2013",
+    "population_total": 10004451
+  },
+  {
+    "geo": "bfa",
+    "time": "2013",
+    "population_total": 17072723
+  },
+  {
+    "geo": "bgd",
+    "time": "2013",
+    "population_total": 157571292
+  },
+  {
+    "geo": "bgr",
+    "time": "2013",
+    "population_total": 7266141
+  },
+  {
+    "geo": "bhr",
+    "time": "2013",
+    "population_total": 1315411
+  },
+  {
+    "geo": "bhs",
+    "time": "2013",
+    "population_total": 377240
+  },
+  {
+    "geo": "bih",
+    "time": "2013",
+    "population_total": 3604999
+  },
+  {
+    "geo": "blr",
+    "time": "2013",
+    "population_total": 9478902
+  },
+  {
+    "geo": "blz",
+    "time": "2013",
+    "population_total": 344181
+  },
+  {
+    "geo": "bol",
+    "time": "2013",
+    "population_total": 10400264
+  },
+  {
+    "geo": "bra",
+    "time": "2013",
+    "population_total": 202408632
+  },
+  {
+    "geo": "brb",
+    "time": "2013",
+    "population_total": 282509
+  },
+  {
+    "geo": "brn",
+    "time": "2013",
+    "population_total": 405716
+  },
+  {
+    "geo": "btn",
+    "time": "2013",
+    "population_total": 764961
+  },
+  {
+    "geo": "bwa",
+    "time": "2013",
+    "population_total": 2128507
+  },
+  {
+    "geo": "caf",
+    "time": "2013",
+    "population_total": 4499653
+  },
+  {
+    "geo": "can",
+    "time": "2013",
+    "population_total": 35255495
+  },
+  {
+    "geo": "che",
+    "time": "2013",
+    "population_total": 8132674
+  },
+  {
+    "geo": "chl",
+    "time": "2013",
+    "population_total": 17462982
+  },
+  {
+    "geo": "chn",
+    "time": "2013",
+    "population_total": 1382793212
+  },
+  {
+    "geo": "civ",
+    "time": "2013",
+    "population_total": 21966312
+  },
+  {
+    "geo": "cmr",
+    "time": "2013",
+    "population_total": 21655715
+  },
+  {
+    "geo": "cod",
+    "time": "2013",
+    "population_total": 71316033
+  },
+  {
+    "geo": "cog",
+    "time": "2013",
+    "population_total": 4751393
+  },
+  {
+    "geo": "col",
+    "time": "2013",
+    "population_total": 47342981
+  },
+  {
+    "geo": "com",
+    "time": "2013",
+    "population_total": 741500
+  },
+  {
+    "geo": "cpv",
+    "time": "2013",
+    "population_total": 520106
+  },
+  {
+    "geo": "cri",
+    "time": "2013",
+    "population_total": 4706401
+  },
+  {
+    "geo": "cub",
+    "time": "2013",
+    "population_total": 11412167
+  },
+  {
+    "geo": "cyp",
+    "time": "2013",
+    "population_total": 1143896
+  },
+  {
+    "geo": "cze",
+    "time": "2013",
+    "population_total": 10594481
+  },
+  {
+    "geo": "deu",
+    "time": "2013",
+    "population_total": 81265139
+  },
+  {
+    "geo": "dji",
+    "time": "2013",
+    "population_total": 896688
+  },
+  {
+    "geo": "dma",
+    "time": "2013",
+    "population_total": 72400
+  },
+  {
+    "geo": "dnk",
+    "time": "2013",
+    "population_total": 5637817
+  },
+  {
+    "geo": "dom",
+    "time": "2013",
+    "population_total": 10281296
+  },
+  {
+    "geo": "dza",
+    "time": "2013",
+    "population_total": 38338562
+  },
+  {
+    "geo": "ecu",
+    "time": "2013",
+    "population_total": 15661547
+  },
+  {
+    "geo": "egy",
+    "time": "2013",
+    "population_total": 89807433
+  },
+  {
+    "geo": "eri",
+    "time": "2013",
+    "population_total": 4650998
+  },
+  {
+    "geo": "esp",
+    "time": "2013",
+    "population_total": 46697553
+  },
+  {
+    "geo": "est",
+    "time": "2013",
+    "population_total": 1321560
+  },
+  {
+    "geo": "eth",
+    "time": "2013",
+    "population_total": 94887724
+  },
+  {
+    "geo": "fin",
+    "time": "2013",
+    "population_total": 5436616
+  },
+  {
+    "geo": "fji",
+    "time": "2013",
+    "population_total": 879715
+  },
+  {
+    "geo": "fra",
+    "time": "2013",
+    "population_total": 63919917
+  },
+  {
+    "geo": "fsm",
+    "time": "2013",
+    "population_total": 103702
+  },
+  {
+    "geo": "gab",
+    "time": "2013",
+    "population_total": 1817271
+  },
+  {
+    "geo": "gbr",
+    "time": "2013",
+    "population_total": 64641110
+  },
+  {
+    "geo": "geo",
+    "time": "2013",
+    "population_total": 4045910
+  },
+  {
+    "geo": "gha",
+    "time": "2013",
+    "population_total": 26346251
+  },
+  {
+    "geo": "gin",
+    "time": "2013",
+    "population_total": 11536615
+  },
+  {
+    "geo": "gmb",
+    "time": "2013",
+    "population_total": 1859324
+  },
+  {
+    "geo": "gnb",
+    "time": "2013",
+    "population_total": 1681495
+  },
+  {
+    "geo": "gnq",
+    "time": "2013",
+    "population_total": 1083746
+  },
+  {
+    "geo": "grc",
+    "time": "2013",
+    "population_total": 11321300
+  },
+  {
+    "geo": "grd",
+    "time": "2013",
+    "population_total": 105909
+  },
+  {
+    "geo": "gtm",
+    "time": "2013",
+    "population_total": 15596214
+  },
+  {
+    "geo": "guy",
+    "time": "2013",
+    "population_total": 758081
+  },
+  {
+    "geo": "hnd",
+    "time": "2013",
+    "population_total": 8657785
+  },
+  {
+    "geo": "hos",
+    "time": "2013",
+    "population_total": 801
+  },
+  {
+    "geo": "hrv",
+    "time": "2013",
+    "population_total": 4277806
+  },
+  {
+    "geo": "hti",
+    "time": "2013",
+    "population_total": 10431776
+  },
+  {
+    "geo": "hun",
+    "time": "2013",
+    "population_total": 9841697
+  },
+  {
+    "geo": "idn",
+    "time": "2013",
+    "population_total": 252032263
+  },
+  {
+    "geo": "ind",
+    "time": "2013",
+    "population_total": 1278562207
+  },
+  {
+    "geo": "irl",
+    "time": "2013",
+    "population_total": 4681967
+  },
+  {
+    "geo": "irn",
+    "time": "2013",
+    "population_total": 77435384
+  },
+  {
+    "geo": "irq",
+    "time": "2013",
+    "population_total": 33883145
+  },
+  {
+    "geo": "isl",
+    "time": "2013",
+    "population_total": 327029
+  },
+  {
+    "geo": "isr",
+    "time": "2013",
+    "population_total": 7821105
+  },
+  {
+    "geo": "ita",
+    "time": "2013",
+    "population_total": 59668000
+  },
+  {
+    "geo": "jam",
+    "time": "2013",
+    "population_total": 2851807
+  },
+  {
+    "geo": "jor",
+    "time": "2013",
+    "population_total": 8413464
+  },
+  {
+    "geo": "jpn",
+    "time": "2013",
+    "population_total": 128312920
+  },
+  {
+    "geo": "kaz",
+    "time": "2013",
+    "population_total": 17207257
+  },
+  {
+    "geo": "ken",
+    "time": "2013",
+    "population_total": 44826849
+  },
+  {
+    "geo": "kgz",
+    "time": "2013",
+    "population_total": 5683808
+  },
+  {
+    "geo": "khm",
+    "time": "2013",
+    "population_total": 15022692
+  },
+  {
+    "geo": "kir",
+    "time": "2013",
+    "population_total": 108535
+  },
+  {
+    "geo": "kna",
+    "time": "2013",
+    "population_total": 53169
+  },
+  {
+    "geo": "kor",
+    "time": "2013",
+    "population_total": 50169242
+  },
+  {
+    "geo": "kwt",
+    "time": "2013",
+    "population_total": 3598385
+  },
+  {
+    "geo": "lao",
+    "time": "2013",
+    "population_total": 6494557
+  },
+  {
+    "geo": "ago",
+    "time": "2013",
+    "population_total": 25998340
+  },
+  {
+    "geo": "lbr",
+    "time": "2013",
+    "population_total": 4286291
+  },
+  {
+    "geo": "lby",
+    "time": "2013",
+    "population_total": 6195970
+  },
+  {
+    "geo": "lca",
+    "time": "2013",
+    "population_total": 175660
+  },
+  {
+    "geo": "lie",
+    "time": "2013",
+    "population_total": 36834
+  },
+  {
+    "geo": "lka",
+    "time": "2013",
+    "population_total": 20527233
+  },
+  {
+    "geo": "lso",
+    "time": "2013",
+    "population_total": 2117361
+  },
+  {
+    "geo": "ltu",
+    "time": "2013",
+    "population_total": 2997334
+  },
+  {
+    "geo": "lux",
+    "time": "2013",
+    "population_total": 544721
+  },
+  {
+    "geo": "lva",
+    "time": "2013",
+    "population_total": 2040784
+  },
+  {
+    "geo": "mar",
+    "time": "2013",
+    "population_total": 33824769
+  },
+  {
+    "geo": "mco",
+    "time": "2013",
+    "population_total": 37971
+  },
+  {
+    "geo": "mda",
+    "time": "2013",
+    "population_total": 4071964
+  },
+  {
+    "geo": "mdg",
+    "time": "2013",
+    "population_total": 22961146
+  },
+  {
+    "geo": "mdv",
+    "time": "2013",
+    "population_total": 397397
+  },
+  {
+    "geo": "mex",
+    "time": "2013",
+    "population_total": 122535969
+  },
+  {
+    "geo": "mhl",
+    "time": "2013",
+    "population_total": 52793
+  },
+  {
+    "geo": "mkd",
+    "time": "2013",
+    "population_total": 2075739
+  },
+  {
+    "geo": "mli",
+    "time": "2013",
+    "population_total": 16477818
+  },
+  {
+    "geo": "mlt",
+    "time": "2013",
+    "population_total": 423246
+  },
+  {
+    "geo": "mmr",
+    "time": "2013",
+    "population_total": 51448196
+  },
+  {
+    "geo": "mne",
+    "time": "2013",
+    "population_total": 627094
+  },
+  {
+    "geo": "mng",
+    "time": "2013",
+    "population_total": 2869107
+  },
+  {
+    "geo": "moz",
+    "time": "2013",
+    "population_total": 26434372
+  },
+  {
+    "geo": "mrt",
+    "time": "2013",
+    "population_total": 3946170
+  },
+  {
+    "geo": "mus",
+    "time": "2013",
+    "population_total": 1255290
+  },
+  {
+    "geo": "mwi",
+    "time": "2013",
+    "population_total": 16577147
+  },
+  {
+    "geo": "mys",
+    "time": "2013",
+    "population_total": 29706724
+  },
+  {
+    "geo": "nam",
+    "time": "2013",
+    "population_total": 2316520
+  },
+  {
+    "geo": "ner",
+    "time": "2013",
+    "population_total": 18426372
+  },
+  {
+    "geo": "nga",
+    "time": "2013",
+    "population_total": 171829303
+  },
+  {
+    "geo": "nic",
+    "time": "2013",
+    "population_total": 5945747
+  },
+  {
+    "geo": "nld",
+    "time": "2013",
+    "population_total": 16839699
+  },
+  {
+    "geo": "nor",
+    "time": "2013",
+    "population_total": 5077101
+  },
+  {
+    "geo": "npl",
+    "time": "2013",
+    "population_total": 27985310
+  },
+  {
+    "geo": "nru",
+    "time": "2013",
+    "population_total": 10790
+  },
+  {
+    "geo": "nzl",
+    "time": "2013",
+    "population_total": 4517527
+  },
+  {
+    "geo": "omn",
+    "time": "2013",
+    "population_total": 3711481
+  },
+  {
+    "geo": "pak",
+    "time": "2013",
+    "population_total": 181712595
+  },
+  {
+    "geo": "pan",
+    "time": "2013",
+    "population_total": 3838462
+  },
+  {
+    "geo": "per",
+    "time": "2013",
+    "population_total": 30565716
+  },
+  {
+    "geo": "phl",
+    "time": "2013",
+    "population_total": 98481032
+  },
+  {
+    "geo": "plw",
+    "time": "2013",
+    "population_total": 20920
+  },
+  {
+    "geo": "png",
+    "time": "2013",
+    "population_total": 7592865
+  },
+  {
+    "geo": "pol",
+    "time": "2013",
+    "population_total": 38309451
+  },
+  {
+    "geo": "prk",
+    "time": "2013",
+    "population_total": 24985976
+  },
+  {
+    "geo": "prt",
+    "time": "2013",
+    "population_total": 10527674
+  },
+  {
+    "geo": "pry",
+    "time": "2013",
+    "population_total": 6465740
+  },
+  {
+    "geo": "pse",
+    "time": "2013",
+    "population_total": 4414644
+  },
+  {
+    "geo": "qat",
+    "time": "2013",
+    "population_total": 2250473
+  },
+  {
+    "geo": "rou",
+    "time": "2013",
+    "population_total": 20068201
+  },
+  {
+    "geo": "rus",
+    "time": "2013",
+    "population_total": 143597230
+  },
+  {
+    "geo": "rwa",
+    "time": "2013",
+    "population_total": 11065151
+  },
+  {
+    "geo": "sau",
+    "time": "2013",
+    "population_total": 29944476
+  },
+  {
+    "geo": "sdn",
+    "time": "2013",
+    "population_total": 36849918
+  },
+  {
+    "geo": "sen",
+    "time": "2013",
+    "population_total": 14120320
+  },
+  {
+    "geo": "sgp",
+    "time": "2013",
+    "population_total": 5360837
+  },
+  {
+    "geo": "slb",
+    "time": "2013",
+    "population_total": 563513
+  },
+  {
+    "geo": "sle",
+    "time": "2013",
+    "population_total": 6922079
+  },
+  {
+    "geo": "slv",
+    "time": "2013",
+    "population_total": 6250777
+  },
+  {
+    "geo": "smr",
+    "time": "2013",
+    "population_total": 32303
+  },
+  {
+    "geo": "som",
+    "time": "2013",
+    "population_total": 13132349
+  },
+  {
+    "geo": "srb",
+    "time": "2013",
+    "population_total": 8920215
+  },
+  {
+    "geo": "ssd",
+    "time": "2013",
+    "population_total": 11177490
+  },
+  {
+    "geo": "stp",
+    "time": "2013",
+    "population_total": 187045
+  },
+  {
+    "geo": "sur",
+    "time": "2013",
+    "population_total": 542540
+  },
+  {
+    "geo": "svk",
+    "time": "2013",
+    "population_total": 5425130
+  },
+  {
+    "geo": "svn",
+    "time": "2013",
+    "population_total": 2066119
+  },
+  {
+    "geo": "swe",
+    "time": "2013",
+    "population_total": 9615247
+  },
+  {
+    "geo": "swz",
+    "time": "2013",
+    "population_total": 1271456
+  },
+  {
+    "geo": "syc",
+    "time": "2013",
+    "population_total": 92765
+  },
+  {
+    "geo": "syr",
+    "time": "2013",
+    "population_total": 19809141
+  },
+  {
+    "geo": "tcd",
+    "time": "2013",
+    "population_total": 13133589
+  },
+  {
+    "geo": "tgo",
+    "time": "2013",
+    "population_total": 7042948
+  },
+  {
+    "geo": "tha",
+    "time": "2013",
+    "population_total": 68143065
+  },
+  {
+    "geo": "tjk",
+    "time": "2013",
+    "population_total": 8177809
+  },
+  {
+    "geo": "tkm",
+    "time": "2013",
+    "population_total": 5366277
+  },
+  {
+    "geo": "tls",
+    "time": "2013",
+    "population_total": 1184366
+  },
+  {
+    "geo": "ton",
+    "time": "2013",
+    "population_total": 105328
+  },
+  {
+    "geo": "tto",
+    "time": "2013",
+    "population_total": 1348248
+  },
+  {
+    "geo": "tun",
+    "time": "2013",
+    "population_total": 11014558
+  },
+  {
+    "geo": "tur",
+    "time": "2013",
+    "population_total": 75787333
+  },
+  {
+    "geo": "tuv",
+    "time": "2013",
+    "population_total": 10819
+  },
+  {
+    "geo": "tza",
+    "time": "2013",
+    "population_total": 50636595
+  },
+  {
+    "geo": "uga",
+    "time": "2013",
+    "population_total": 37553726
+  },
+  {
+    "geo": "ukr",
+    "time": "2013",
+    "population_total": 45115785
+  },
+  {
+    "geo": "ury",
+    "time": "2013",
+    "population_total": 3408005
+  },
+  {
+    "geo": "usa",
+    "time": "2013",
+    "population_total": 315536676
+  },
+  {
+    "geo": "uzb",
+    "time": "2013",
+    "population_total": 30019734
+  },
+  {
+    "geo": "vct",
+    "time": "2013",
+    "population_total": 109320
+  },
+  {
+    "geo": "ven",
+    "time": "2013",
+    "population_total": 30317848
+  },
+  {
+    "geo": "vnm",
+    "time": "2013",
+    "population_total": 91497725
+  },
+  {
+    "geo": "vut",
+    "time": "2013",
+    "population_total": 253142
+  },
+  {
+    "geo": "wsm",
+    "time": "2013",
+    "population_total": 190757
+  },
+  {
+    "geo": "yem",
+    "time": "2013",
+    "population_total": 25576322
+  },
+  {
+    "geo": "zaf",
+    "time": "2013",
+    "population_total": 53767396
+  },
+  {
+    "geo": "zmb",
+    "time": "2013",
+    "population_total": 15153210
+  },
+  {
+    "geo": "zwe",
+    "time": "2013",
+    "population_total": 15054506
+  }
+]

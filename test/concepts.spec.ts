@@ -1,8 +1,9 @@
 import { executionSummaryTable, runTests } from '../src/test-utils';
 import { TestCase } from '../src/test-case';
-import { sg } from '../src/settings/datasources';
+import { popwpp, sg, sodertornsmodellen } from '../src/settings/datasources';
 import { ExactExpectationStrategy } from '../src/expectations/exact-expectation-strategy';
 import { GenericExpectationStrategy } from "../src/expectations/generic-expectation-strategy";
+import { WsReader } from "../src/family-definition/ws-reader";
 
 describe('Concepts supporting', () => {
   const aggregatedData = {};
@@ -65,6 +66,156 @@ describe('Concepts supporting', () => {
           ]
         },
         order_by: ['concept']
+      })
+      .withExpectationStrategy(GenericExpectationStrategy),
+    new TestCase()
+      .forDataSource(sodertornsmodellen)
+      .withTitle('recent 1')
+      .withFixturePath('../../test/result-fixtures/concepts/concepts-4-#datasource#.json')
+      .withRequest({
+        "select": {
+          "key": [
+            "concept"
+          ],
+          "value": []
+        },
+        "from": "concepts",
+        "where": {},
+        "language": "en"
+      })
+      .withExpectationStrategy(GenericExpectationStrategy),
+    new TestCase()
+      .forDataSource(sodertornsmodellen)
+      .withTitle('recent 2')
+      .unsupportedFor('WS has null instead empty strings and populated json instead json string', WsReader)
+      .withFixturePath('../../test/result-fixtures/concepts/concepts-5-#datasource#.json')
+      .withRequest({
+        "select": {
+          "key": [
+            "concept"
+          ],
+          "value": [
+            "concept_type",
+            "domain",
+            "color",
+            "scales",
+            "tags",
+            "name",
+            "format"
+          ]
+        },
+        "from": "concepts",
+        "where": {},
+        "language": "en"
+      })
+      .withExpectationStrategy(GenericExpectationStrategy),
+    new TestCase()
+      .forDataSource(popwpp)
+      .withTitle('recent 3')
+      .withFixturePath('../../test/result-fixtures/concepts/concepts-6-#datasource#.json')
+      .withRequest({
+        "select": {
+          "key": [
+            "concept"
+          ],
+          "value": [
+            "concept_type",
+            "domain",
+            "indicator_url",
+            "color",
+            "scales",
+            "tags",
+            "name",
+            "description"
+          ]
+        },
+        "from": "concepts",
+        "where": {},
+        "language": "en"
+      })
+      .withExpectationStrategy(GenericExpectationStrategy),
+    new TestCase()
+      .forDataSource(sg)
+      .withTitle('recent 4')
+      .unsupportedFor('WS has null instead empty strings and populated json instead json string', WsReader)
+      .withFixturePath('../../test/result-fixtures/concepts/concepts-7-#datasource#.json')
+      .withRequest({
+        "select": {
+          "key": [
+            "concept"
+          ],
+          "value": [
+            "concept_type",
+            "domain",
+            "indicator_url",
+            "color",
+            "scales",
+            "tags",
+            "name",
+            "name_short",
+            "name_catalog",
+            "description"
+          ]
+        },
+        "from": "concepts",
+        "where": {},
+        "language": "en"
+      })
+      .withExpectationStrategy(GenericExpectationStrategy),
+    new TestCase()
+      .forDataSource(sg)
+      .withTitle('recent 5')
+      .withFixturePath('../../test/result-fixtures/concepts/concepts-8-#datasource#.json')
+      .withRequest({
+        "select": {
+          "key": [
+            "concept"
+          ],
+          "value": [
+            "concept_type",
+            "name",
+            "domain"
+          ]
+        },
+        "from": "concepts",
+        "where": {
+          "$and": [
+            {
+              "concept_type": {
+                "$eq": "entity_set"
+              }
+            }
+          ]
+        }
+      })
+      .withExpectationStrategy(GenericExpectationStrategy),
+    new TestCase()
+      .forDataSource(sg)
+      .withTitle('recent 6')
+      .withFixturePath('../../test/result-fixtures/concepts/concepts-9-#datasource#.json')
+      .withRequest({
+        "select": {
+          "key": [
+            "concept"
+          ],
+          "value": [
+            "concept_type",
+            "name"
+          ]
+        },
+        "from": "concepts",
+        "where": {
+          "$and": [
+            {
+              "concept_type": {
+                "$eq": "entity_set"
+              }
+            }
+          ]
+        },
+        "order_by": [
+          "concept"
+        ]
       })
       .withExpectationStrategy(GenericExpectationStrategy)
   ];

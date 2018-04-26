@@ -17,8 +17,6 @@ export abstract class AbstractFamilyMember {
   init(initData) {
     this.initData = initData;
 
-    this.getObject().init(initData);
-
     return this;
   }
 
@@ -29,7 +27,21 @@ export abstract class AbstractFamilyMember {
   }
 
   read(request, onRead) {
-    this.getObject().read(request).then(data => {
+    const readerObject = this.getObject();
+
+    readerObject.init(this.initData);
+    readerObject.read(request).then(data => {
+      onRead(null, data);
+    }).catch(err => {
+      onRead(err);
+    });
+  }
+
+  getAsset(asset, onRead) {
+    const readerObject = this.getObject();
+
+    readerObject.init(this.initData);
+    readerObject.getAsset(asset).then(data => {
       onRead(null, data);
     }).catch(err => {
       onRead(err);

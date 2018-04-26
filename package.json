@@ -4,13 +4,13 @@
   "description": "Readers test",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --require ts-node/register --timeout 200000 test/**/*.spec.ts",
-    "test-concepts": "mocha --require ts-node/register --timeout 200000 test/concepts.spec.ts",
-    "test-entities": "mocha --require ts-node/register --timeout 200000 test/entities.spec.ts",
-    "test-datapoints": "mocha --require ts-node/register --timeout 200000 test/datapoints.spec.ts",
-    "test-schema": "mocha --require ts-node/register --timeout 200000 test/schema.spec.ts",
-    "test-assets": "mocha --require ts-node/register --timeout 200000 test/assets.spec.ts",
-    "test-exceptions": "mocha --require ts-node/register --timeout 200000 test/exceptions.spec.ts"
+    "test": "mocha --max-old-space-size=6144 --require ts-node/register --timeout 200000 test/**/*.spec.ts",
+    "test-concepts": "mocha --max-old-space-size=6144 --require ts-node/register --timeout 200000 test/concepts.spec.ts",
+    "test-entities": "mocha --max-old-space-size=6144 --require ts-node/register --timeout 200000 test/entities.spec.ts",
+    "test-datapoints": "mocha --max-old-space-size=6144 --require ts-node/register --timeout 200000 test/datapoints.spec.ts",
+    "test-schema": "mocha --max-old-space-size=6144 --require ts-node/register --timeout 200000 test/schema.spec.ts",
+    "test-assets": "mocha --max-old-space-size=6144 --require ts-node/register --timeout 200000 test/assets.spec.ts",
+    "test-exceptions": "mocha --max-old-space-size=6144 --require ts-node/register --timeout 200000 test/exceptions.spec.ts"
   },
   "repository": {
     "type": "git",

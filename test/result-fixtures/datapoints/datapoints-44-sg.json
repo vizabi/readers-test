@@ -1,0 +1,892 @@
+[
+  {
+    "geo": "lbn",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.4246
+  },
+  {
+    "geo": "afg",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 6.289
+  },
+  {
+    "geo": "dza",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 3.022
+  },
+  {
+    "geo": "ago",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 4.095
+  },
+  {
+    "geo": "arg",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.1552
+  },
+  {
+    "geo": "arm",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.401
+  },
+  {
+    "geo": "aus",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.00748
+  },
+  {
+    "geo": "aut",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0
+  },
+  {
+    "geo": "aze",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.666
+  },
+  {
+    "geo": "bhs",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.3542
+  },
+  {
+    "geo": "bhr",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0
+  },
+  {
+    "geo": "bgd",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.772
+  },
+  {
+    "geo": "brb",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0
+  },
+  {
+    "geo": "blr",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.4776
+  },
+  {
+    "geo": "bel",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.02522
+  },
+  {
+    "geo": "blz",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.269
+  },
+  {
+    "geo": "ben",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 5.878
+  },
+  {
+    "geo": "btn",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 4.34
+  },
+  {
+    "geo": "bol",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.195
+  },
+  {
+    "geo": "bih",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.5238
+  },
+  {
+    "geo": "bwa",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.588
+  },
+  {
+    "geo": "bra",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.2135
+  },
+  {
+    "geo": "brn",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0
+  },
+  {
+    "geo": "bgr",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.3164
+  },
+  {
+    "geo": "bfa",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 6.856
+  },
+  {
+    "geo": "bdi",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 2.685
+  },
+  {
+    "geo": "khm",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.55
+  },
+  {
+    "geo": "cmr",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 2.495
+  },
+  {
+    "geo": "can",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.0623
+  },
+  {
+    "geo": "cpv",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.412
+  },
+  {
+    "geo": "caf",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 6.307
+  },
+  {
+    "geo": "tcd",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 5.283
+  },
+  {
+    "geo": "chl",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.07961
+  },
+  {
+    "geo": "chn",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.3237
+  },
+  {
+    "geo": "col",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.4987
+  },
+  {
+    "geo": "com",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 3.357
+  },
+  {
+    "geo": "cog",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 2.519
+  },
+  {
+    "geo": "cri",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.1856
+  },
+  {
+    "geo": "civ",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 5.806
+  },
+  {
+    "geo": "hrv",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.1186
+  },
+  {
+    "geo": "cub",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.3404
+  },
+  {
+    "geo": "cyp",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.1008
+  },
+  {
+    "geo": "cze",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.0275
+  },
+  {
+    "geo": "prk",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.935
+  },
+  {
+    "geo": "cod",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 8.502
+  },
+  {
+    "geo": "dnk",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.01604
+  },
+  {
+    "geo": "dji",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 2.895
+  },
+  {
+    "geo": "dom",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.949
+  },
+  {
+    "geo": "ecu",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.236
+  },
+  {
+    "geo": "egy",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.8883
+  },
+  {
+    "geo": "slv",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.6354
+  },
+  {
+    "geo": "gnq",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 2.314
+  },
+  {
+    "geo": "eri",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.357
+  },
+  {
+    "geo": "est",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.06276
+  },
+  {
+    "geo": "eth",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 3.039
+  },
+  {
+    "geo": "fji",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.7354
+  },
+  {
+    "geo": "fin",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.05084
+  },
+  {
+    "geo": "fra",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.00133
+  },
+  {
+    "geo": "gab",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 2.251
+  },
+  {
+    "geo": "gmb",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 4.828
+  },
+  {
+    "geo": "geo",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.744
+  },
+  {
+    "geo": "deu",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.00601
+  },
+  {
+    "geo": "gha",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 2.119
+  },
+  {
+    "geo": "grc",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.01875
+  },
+  {
+    "geo": "grd",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.491
+  },
+  {
+    "geo": "gtm",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.961
+  },
+  {
+    "geo": "gin",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 6.548
+  },
+  {
+    "geo": "gnb",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 3.432
+  },
+  {
+    "geo": "guy",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.468
+  },
+  {
+    "geo": "hti",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.303
+  },
+  {
+    "geo": "hnd",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.27
+  },
+  {
+    "geo": "hun",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.1217
+  },
+  {
+    "geo": "isl",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0
+  },
+  {
+    "geo": "ind",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 6.243
+  },
+  {
+    "geo": "idn",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.817
+  },
+  {
+    "geo": "irn",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.573
+  },
+  {
+    "geo": "irq",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 3.067
+  },
+  {
+    "geo": "irl",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0
+  },
+  {
+    "geo": "isr",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0
+  },
+  {
+    "geo": "ita",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.00916
+  },
+  {
+    "geo": "jam",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.8588
+  },
+  {
+    "geo": "jpn",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.00967
+  },
+  {
+    "geo": "jor",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.9177
+  },
+  {
+    "geo": "kaz",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.226
+  },
+  {
+    "geo": "ken",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.487
+  },
+  {
+    "geo": "kwt",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.05811
+  },
+  {
+    "geo": "kgz",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.638
+  },
+  {
+    "geo": "lao",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.583
+  },
+  {
+    "geo": "lva",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.3459
+  },
+  {
+    "geo": "alb",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.2387
+  },
+  {
+    "geo": "lso",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.297
+  },
+  {
+    "geo": "lbr",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 4.132
+  },
+  {
+    "geo": "lby",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.5587
+  },
+  {
+    "geo": "ltu",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.1273
+  },
+  {
+    "geo": "lux",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0
+  },
+  {
+    "geo": "mdg",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 2.647
+  },
+  {
+    "geo": "mwi",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.893
+  },
+  {
+    "geo": "mys",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.2107
+  },
+  {
+    "geo": "mdv",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.397
+  },
+  {
+    "geo": "mli",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 9.531
+  },
+  {
+    "geo": "mlt",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0
+  },
+  {
+    "geo": "mrt",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 5.752
+  },
+  {
+    "geo": "mus",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.1105
+  },
+  {
+    "geo": "mex",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.3197
+  },
+  {
+    "geo": "fsm",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.435
+  },
+  {
+    "geo": "mng",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.793
+  },
+  {
+    "geo": "mne",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.3956
+  },
+  {
+    "geo": "mar",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 2.87
+  },
+  {
+    "geo": "moz",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 6.131
+  },
+  {
+    "geo": "mmr",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.944
+  },
+  {
+    "geo": "nam",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.77
+  },
+  {
+    "geo": "npl",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 2.012
+  },
+  {
+    "geo": "nld",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.01081
+  },
+  {
+    "geo": "nzl",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.1201
+  },
+  {
+    "geo": "nic",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.322
+  },
+  {
+    "geo": "ner",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 4.817
+  },
+  {
+    "geo": "nga",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 2.627
+  },
+  {
+    "geo": "nor",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.01722
+  },
+  {
+    "geo": "omn",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.3748
+  },
+  {
+    "geo": "pak",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 5.994
+  },
+  {
+    "geo": "pan",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.3564
+  },
+  {
+    "geo": "png",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.711
+  },
+  {
+    "geo": "pry",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.262
+  },
+  {
+    "geo": "per",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.343
+  },
+  {
+    "geo": "phl",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.703
+  },
+  {
+    "geo": "pol",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.05373
+  },
+  {
+    "geo": "prt",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.1338
+  },
+  {
+    "geo": "qat",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.2003
+  },
+  {
+    "geo": "kor",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.01771
+  },
+  {
+    "geo": "mda",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.402
+  },
+  {
+    "geo": "rou",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.9223
+  },
+  {
+    "geo": "rus",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.2051
+  },
+  {
+    "geo": "rwa",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.744
+  },
+  {
+    "geo": "lca",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0
+  },
+  {
+    "geo": "vct",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0
+  },
+  {
+    "geo": "wsm",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.425
+  },
+  {
+    "geo": "stp",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 2.332
+  },
+  {
+    "geo": "sau",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.8195
+  },
+  {
+    "geo": "sen",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 5.172
+  },
+  {
+    "geo": "srb",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.1048
+  },
+  {
+    "geo": "sle",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 6.564
+  },
+  {
+    "geo": "sgp",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.05379
+  },
+  {
+    "geo": "svk",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.05459
+  },
+  {
+    "geo": "svn",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.05135
+  },
+  {
+    "geo": "slb",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.735
+  },
+  {
+    "geo": "som",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 3.463
+  },
+  {
+    "geo": "zaf",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.947
+  },
+  {
+    "geo": "esp",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.00814
+  },
+  {
+    "geo": "lka",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.7579
+  },
+  {
+    "geo": "sdn",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 6.491
+  },
+  {
+    "geo": "sur",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.2046
+  },
+  {
+    "geo": "swz",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 2.055
+  },
+  {
+    "geo": "swe",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0
+  },
+  {
+    "geo": "che",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0
+  },
+  {
+    "geo": "syr",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.4558
+  },
+  {
+    "geo": "tjk",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.8142
+  },
+  {
+    "geo": "tha",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.013
+  },
+  {
+    "geo": "mkd",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0
+  },
+  {
+    "geo": "tgo",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 4.804
+  },
+  {
+    "geo": "ton",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.049
+  },
+  {
+    "geo": "tto",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.112
+  },
+  {
+    "geo": "tun",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.7824
+  },
+  {
+    "geo": "tur",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.228
+  },
+  {
+    "geo": "tkm",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.148
+  },
+  {
+    "geo": "uga",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.508
+  },
+  {
+    "geo": "ukr",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.5646
+  },
+  {
+    "geo": "are",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.2397
+  },
+  {
+    "geo": "gbr",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.04576
+  },
+  {
+    "geo": "tza",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.686
+  },
+  {
+    "geo": "usa",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.02364
+  },
+  {
+    "geo": "ury",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.1589
+  },
+  {
+    "geo": "uzb",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.918
+  },
+  {
+    "geo": "vut",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.274
+  },
+  {
+    "geo": "ven",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.548
+  },
+  {
+    "geo": "vnm",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 0.7357
+  },
+  {
+    "geo": "yem",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 3.382
+  },
+  {
+    "geo": "zmb",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 2.074
+  },
+  {
+    "geo": "zwe",
+    "time": "2008",
+    "pneumonia_deaths_in_newborn_per_1000_births": 1.17
+  }
+]

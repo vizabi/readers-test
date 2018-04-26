@@ -1,0 +1,2807 @@
+[
+  {
+    "geo": "kwt",
+    "time": "1975",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 59.56
+  },
+  {
+    "geo": "caf",
+    "time": "1975",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 18.24
+  },
+  {
+    "geo": "tur",
+    "time": "1975",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 61.63
+  },
+  {
+    "geo": "ury",
+    "time": "1975",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.86
+  },
+  {
+    "geo": "are",
+    "time": "1975",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 53.51
+  },
+  {
+    "geo": "bfa",
+    "time": "1975",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 8.685
+  },
+  {
+    "geo": "irn",
+    "time": "1976",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 36.52
+  },
+  {
+    "geo": "egy",
+    "time": "1976",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 38.2
+  },
+  {
+    "geo": "cmr",
+    "time": "1976",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 41.22
+  },
+  {
+    "geo": "ton",
+    "time": "1976",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.59
+  },
+  {
+    "geo": "mli",
+    "time": "1976",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 9.434
+  },
+  {
+    "geo": "bol",
+    "time": "1976",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 63.21
+  },
+  {
+    "geo": "swz",
+    "time": "1976",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 55.33
+  },
+  {
+    "geo": "mdv",
+    "time": "1977",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 82.3
+  },
+  {
+    "geo": "pol",
+    "time": "1978",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.74
+  },
+  {
+    "geo": "rwa",
+    "time": "1978",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 38.24
+  },
+  {
+    "geo": "vnm",
+    "time": "1979",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 83.83
+  },
+  {
+    "geo": "afg",
+    "time": "1979",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 18.16
+  },
+  {
+    "geo": "bdi",
+    "time": "1979",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 22.51
+  },
+  {
+    "geo": "jor",
+    "time": "1979",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 66.8
+  },
+  {
+    "geo": "ben",
+    "time": "1979",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 16.48
+  },
+  {
+    "geo": "vut",
+    "time": "1979",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 52.87
+  },
+  {
+    "geo": "gnb",
+    "time": "1979",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 19.96
+  },
+  {
+    "geo": "com",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 47.92
+  },
+  {
+    "geo": "zaf",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 76.2
+  },
+  {
+    "geo": "hun",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.86
+  },
+  {
+    "geo": "idn",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 67.31
+  },
+  {
+    "geo": "arg",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.91
+  },
+  {
+    "geo": "tur",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 65.69
+  },
+  {
+    "geo": "tto",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 94.97
+  },
+  {
+    "geo": "kwt",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 67.52
+  },
+  {
+    "geo": "phl",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 83.32
+  },
+  {
+    "geo": "mys",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 69.52
+  },
+  {
+    "geo": "tha",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 87.98
+  },
+  {
+    "geo": "pan",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 88.07
+  },
+  {
+    "geo": "bra",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 74.59
+  },
+  {
+    "geo": "plw",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 91.92
+  },
+  {
+    "geo": "sgp",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 82.91
+  },
+  {
+    "geo": "mex",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 82.99
+  },
+  {
+    "geo": "moz",
+    "time": "1980",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 27.1
+  },
+  {
+    "geo": "dom",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 73.06
+  },
+  {
+    "geo": "bhr",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 69.75
+  },
+  {
+    "geo": "pak",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 25.73
+  },
+  {
+    "geo": "syr",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 55.65
+  },
+  {
+    "geo": "ven",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 84.73
+  },
+  {
+    "geo": "per",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 81.92
+  },
+  {
+    "geo": "cub",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.85
+  },
+  {
+    "geo": "bgd",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 29.23
+  },
+  {
+    "geo": "npl",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 20.57
+  },
+  {
+    "geo": "lka",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 86.78
+  },
+  {
+    "geo": "brn",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 77.83
+  },
+  {
+    "geo": "ita",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.46
+  },
+  {
+    "geo": "grc",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.51
+  },
+  {
+    "geo": "prt",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 79.44
+  },
+  {
+    "geo": "esp",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.81
+  },
+  {
+    "geo": "ind",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 40.76
+  },
+  {
+    "geo": "stp",
+    "time": "1981",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 57.32
+  },
+  {
+    "geo": "mar",
+    "time": "1982",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 30.26
+  },
+  {
+    "geo": "chn",
+    "time": "1982",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 65.51
+  },
+  {
+    "geo": "chl",
+    "time": "1982",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 91.13
+  },
+  {
+    "geo": "pry",
+    "time": "1982",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 78.46
+  },
+  {
+    "geo": "ecu",
+    "time": "1982",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 83.55
+  },
+  {
+    "geo": "zwe",
+    "time": "1982",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 77.79
+  },
+  {
+    "geo": "hti",
+    "time": "1982",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 34.73
+  },
+  {
+    "geo": "isr",
+    "time": "1983",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 91.75
+  },
+  {
+    "geo": "mmr",
+    "time": "1983",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 78.57
+  },
+  {
+    "geo": "lby",
+    "time": "1984",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 60.16
+  },
+  {
+    "geo": "lbr",
+    "time": "1984",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 32.11
+  },
+  {
+    "geo": "cri",
+    "time": "1984",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.63
+  },
+  {
+    "geo": "tun",
+    "time": "1984",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 48.19
+  },
+  {
+    "geo": "ury",
+    "time": "1985",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 95.38
+  },
+  {
+    "geo": "kwt",
+    "time": "1985",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 74.49
+  },
+  {
+    "geo": "are",
+    "time": "1985",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 71.24
+  },
+  {
+    "geo": "mdv",
+    "time": "1985",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.23
+  },
+  {
+    "geo": "mlt",
+    "time": "1985",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 87.98
+  },
+  {
+    "geo": "tur",
+    "time": "1985",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 75.97
+  },
+  {
+    "geo": "egy",
+    "time": "1986",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 44.42
+  },
+  {
+    "geo": "irn",
+    "time": "1986",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 52.32
+  },
+  {
+    "geo": "swz",
+    "time": "1986",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 67.24
+  },
+  {
+    "geo": "qat",
+    "time": "1986",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 75.64
+  },
+  {
+    "geo": "mwi",
+    "time": "1987",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 48.54
+  },
+  {
+    "geo": "dza",
+    "time": "1987",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 49.63
+  },
+  {
+    "geo": "syc",
+    "time": "1987",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 84.23
+  },
+  {
+    "geo": "tza",
+    "time": "1988",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 59.11
+  },
+  {
+    "geo": "sen",
+    "time": "1988",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 26.87
+  },
+  {
+    "geo": "caf",
+    "time": "1988",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 33.62
+  },
+  {
+    "geo": "civ",
+    "time": "1988",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 34.14
+  },
+  {
+    "geo": "rus",
+    "time": "1989",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.99
+  },
+  {
+    "geo": "arm",
+    "time": "1989",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.75
+  },
+  {
+    "geo": "tjk",
+    "time": "1989",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.69
+  },
+  {
+    "geo": "blr",
+    "time": "1989",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.88
+  },
+  {
+    "geo": "est",
+    "time": "1989",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.73
+  },
+  {
+    "geo": "kaz",
+    "time": "1989",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.53
+  },
+  {
+    "geo": "mda",
+    "time": "1989",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.38
+  },
+  {
+    "geo": "lva",
+    "time": "1989",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.45
+  },
+  {
+    "geo": "ltu",
+    "time": "1989",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.44
+  },
+  {
+    "geo": "vnm",
+    "time": "1989",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 87.6
+  },
+  {
+    "geo": "phl",
+    "time": "1990",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.57
+  },
+  {
+    "geo": "bdi",
+    "time": "1990",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 37.38
+  },
+  {
+    "geo": "mdv",
+    "time": "1990",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.02
+  },
+  {
+    "geo": "ven",
+    "time": "1990",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 89.83
+  },
+  {
+    "geo": "pan",
+    "time": "1990",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 88.78
+  },
+  {
+    "geo": "chn",
+    "time": "1990",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 77.79
+  },
+  {
+    "geo": "zmb",
+    "time": "1990",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 65
+  },
+  {
+    "geo": "mex",
+    "time": "1990",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 87.56
+  },
+  {
+    "geo": "sgp",
+    "time": "1990",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 89.1
+  },
+  {
+    "geo": "cpv",
+    "time": "1990",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 62.8
+  },
+  {
+    "geo": "ecu",
+    "time": "1990",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 88.3
+  },
+  {
+    "geo": "tur",
+    "time": "1990",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 79.23
+  },
+  {
+    "geo": "idn",
+    "time": "1990",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 81.52
+  },
+  {
+    "geo": "tto",
+    "time": "1990",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.94
+  },
+  {
+    "geo": "mus",
+    "time": "1990",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 79.87
+  },
+  {
+    "geo": "prt",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 87.95
+  },
+  {
+    "geo": "esp",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.49
+  },
+  {
+    "geo": "npl",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 32.98
+  },
+  {
+    "geo": "bwa",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 68.58
+  },
+  {
+    "geo": "bgd",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 35.32
+  },
+  {
+    "geo": "nga",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 55.45
+  },
+  {
+    "geo": "brn",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 87.8
+  },
+  {
+    "geo": "rwa",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 57.85
+  },
+  {
+    "geo": "wsm",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.94
+  },
+  {
+    "geo": "uga",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 56.11
+  },
+  {
+    "geo": "mys",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 82.92
+  },
+  {
+    "geo": "ind",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 48.22
+  },
+  {
+    "geo": "grc",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.61
+  },
+  {
+    "geo": "irn",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 65.53
+  },
+  {
+    "geo": "svn",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.52
+  },
+  {
+    "geo": "arg",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.13
+  },
+  {
+    "geo": "nam",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 75.82
+  },
+  {
+    "geo": "bhr",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 84.01
+  },
+  {
+    "geo": "bfa",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 13.57
+  },
+  {
+    "geo": "blz",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 70.3
+  },
+  {
+    "geo": "hrv",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.7
+  },
+  {
+    "geo": "stp",
+    "time": "1991",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 73.24
+  },
+  {
+    "geo": "slv",
+    "time": "1992",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 74.14
+  },
+  {
+    "geo": "chl",
+    "time": "1992",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 94.29
+  },
+  {
+    "geo": "cyp",
+    "time": "1992",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 94.36
+  },
+  {
+    "geo": "rou",
+    "time": "1992",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.71
+  },
+  {
+    "geo": "ben",
+    "time": "1992",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 27.25
+  },
+  {
+    "geo": "zwe",
+    "time": "1992",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 83.51
+  },
+  {
+    "geo": "sau",
+    "time": "1992",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 70.82
+  },
+  {
+    "geo": "bol",
+    "time": "1992",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 79.99
+  },
+  {
+    "geo": "pry",
+    "time": "1992",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.27
+  },
+  {
+    "geo": "tcd",
+    "time": "1993",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 10.89
+  },
+  {
+    "geo": "col",
+    "time": "1993",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 81.38
+  },
+  {
+    "geo": "per",
+    "time": "1993",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 87.15
+  },
+  {
+    "geo": "gab",
+    "time": "1993",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 72.23
+  },
+  {
+    "geo": "mkd",
+    "time": "1994",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 94.06
+  },
+  {
+    "geo": "mar",
+    "time": "1994",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 41.59
+  },
+  {
+    "geo": "tun",
+    "time": "1994",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 59.23
+  },
+  {
+    "geo": "lby",
+    "time": "1994",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 77.22
+  },
+  {
+    "geo": "lbr",
+    "time": "1994",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 43.46
+  },
+  {
+    "geo": "hun",
+    "time": "1994",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.98
+  },
+  {
+    "geo": "gtm",
+    "time": "1994",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 64.21
+  },
+  {
+    "geo": "syc",
+    "time": "1994",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 87.81
+  },
+  {
+    "geo": "eth",
+    "time": "1994",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 27.01
+  },
+  {
+    "geo": "vut",
+    "time": "1994",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 68.45
+  },
+  {
+    "geo": "pol",
+    "time": "1994",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.4
+  },
+  {
+    "geo": "yem",
+    "time": "1994",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 37.09
+  },
+  {
+    "geo": "lao",
+    "time": "1995",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 60.25
+  },
+  {
+    "geo": "mlt",
+    "time": "1995",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 87.87
+  },
+  {
+    "geo": "kwt",
+    "time": "1995",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 78.4
+  },
+  {
+    "geo": "mdv",
+    "time": "1995",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.33
+  },
+  {
+    "geo": "tkm",
+    "time": "1995",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.78
+  },
+  {
+    "geo": "bfa",
+    "time": "1996",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 12.85
+  },
+  {
+    "geo": "ury",
+    "time": "1996",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.78
+  },
+  {
+    "geo": "ton",
+    "time": "1996",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.91
+  },
+  {
+    "geo": "zaf",
+    "time": "1996",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 82.4
+  },
+  {
+    "geo": "col",
+    "time": "1996",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 91.21
+  },
+  {
+    "geo": "irn",
+    "time": "1996",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 73.06
+  },
+  {
+    "geo": "gin",
+    "time": "1996",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 20.55
+  },
+  {
+    "geo": "egy",
+    "time": "1996",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 55.59
+  },
+  {
+    "geo": "qat",
+    "time": "1997",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 83.26
+  },
+  {
+    "geo": "moz",
+    "time": "1997",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 38.71
+  },
+  {
+    "geo": "pse",
+    "time": "1997",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 86.06
+  },
+  {
+    "geo": "mwi",
+    "time": "1998",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 64.13
+  },
+  {
+    "geo": "mli",
+    "time": "1998",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 19.04
+  },
+  {
+    "geo": "pak",
+    "time": "1998",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 42.7
+  },
+  {
+    "geo": "khm",
+    "time": "1998",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 67.34
+  },
+  {
+    "geo": "civ",
+    "time": "1998",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 36.35
+  },
+  {
+    "geo": "vut",
+    "time": "1999",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 74
+  },
+  {
+    "geo": "kaz",
+    "time": "1999",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.51
+  },
+  {
+    "geo": "jam",
+    "time": "1999",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 79.92
+  },
+  {
+    "geo": "vnm",
+    "time": "1999",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.28
+  },
+  {
+    "geo": "blr",
+    "time": "1999",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.59
+  },
+  {
+    "geo": "aze",
+    "time": "1999",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.79
+  },
+  {
+    "geo": "zmb",
+    "time": "1999",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 68
+  },
+  {
+    "geo": "kgz",
+    "time": "1999",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.7
+  },
+  {
+    "geo": "chn",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.92
+  },
+  {
+    "geo": "bra",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 86.37
+  },
+  {
+    "geo": "est",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.77
+  },
+  {
+    "geo": "mex",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.54
+  },
+  {
+    "geo": "bdi",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 59.3
+  },
+  {
+    "geo": "tcd",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 25.65
+  },
+  {
+    "geo": "mys",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 88.69
+  },
+  {
+    "geo": "vnm",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.16
+  },
+  {
+    "geo": "sau",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 79.35
+  },
+  {
+    "geo": "gmb",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 36.82
+  },
+  {
+    "geo": "mdg",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 70.69
+  },
+  {
+    "geo": "mda",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.65
+  },
+  {
+    "geo": "mus",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 84.3
+  },
+  {
+    "geo": "mmr",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 89.94
+  },
+  {
+    "geo": "gnb",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 41.36
+  },
+  {
+    "geo": "mrt",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 51.21
+  },
+  {
+    "geo": "irq",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 74.05
+  },
+  {
+    "geo": "swz",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 81.66
+  },
+  {
+    "geo": "cmr",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 68.41
+  },
+  {
+    "geo": "com",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 68.49
+  },
+  {
+    "geo": "rwa",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 64.89
+  },
+  {
+    "geo": "gha",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 57.9
+  },
+  {
+    "geo": "pan",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 91.9
+  },
+  {
+    "geo": "png",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 57.34
+  },
+  {
+    "geo": "gnq",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 88.31
+  },
+  {
+    "geo": "lso",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 86.25
+  },
+  {
+    "geo": "cri",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 94.87
+  },
+  {
+    "geo": "lva",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.75
+  },
+  {
+    "geo": "bih",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.66
+  },
+  {
+    "geo": "lao",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 69.58
+  },
+  {
+    "geo": "sgp",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.55
+  },
+  {
+    "geo": "tha",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.65
+  },
+  {
+    "geo": "ken",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 82.23
+  },
+  {
+    "geo": "tjk",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.45
+  },
+  {
+    "geo": "mdv",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.33
+  },
+  {
+    "geo": "tgo",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 53.18
+  },
+  {
+    "geo": "caf",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 50.65
+  },
+  {
+    "geo": "civ",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 48.74
+  },
+  {
+    "geo": "uzb",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.64
+  },
+  {
+    "geo": "sdn",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 61.35
+  },
+  {
+    "geo": "phl",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.6
+  },
+  {
+    "geo": "mng",
+    "time": "2000",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.77
+  },
+  {
+    "geo": "alb",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.71
+  },
+  {
+    "geo": "lao",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 68.73
+  },
+  {
+    "geo": "atg",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.95
+  },
+  {
+    "geo": "cyp",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.8
+  },
+  {
+    "geo": "cod",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 67.17
+  },
+  {
+    "geo": "ukr",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.43
+  },
+  {
+    "geo": "ita",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.42
+  },
+  {
+    "geo": "brn",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.67
+  },
+  {
+    "geo": "ven",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.98
+  },
+  {
+    "geo": "ltu",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.65
+  },
+  {
+    "geo": "stp",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 84.91
+  },
+  {
+    "geo": "ecu",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.98
+  },
+  {
+    "geo": "bol",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 86.72
+  },
+  {
+    "geo": "bgr",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.2
+  },
+  {
+    "geo": "ago",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 67.41
+  },
+  {
+    "geo": "arg",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.19
+  },
+  {
+    "geo": "hrv",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.15
+  },
+  {
+    "geo": "bgd",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 47.49
+  },
+  {
+    "geo": "ner",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 9.391
+  },
+  {
+    "geo": "ind",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 61.01
+  },
+  {
+    "geo": "arm",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.4
+  },
+  {
+    "geo": "nic",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 76.68
+  },
+  {
+    "geo": "tls",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 37.6
+  },
+  {
+    "geo": "lka",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.68
+  },
+  {
+    "geo": "npl",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 48.61
+  },
+  {
+    "geo": "hnd",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 80.01
+  },
+  {
+    "geo": "nam",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 85.04
+  },
+  {
+    "geo": "bhr",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 86.55
+  },
+  {
+    "geo": "grc",
+    "time": "2001",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 95.99
+  },
+  {
+    "geo": "ben",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 34.66
+  },
+  {
+    "geo": "syc",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 91.84
+  },
+  {
+    "geo": "uga",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 68.14
+  },
+  {
+    "geo": "geo",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.65
+  },
+  {
+    "geo": "mkd",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.13
+  },
+  {
+    "geo": "mex",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.27
+  },
+  {
+    "geo": "irn",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 77
+  },
+  {
+    "geo": "gtm",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 69.1
+  },
+  {
+    "geo": "rou",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.3
+  },
+  {
+    "geo": "dza",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 69.87
+  },
+  {
+    "geo": "syr",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 82.89
+  },
+  {
+    "geo": "dom",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 87
+  },
+  {
+    "geo": "cub",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.8
+  },
+  {
+    "geo": "chl",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 95.72
+  },
+  {
+    "geo": "eri",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 52.51
+  },
+  {
+    "geo": "zmb",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 69.15
+  },
+  {
+    "geo": "rus",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.44
+  },
+  {
+    "geo": "tza",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 69.43
+  },
+  {
+    "geo": "sen",
+    "time": "2002",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 39.28
+  },
+  {
+    "geo": "hti",
+    "time": "2003",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 58.74
+  },
+  {
+    "geo": "moz",
+    "time": "2003",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 48.16
+  },
+  {
+    "geo": "gin",
+    "time": "2003",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 29.7
+  },
+  {
+    "geo": "mli",
+    "time": "2003",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 24
+  },
+  {
+    "geo": "bwa",
+    "time": "2003",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 81.19
+  },
+  {
+    "geo": "bfa",
+    "time": "2003",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 21.82
+  },
+  {
+    "geo": "nga",
+    "time": "2003",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 54.77
+  },
+  {
+    "geo": "omn",
+    "time": "2003",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 81.36
+  },
+  {
+    "geo": "jor",
+    "time": "2003",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 89.89
+  },
+  {
+    "geo": "phl",
+    "time": "2003",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.59
+  },
+  {
+    "geo": "yem",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 54.75
+  },
+  {
+    "geo": "cpv",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 79.99
+  },
+  {
+    "geo": "eth",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 35.9
+  },
+  {
+    "geo": "tun",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 74.3
+  },
+  {
+    "geo": "syr",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 80.84
+  },
+  {
+    "geo": "lbr",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 54.78
+  },
+  {
+    "geo": "qat",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 88.96
+  },
+  {
+    "geo": "tcd",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 28.38
+  },
+  {
+    "geo": "hun",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.03
+  },
+  {
+    "geo": "lby",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 86.12
+  },
+  {
+    "geo": "sle",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 34.83
+  },
+  {
+    "geo": "pol",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.62
+  },
+  {
+    "geo": "gab",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 83.8
+  },
+  {
+    "geo": "wsm",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.55
+  },
+  {
+    "geo": "pse",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.28
+  },
+  {
+    "geo": "vut",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 78.12
+  },
+  {
+    "geo": "tto",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.39
+  },
+  {
+    "geo": "khm",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 73.61
+  },
+  {
+    "geo": "tur",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 87.37
+  },
+  {
+    "geo": "col",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.8
+  },
+  {
+    "geo": "idn",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.38
+  },
+  {
+    "geo": "svn",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.65
+  },
+  {
+    "geo": "bra",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 88.62
+  },
+  {
+    "geo": "mex",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.95
+  },
+  {
+    "geo": "mar",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 52.31
+  },
+  {
+    "geo": "sur",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 89.6
+  },
+  {
+    "geo": "slv",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 79.83
+  },
+  {
+    "geo": "sau",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 82.86
+  },
+  {
+    "geo": "per",
+    "time": "2004",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 87.67
+  },
+  {
+    "geo": "per",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 87.91
+  },
+  {
+    "geo": "tur",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 88.23
+  },
+  {
+    "geo": "mex",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 91.63
+  },
+  {
+    "geo": "tha",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.51
+  },
+  {
+    "geo": "bfa",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 23.55
+  },
+  {
+    "geo": "col",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.85
+  },
+  {
+    "geo": "esp",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.75
+  },
+  {
+    "geo": "mlt",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.36
+  },
+  {
+    "geo": "are",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.03
+  },
+  {
+    "geo": "irn",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 82.44
+  },
+  {
+    "geo": "nic",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 78
+  },
+  {
+    "geo": "jor",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 91.13
+  },
+  {
+    "geo": "ner",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 28.67
+  },
+  {
+    "geo": "kwt",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.27
+  },
+  {
+    "geo": "pak",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 49.87
+  },
+  {
+    "geo": "lao",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 72.7
+  },
+  {
+    "geo": "eth",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 29.82
+  },
+  {
+    "geo": "egy",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 71.41
+  },
+  {
+    "geo": "btn",
+    "time": "2005",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 52.81
+  },
+  {
+    "geo": "irn",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 82.33
+  },
+  {
+    "geo": "bra",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 89.62
+  },
+  {
+    "geo": "mex",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 91.73
+  },
+  {
+    "geo": "pse",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.45
+  },
+  {
+    "geo": "per",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 88.7
+  },
+  {
+    "geo": "pak",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 54.15
+  },
+  {
+    "geo": "kwt",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.28
+  },
+  {
+    "geo": "ton",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.02
+  },
+  {
+    "geo": "lka",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.81
+  },
+  {
+    "geo": "slv",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 83.56
+  },
+  {
+    "geo": "ury",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.79
+  },
+  {
+    "geo": "dza",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 72.65
+  },
+  {
+    "geo": "ben",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 28.7
+  },
+  {
+    "geo": "mdv",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.4
+  },
+  {
+    "geo": "mli",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 26.18
+  },
+  {
+    "geo": "col",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.3
+  },
+  {
+    "geo": "sen",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 41.89
+  },
+  {
+    "geo": "uga",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 71.37
+  },
+  {
+    "geo": "idn",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 91.98
+  },
+  {
+    "geo": "ind",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 62.75
+  },
+  {
+    "geo": "hti",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 48.69
+  },
+  {
+    "geo": "tgo",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 56.89
+  },
+  {
+    "geo": "tur",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 88.12
+  },
+  {
+    "geo": "egy",
+    "time": "2006",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 66.37
+  },
+  {
+    "geo": "zaf",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 88.72
+  },
+  {
+    "geo": "tls",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 50.6
+  },
+  {
+    "geo": "ven",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 95.15
+  },
+  {
+    "geo": "aze",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.6
+  },
+  {
+    "geo": "ken",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 72.16
+  },
+  {
+    "geo": "qat",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.08
+  },
+  {
+    "geo": "slv",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 82.03
+  },
+  {
+    "geo": "cod",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 61.21
+  },
+  {
+    "geo": "jor",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.2
+  },
+  {
+    "geo": "mex",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.8
+  },
+  {
+    "geo": "esp",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.94
+  },
+  {
+    "geo": "ury",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.86
+  },
+  {
+    "geo": "lbr",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 42.94
+  },
+  {
+    "geo": "eth",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 39
+  },
+  {
+    "geo": "col",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.65
+  },
+  {
+    "geo": "bra",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.01
+  },
+  {
+    "geo": "pry",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 94.56
+  },
+  {
+    "geo": "cmr",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 70.68
+  },
+  {
+    "geo": "pse",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.88
+  },
+  {
+    "geo": "bfa",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 28.73
+  },
+  {
+    "geo": "lbn",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 89.61
+  },
+  {
+    "geo": "zmb",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 61.43
+  },
+  {
+    "geo": "dom",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 88.24
+  },
+  {
+    "geo": "nam",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 76.49
+  },
+  {
+    "geo": "ecu",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 84.19
+  },
+  {
+    "geo": "tur",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 88.66
+  },
+  {
+    "geo": "hnd",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 83.59
+  },
+  {
+    "geo": "per",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 89.59
+  },
+  {
+    "geo": "bol",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.74
+  },
+  {
+    "geo": "tun",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 77.19
+  },
+  {
+    "geo": "kwt",
+    "time": "2007",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.66
+  },
+  {
+    "geo": "prk",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 100
+  },
+  {
+    "geo": "ury",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.16
+  },
+  {
+    "geo": "bol",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.7
+  },
+  {
+    "geo": "kwt",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.91
+  },
+  {
+    "geo": "chl",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.65
+  },
+  {
+    "geo": "irn",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 85.02
+  },
+  {
+    "geo": "phl",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 95.42
+  },
+  {
+    "geo": "stp",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 69.54
+  },
+  {
+    "geo": "mex",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.93
+  },
+  {
+    "geo": "khm",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 77.59
+  },
+  {
+    "geo": "mar",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 55.15
+  },
+  {
+    "geo": "bra",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.04
+  },
+  {
+    "geo": "idn",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.19
+  },
+  {
+    "geo": "pry",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.29
+  },
+  {
+    "geo": "pak",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 55.53
+  },
+  {
+    "geo": "sur",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 94.62
+  },
+  {
+    "geo": "tun",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 77.56
+  },
+  {
+    "geo": "alb",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 95.94
+  },
+  {
+    "geo": "slv",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 83.95
+  },
+  {
+    "geo": "qat",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.99
+  },
+  {
+    "geo": "lka",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.56
+  },
+  {
+    "geo": "bdi",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 86.95
+  },
+  {
+    "geo": "nga",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 51.08
+  },
+  {
+    "geo": "esp",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.63
+  },
+  {
+    "geo": "col",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.38
+  },
+  {
+    "geo": "pse",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 94.06
+  },
+  {
+    "geo": "omn",
+    "time": "2008",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 86.62
+  },
+  {
+    "geo": "ven",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 95.51
+  },
+  {
+    "geo": "tur",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.82
+  },
+  {
+    "geo": "sen",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 49.7
+  },
+  {
+    "geo": "idn",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.58
+  },
+  {
+    "geo": "ury",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.27
+  },
+  {
+    "geo": "khm",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 73.9
+  },
+  {
+    "geo": "esp",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.68
+  },
+  {
+    "geo": "kaz",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.73
+  },
+  {
+    "geo": "qat",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 94.72
+  },
+  {
+    "geo": "mex",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.44
+  },
+  {
+    "geo": "bra",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.3
+  },
+  {
+    "geo": "aze",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.76
+  },
+  {
+    "geo": "blr",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.62
+  },
+  {
+    "geo": "kgz",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.24
+  },
+  {
+    "geo": "ecu",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 84.21
+  },
+  {
+    "geo": "lso",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 75.8
+  },
+  {
+    "geo": "pry",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.75
+  },
+  {
+    "geo": "col",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.24
+  },
+  {
+    "geo": "pak",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 54.89
+  },
+  {
+    "geo": "mdg",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 64.48
+  },
+  {
+    "geo": "pse",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 94.6
+  },
+  {
+    "geo": "moz",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 50.58
+  },
+  {
+    "geo": "tgo",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 57.09
+  },
+  {
+    "geo": "bol",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 91.17
+  },
+  {
+    "geo": "mar",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 56.08
+  },
+  {
+    "geo": "slv",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 84.1
+  },
+  {
+    "geo": "chl",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.55
+  },
+  {
+    "geo": "guy",
+    "time": "2009",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 84.99
+  },
+  {
+    "geo": "chn",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 95.12
+  },
+  {
+    "geo": "ury",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.07
+  },
+  {
+    "geo": "esp",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.75
+  },
+  {
+    "geo": "gin",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 25.31
+  },
+  {
+    "geo": "ecu",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 91.85
+  },
+  {
+    "geo": "col",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.37
+  },
+  {
+    "geo": "rwa",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 65.85
+  },
+  {
+    "geo": "lka",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 91.18
+  },
+  {
+    "geo": "tun",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 79.13
+  },
+  {
+    "geo": "bra",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.38
+  },
+  {
+    "geo": "gha",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 71.5
+  },
+  {
+    "geo": "dom",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 89.54
+  },
+  {
+    "geo": "sur",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 94.68
+  },
+  {
+    "geo": "tur",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.66
+  },
+  {
+    "geo": "omn",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 86.94
+  },
+  {
+    "geo": "mli",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 31.1
+  },
+  {
+    "geo": "hnd",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 84.76
+  },
+  {
+    "geo": "pry",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.87
+  },
+  {
+    "geo": "sgp",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 95.86
+  },
+  {
+    "geo": "cmr",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 71.29
+  },
+  {
+    "geo": "egy",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 72.05
+  },
+  {
+    "geo": "pan",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 94.09
+  },
+  {
+    "geo": "qat",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.28
+  },
+  {
+    "geo": "bhr",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 94.56
+  },
+  {
+    "geo": "mys",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.12
+  },
+  {
+    "geo": "mwi",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 61.31
+  },
+  {
+    "geo": "tza",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 67.8
+  },
+  {
+    "geo": "pse",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 94.93
+  },
+  {
+    "geo": "slv",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 84.49
+  },
+  {
+    "geo": "uga",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 73.21
+  },
+  {
+    "geo": "jor",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.55
+  },
+  {
+    "geo": "mex",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.07
+  },
+  {
+    "geo": "tls",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 58.31
+  },
+  {
+    "geo": "rus",
+    "time": "2010",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.68
+  },
+  {
+    "geo": "hrv",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.88
+  },
+  {
+    "geo": "arm",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.57
+  },
+  {
+    "geo": "tgo",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 60.41
+  },
+  {
+    "geo": "eri",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 68.94
+  },
+  {
+    "geo": "tjk",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.71
+  },
+  {
+    "geo": "est",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.8
+  },
+  {
+    "geo": "egy",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 72.96
+  },
+  {
+    "geo": "syr",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 84.06
+  },
+  {
+    "geo": "gab",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 88.99
+  },
+  {
+    "geo": "tto",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.83
+  },
+  {
+    "geo": "arg",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.86
+  },
+  {
+    "geo": "gmb",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 51.11
+  },
+  {
+    "geo": "swz",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 87.84
+  },
+  {
+    "geo": "geo",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.73
+  },
+  {
+    "geo": "sdn",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 71.94
+  },
+  {
+    "geo": "grc",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.3
+  },
+  {
+    "geo": "ecu",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 91.59
+  },
+  {
+    "geo": "gtm",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 75.86
+  },
+  {
+    "geo": "atg",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.95
+  },
+  {
+    "geo": "gnb",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 55.28
+  },
+  {
+    "geo": "zaf",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.98
+  },
+  {
+    "geo": "mex",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.52
+  },
+  {
+    "geo": "svn",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.69
+  },
+  {
+    "geo": "hnd",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 85.12
+  },
+  {
+    "geo": "sle",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 43.28
+  },
+  {
+    "geo": "hun",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.05
+  },
+  {
+    "geo": "tur",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 94.11
+  },
+  {
+    "geo": "dom",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 90.11
+  },
+  {
+    "geo": "tkm",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.61
+  },
+  {
+    "geo": "syc",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 91.84
+  },
+  {
+    "geo": "ind",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 62.75
+  },
+  {
+    "geo": "srb",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.01
+  },
+  {
+    "geo": "sau",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 87.16
+  },
+  {
+    "geo": "cyp",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.68
+  },
+  {
+    "geo": "ukr",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.72
+  },
+  {
+    "geo": "cub",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.83
+  },
+  {
+    "geo": "ago",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 70.36
+  },
+  {
+    "geo": "idn",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.81
+  },
+  {
+    "geo": "bgr",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.35
+  },
+  {
+    "geo": "bgd",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 57.73
+  },
+  {
+    "geo": "gnq",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 94.23
+  },
+  {
+    "geo": "wsm",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.83
+  },
+  {
+    "geo": "irq",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 78.48
+  },
+  {
+    "geo": "brn",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 95.45
+  },
+  {
+    "geo": "ita",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.98
+  },
+  {
+    "geo": "jam",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 87.04
+  },
+  {
+    "geo": "civ",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 56.87
+  },
+  {
+    "geo": "uzb",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.43
+  },
+  {
+    "geo": "cri",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.26
+  },
+  {
+    "geo": "rou",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.7
+  },
+  {
+    "geo": "jor",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 95.9
+  },
+  {
+    "geo": "com",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 75.54
+  },
+  {
+    "geo": "vut",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 83.22
+  },
+  {
+    "geo": "alb",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 96.85
+  },
+  {
+    "geo": "col",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.58
+  },
+  {
+    "geo": "prt",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 95.43
+  },
+  {
+    "geo": "pol",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.73
+  },
+  {
+    "geo": "lva",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.78
+  },
+  {
+    "geo": "png",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 62.42
+  },
+  {
+    "geo": "lby",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 89.54
+  },
+  {
+    "geo": "ltu",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 99.7
+  },
+  {
+    "geo": "mkd",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.38
+  },
+  {
+    "geo": "afg",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 39
+  },
+  {
+    "geo": "bwa",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 85.09
+  },
+  {
+    "geo": "npl",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 57.37
+  },
+  {
+    "geo": "pse",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 95.27
+  },
+  {
+    "geo": "mli",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 33.44
+  },
+  {
+    "geo": "mmr",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 92.68
+  },
+  {
+    "geo": "mrt",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 58.61
+  },
+  {
+    "geo": "mus",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 88.85
+  },
+  {
+    "geo": "vnm",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 93.36
+  },
+  {
+    "geo": "bih",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98
+  },
+  {
+    "geo": "mar",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 67.08
+  },
+  {
+    "geo": "yem",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 65.26
+  },
+  {
+    "geo": "mne",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.46
+  },
+  {
+    "geo": "mng",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 97.36
+  },
+  {
+    "geo": "cpv",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 84.94
+  },
+  {
+    "geo": "mda",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 98.97
+  },
+  {
+    "geo": "tcd",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 35.39
+  },
+  {
+    "geo": "caf",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 56.61
+  },
+  {
+    "geo": "zwe",
+    "time": "2011",
+    "literacy_rate_adult_total_percent_of_people_ages_15_and_above": 83.58
+  }
+]

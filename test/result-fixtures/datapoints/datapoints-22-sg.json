@@ -1,0 +1,1247 @@
+[
+  {
+    "geo": "lva",
+    "time": "1990",
+    "ifpri_underweight_children": 1.8
+  },
+  {
+    "geo": "zwe",
+    "time": "1990",
+    "ifpri_underweight_children": 8
+  },
+  {
+    "geo": "ago",
+    "time": "1990",
+    "ifpri_underweight_children": 32.6
+  },
+  {
+    "geo": "arg",
+    "time": "1990",
+    "ifpri_underweight_children": 3.9
+  },
+  {
+    "geo": "arm",
+    "time": "1990",
+    "ifpri_underweight_children": 3.6
+  },
+  {
+    "geo": "aze",
+    "time": "1990",
+    "ifpri_underweight_children": 11.2
+  },
+  {
+    "geo": "bhr",
+    "time": "1990",
+    "ifpri_underweight_children": 6.3
+  },
+  {
+    "geo": "bgd",
+    "time": "1990",
+    "ifpri_underweight_children": 56.5
+  },
+  {
+    "geo": "blr",
+    "time": "1990",
+    "ifpri_underweight_children": 2.4
+  },
+  {
+    "geo": "ben",
+    "time": "1990",
+    "ifpri_underweight_children": 25.3
+  },
+  {
+    "geo": "btn",
+    "time": "1990",
+    "ifpri_underweight_children": 34
+  },
+  {
+    "geo": "bol",
+    "time": "1990",
+    "ifpri_underweight_children": 9.7
+  },
+  {
+    "geo": "bih",
+    "time": "1990",
+    "ifpri_underweight_children": 3.3
+  },
+  {
+    "geo": "bwa",
+    "time": "1990",
+    "ifpri_underweight_children": 17.9
+  },
+  {
+    "geo": "bra",
+    "time": "1990",
+    "ifpri_underweight_children": 6.1
+  },
+  {
+    "geo": "bgr",
+    "time": "1990",
+    "ifpri_underweight_children": 3.6
+  },
+  {
+    "geo": "bfa",
+    "time": "1990",
+    "ifpri_underweight_children": 30.8
+  },
+  {
+    "geo": "bdi",
+    "time": "1990",
+    "ifpri_underweight_children": 33.6
+  },
+  {
+    "geo": "khm",
+    "time": "1990",
+    "ifpri_underweight_children": 45.2
+  },
+  {
+    "geo": "cmr",
+    "time": "1990",
+    "ifpri_underweight_children": 18
+  },
+  {
+    "geo": "caf",
+    "time": "1990",
+    "ifpri_underweight_children": 25.8
+  },
+  {
+    "geo": "tcd",
+    "time": "1990",
+    "ifpri_underweight_children": 33.9
+  },
+  {
+    "geo": "chl",
+    "time": "1990",
+    "ifpri_underweight_children": 1
+  },
+  {
+    "geo": "chn",
+    "time": "1990",
+    "ifpri_underweight_children": 15.3
+  },
+  {
+    "geo": "col",
+    "time": "1990",
+    "ifpri_underweight_children": 8.8
+  },
+  {
+    "geo": "com",
+    "time": "1990",
+    "ifpri_underweight_children": 16.2
+  },
+  {
+    "geo": "cod",
+    "time": "1990",
+    "ifpri_underweight_children": 27.5
+  },
+  {
+    "geo": "cog",
+    "time": "1990",
+    "ifpri_underweight_children": 12.5
+  },
+  {
+    "geo": "cri",
+    "time": "1990",
+    "ifpri_underweight_children": 2.5
+  },
+  {
+    "geo": "hrv",
+    "time": "1990",
+    "ifpri_underweight_children": 0.5
+  },
+  {
+    "geo": "cub",
+    "time": "1990",
+    "ifpri_underweight_children": 4.6
+  },
+  {
+    "geo": "civ",
+    "time": "1990",
+    "ifpri_underweight_children": 18
+  },
+  {
+    "geo": "dji",
+    "time": "1990",
+    "ifpri_underweight_children": 20.2
+  },
+  {
+    "geo": "dom",
+    "time": "1990",
+    "ifpri_underweight_children": 8.4
+  },
+  {
+    "geo": "ecu",
+    "time": "1990",
+    "ifpri_underweight_children": 9.5
+  },
+  {
+    "geo": "egy",
+    "time": "1990",
+    "ifpri_underweight_children": 9.1
+  },
+  {
+    "geo": "slv",
+    "time": "1990",
+    "ifpri_underweight_children": 11.1
+  },
+  {
+    "geo": "est",
+    "time": "1990",
+    "ifpri_underweight_children": 2.2
+  },
+  {
+    "geo": "eth",
+    "time": "1990",
+    "ifpri_underweight_children": 39.2
+  },
+  {
+    "geo": "fji",
+    "time": "1990",
+    "ifpri_underweight_children": 7.7
+  },
+  {
+    "geo": "gab",
+    "time": "1990",
+    "ifpri_underweight_children": 8.9
+  },
+  {
+    "geo": "gmb",
+    "time": "1990",
+    "ifpri_underweight_children": 19.6
+  },
+  {
+    "geo": "geo",
+    "time": "1990",
+    "ifpri_underweight_children": 1.7
+  },
+  {
+    "geo": "gha",
+    "time": "1990",
+    "ifpri_underweight_children": 24.4
+  },
+  {
+    "geo": "gtm",
+    "time": "1990",
+    "ifpri_underweight_children": 23.6
+  },
+  {
+    "geo": "gin",
+    "time": "1990",
+    "ifpri_underweight_children": 25.7
+  },
+  {
+    "geo": "gnb",
+    "time": "1990",
+    "ifpri_underweight_children": 20.8
+  },
+  {
+    "geo": "guy",
+    "time": "1990",
+    "ifpri_underweight_children": 16.4
+  },
+  {
+    "geo": "hti",
+    "time": "1990",
+    "ifpri_underweight_children": 22.5
+  },
+  {
+    "geo": "hnd",
+    "time": "1990",
+    "ifpri_underweight_children": 15.8
+  },
+  {
+    "geo": "ind",
+    "time": "1990",
+    "ifpri_underweight_children": 59.5
+  },
+  {
+    "geo": "idn",
+    "time": "1990",
+    "ifpri_underweight_children": 31
+  },
+  {
+    "geo": "irn",
+    "time": "1990",
+    "ifpri_underweight_children": 16.1
+  },
+  {
+    "geo": "irq",
+    "time": "1990",
+    "ifpri_underweight_children": 10.4
+  },
+  {
+    "geo": "jam",
+    "time": "1990",
+    "ifpri_underweight_children": 5.2
+  },
+  {
+    "geo": "jor",
+    "time": "1990",
+    "ifpri_underweight_children": 4.8
+  },
+  {
+    "geo": "kaz",
+    "time": "1990",
+    "ifpri_underweight_children": 2.8
+  },
+  {
+    "geo": "ken",
+    "time": "1990",
+    "ifpri_underweight_children": 17.3
+  },
+  {
+    "geo": "kwt",
+    "time": "1990",
+    "ifpri_underweight_children": 7.1
+  },
+  {
+    "geo": "kgz",
+    "time": "1990",
+    "ifpri_underweight_children": 4.4
+  },
+  {
+    "geo": "lao",
+    "time": "1990",
+    "ifpri_underweight_children": 44.3
+  },
+  {
+    "geo": "dza",
+    "time": "1990",
+    "ifpri_underweight_children": 8
+  },
+  {
+    "geo": "alb",
+    "time": "1990",
+    "ifpri_underweight_children": 10.4
+  },
+  {
+    "geo": "lbn",
+    "time": "1990",
+    "ifpri_underweight_children": 4.6
+  },
+  {
+    "geo": "lso",
+    "time": "1990",
+    "ifpri_underweight_children": 13.8
+  },
+  {
+    "geo": "lbr",
+    "time": "1990",
+    "ifpri_underweight_children": 18.4
+  },
+  {
+    "geo": "lby",
+    "time": "1990",
+    "ifpri_underweight_children": 5.9
+  },
+  {
+    "geo": "ltu",
+    "time": "1990",
+    "ifpri_underweight_children": 2.2
+  },
+  {
+    "geo": "mkd",
+    "time": "1990",
+    "ifpri_underweight_children": 2.5
+  },
+  {
+    "geo": "mdg",
+    "time": "1990",
+    "ifpri_underweight_children": 35.5
+  },
+  {
+    "geo": "mwi",
+    "time": "1990",
+    "ifpri_underweight_children": 24.4
+  },
+  {
+    "geo": "mys",
+    "time": "1990",
+    "ifpri_underweight_children": 22.1
+  },
+  {
+    "geo": "mli",
+    "time": "1990",
+    "ifpri_underweight_children": 33.6
+  },
+  {
+    "geo": "mrt",
+    "time": "1990",
+    "ifpri_underweight_children": 43.2
+  },
+  {
+    "geo": "mus",
+    "time": "1990",
+    "ifpri_underweight_children": 12.9
+  },
+  {
+    "geo": "mex",
+    "time": "1990",
+    "ifpri_underweight_children": 13.9
+  },
+  {
+    "geo": "mda",
+    "time": "1990",
+    "ifpri_underweight_children": 2.4
+  },
+  {
+    "geo": "mng",
+    "time": "1990",
+    "ifpri_underweight_children": 10.8
+  },
+  {
+    "geo": "mar",
+    "time": "1990",
+    "ifpri_underweight_children": 8.1
+  },
+  {
+    "geo": "moz",
+    "time": "1990",
+    "ifpri_underweight_children": 28.5
+  },
+  {
+    "geo": "mmr",
+    "time": "1990",
+    "ifpri_underweight_children": 32.5
+  },
+  {
+    "geo": "nam",
+    "time": "1990",
+    "ifpri_underweight_children": 21.5
+  },
+  {
+    "geo": "npl",
+    "time": "1990",
+    "ifpri_underweight_children": 47.6
+  },
+  {
+    "geo": "nic",
+    "time": "1990",
+    "ifpri_underweight_children": 11.3
+  },
+  {
+    "geo": "ner",
+    "time": "1990",
+    "ifpri_underweight_children": 41
+  },
+  {
+    "geo": "nga",
+    "time": "1990",
+    "ifpri_underweight_children": 35.1
+  },
+  {
+    "geo": "prk",
+    "time": "1990",
+    "ifpri_underweight_children": 26.9
+  },
+  {
+    "geo": "omn",
+    "time": "1990",
+    "ifpri_underweight_children": 21.4
+  },
+  {
+    "geo": "pak",
+    "time": "1990",
+    "ifpri_underweight_children": 39
+  },
+  {
+    "geo": "pan",
+    "time": "1990",
+    "ifpri_underweight_children": 8.9
+  },
+  {
+    "geo": "png",
+    "time": "1990",
+    "ifpri_underweight_children": 21.8
+  },
+  {
+    "geo": "pry",
+    "time": "1990",
+    "ifpri_underweight_children": 2.8
+  },
+  {
+    "geo": "per",
+    "time": "1990",
+    "ifpri_underweight_children": 8.8
+  },
+  {
+    "geo": "phl",
+    "time": "1990",
+    "ifpri_underweight_children": 29.9
+  },
+  {
+    "geo": "rou",
+    "time": "1990",
+    "ifpri_underweight_children": 5
+  },
+  {
+    "geo": "rus",
+    "time": "1990",
+    "ifpri_underweight_children": 2.4
+  },
+  {
+    "geo": "rwa",
+    "time": "1990",
+    "ifpri_underweight_children": 24.3
+  },
+  {
+    "geo": "sau",
+    "time": "1990",
+    "ifpri_underweight_children": 12.4
+  },
+  {
+    "geo": "sen",
+    "time": "1990",
+    "ifpri_underweight_children": 19.6
+  },
+  {
+    "geo": "sle",
+    "time": "1990",
+    "ifpri_underweight_children": 25.4
+  },
+  {
+    "geo": "zaf",
+    "time": "1990",
+    "ifpri_underweight_children": 9.3
+  },
+  {
+    "geo": "lka",
+    "time": "1990",
+    "ifpri_underweight_children": 33.2
+  },
+  {
+    "geo": "sdn",
+    "time": "1990",
+    "ifpri_underweight_children": 35.4
+  },
+  {
+    "geo": "sur",
+    "time": "1990",
+    "ifpri_underweight_children": 12.8
+  },
+  {
+    "geo": "swz",
+    "time": "1990",
+    "ifpri_underweight_children": 11.1
+  },
+  {
+    "geo": "syr",
+    "time": "1990",
+    "ifpri_underweight_children": 14.5
+  },
+  {
+    "geo": "tjk",
+    "time": "1990",
+    "ifpri_underweight_children": 9.8
+  },
+  {
+    "geo": "tza",
+    "time": "1990",
+    "ifpri_underweight_children": 25.1
+  },
+  {
+    "geo": "tha",
+    "time": "1990",
+    "ifpri_underweight_children": 17.2
+  },
+  {
+    "geo": "tgo",
+    "time": "1990",
+    "ifpri_underweight_children": 23.5
+  },
+  {
+    "geo": "tto",
+    "time": "1990",
+    "ifpri_underweight_children": 6.8
+  },
+  {
+    "geo": "tun",
+    "time": "1990",
+    "ifpri_underweight_children": 9.1
+  },
+  {
+    "geo": "tur",
+    "time": "1990",
+    "ifpri_underweight_children": 8.8
+  },
+  {
+    "geo": "tkm",
+    "time": "1990",
+    "ifpri_underweight_children": 13.7
+  },
+  {
+    "geo": "uga",
+    "time": "1990",
+    "ifpri_underweight_children": 19.7
+  },
+  {
+    "geo": "ukr",
+    "time": "1990",
+    "ifpri_underweight_children": 1.4
+  },
+  {
+    "geo": "ury",
+    "time": "1990",
+    "ifpri_underweight_children": 6.2
+  },
+  {
+    "geo": "uzb",
+    "time": "1990",
+    "ifpri_underweight_children": 9.7
+  },
+  {
+    "geo": "ven",
+    "time": "1990",
+    "ifpri_underweight_children": 6.7
+  },
+  {
+    "geo": "vnm",
+    "time": "1990",
+    "ifpri_underweight_children": 40.7
+  },
+  {
+    "geo": "yem",
+    "time": "1990",
+    "ifpri_underweight_children": 49.3
+  },
+  {
+    "geo": "zmb",
+    "time": "1990",
+    "ifpri_underweight_children": 19.5
+  },
+  {
+    "geo": "lva",
+    "time": "2005",
+    "ifpri_underweight_children": 1.1
+  },
+  {
+    "geo": "cub",
+    "time": "2005",
+    "ifpri_underweight_children": 3.5
+  },
+  {
+    "geo": "bgr",
+    "time": "2005",
+    "ifpri_underweight_children": 2.5
+  },
+  {
+    "geo": "civ",
+    "time": "2005",
+    "ifpri_underweight_children": 16.7
+  },
+  {
+    "geo": "lbn",
+    "time": "2005",
+    "ifpri_underweight_children": 3.5
+  },
+  {
+    "geo": "bgd",
+    "time": "2005",
+    "ifpri_underweight_children": 41
+  },
+  {
+    "geo": "lso",
+    "time": "2005",
+    "ifpri_underweight_children": 12.5
+  },
+  {
+    "geo": "dji",
+    "time": "2005",
+    "ifpri_underweight_children": 24
+  },
+  {
+    "geo": "lbr",
+    "time": "2005",
+    "ifpri_underweight_children": 20.4
+  },
+  {
+    "geo": "bfa",
+    "time": "2005",
+    "ifpri_underweight_children": 32
+  },
+  {
+    "geo": "lby",
+    "time": "2005",
+    "ifpri_underweight_children": 2.9
+  },
+  {
+    "geo": "dom",
+    "time": "2005",
+    "ifpri_underweight_children": 3.1
+  },
+  {
+    "geo": "ltu",
+    "time": "2005",
+    "ifpri_underweight_children": 1.4
+  },
+  {
+    "geo": "arg",
+    "time": "2005",
+    "ifpri_underweight_children": 2.9
+  },
+  {
+    "geo": "mkd",
+    "time": "2005",
+    "ifpri_underweight_children": 2
+  },
+  {
+    "geo": "ecu",
+    "time": "2005",
+    "ifpri_underweight_children": 6.2
+  },
+  {
+    "geo": "mdg",
+    "time": "2005",
+    "ifpri_underweight_children": 36.8
+  },
+  {
+    "geo": "bdi",
+    "time": "2005",
+    "ifpri_underweight_children": 35
+  },
+  {
+    "geo": "mwi",
+    "time": "2005",
+    "ifpri_underweight_children": 15.5
+  },
+  {
+    "geo": "egy",
+    "time": "2005",
+    "ifpri_underweight_children": 6
+  },
+  {
+    "geo": "mys",
+    "time": "2005",
+    "ifpri_underweight_children": 7
+  },
+  {
+    "geo": "blr",
+    "time": "2005",
+    "ifpri_underweight_children": 1.3
+  },
+  {
+    "geo": "mli",
+    "time": "2005",
+    "ifpri_underweight_children": 27.9
+  },
+  {
+    "geo": "slv",
+    "time": "2005",
+    "ifpri_underweight_children": 6.1
+  },
+  {
+    "geo": "mrt",
+    "time": "2005",
+    "ifpri_underweight_children": 25
+  },
+  {
+    "geo": "eri",
+    "time": "2005",
+    "ifpri_underweight_children": 34.5
+  },
+  {
+    "geo": "mus",
+    "time": "2005",
+    "ifpri_underweight_children": 12.7
+  },
+  {
+    "geo": "khm",
+    "time": "2005",
+    "ifpri_underweight_children": 28.4
+  },
+  {
+    "geo": "mex",
+    "time": "2005",
+    "ifpri_underweight_children": 3.4
+  },
+  {
+    "geo": "est",
+    "time": "2005",
+    "ifpri_underweight_children": 1.2
+  },
+  {
+    "geo": "mda",
+    "time": "2005",
+    "ifpri_underweight_children": 3.2
+  },
+  {
+    "geo": "dza",
+    "time": "2005",
+    "ifpri_underweight_children": 3
+  },
+  {
+    "geo": "mng",
+    "time": "2005",
+    "ifpri_underweight_children": 5.3
+  },
+  {
+    "geo": "eth",
+    "time": "2005",
+    "ifpri_underweight_children": 34.6
+  },
+  {
+    "geo": "mar",
+    "time": "2005",
+    "ifpri_underweight_children": 9.9
+  },
+  {
+    "geo": "cmr",
+    "time": "2005",
+    "ifpri_underweight_children": 16
+  },
+  {
+    "geo": "moz",
+    "time": "2005",
+    "ifpri_underweight_children": 21.2
+  },
+  {
+    "geo": "fji",
+    "time": "2005",
+    "ifpri_underweight_children": 3.7
+  },
+  {
+    "geo": "mmr",
+    "time": "2005",
+    "ifpri_underweight_children": 29.6
+  },
+  {
+    "geo": "ben",
+    "time": "2005",
+    "ifpri_underweight_children": 20.2
+  },
+  {
+    "geo": "nam",
+    "time": "2005",
+    "ifpri_underweight_children": 17.5
+  },
+  {
+    "geo": "gab",
+    "time": "2005",
+    "ifpri_underweight_children": 8.5
+  },
+  {
+    "geo": "npl",
+    "time": "2005",
+    "ifpri_underweight_children": 38.8
+  },
+  {
+    "geo": "caf",
+    "time": "2005",
+    "ifpri_underweight_children": 24
+  },
+  {
+    "geo": "nic",
+    "time": "2005",
+    "ifpri_underweight_children": 6.1
+  },
+  {
+    "geo": "gmb",
+    "time": "2005",
+    "ifpri_underweight_children": 15.8
+  },
+  {
+    "geo": "ner",
+    "time": "2005",
+    "ifpri_underweight_children": 39.9
+  },
+  {
+    "geo": "arm",
+    "time": "2005",
+    "ifpri_underweight_children": 4.2
+  },
+  {
+    "geo": "nga",
+    "time": "2005",
+    "ifpri_underweight_children": 27.2
+  },
+  {
+    "geo": "geo",
+    "time": "2005",
+    "ifpri_underweight_children": 2.3
+  },
+  {
+    "geo": "prk",
+    "time": "2005",
+    "ifpri_underweight_children": 17.8
+  },
+  {
+    "geo": "tcd",
+    "time": "2005",
+    "ifpri_underweight_children": 33.9
+  },
+  {
+    "geo": "omn",
+    "time": "2005",
+    "ifpri_underweight_children": 8.8
+  },
+  {
+    "geo": "gha",
+    "time": "2005",
+    "ifpri_underweight_children": 13.9
+  },
+  {
+    "geo": "pak",
+    "time": "2005",
+    "ifpri_underweight_children": 31
+  },
+  {
+    "geo": "alb",
+    "time": "2005",
+    "ifpri_underweight_children": 6.6
+  },
+  {
+    "geo": "pan",
+    "time": "2005",
+    "ifpri_underweight_children": 4.3
+  },
+  {
+    "geo": "gtm",
+    "time": "2005",
+    "ifpri_underweight_children": 17.7
+  },
+  {
+    "geo": "png",
+    "time": "2005",
+    "ifpri_underweight_children": 17
+  },
+  {
+    "geo": "chl",
+    "time": "2005",
+    "ifpri_underweight_children": 0.6
+  },
+  {
+    "geo": "pry",
+    "time": "2005",
+    "ifpri_underweight_children": 3
+  },
+  {
+    "geo": "gin",
+    "time": "2005",
+    "ifpri_underweight_children": 22.5
+  },
+  {
+    "geo": "per",
+    "time": "2005",
+    "ifpri_underweight_children": 5
+  },
+  {
+    "geo": "bol",
+    "time": "2005",
+    "ifpri_underweight_children": 6.1
+  },
+  {
+    "geo": "phl",
+    "time": "2005",
+    "ifpri_underweight_children": 20.7
+  },
+  {
+    "geo": "gnb",
+    "time": "2005",
+    "ifpri_underweight_children": 17.4
+  },
+  {
+    "geo": "rou",
+    "time": "2005",
+    "ifpri_underweight_children": 3.5
+  },
+  {
+    "geo": "chn",
+    "time": "2005",
+    "ifpri_underweight_children": 6
+  },
+  {
+    "geo": "rus",
+    "time": "2005",
+    "ifpri_underweight_children": 1.6
+  },
+  {
+    "geo": "guy",
+    "time": "2005",
+    "ifpri_underweight_children": 10
+  },
+  {
+    "geo": "rwa",
+    "time": "2005",
+    "ifpri_underweight_children": 18
+  },
+  {
+    "geo": "aze",
+    "time": "2005",
+    "ifpri_underweight_children": 7.7
+  },
+  {
+    "geo": "sau",
+    "time": "2005",
+    "ifpri_underweight_children": 5.3
+  },
+  {
+    "geo": "hti",
+    "time": "2005",
+    "ifpri_underweight_children": 18.9
+  },
+  {
+    "geo": "sen",
+    "time": "2005",
+    "ifpri_underweight_children": 14.5
+  },
+  {
+    "geo": "srb",
+    "time": "2005",
+    "ifpri_underweight_children": 1.8
+  },
+  {
+    "geo": "col",
+    "time": "2005",
+    "ifpri_underweight_children": 5.1
+  },
+  {
+    "geo": "sle",
+    "time": "2005",
+    "ifpri_underweight_children": 28.3
+  },
+  {
+    "geo": "svk",
+    "time": "2005",
+    "ifpri_underweight_children": 1
+  },
+  {
+    "geo": "som",
+    "time": "2005",
+    "ifpri_underweight_children": 32.8
+  },
+  {
+    "geo": "hnd",
+    "time": "2005",
+    "ifpri_underweight_children": 8.6
+  },
+  {
+    "geo": "zaf",
+    "time": "2005",
+    "ifpri_underweight_children": 10.1
+  },
+  {
+    "geo": "bih",
+    "time": "2005",
+    "ifpri_underweight_children": 1.6
+  },
+  {
+    "geo": "lka",
+    "time": "2005",
+    "ifpri_underweight_children": 18.1
+  },
+  {
+    "geo": "ind",
+    "time": "2005",
+    "ifpri_underweight_children": 43.5
+  },
+  {
+    "geo": "sdn",
+    "time": "2005",
+    "ifpri_underweight_children": 27
+  },
+  {
+    "geo": "com",
+    "time": "2005",
+    "ifpri_underweight_children": 22.1
+  },
+  {
+    "geo": "sur",
+    "time": "2005",
+    "ifpri_underweight_children": 7
+  },
+  {
+    "geo": "idn",
+    "time": "2005",
+    "ifpri_underweight_children": 24.4
+  },
+  {
+    "geo": "swz",
+    "time": "2005",
+    "ifpri_underweight_children": 6.1
+  },
+  {
+    "geo": "ago",
+    "time": "2005",
+    "ifpri_underweight_children": 14.2
+  },
+  {
+    "geo": "syr",
+    "time": "2005",
+    "ifpri_underweight_children": 10
+  },
+  {
+    "geo": "irn",
+    "time": "2005",
+    "ifpri_underweight_children": 6.2
+  },
+  {
+    "geo": "tjk",
+    "time": "2005",
+    "ifpri_underweight_children": 14.9
+  },
+  {
+    "geo": "cod",
+    "time": "2005",
+    "ifpri_underweight_children": 25.1
+  },
+  {
+    "geo": "tza",
+    "time": "2005",
+    "ifpri_underweight_children": 16.7
+  },
+  {
+    "geo": "irq",
+    "time": "2005",
+    "ifpri_underweight_children": 7.1
+  },
+  {
+    "geo": "tha",
+    "time": "2005",
+    "ifpri_underweight_children": 7
+  },
+  {
+    "geo": "tls",
+    "time": "2005",
+    "ifpri_underweight_children": 44.6
+  },
+  {
+    "geo": "bwa",
+    "time": "2005",
+    "ifpri_underweight_children": 6.4
+  },
+  {
+    "geo": "tgo",
+    "time": "2005",
+    "ifpri_underweight_children": 22.3
+  },
+  {
+    "geo": "jam",
+    "time": "2005",
+    "ifpri_underweight_children": 3.1
+  },
+  {
+    "geo": "tto",
+    "time": "2005",
+    "ifpri_underweight_children": 2.8
+  },
+  {
+    "geo": "cog",
+    "time": "2005",
+    "ifpri_underweight_children": 11.8
+  },
+  {
+    "geo": "tun",
+    "time": "2005",
+    "ifpri_underweight_children": 2.6
+  },
+  {
+    "geo": "jor",
+    "time": "2005",
+    "ifpri_underweight_children": 3.6
+  },
+  {
+    "geo": "tur",
+    "time": "2005",
+    "ifpri_underweight_children": 3.5
+  },
+  {
+    "geo": "bhr",
+    "time": "2005",
+    "ifpri_underweight_children": 4.5
+  },
+  {
+    "geo": "tkm",
+    "time": "2005",
+    "ifpri_underweight_children": 8
+  },
+  {
+    "geo": "kaz",
+    "time": "2005",
+    "ifpri_underweight_children": 4.9
+  },
+  {
+    "geo": "uga",
+    "time": "2005",
+    "ifpri_underweight_children": 16.4
+  },
+  {
+    "geo": "cri",
+    "time": "2005",
+    "ifpri_underweight_children": 1.1
+  },
+  {
+    "geo": "ukr",
+    "time": "2005",
+    "ifpri_underweight_children": 0.9
+  },
+  {
+    "geo": "ken",
+    "time": "2005",
+    "ifpri_underweight_children": 16.5
+  },
+  {
+    "geo": "ury",
+    "time": "2005",
+    "ifpri_underweight_children": 6
+  },
+  {
+    "geo": "bra",
+    "time": "2005",
+    "ifpri_underweight_children": 2.2
+  },
+  {
+    "geo": "uzb",
+    "time": "2005",
+    "ifpri_underweight_children": 4.4
+  },
+  {
+    "geo": "kwt",
+    "time": "2005",
+    "ifpri_underweight_children": 0.5
+  },
+  {
+    "geo": "ven",
+    "time": "2005",
+    "ifpri_underweight_children": 4.4
+  },
+  {
+    "geo": "hrv",
+    "time": "2005",
+    "ifpri_underweight_children": 0.2
+  },
+  {
+    "geo": "vnm",
+    "time": "2005",
+    "ifpri_underweight_children": 20.2
+  },
+  {
+    "geo": "kgz",
+    "time": "2005",
+    "ifpri_underweight_children": 2.7
+  },
+  {
+    "geo": "yem",
+    "time": "2005",
+    "ifpri_underweight_children": 41.6
+  },
+  {
+    "geo": "afg",
+    "time": "2005",
+    "ifpri_underweight_children": 32.8
+  },
+  {
+    "geo": "zmb",
+    "time": "2005",
+    "ifpri_underweight_children": 15
+  },
+  {
+    "geo": "lao",
+    "time": "2005",
+    "ifpri_underweight_children": 31
+  },
+  {
+    "geo": "zwe",
+    "time": "2005",
+    "ifpri_underweight_children": 14
+  }
+]

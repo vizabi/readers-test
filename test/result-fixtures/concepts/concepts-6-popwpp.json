@@ -1,0 +1,68 @@
+[
+  {
+    "concept": "name",
+    "concept_type": "string",
+    "name": "Name",
+    "domain": null,
+    "indicator_url": null,
+    "color": null,
+    "scales": null,
+    "tags": null,
+    "description": null
+  },
+  {
+    "concept": "country_code",
+    "concept_type": "entity_domain",
+    "name": "Country code",
+    "domain": null,
+    "indicator_url": null,
+    "color": null,
+    "scales": null,
+    "tags": null,
+    "description": null
+  },
+  {
+    "concept": "year",
+    "concept_type": "time",
+    "name": "Reference date (as of 1 July)",
+    "domain": null,
+    "indicator_url": null,
+    "color": null,
+    "scales": null,
+    "tags": null,
+    "description": null
+  },
+  {
+    "concept": "gender",
+    "concept_type": "entity_domain",
+    "name": "Gender",
+    "domain": null,
+    "indicator_url": null,
+    "color": null,
+    "scales": null,
+    "tags": null,
+    "description": null
+  },
+  {
+    "concept": "population",
+    "concept_type": "measure",
+    "name": "Population",
+    "domain": null,
+    "indicator_url": null,
+    "color": null,
+    "scales": null,
+    "tags": null,
+    "description": null
+  },
+  {
+    "concept": "age",
+    "concept_type": "entity_domain",
+    "name": "Age",
+    "domain": null,
+    "indicator_url": null,
+    "color": null,
+    "scales": null,
+    "tags": null,
+    "description": null
+  }
+]

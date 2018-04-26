@@ -4,13 +4,14 @@ import { sg } from '../src/settings/datasources';
 import { ErrorExpectationStrategy } from '../src/expectations/error-expectation-strategy';
 import { DdfCsvReader } from "../src/family-definition/ddf-csv-reader";
 import { WsReader } from "../src/family-definition/ws-reader";
+import { WsReaderMongoless } from "../src/family-definition/ws-reader-mongoless";
 
 describe('Concepts supporting', () => {
   const aggregatedData = {};
   const testCases = [
     new TestCase()
       .forDataSource(sg)
-      .unsupportedFor('this issue is not critical, can be resolved later', WsReader)
+      .unsupportedFor('this issue is not critical, can be resolved later', WsReader, WsReaderMongoless)
       .withTitle('an exception should be raised for request with an error')
       .withFixturePath('fake...')
       .withRequest({
@@ -31,7 +32,7 @@ describe('Concepts supporting', () => {
       .withExpectationStrategy(ErrorExpectationStrategy),
     new TestCase()
       .forDataSource(sg)
-      .unsupportedFor('', WsReader)
+      .unsupportedFor('', WsReader, WsReaderMongoless)
       .withTitle('an exception should be raised for empty request')
       .withFixturePath('fake...')
       .withRequest({})

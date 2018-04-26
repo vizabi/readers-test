@@ -1,0 +1,602 @@
+[
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "50",
+    "population": 89769890
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "0",
+    "population": 136189543
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "2",
+    "population": 135631976
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "3",
+    "population": 135505603
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "4",
+    "population": 134560883
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "5",
+    "population": 133497882
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "6",
+    "population": 132337786
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "7",
+    "population": 131101644
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "8",
+    "population": 129807257
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "9",
+    "population": 128472223
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "10",
+    "population": 127134906
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "11",
+    "population": 125823203
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "12",
+    "population": 124548020
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "13",
+    "population": 123323219
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "14",
+    "population": 122183219
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "15",
+    "population": 121082703
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "16",
+    "population": 120012797
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "17",
+    "population": 119031094
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "18",
+    "population": 118141420
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "19",
+    "population": 117267859
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "20",
+    "population": 116896175
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "21",
+    "population": 117244611
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "22",
+    "population": 118063335
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "23",
+    "population": 118791738
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "24",
+    "population": 119430920
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "25",
+    "population": 120161384
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "26",
+    "population": 120980277
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "27",
+    "population": 121735306
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "28",
+    "population": 122390830
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "29",
+    "population": 123090551
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "30",
+    "population": 122740131
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "31",
+    "population": 120834345
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "32",
+    "population": 117899721
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "33",
+    "population": 115023466
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "34",
+    "population": 112054676
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "35",
+    "population": 109192764
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "36",
+    "population": 106668342
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "37",
+    "population": 104420090
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "38",
+    "population": 102061374
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "39",
+    "population": 99555830
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "40",
+    "population": 97768163
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "41",
+    "population": 97054082
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "42",
+    "population": 97018620
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "43",
+    "population": 96906027
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "44",
+    "population": 96861676
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "45",
+    "population": 96491672
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "46",
+    "population": 95521609
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "47",
+    "population": 94126316
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "48",
+    "population": 92773485
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "49",
+    "population": 91391565
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "1",
+    "population": 136024432
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "51",
+    "population": 87857102
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "52",
+    "population": 85718073
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "53",
+    "population": 83507870
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "54",
+    "population": 81242515
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "55",
+    "population": 78813098
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "56",
+    "population": 76196340
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "57",
+    "population": 73473067
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "58",
+    "population": 70678804
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "59",
+    "population": 67724263
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "60",
+    "population": 65165893
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "61",
+    "population": 63258065
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "62",
+    "population": 61717039
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "63",
+    "population": 60076629
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "64",
+    "population": 58516223
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "65",
+    "population": 56373698
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "66",
+    "population": 53300133
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "67",
+    "population": 49647787
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "68",
+    "population": 46128708
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "69",
+    "population": 42613372
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "70",
+    "population": 39338534
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "71",
+    "population": 36497996
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "72",
+    "population": 33980487
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "73",
+    "population": 31443525
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "74",
+    "population": 28910827
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "75",
+    "population": 26694588
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "76",
+    "population": 24901719
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "77",
+    "population": 23398701
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "78",
+    "population": 21964467
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "79",
+    "population": 20666194
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "80",
+    "population": 19232098
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "81",
+    "population": 17511681
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "82",
+    "population": 15637321
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "83",
+    "population": 13892474
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "84",
+    "population": 12221762
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "85",
+    "population": 10679197
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "86",
+    "population": 9320681
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "87",
+    "population": 8110450
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "88",
+    "population": 6954412
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "89",
+    "population": 5869364
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "90",
+    "population": 4890109
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "91",
+    "population": 4023819
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "92",
+    "population": 3261897
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "93",
+    "population": 2566122
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "94",
+    "population": 1968278
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "95",
+    "population": 1473625
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "96",
+    "population": 1092661
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "97",
+    "population": 804460
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "98",
+    "population": 442008
+  },
+  {
+    "geo": "world",
+    "year": "2018",
+    "age": "99",
+    "population": 289598
+  }
+]

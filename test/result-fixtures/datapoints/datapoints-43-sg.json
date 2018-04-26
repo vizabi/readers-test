@@ -1,0 +1,2592 @@
+[
+  {
+    "geo": "nor",
+    "time": "1981",
+    "males_aged_55plus_unemployment_rate_percent": 0.4
+  },
+  {
+    "geo": "usa",
+    "time": "1981",
+    "males_aged_55plus_unemployment_rate_percent": 3.5
+  },
+  {
+    "geo": "esp",
+    "time": "1981",
+    "males_aged_55plus_unemployment_rate_percent": 6.7
+  },
+  {
+    "geo": "sgp",
+    "time": "1981",
+    "males_aged_55plus_unemployment_rate_percent": 1.5
+  },
+  {
+    "geo": "jpn",
+    "time": "1981",
+    "males_aged_55plus_unemployment_rate_percent": 3.7
+  },
+  {
+    "geo": "swe",
+    "time": "1981",
+    "males_aged_55plus_unemployment_rate_percent": 2.1
+  },
+  {
+    "geo": "can",
+    "time": "1981",
+    "males_aged_55plus_unemployment_rate_percent": 4.3
+  },
+  {
+    "geo": "fra",
+    "time": "1981",
+    "males_aged_55plus_unemployment_rate_percent": 4.4
+  },
+  {
+    "geo": "fin",
+    "time": "1981",
+    "males_aged_55plus_unemployment_rate_percent": 4.2
+  },
+  {
+    "geo": "can",
+    "time": "1982",
+    "males_aged_55plus_unemployment_rate_percent": 6.7
+  },
+  {
+    "geo": "fin",
+    "time": "1982",
+    "males_aged_55plus_unemployment_rate_percent": 4.1
+  },
+  {
+    "geo": "jpn",
+    "time": "1982",
+    "males_aged_55plus_unemployment_rate_percent": 3.8
+  },
+  {
+    "geo": "sgp",
+    "time": "1982",
+    "males_aged_55plus_unemployment_rate_percent": 1.3
+  },
+  {
+    "geo": "esp",
+    "time": "1982",
+    "males_aged_55plus_unemployment_rate_percent": 7.5
+  },
+  {
+    "geo": "fra",
+    "time": "1982",
+    "males_aged_55plus_unemployment_rate_percent": 4.9
+  },
+  {
+    "geo": "nor",
+    "time": "1982",
+    "males_aged_55plus_unemployment_rate_percent": 1.3
+  },
+  {
+    "geo": "usa",
+    "time": "1982",
+    "males_aged_55plus_unemployment_rate_percent": 5.1
+  },
+  {
+    "geo": "swe",
+    "time": "1982",
+    "males_aged_55plus_unemployment_rate_percent": 3
+  },
+  {
+    "geo": "sgp",
+    "time": "1983",
+    "males_aged_55plus_unemployment_rate_percent": 1.4
+  },
+  {
+    "geo": "jpn",
+    "time": "1983",
+    "males_aged_55plus_unemployment_rate_percent": 4.3
+  },
+  {
+    "geo": "prt",
+    "time": "1983",
+    "males_aged_55plus_unemployment_rate_percent": 1.6
+  },
+  {
+    "geo": "fra",
+    "time": "1983",
+    "males_aged_55plus_unemployment_rate_percent": 5.1
+  },
+  {
+    "geo": "esp",
+    "time": "1983",
+    "males_aged_55plus_unemployment_rate_percent": 8.1
+  },
+  {
+    "geo": "fin",
+    "time": "1983",
+    "males_aged_55plus_unemployment_rate_percent": 4.4
+  },
+  {
+    "geo": "can",
+    "time": "1983",
+    "males_aged_55plus_unemployment_rate_percent": 7.7
+  },
+  {
+    "geo": "irl",
+    "time": "1983",
+    "males_aged_55plus_unemployment_rate_percent": 5.9
+  },
+  {
+    "geo": "usa",
+    "time": "1983",
+    "males_aged_55plus_unemployment_rate_percent": 5.6
+  },
+  {
+    "geo": "swe",
+    "time": "1983",
+    "males_aged_55plus_unemployment_rate_percent": 3.9
+  },
+  {
+    "geo": "nor",
+    "time": "1983",
+    "males_aged_55plus_unemployment_rate_percent": 1.8
+  },
+  {
+    "geo": "swe",
+    "time": "1984",
+    "males_aged_55plus_unemployment_rate_percent": 4.2
+  },
+  {
+    "geo": "irl",
+    "time": "1984",
+    "males_aged_55plus_unemployment_rate_percent": 7.3
+  },
+  {
+    "geo": "nor",
+    "time": "1984",
+    "males_aged_55plus_unemployment_rate_percent": 1.4
+  },
+  {
+    "geo": "prt",
+    "time": "1984",
+    "males_aged_55plus_unemployment_rate_percent": 1.6
+  },
+  {
+    "geo": "fin",
+    "time": "1984",
+    "males_aged_55plus_unemployment_rate_percent": 5.8
+  },
+  {
+    "geo": "sgp",
+    "time": "1984",
+    "males_aged_55plus_unemployment_rate_percent": 1.6
+  },
+  {
+    "geo": "esp",
+    "time": "1984",
+    "males_aged_55plus_unemployment_rate_percent": 10.7
+  },
+  {
+    "geo": "can",
+    "time": "1984",
+    "males_aged_55plus_unemployment_rate_percent": 7.6
+  },
+  {
+    "geo": "jpn",
+    "time": "1984",
+    "males_aged_55plus_unemployment_rate_percent": 4.3
+  },
+  {
+    "geo": "fra",
+    "time": "1984",
+    "males_aged_55plus_unemployment_rate_percent": 5.8
+  },
+  {
+    "geo": "usa",
+    "time": "1984",
+    "males_aged_55plus_unemployment_rate_percent": 4.6
+  },
+  {
+    "geo": "hkg",
+    "time": "1985",
+    "males_aged_55plus_unemployment_rate_percent": 3
+  },
+  {
+    "geo": "can",
+    "time": "1985",
+    "males_aged_55plus_unemployment_rate_percent": 7.9
+  },
+  {
+    "geo": "jpn",
+    "time": "1985",
+    "males_aged_55plus_unemployment_rate_percent": 4.2
+  },
+  {
+    "geo": "esp",
+    "time": "1985",
+    "males_aged_55plus_unemployment_rate_percent": 11.3
+  },
+  {
+    "geo": "sgp",
+    "time": "1985",
+    "males_aged_55plus_unemployment_rate_percent": 2.7
+  },
+  {
+    "geo": "prt",
+    "time": "1985",
+    "males_aged_55plus_unemployment_rate_percent": 2
+  },
+  {
+    "geo": "fra",
+    "time": "1985",
+    "males_aged_55plus_unemployment_rate_percent": 6.7
+  },
+  {
+    "geo": "fin",
+    "time": "1985",
+    "males_aged_55plus_unemployment_rate_percent": 5.2
+  },
+  {
+    "geo": "irl",
+    "time": "1985",
+    "males_aged_55plus_unemployment_rate_percent": 8.1
+  },
+  {
+    "geo": "nor",
+    "time": "1985",
+    "males_aged_55plus_unemployment_rate_percent": 0.9
+  },
+  {
+    "geo": "usa",
+    "time": "1985",
+    "males_aged_55plus_unemployment_rate_percent": 4.1
+  },
+  {
+    "geo": "swe",
+    "time": "1985",
+    "males_aged_55plus_unemployment_rate_percent": 3.5
+  },
+  {
+    "geo": "sgp",
+    "time": "1986",
+    "males_aged_55plus_unemployment_rate_percent": 4.4
+  },
+  {
+    "geo": "fra",
+    "time": "1986",
+    "males_aged_55plus_unemployment_rate_percent": 6.9
+  },
+  {
+    "geo": "irl",
+    "time": "1986",
+    "males_aged_55plus_unemployment_rate_percent": 6.9
+  },
+  {
+    "geo": "jpn",
+    "time": "1986",
+    "males_aged_55plus_unemployment_rate_percent": 4.4
+  },
+  {
+    "geo": "hkg",
+    "time": "1986",
+    "males_aged_55plus_unemployment_rate_percent": 2.3
+  },
+  {
+    "geo": "usa",
+    "time": "1986",
+    "males_aged_55plus_unemployment_rate_percent": 4.1
+  },
+  {
+    "geo": "prt",
+    "time": "1986",
+    "males_aged_55plus_unemployment_rate_percent": 2
+  },
+  {
+    "geo": "phl",
+    "time": "1986",
+    "males_aged_55plus_unemployment_rate_percent": 8.2
+  },
+  {
+    "geo": "aus",
+    "time": "1986",
+    "males_aged_55plus_unemployment_rate_percent": 5.6
+  },
+  {
+    "geo": "fin",
+    "time": "1986",
+    "males_aged_55plus_unemployment_rate_percent": 5.2
+  },
+  {
+    "geo": "esp",
+    "time": "1986",
+    "males_aged_55plus_unemployment_rate_percent": 12.2
+  },
+  {
+    "geo": "nor",
+    "time": "1986",
+    "males_aged_55plus_unemployment_rate_percent": 1
+  },
+  {
+    "geo": "nzl",
+    "time": "1986",
+    "males_aged_55plus_unemployment_rate_percent": 1.3
+  },
+  {
+    "geo": "can",
+    "time": "1986",
+    "males_aged_55plus_unemployment_rate_percent": 6.9
+  },
+  {
+    "geo": "swe",
+    "time": "1986",
+    "males_aged_55plus_unemployment_rate_percent": 3
+  },
+  {
+    "geo": "fra",
+    "time": "1987",
+    "males_aged_55plus_unemployment_rate_percent": 7.2
+  },
+  {
+    "geo": "esp",
+    "time": "1987",
+    "males_aged_55plus_unemployment_rate_percent": 10.4
+  },
+  {
+    "geo": "can",
+    "time": "1987",
+    "males_aged_55plus_unemployment_rate_percent": 6.2
+  },
+  {
+    "geo": "sgp",
+    "time": "1987",
+    "males_aged_55plus_unemployment_rate_percent": 2.9
+  },
+  {
+    "geo": "swe",
+    "time": "1987",
+    "males_aged_55plus_unemployment_rate_percent": 2.2
+  },
+  {
+    "geo": "irl",
+    "time": "1987",
+    "males_aged_55plus_unemployment_rate_percent": 9
+  },
+  {
+    "geo": "fin",
+    "time": "1987",
+    "males_aged_55plus_unemployment_rate_percent": 3.9
+  },
+  {
+    "geo": "nor",
+    "time": "1987",
+    "males_aged_55plus_unemployment_rate_percent": 1
+  },
+  {
+    "geo": "jpn",
+    "time": "1987",
+    "males_aged_55plus_unemployment_rate_percent": 4.3
+  },
+  {
+    "geo": "usa",
+    "time": "1987",
+    "males_aged_55plus_unemployment_rate_percent": 3.5
+  },
+  {
+    "geo": "prt",
+    "time": "1987",
+    "males_aged_55plus_unemployment_rate_percent": 2.2
+  },
+  {
+    "geo": "aus",
+    "time": "1987",
+    "males_aged_55plus_unemployment_rate_percent": 6.1
+  },
+  {
+    "geo": "phl",
+    "time": "1987",
+    "males_aged_55plus_unemployment_rate_percent": 7.6
+  },
+  {
+    "geo": "nld",
+    "time": "1987",
+    "males_aged_55plus_unemployment_rate_percent": 5.1
+  },
+  {
+    "geo": "nzl",
+    "time": "1987",
+    "males_aged_55plus_unemployment_rate_percent": 1.8
+  },
+  {
+    "geo": "hkg",
+    "time": "1987",
+    "males_aged_55plus_unemployment_rate_percent": 1.2
+  },
+  {
+    "geo": "hkg",
+    "time": "1988",
+    "males_aged_55plus_unemployment_rate_percent": 0.7
+  },
+  {
+    "geo": "fra",
+    "time": "1988",
+    "males_aged_55plus_unemployment_rate_percent": 7
+  },
+  {
+    "geo": "sgp",
+    "time": "1988",
+    "males_aged_55plus_unemployment_rate_percent": 1.7
+  },
+  {
+    "geo": "irl",
+    "time": "1988",
+    "males_aged_55plus_unemployment_rate_percent": 8.4
+  },
+  {
+    "geo": "phl",
+    "time": "1988",
+    "males_aged_55plus_unemployment_rate_percent": 6.3
+  },
+  {
+    "geo": "nor",
+    "time": "1988",
+    "males_aged_55plus_unemployment_rate_percent": 1.6
+  },
+  {
+    "geo": "can",
+    "time": "1988",
+    "males_aged_55plus_unemployment_rate_percent": 5.8
+  },
+  {
+    "geo": "fin",
+    "time": "1988",
+    "males_aged_55plus_unemployment_rate_percent": 4.1
+  },
+  {
+    "geo": "usa",
+    "time": "1988",
+    "males_aged_55plus_unemployment_rate_percent": 3.3
+  },
+  {
+    "geo": "nld",
+    "time": "1988",
+    "males_aged_55plus_unemployment_rate_percent": 5.1
+  },
+  {
+    "geo": "nzl",
+    "time": "1988",
+    "males_aged_55plus_unemployment_rate_percent": 2.5
+  },
+  {
+    "geo": "swe",
+    "time": "1988",
+    "males_aged_55plus_unemployment_rate_percent": 1.9
+  },
+  {
+    "geo": "aus",
+    "time": "1988",
+    "males_aged_55plus_unemployment_rate_percent": 6.1
+  },
+  {
+    "geo": "prt",
+    "time": "1988",
+    "males_aged_55plus_unemployment_rate_percent": 2
+  },
+  {
+    "geo": "jpn",
+    "time": "1988",
+    "males_aged_55plus_unemployment_rate_percent": 3.6
+  },
+  {
+    "geo": "esp",
+    "time": "1988",
+    "males_aged_55plus_unemployment_rate_percent": 9.1
+  },
+  {
+    "geo": "fin",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 1.6
+  },
+  {
+    "geo": "hkg",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 0.6
+  },
+  {
+    "geo": "esp",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 9
+  },
+  {
+    "geo": "usa",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 3.2
+  },
+  {
+    "geo": "jpn",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 3.3
+  },
+  {
+    "geo": "tur",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 4.8
+  },
+  {
+    "geo": "can",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 5.9
+  },
+  {
+    "geo": "swe",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 1.3
+  },
+  {
+    "geo": "sgp",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 1
+  },
+  {
+    "geo": "prt",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 1.3
+  },
+  {
+    "geo": "aus",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 5.5
+  },
+  {
+    "geo": "nor",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 2.7
+  },
+  {
+    "geo": "irl",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 7.9
+  },
+  {
+    "geo": "fra",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 6.3
+  },
+  {
+    "geo": "phl",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 6.2
+  },
+  {
+    "geo": "nld",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 3.9
+  },
+  {
+    "geo": "nzl",
+    "time": "1989",
+    "males_aged_55plus_unemployment_rate_percent": 4.1
+  },
+  {
+    "geo": "sgp",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 0.8
+  },
+  {
+    "geo": "nzl",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 4.4
+  },
+  {
+    "geo": "usa",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 3.6
+  },
+  {
+    "geo": "nld",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 3.9
+  },
+  {
+    "geo": "phl",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 5.3
+  },
+  {
+    "geo": "jpn",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 2.9
+  },
+  {
+    "geo": "fra",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 5.7
+  },
+  {
+    "geo": "nor",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 2.3
+  },
+  {
+    "geo": "aus",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 5.8
+  },
+  {
+    "geo": "esp",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 8
+  },
+  {
+    "geo": "fin",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 2.3
+  },
+  {
+    "geo": "hkg",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 0.8
+  },
+  {
+    "geo": "irl",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 7
+  },
+  {
+    "geo": "swe",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 1.3
+  },
+  {
+    "geo": "tur",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 3.4
+  },
+  {
+    "geo": "prt",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 1.7
+  },
+  {
+    "geo": "can",
+    "time": "1990",
+    "males_aged_55plus_unemployment_rate_percent": 5.6
+  },
+  {
+    "geo": "irl",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 6.9
+  },
+  {
+    "geo": "sgp",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 0.9
+  },
+  {
+    "geo": "nld",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 4.4
+  },
+  {
+    "geo": "fin",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 4.9
+  },
+  {
+    "geo": "tur",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 2.9
+  },
+  {
+    "geo": "usa",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 4.4
+  },
+  {
+    "geo": "can",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 7.6
+  },
+  {
+    "geo": "prt",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 1.7
+  },
+  {
+    "geo": "deu",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 6.1
+  },
+  {
+    "geo": "nzl",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 4.3
+  },
+  {
+    "geo": "swe",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 2.3
+  },
+  {
+    "geo": "aus",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 8.6
+  },
+  {
+    "geo": "che",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 1.1
+  },
+  {
+    "geo": "hkg",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 1.1
+  },
+  {
+    "geo": "phl",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 6
+  },
+  {
+    "geo": "jpn",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 2.6
+  },
+  {
+    "geo": "fra",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 6.1
+  },
+  {
+    "geo": "nor",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 3
+  },
+  {
+    "geo": "esp",
+    "time": "1991",
+    "males_aged_55plus_unemployment_rate_percent": 8.4
+  },
+  {
+    "geo": "usa",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 5.2
+  },
+  {
+    "geo": "esp",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 9.3
+  },
+  {
+    "geo": "fin",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 11.1
+  },
+  {
+    "geo": "kor",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 0.9
+  },
+  {
+    "geo": "hkg",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 1.4
+  },
+  {
+    "geo": "can",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 8.9
+  },
+  {
+    "geo": "deu",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 7.5
+  },
+  {
+    "geo": "fra",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 7.3
+  },
+  {
+    "geo": "swe",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 3.7
+  },
+  {
+    "geo": "tur",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 2.9
+  },
+  {
+    "geo": "nld",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 1.7
+  },
+  {
+    "geo": "irl",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 6.8
+  },
+  {
+    "geo": "nor",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 3.1
+  },
+  {
+    "geo": "aus",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 10.2
+  },
+  {
+    "geo": "nzl",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 5.6
+  },
+  {
+    "geo": "prt",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 2
+  },
+  {
+    "geo": "jpn",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 2.6
+  },
+  {
+    "geo": "sgp",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 1.3
+  },
+  {
+    "geo": "che",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 1.7
+  },
+  {
+    "geo": "phl",
+    "time": "1992",
+    "males_aged_55plus_unemployment_rate_percent": 4.9
+  },
+  {
+    "geo": "jpn",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 3.2
+  },
+  {
+    "geo": "swe",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 6.9
+  },
+  {
+    "geo": "fin",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 14.7
+  },
+  {
+    "geo": "kor",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 0.8
+  },
+  {
+    "geo": "prt",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 3.2
+  },
+  {
+    "geo": "sgp",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 1.5
+  },
+  {
+    "geo": "irl",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 7
+  },
+  {
+    "geo": "cze",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 3.1
+  },
+  {
+    "geo": "usa",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 4.7
+  },
+  {
+    "geo": "pol",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 5.7
+  },
+  {
+    "geo": "phl",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 4.5
+  },
+  {
+    "geo": "svn",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 5.4
+  },
+  {
+    "geo": "can",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 9.5
+  },
+  {
+    "geo": "hkg",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 1.6
+  },
+  {
+    "geo": "tur",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 2.7
+  },
+  {
+    "geo": "nld",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 2.4
+  },
+  {
+    "geo": "nor",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 2.5
+  },
+  {
+    "geo": "deu",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 9.2
+  },
+  {
+    "geo": "esp",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 11.7
+  },
+  {
+    "geo": "che",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 3.1
+  },
+  {
+    "geo": "nzl",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 5.9
+  },
+  {
+    "geo": "fra",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 7.8
+  },
+  {
+    "geo": "aus",
+    "time": "1993",
+    "males_aged_55plus_unemployment_rate_percent": 11.4
+  },
+  {
+    "geo": "jpn",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 3.7
+  },
+  {
+    "geo": "hkg",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 1.6
+  },
+  {
+    "geo": "can",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 8.8
+  },
+  {
+    "geo": "tur",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 2.6
+  },
+  {
+    "geo": "usa",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 4.3
+  },
+  {
+    "geo": "pol",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 6.3
+  },
+  {
+    "geo": "nld",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 2.7
+  },
+  {
+    "geo": "nor",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 3.1
+  },
+  {
+    "geo": "rou",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 1.5
+  },
+  {
+    "geo": "deu",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 9.9
+  },
+  {
+    "geo": "phl",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 4.9
+  },
+  {
+    "geo": "irl",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 7.4
+  },
+  {
+    "geo": "aus",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 9.7
+  },
+  {
+    "geo": "esp",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 12.6
+  },
+  {
+    "geo": "che",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 3.7
+  },
+  {
+    "geo": "sgp",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 1.5
+  },
+  {
+    "geo": "kor",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 0.7
+  },
+  {
+    "geo": "nzl",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 4.9
+  },
+  {
+    "geo": "fra",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 8
+  },
+  {
+    "geo": "svn",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 4.4
+  },
+  {
+    "geo": "cze",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 3.5
+  },
+  {
+    "geo": "swe",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 8.2
+  },
+  {
+    "geo": "prt",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 3.9
+  },
+  {
+    "geo": "fin",
+    "time": "1994",
+    "males_aged_55plus_unemployment_rate_percent": 18.6
+  },
+  {
+    "geo": "prt",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 3.6
+  },
+  {
+    "geo": "deu",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 10
+  },
+  {
+    "geo": "irl",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 6.1
+  },
+  {
+    "geo": "svn",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 2.3
+  },
+  {
+    "geo": "usa",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 3.7
+  },
+  {
+    "geo": "pol",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 5.4
+  },
+  {
+    "geo": "hkg",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 2.6
+  },
+  {
+    "geo": "esp",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 11.9
+  },
+  {
+    "geo": "che",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 3.5
+  },
+  {
+    "geo": "kor",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 0.9
+  },
+  {
+    "geo": "rou",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 2.1
+  },
+  {
+    "geo": "fra",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 7.8
+  },
+  {
+    "geo": "phl",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 4.5
+  },
+  {
+    "geo": "can",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 7.7
+  },
+  {
+    "geo": "nzl",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 3.4
+  },
+  {
+    "geo": "tur",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 2.8
+  },
+  {
+    "geo": "jpn",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 3.8
+  },
+  {
+    "geo": "swe",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 9
+  },
+  {
+    "geo": "nld",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 3
+  },
+  {
+    "geo": "aus",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 7.8
+  },
+  {
+    "geo": "nor",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 3.1
+  },
+  {
+    "geo": "fin",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 19.8
+  },
+  {
+    "geo": "sgp",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 1.6
+  },
+  {
+    "geo": "cze",
+    "time": "1995",
+    "males_aged_55plus_unemployment_rate_percent": 2.5
+  },
+  {
+    "geo": "prt",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 3.9
+  },
+  {
+    "geo": "sgp",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 2.1
+  },
+  {
+    "geo": "phl",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 4.6
+  },
+  {
+    "geo": "irl",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 6
+  },
+  {
+    "geo": "esp",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 10.9
+  },
+  {
+    "geo": "tur",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 1.8
+  },
+  {
+    "geo": "can",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 7.3
+  },
+  {
+    "geo": "kor",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 0.7
+  },
+  {
+    "geo": "usa",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 3.3
+  },
+  {
+    "geo": "nzl",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 3.7
+  },
+  {
+    "geo": "aus",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 7.5
+  },
+  {
+    "geo": "fra",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 8.5
+  },
+  {
+    "geo": "hkg",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 2
+  },
+  {
+    "geo": "jpn",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 4.2
+  },
+  {
+    "geo": "swe",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 9.3
+  },
+  {
+    "geo": "cze",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 3.5
+  },
+  {
+    "geo": "svn",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 2.4
+  },
+  {
+    "geo": "lva",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 20.7
+  },
+  {
+    "geo": "fin",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 19
+  },
+  {
+    "geo": "rou",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 1.3
+  },
+  {
+    "geo": "deu",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 12
+  },
+  {
+    "geo": "nld",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 3.2
+  },
+  {
+    "geo": "pol",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 5.1
+  },
+  {
+    "geo": "nor",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 3.1
+  },
+  {
+    "geo": "che",
+    "time": "1996",
+    "males_aged_55plus_unemployment_rate_percent": 2.9
+  },
+  {
+    "geo": "nzl",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 4.1
+  },
+  {
+    "geo": "usa",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 3.1
+  },
+  {
+    "geo": "nld",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 2.6
+  },
+  {
+    "geo": "phl",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 5.7
+  },
+  {
+    "geo": "pol",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 4.6
+  },
+  {
+    "geo": "lva",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 13.8
+  },
+  {
+    "geo": "kor",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 1.4
+  },
+  {
+    "geo": "prt",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 4.4
+  },
+  {
+    "geo": "rou",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 1.2
+  },
+  {
+    "geo": "jpn",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 4.1
+  },
+  {
+    "geo": "irl",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 5.3
+  },
+  {
+    "geo": "sgp",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 1.8
+  },
+  {
+    "geo": "svk",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 7
+  },
+  {
+    "geo": "nor",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 1.8
+  },
+  {
+    "geo": "svn",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 2.4
+  },
+  {
+    "geo": "hkg",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 1.5
+  },
+  {
+    "geo": "deu",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 13.2
+  },
+  {
+    "geo": "esp",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 10.4
+  },
+  {
+    "geo": "fra",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 8.7
+  },
+  {
+    "geo": "fin",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 13.7
+  },
+  {
+    "geo": "swe",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 9.2
+  },
+  {
+    "geo": "che",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 2.6
+  },
+  {
+    "geo": "cze",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 3.1
+  },
+  {
+    "geo": "tur",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 1.5
+  },
+  {
+    "geo": "can",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 6.9
+  },
+  {
+    "geo": "aus",
+    "time": "1997",
+    "males_aged_55plus_unemployment_rate_percent": 6.8
+  },
+  {
+    "geo": "nzl",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 4.3
+  },
+  {
+    "geo": "kor",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 4.6
+  },
+  {
+    "geo": "ltu",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 5.9
+  },
+  {
+    "geo": "svn",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 2
+  },
+  {
+    "geo": "hkg",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 3.6
+  },
+  {
+    "geo": "usa",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 2.8
+  },
+  {
+    "geo": "deu",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 12.7
+  },
+  {
+    "geo": "prt",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 2.5
+  },
+  {
+    "geo": "phl",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 5.6
+  },
+  {
+    "geo": "esp",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 9.2
+  },
+  {
+    "geo": "fra",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 8.4
+  },
+  {
+    "geo": "rou",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 1.2
+  },
+  {
+    "geo": "fin",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 12.1
+  },
+  {
+    "geo": "jpn",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 5.1
+  },
+  {
+    "geo": "nor",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 2.3
+  },
+  {
+    "geo": "swe",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 7.9
+  },
+  {
+    "geo": "irl",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 4.4
+  },
+  {
+    "geo": "che",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 3.4
+  },
+  {
+    "geo": "cze",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 3.4
+  },
+  {
+    "geo": "pol",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 5.2
+  },
+  {
+    "geo": "lva",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 11.8
+  },
+  {
+    "geo": "tur",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 2
+  },
+  {
+    "geo": "can",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 6.3
+  },
+  {
+    "geo": "sgp",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 2.4
+  },
+  {
+    "geo": "aus",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 6.1
+  },
+  {
+    "geo": "nld",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 2.3
+  },
+  {
+    "geo": "svk",
+    "time": "1998",
+    "males_aged_55plus_unemployment_rate_percent": 7.6
+  },
+  {
+    "geo": "svk",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 10.2
+  },
+  {
+    "geo": "fra",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 8
+  },
+  {
+    "geo": "pol",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 7.5
+  },
+  {
+    "geo": "sgp",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 3.7
+  },
+  {
+    "geo": "fin",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 10.1
+  },
+  {
+    "geo": "prt",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 2.7
+  },
+  {
+    "geo": "lva",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 8.3
+  },
+  {
+    "geo": "nor",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 1.7
+  },
+  {
+    "geo": "nzl",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 4.9
+  },
+  {
+    "geo": "swe",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 7.4
+  },
+  {
+    "geo": "hkg",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 5.7
+  },
+  {
+    "geo": "rou",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 1.3
+  },
+  {
+    "geo": "che",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 2.5
+  },
+  {
+    "geo": "cze",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 4.7
+  },
+  {
+    "geo": "jpn",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 5.5
+  },
+  {
+    "geo": "svn",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 4.1
+  },
+  {
+    "geo": "nld",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 2.3
+  },
+  {
+    "geo": "kor",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 4.8
+  },
+  {
+    "geo": "tur",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 2.1
+  },
+  {
+    "geo": "can",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 5.8
+  },
+  {
+    "geo": "deu",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 12.7
+  },
+  {
+    "geo": "irl",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 3.4
+  },
+  {
+    "geo": "aus",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 5.5
+  },
+  {
+    "geo": "phl",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 5.2
+  },
+  {
+    "geo": "ltu",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 6.8
+  },
+  {
+    "geo": "usa",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 2.8
+  },
+  {
+    "geo": "esp",
+    "time": "1999",
+    "males_aged_55plus_unemployment_rate_percent": 8.9
+  },
+  {
+    "geo": "nzl",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 4.8
+  },
+  {
+    "geo": "lva",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 10.1
+  },
+  {
+    "geo": "swe",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 6.8
+  },
+  {
+    "geo": "est",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 10
+  },
+  {
+    "geo": "deu",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 11.1
+  },
+  {
+    "geo": "kor",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 3
+  },
+  {
+    "geo": "nor",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 1.6
+  },
+  {
+    "geo": "che",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 2.5
+  },
+  {
+    "geo": "cze",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 5
+  },
+  {
+    "geo": "rou",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 1.5
+  },
+  {
+    "geo": "jpn",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 5.6
+  },
+  {
+    "geo": "nld",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 2.5
+  },
+  {
+    "geo": "svk",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 13.3
+  },
+  {
+    "geo": "esp",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 8.2
+  },
+  {
+    "geo": "fra",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 6.6
+  },
+  {
+    "geo": "tur",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 2.1
+  },
+  {
+    "geo": "can",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 5
+  },
+  {
+    "geo": "ltu",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 12
+  },
+  {
+    "geo": "hkg",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 5.2
+  },
+  {
+    "geo": "pol",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 7.8
+  },
+  {
+    "geo": "aus",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 4.4
+  },
+  {
+    "geo": "fin",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 8.5
+  },
+  {
+    "geo": "irl",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 2.1
+  },
+  {
+    "geo": "usa",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 2.6
+  },
+  {
+    "geo": "phl",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 5.6
+  },
+  {
+    "geo": "svn",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 6.5
+  },
+  {
+    "geo": "prt",
+    "time": "2000",
+    "males_aged_55plus_unemployment_rate_percent": 2.5
+  },
+  {
+    "geo": "nzl",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 3.6
+  },
+  {
+    "geo": "irl",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 2.2
+  },
+  {
+    "geo": "hkg",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 4.8
+  },
+  {
+    "geo": "che",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 1.6
+  },
+  {
+    "geo": "cze",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 4.4
+  },
+  {
+    "geo": "prt",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 2.2
+  },
+  {
+    "geo": "esp",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 5.4
+  },
+  {
+    "geo": "jpn",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 5.8
+  },
+  {
+    "geo": "nor",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 1.5
+  },
+  {
+    "geo": "nld",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 1.7
+  },
+  {
+    "geo": "phl",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 5.8
+  },
+  {
+    "geo": "fin",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 8.8
+  },
+  {
+    "geo": "pol",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 8.4
+  },
+  {
+    "geo": "tur",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 2.4
+  },
+  {
+    "geo": "gbr",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 4.2
+  },
+  {
+    "geo": "can",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 5.5
+  },
+  {
+    "geo": "svn",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 2.1
+  },
+  {
+    "geo": "rou",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 1.7
+  },
+  {
+    "geo": "sgp",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 3.3
+  },
+  {
+    "geo": "deu",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 11.2
+  },
+  {
+    "geo": "aus",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 4.9
+  },
+  {
+    "geo": "lva",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 10.5
+  },
+  {
+    "geo": "ltu",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 14.8
+  },
+  {
+    "geo": "usa",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 3.2
+  },
+  {
+    "geo": "swe",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 5.4
+  },
+  {
+    "geo": "est",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 8.3
+  },
+  {
+    "geo": "kor",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 2.4
+  },
+  {
+    "geo": "fra",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 5.6
+  },
+  {
+    "geo": "svk",
+    "time": "2001",
+    "males_aged_55plus_unemployment_rate_percent": 12.5
+  },
+  {
+    "geo": "nzl",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 3
+  },
+  {
+    "geo": "nor",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 1.5
+  },
+  {
+    "geo": "pol",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 9.2
+  },
+  {
+    "geo": "svk",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 15.3
+  },
+  {
+    "geo": "nld",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 1.9
+  },
+  {
+    "geo": "ltu",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 12.4
+  },
+  {
+    "geo": "fra",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 6.3
+  },
+  {
+    "geo": "hkg",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 8
+  },
+  {
+    "geo": "tur",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 3.4
+  },
+  {
+    "geo": "kor",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 1.8
+  },
+  {
+    "geo": "gbr",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 4.2
+  },
+  {
+    "geo": "can",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 6
+  },
+  {
+    "geo": "rou",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 2.6
+  },
+  {
+    "geo": "swe",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 5.3
+  },
+  {
+    "geo": "est",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 8
+  },
+  {
+    "geo": "phl",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 5.8
+  },
+  {
+    "geo": "lva",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 11
+  },
+  {
+    "geo": "aus",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 4.4
+  },
+  {
+    "geo": "sgp",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 4.8
+  },
+  {
+    "geo": "esp",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 5.8
+  },
+  {
+    "geo": "prt",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 2.4
+  },
+  {
+    "geo": "svn",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 1.9
+  },
+  {
+    "geo": "jpn",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 5.8
+  },
+  {
+    "geo": "che",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 1.9
+  },
+  {
+    "geo": "cze",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 3.5
+  },
+  {
+    "geo": "irl",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 2.1
+  },
+  {
+    "geo": "fin",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 8.1
+  },
+  {
+    "geo": "deu",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 10.4
+  },
+  {
+    "geo": "usa",
+    "time": "2002",
+    "males_aged_55plus_unemployment_rate_percent": 4.1
+  },
+  {
+    "geo": "nld",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 3
+  },
+  {
+    "geo": "phl",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 6.6
+  },
+  {
+    "geo": "sgp",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 4.2
+  },
+  {
+    "geo": "irl",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 2.1
+  },
+  {
+    "geo": "tur",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 3.7
+  },
+  {
+    "geo": "swe",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 6
+  },
+  {
+    "geo": "lva",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 7.7
+  },
+  {
+    "geo": "gbr",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 4.1
+  },
+  {
+    "geo": "can",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 6.3
+  },
+  {
+    "geo": "svn",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 2.3
+  },
+  {
+    "geo": "esp",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 5.7
+  },
+  {
+    "geo": "cze",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 4.1
+  },
+  {
+    "geo": "kor",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 2
+  },
+  {
+    "geo": "ltu",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 10
+  },
+  {
+    "geo": "deu",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 11.7
+  },
+  {
+    "geo": "aus",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 3.7
+  },
+  {
+    "geo": "usa",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 4.4
+  },
+  {
+    "geo": "fin",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 7.3
+  },
+  {
+    "geo": "nor",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 1.8
+  },
+  {
+    "geo": "che",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 2.3
+  },
+  {
+    "geo": "svk",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 14.1
+  },
+  {
+    "geo": "pol",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 9.9
+  },
+  {
+    "geo": "hkg",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 8.9
+  },
+  {
+    "geo": "rou",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 2.5
+  },
+  {
+    "geo": "fra",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 7
+  },
+  {
+    "geo": "est",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 7.7
+  },
+  {
+    "geo": "prt",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 3.1
+  },
+  {
+    "geo": "jpn",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 5.7
+  },
+  {
+    "geo": "nzl",
+    "time": "2003",
+    "males_aged_55plus_unemployment_rate_percent": 3
+  },
+  {
+    "geo": "jpn",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 4.6
+  },
+  {
+    "geo": "tur",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 3.2
+  },
+  {
+    "geo": "nzl",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 2.1
+  },
+  {
+    "geo": "cze",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 5
+  },
+  {
+    "geo": "kor",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 2.2
+  },
+  {
+    "geo": "gbr",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 3.8
+  },
+  {
+    "geo": "fin",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 7
+  },
+  {
+    "geo": "lva",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 7.1
+  },
+  {
+    "geo": "irl",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 2.5
+  },
+  {
+    "geo": "nld",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 4.3
+  },
+  {
+    "geo": "fra",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 6.8
+  },
+  {
+    "geo": "ltu",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 8.9
+  },
+  {
+    "geo": "sgp",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 4.7
+  },
+  {
+    "geo": "aus",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 3.6
+  },
+  {
+    "geo": "che",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 2.8
+  },
+  {
+    "geo": "pol",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 10.8
+  },
+  {
+    "geo": "est",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 6
+  },
+  {
+    "geo": "phl",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 7.4
+  },
+  {
+    "geo": "usa",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 3.9
+  },
+  {
+    "geo": "prt",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 3.9
+  },
+  {
+    "geo": "svn",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 3.4
+  },
+  {
+    "geo": "can",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 5.6
+  },
+  {
+    "geo": "rou",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 4.2
+  },
+  {
+    "geo": "hkg",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 9
+  },
+  {
+    "geo": "deu",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 12.3
+  },
+  {
+    "geo": "esp",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 5.8
+  },
+  {
+    "geo": "swe",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 5.8
+  },
+  {
+    "geo": "nor",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 1.8
+  },
+  {
+    "geo": "svk",
+    "time": "2004",
+    "males_aged_55plus_unemployment_rate_percent": 15.3
+  },
+  {
+    "geo": "jpn",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 4.3
+  },
+  {
+    "geo": "gbr",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 3.2
+  },
+  {
+    "geo": "prt",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 4.6
+  },
+  {
+    "geo": "nor",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 2.2
+  },
+  {
+    "geo": "che",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 3.3
+  },
+  {
+    "geo": "esp",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 5.2
+  },
+  {
+    "geo": "rou",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 3.4
+  },
+  {
+    "geo": "nld",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 4.8
+  },
+  {
+    "geo": "hkg",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 6.5
+  },
+  {
+    "geo": "aus",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 3.2
+  },
+  {
+    "geo": "fra",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 6.7
+  },
+  {
+    "geo": "fin",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 6.6
+  },
+  {
+    "geo": "can",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 5.1
+  },
+  {
+    "geo": "swe",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 5.4
+  },
+  {
+    "geo": "phl",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 2.8
+  },
+  {
+    "geo": "pol",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 10.7
+  },
+  {
+    "geo": "lva",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 9.1
+  },
+  {
+    "geo": "cze",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 4.5
+  },
+  {
+    "geo": "svn",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 4.7
+  },
+  {
+    "geo": "irl",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 2.5
+  },
+  {
+    "geo": "ltu",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 6.7
+  },
+  {
+    "geo": "deu",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 11.3
+  },
+  {
+    "geo": "tur",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 3.3
+  },
+  {
+    "geo": "nzl",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 1.7
+  },
+  {
+    "geo": "est",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 6
+  },
+  {
+    "geo": "kor",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 2.4
+  },
+  {
+    "geo": "usa",
+    "time": "2005",
+    "males_aged_55plus_unemployment_rate_percent": 3.3
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "phase_from": "electricity_output_gwh",
+    "name": "Electricity Output"
+  },
+  {
+    "phase_from": "coal_peat_and_oil_shale",
+    "name": "Coal, peat and oil shale"
+  },
+  {
+    "phase_from": "oil_products",
+    "name": "Oil Products"
+  },
+  {
+    "phase_from": "natural_gas",
+    "name": "Natural Gas"
+  },
+  {
+    "phase_from": "nuclear",
+    "name": "Nuclear"
+  },
+  {
+    "phase_from": "renewables_and_waste",
+    "name": "Renewables and Waste"
+  },
+  {
+    "phase_from": "electricity",
+    "name": "Electricity"
+  },
+  {
+    "phase_from": "heat",
+    "name": "Heat"
+  },
+  {
+    "phase_from": "fossil_fuels",
+    "name": "Fossil Fuls"
+  },
+  {
+    "phase_from": "renewable_sources",
+    "name": "Renewable Resources"
+  },
+  {
+    "phase_from": "chp_plants_ktoe",
+    "name": "CHP Plants"
+  },
+  {
+    "phase_from": "crude_ngl_and_feed_stocks",
+    "name": "Crude Oil"
+  },
+  {
+    "phase_from": "electricity_plants_ktoe",
+    "name": "Electricity Plants"
+  },
+  {
+    "phase_from": "exports_ktoe",
+    "name": "Exports"
+  },
+  {
+    "phase_from": "heat_plants_ktoe",
+    "name": "Heat"
+  },
+  {
+    "phase_from": "imports_ktoe",
+    "name": "Imports"
+  },
+  {
+    "phase_from": "industry_ktoe",
+    "name": "Industry"
+  },
+  {
+    "phase_from": "of_which_commerce_and_public_services_ktoe",
+    "name": "Commerce"
+  },
+  {
+    "phase_from": "of_which_residential_ktoe",
+    "name": "Residential"
+  },
+  {
+    "phase_from": "oil_refineries_transformation_ktoe",
+    "name": "Oil Refineries"
+  },
+  {
+    "phase_from": "other_ktoe",
+    "name": "Other"
+  },
+  {
+    "phase_from": "production_ktoe",
+    "name": "Production"
+  },
+  {
+    "phase_from": "transport_ktoe",
+    "name": "Transport"
+  }
+]
