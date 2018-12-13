@@ -3,134 +3,96 @@ import {
   staticassets
 } from './datasources';
 import { AbstractFamilyMember } from '../family-definition/abstract-family-member';
-import { WsReader } from '../family-definition/ws-reader';
-import { DdfCsvReader } from '../family-definition/ddf-csv-reader';
-import { WsReaderMongoless } from '../family-definition/ws-reader-mongoless';
+import { S3Reader } from '../family-definition/s3-reader';
+import { GcpReader } from '../family-definition/gcp-reader';
 
-const wsPath = 'http://waffle-server-dev.gapminderdev.org/api/ddf/ql';
-const wsPath2 = 'http://localhost:3000/api/ddf/ml-ql';
-// const wsPath = 'https://waffle-server-stage.gapminder.org/api/ddf/ql';
 const ghWsAcc = 'buchslava';
+const s3Based = 'http://35.241.134.155/api/ddf/ql';
+const gcpBased = 'http://104.155.35.201/api/ddf/ql';
 
 export const familyMembers: AbstractFamilyMember[] = [
 
-  new DdfCsvReader()
+  new S3Reader()
     .forDataSource(sg)
-    .init({path: './test/data-fixtures/systema_globalis'}),
-  new WsReader()
+    .init({path: s3Based, dataset: `${ghWsAcc}/readers-test-ds-systema-globalis`}),
+  new GcpReader()
     .forDataSource(sg)
-    .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-systema-globalis`}),
-  new WsReaderMongoless()
-    .forDataSource(sg)
-    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-systema-globalis`}),
+    .init({path: gcpBased, dataset: `${ghWsAcc}/readers-test-ds-systema-globalis`}),
 
-  new DdfCsvReader()
+  new S3Reader()
     .forDataSource(presentation)
-    .init({path: './test/data-fixtures/presentation_set'}),
-  new WsReader()
+    .init({path: s3Based, dataset: `${ghWsAcc}/readers-test-ds-presentation-set`}),
+  new GcpReader()
     .forDataSource(presentation)
-    .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-presentation-set`}),
-  new WsReaderMongoless()
-    .forDataSource(presentation)
-    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-presentation-set`}),
+    .init({path: gcpBased, dataset: `${ghWsAcc}/readers-test-ds-presentation-set`}),
 
-  new DdfCsvReader()
+  new S3Reader()
     .forDataSource(sankey)
-    .init({path: './test/data-fixtures/sankey'}),
-  new WsReader()
+    .init({path: s3Based, dataset: `${ghWsAcc}/readers-test-ds-sankey`}),
+  new GcpReader()
     .forDataSource(sankey)
-    .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-sankey`}),
-  new WsReaderMongoless()
-    .forDataSource(sankey)
-    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-sankey`}),
+    .init({path: gcpBased, dataset: `${ghWsAcc}/readers-test-ds-sankey`}),
 
-  new DdfCsvReader()
+  new S3Reader()
     .forDataSource(sgtiny)
-    .init({path: './test/data-fixtures/systema_globalis_tiny'}),
-  new WsReader()
+    .init({path: s3Based, dataset: `${ghWsAcc}/readers-test-ds-systema-globalis-tiny`}),
+  new GcpReader()
     .forDataSource(sgtiny)
-    .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-systema-globalis-tiny`}),
-  new WsReaderMongoless()
-    .forDataSource(sgtiny)
-    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-systema-globalis-tiny`}),
+    .init({path: gcpBased, dataset: `${ghWsAcc}/readers-test-ds-systema-globalis-tiny`}),
 
-  new DdfCsvReader()
+  new S3Reader()
     .forDataSource(popwpp)
-    .init({path: './test/data-fixtures/population_wpp'}),
-  new WsReader()
+    .init({path: s3Based, dataset: `${ghWsAcc}/readers-test-ds-gm-population`}),
+  new GcpReader()
     .forDataSource(popwpp)
-    .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-gm-population`}),
-  new WsReaderMongoless()
-    .forDataSource(popwpp)
-    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-gm-population`}),
+    .init({path: gcpBased, dataset: `${ghWsAcc}/readers-test-ds-gm-population`}),
 
-  new DdfCsvReader()
+  new S3Reader()
     .forDataSource(bubbles3)
-    .init({path: './test/data-fixtures/ddf--bubbles-3'}),
-  new WsReader()
+    .init({path: s3Based, dataset: `${ghWsAcc}/readers-test-ds-bubbles-3`}),
+  new GcpReader()
     .forDataSource(bubbles3)
-    .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-bubbles-3`}),
-  new WsReaderMongoless()
-    .forDataSource(bubbles3)
-    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-bubbles-3`}),
+    .init({path: gcpBased, dataset: `${ghWsAcc}/readers-test-ds-bubbles-3`}),
 
-  new DdfCsvReader()
+  new S3Reader()
     .forDataSource(popwppbig)
-    .init({path: './test/data-fixtures/ddf--gapminder--population.big'}),
-  new WsReader()
+    .init({path: s3Based, dataset: `${ghWsAcc}/readers-test-ds-gm-population-big`}),
+  new GcpReader()
     .forDataSource(popwppbig)
-    .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-gm-population-big`}),
-  new WsReaderMongoless()
-    .forDataSource(popwppbig)
-    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-gm-population-big`}),
+    .init({path: gcpBased, dataset: `${ghWsAcc}/readers-test-ds-gm-population-big`}),
 
-  new DdfCsvReader()
+  new S3Reader()
     .forDataSource(sgmixentity)
-    .init({path: './test/data-fixtures/sg_mix_entity'}),
-  new WsReader()
+    .init({path: s3Based, dataset: `${ghWsAcc}/readers-test-ds-sg-mix-entity`}),
+  new GcpReader()
     .forDataSource(sgmixentity)
-    .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-sg-mix-entity`}),
-  new WsReaderMongoless()
-    .forDataSource(sgmixentity)
-    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-sg-mix-entity`}),
+    .init({path: gcpBased, dataset: `${ghWsAcc}/readers-test-ds-sg-mix-entity`}),
 
-  new DdfCsvReader()
+  new S3Reader()
     .forDataSource(staticassets)
-    .init({path: './test/data-fixtures/static-assets'}),
-  new WsReader()
+    .init({path: s3Based, dataset: `${ghWsAcc}/readers-test-ds-static-assets`}),
+  new GcpReader()
     .forDataSource(staticassets)
-    .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-static-assets`}),
-  new WsReaderMongoless()
-    .forDataSource(staticassets)
-    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-static-assets`}),
+    .init({path: gcpBased, dataset: `${ghWsAcc}/readers-test-ds-static-assets`}),
 
-  new DdfCsvReader()
+  new S3Reader()
     .forDataSource(gmassets)
-    .init({path: './test/data-fixtures/ddf--gapminder--static_assets'}),
-  new WsReader()
+    .init({path: s3Based, dataset: `${ghWsAcc}/readers-test-ds-gm-static-assets`}),
+  new GcpReader()
     .forDataSource(gmassets)
-    .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-ds-gm-static-assets`}),
-  new WsReaderMongoless()
-    .forDataSource(gmassets)
-    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-ds-gm-static-assets`}),
+    .init({path: gcpBased, dataset: `${ghWsAcc}/readers-test-ds-gm-static-assets`}),
 
-  new DdfCsvReader()
+  new S3Reader()
     .forDataSource(sodertornsmodellen)
-    .init({path: './test/data-fixtures/ddf--sodertornsmodellen'}),
-  new WsReader()
+    .init({path: s3Based, dataset: `${ghWsAcc}/readers-test-sodertornsmodellen`}),
+  new GcpReader()
     .forDataSource(sodertornsmodellen)
-    .init({path: wsPath, dataset: `${ghWsAcc}/readers-test-sodertornsmodellen`}),
-  new WsReaderMongoless()
-    .forDataSource(sodertornsmodellen)
-    .init({path: wsPath2, dataset: `${ghWsAcc}/readers-test-sodertornsmodellen`}),
+    .init({path: gcpBased, dataset: `${ghWsAcc}/readers-test-sodertornsmodellen`}),
 
-  new DdfCsvReader()
+  new S3Reader()
     .forDataSource(datetesting)
-    .init({path: './test/data-fixtures/ddf--gapminder--date_testing'}),
-  new WsReader()
+    .init({path: s3Based, dataset: `${ghWsAcc}/`}),
+  new GcpReader()
     .forDataSource(datetesting)
-    .init({path: wsPath, dataset: `${ghWsAcc}/`}),
-  new WsReaderMongoless()
-    .forDataSource(datetesting)
-    .init({path: wsPath2, dataset: `${ghWsAcc}/`})
+    .init({path: gcpBased, dataset: `${ghWsAcc}/`})
 ];

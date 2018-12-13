@@ -69,7 +69,7 @@ describe('Schema supporting', () => {
           from: "datapoints.schema"
         })
         .withExpectationStrategy(GenericExpectationStrategy),
-      new TestCase()
+      /*new TestCase()
         .forDataSource(sg)
         .unsupportedFor('performance and functionality should be considered', WsReader, WsReaderMongoless, DdfCsvReader)
         .withTitle('should max-min response be expected')
@@ -94,7 +94,7 @@ describe('Schema supporting', () => {
           },
           from: "datapoints.schema"
         })
-        .withExpectationStrategy(GenericExpectationStrategy)
+        .withExpectationStrategy(GenericExpectationStrategy)*/
     ];
 
     after(() => {

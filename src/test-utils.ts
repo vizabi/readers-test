@@ -107,8 +107,11 @@ export function runTests(testCases: TestCase<AbstractExpectationStrategy>[], agg
 
             it(`${title} [#${currentTestIndex}]`, done => {
               const timeStart = new Date().getTime();
+              const request = cloneDeep(testCase.request);
 
-              familyMember.read(testCase.request, (err, data) => {
+              request.dataset = `${familyMember.initData.dataset}#master`;
+
+              familyMember.read(request, (err, data) => {
                 // console.log(JSON.stringify(data, null, 2));
 
                 const timeFinish = new Date().getTime();

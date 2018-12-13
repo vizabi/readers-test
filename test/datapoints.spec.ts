@@ -403,7 +403,7 @@ describe('Datapoints supporting', () => {
         ]
       })
       .withExpectationStrategy(GenericExpectationStrategy),
-    new TestCase()
+    /*new TestCase()
       .forDataSource(datetesting)
       .unsupportedFor('date format should be considered', WsReader, WsReaderMongoless, DdfCsvReader)
       .withTitle('query by full date should be processed correctly')
@@ -444,7 +444,7 @@ describe('Datapoints supporting', () => {
           ]
         }
       })
-      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),
+      .withExpectationStrategy(OnlySameQuantityExpectationStrategy),*/
     new TestCase()
       .forDataSource(sg)
       .withTitle('recent 1')

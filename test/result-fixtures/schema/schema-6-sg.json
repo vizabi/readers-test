@@ -15,31 +15,7 @@
     "key": [
       "concept"
     ],
-    "value": "description"
-  },
-  {
-    "key": [
-      "concept"
-    ],
-    "value": "domain"
-  },
-  {
-    "key": [
-      "concept"
-    ],
-    "value": "drill_up"
-  },
-  {
-    "key": [
-      "concept"
-    ],
-    "value": "indicator_url"
-  },
-  {
-    "key": [
-      "concept"
-    ],
-    "value": "interpolation"
+    "value": "tags"
   },
   {
     "key": [
@@ -57,7 +33,25 @@
     "key": [
       "concept"
     ],
+    "value": "indicator_url"
+  },
+  {
+    "key": [
+      "concept"
+    ],
+    "value": "description"
+  },
+  {
+    "key": [
+      "concept"
+    ],
     "value": "name_short"
+  },
+  {
+    "key": [
+      "concept"
+    ],
+    "value": "domain"
   },
   {
     "key": [
@@ -69,61 +63,19 @@
     "key": [
       "concept"
     ],
-    "value": "tags"
+    "value": "interpolation"
+  },
+  {
+    "key": [
+      "concept"
+    ],
+    "value": "drill_up"
   },
   {
     "key": [
       "country"
     ],
-    "value": "gwid"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "name"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "world_6region"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "income_groups"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "landlocked"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "g77_and_oecd_countries"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "main_religion_2008"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "gapminder_list"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "alternative_1"
+    "value": "is--country"
   },
   {
     "key": [
@@ -135,85 +87,25 @@
     "key": [
       "country"
     ],
-    "value": "alternative_3"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "alternative_4_cdiac"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "pandg"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "god_id"
-  },
-  {
-    "key": [
-      "country"
-    ],
     "value": "alt_5"
   },
   {
     "key": [
       "country"
     ],
-    "value": "upper_case_name"
+    "value": "alternative_1"
   },
   {
     "key": [
       "country"
     ],
-    "value": "iso3166_1_alpha2"
+    "value": "main_religion_2008"
   },
   {
     "key": [
       "country"
     ],
-    "value": "iso3166_1_alpha3"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "iso3166_1_numeric"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "iso3166_2"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "unicode_region_subtag"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "arb1"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "arb2"
-  },
-  {
-    "key": [
-      "country"
-    ],
-    "value": "arb3"
+    "value": "un_state"
   },
   {
     "key": [
@@ -231,19 +123,97 @@
     "key": [
       "country"
     ],
+    "value": "name"
+  },
+  {
+    "key": [
+      "country"
+    ],
+    "value": "iso3166_1_numeric"
+  },
+  {
+    "key": [
+      "country"
+    ],
+    "value": "landlocked"
+  },
+  {
+    "key": [
+      "country"
+    ],
+    "value": "god_id"
+  },
+  {
+    "key": [
+      "country"
+    ],
+    "value": "arb3"
+  },
+  {
+    "key": [
+      "country"
+    ],
+    "value": "longitude"
+  },
+  {
+    "key": [
+      "country"
+    ],
+    "value": "g77_and_oecd_countries"
+  },
+  {
+    "key": [
+      "country"
+    ],
+    "value": "alternative_3"
+  },
+  {
+    "key": [
+      "country"
+    ],
+    "value": "iso3166_1_alpha2"
+  },
+  {
+    "key": [
+      "country"
+    ],
     "value": "arb6"
   },
   {
     "key": [
       "country"
     ],
-    "value": "is--country"
+    "value": "income_groups"
   },
   {
     "key": [
       "country"
     ],
-    "value": "un_state"
+    "value": "arb1"
+  },
+  {
+    "key": [
+      "country"
+    ],
+    "value": "world_6region"
+  },
+  {
+    "key": [
+      "country"
+    ],
+    "value": "arb2"
+  },
+  {
+    "key": [
+      "country"
+    ],
+    "value": "gwid"
+  },
+  {
+    "key": [
+      "country"
+    ],
+    "value": "upper_case_name"
   },
   {
     "key": [
@@ -255,49 +225,229 @@
     "key": [
       "country"
     ],
+    "value": "gapminder_list"
+  },
+  {
+    "key": [
+      "country"
+    ],
     "value": "latitude"
   },
   {
     "key": [
       "country"
     ],
-    "value": "longitude"
+    "value": "alternative_4_cdiac"
   },
   {
     "key": [
-      "g77_and_oecd_countries"
+      "country"
     ],
-    "value": "rank"
+    "value": "iso3166_1_alpha3"
   },
   {
     "key": [
-      "g77_and_oecd_countries"
+      "country"
+    ],
+    "value": "iso3166_2"
+  },
+  {
+    "key": [
+      "country"
+    ],
+    "value": "pandg"
+  },
+  {
+    "key": [
+      "country"
+    ],
+    "value": "unicode_region_subtag"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "is--country"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "alternative_2"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "alt_5"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "alternative_1"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "main_religion_2008"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "un_state"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "arb4"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "arb5"
+  },
+  {
+    "key": [
+      "geo"
     ],
     "value": "name"
   },
   {
     "key": [
-      "g77_and_oecd_countries"
+      "geo"
+    ],
+    "value": "iso3166_1_numeric"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "landlocked"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "god_id"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "arb3"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "longitude"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "g77_and_oecd_countries"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "alternative_3"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "iso3166_1_alpha2"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "arb6"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "income_groups"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "arb1"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "world_6region"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "arb2"
+  },
+  {
+    "key": [
+      "geo"
     ],
     "value": "gwid"
   },
   {
     "key": [
-      "g77_and_oecd_countries"
+      "geo"
     ],
-    "value": "is--g77_and_oecd_countries"
+    "value": "upper_case_name"
   },
   {
     "key": [
       "geo"
     ],
-    "value": "is--global"
+    "value": "world_4region"
   },
   {
     "key": [
       "geo"
     ],
-    "value": "name"
+    "value": "gapminder_list"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "latitude"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "alternative_4_cdiac"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "iso3166_1_alpha3"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "iso3166_2"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "pandg"
   },
   {
     "key": [
@@ -309,13 +459,73 @@
     "key": [
       "geo"
     ],
-    "value": "latitude"
+    "value": "rank"
   },
   {
     "key": [
       "geo"
     ],
+    "value": "is--g77_and_oecd_countries"
+  },
+  {
+    "key": [
+      "g77_and_oecd_countries"
+    ],
+    "value": "rank"
+  },
+  {
+    "key": [
+      "g77_and_oecd_countries"
+    ],
+    "value": "gwid"
+  },
+  {
+    "key": [
+      "g77_and_oecd_countries"
+    ],
+    "value": "name"
+  },
+  {
+    "key": [
+      "g77_and_oecd_countries"
+    ],
+    "value": "is--g77_and_oecd_countries"
+  },
+  {
+    "key": [
+      "global"
+    ],
+    "value": "name"
+  },
+  {
+    "key": [
+      "global"
+    ],
+    "value": "topojson"
+  },
+  {
+    "key": [
+      "global"
+    ],
     "value": "longitude"
+  },
+  {
+    "key": [
+      "global"
+    ],
+    "value": "is--global"
+  },
+  {
+    "key": [
+      "global"
+    ],
+    "value": "latitude"
+  },
+  {
+    "key": [
+      "global"
+    ],
+    "value": "unicode_region_subtag"
   },
   {
     "key": [
@@ -325,9 +535,15 @@
   },
   {
     "key": [
-      "income_groups"
+      "geo"
     ],
-    "value": "name"
+    "value": "is--global"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "is--income_groups"
   },
   {
     "key": [
@@ -339,7 +555,7 @@
     "key": [
       "income_groups"
     ],
-    "value": "is--income_groups"
+    "value": "name"
   },
   {
     "key": [
@@ -349,15 +565,9 @@
   },
   {
     "key": [
-      "landlocked"
+      "income_groups"
     ],
-    "value": "rank"
-  },
-  {
-    "key": [
-      "landlocked"
-    ],
-    "value": "name"
+    "value": "is--income_groups"
   },
   {
     "key": [
@@ -373,15 +583,27 @@
   },
   {
     "key": [
-      "main_religion_2008"
+      "landlocked"
+    ],
+    "value": "name"
+  },
+  {
+    "key": [
+      "landlocked"
     ],
     "value": "rank"
   },
   {
     "key": [
-      "main_religion_2008"
+      "geo"
     ],
-    "value": "name"
+    "value": "is--landlocked"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "is--main_religion_2008"
   },
   {
     "key": [
@@ -393,13 +615,109 @@
     "key": [
       "main_religion_2008"
     ],
+    "value": "name"
+  },
+  {
+    "key": [
+      "main_religion_2008"
+    ],
+    "value": "rank"
+  },
+  {
+    "key": [
+      "main_religion_2008"
+    ],
     "value": "is--main_religion_2008"
+  },
+  {
+    "key": [
+      "world_4region"
+    ],
+    "value": "color"
+  },
+  {
+    "key": [
+      "world_4region"
+    ],
+    "value": "name"
+  },
+  {
+    "key": [
+      "world_4region"
+    ],
+    "value": "longitude"
+  },
+  {
+    "key": [
+      "world_4region"
+    ],
+    "value": "name_short"
+  },
+  {
+    "key": [
+      "world_4region"
+    ],
+    "value": "name_long"
+  },
+  {
+    "key": [
+      "world_4region"
+    ],
+    "value": "description"
+  },
+  {
+    "key": [
+      "world_4region"
+    ],
+    "value": "shape_lores_svg"
+  },
+  {
+    "key": [
+      "world_4region"
+    ],
+    "value": "is--world_4region"
+  },
+  {
+    "key": [
+      "world_4region"
+    ],
+    "value": "rank"
+  },
+  {
+    "key": [
+      "world_4region"
+    ],
+    "value": "latitude"
   },
   {
     "key": [
       "geo"
     ],
-    "value": "rank"
+    "value": "color"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "name_short"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "name_long"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "description"
+  },
+  {
+    "key": [
+      "geo"
+    ],
+    "value": "shape_lores_svg"
   },
   {
     "key": [
@@ -411,127 +729,79 @@
     "key": [
       "geo"
     ],
-    "value": "name"
+    "value": "is--world_6region"
   },
   {
     "key": [
-      "geo"
-    ],
-    "value": "name_short"
-  },
-  {
-    "key": [
-      "geo"
-    ],
-    "value": "name_long"
-  },
-  {
-    "key": [
-      "geo"
-    ],
-    "value": "description"
-  },
-  {
-    "key": [
-      "geo"
-    ],
-    "value": "latitude"
-  },
-  {
-    "key": [
-      "geo"
-    ],
-    "value": "longitude"
-  },
-  {
-    "key": [
-      "geo"
+      "world_6region"
     ],
     "value": "color"
   },
   {
     "key": [
-      "geo"
+      "world_6region"
     ],
-    "value": "shape_lores_svg"
+    "value": "name"
   },
   {
     "key": [
-      "geo"
-    ],
-    "value": "geo"
-  },
-  {
-    "key": [
-      "geo"
-    ],
-    "value": "rank"
-  },
-  {
-    "key": [
-      "geo"
+      "world_6region"
     ],
     "value": "is--world_6region"
   },
   {
     "key": [
-      "geo"
-    ],
-    "value": "name"
-  },
-  {
-    "key": [
-      "geo"
-    ],
-    "value": "name_short"
-  },
-  {
-    "key": [
-      "geo"
-    ],
-    "value": "name_long"
-  },
-  {
-    "key": [
-      "geo"
-    ],
-    "value": "description"
-  },
-  {
-    "key": [
-      "geo"
-    ],
-    "value": "latitude"
-  },
-  {
-    "key": [
-      "geo"
+      "world_6region"
     ],
     "value": "longitude"
   },
   {
     "key": [
-      "geo"
+      "world_6region"
     ],
-    "value": "color"
+    "value": "name_short"
   },
   {
     "key": [
-      "geo"
+      "world_6region"
+    ],
+    "value": "name_long"
+  },
+  {
+    "key": [
+      "world_6region"
+    ],
+    "value": "description"
+  },
+  {
+    "key": [
+      "world_6region"
     ],
     "value": "shape_lores_svg"
   },
   {
     "key": [
-      "tag"
+      "world_6region"
     ],
-    "value": "name"
+    "value": "rank"
+  },
+  {
+    "key": [
+      "world_6region"
+    ],
+    "value": "latitude"
   },
   {
     "key": [
       "tag"
     ],
     "value": "parent"
+  },
+  {
+    "key": [
+      "tag"
+    ],
+    "value": "name"
   },
   {
     "key": [

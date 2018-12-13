@@ -428,7 +428,8 @@ describe('Additional entities supporting', () => {
           join: {},
           order_by: [
             'rank'
-          ]
+          ],
+          dataset: `buchslava/readers-test-ds-systema-globalis#master`
         });
         const requests = [
           getRequest({$and: [{'un_state': true}]}),
@@ -479,6 +480,7 @@ describe('Additional entities supporting', () => {
           order_by: [
             'rank'
           ],
+          dataset: `buchslava/readers-test-ds-systema-globalis#master`,
           force: true
         });
 
