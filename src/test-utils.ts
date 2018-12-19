@@ -76,7 +76,7 @@ function isTestCaseShouldBeOmitted(testCase: TestCase<AbstractExpectationStrateg
   return false;
 }
 
-export function runTests(testCases: TestCase<AbstractExpectationStrategy>[], aggregatedData = {}) {
+export function runTests(testCases: TestCase<AbstractExpectationStrategy>[], aggregatedData = {}, diagnosticData = []) {
   for (const testCase of testCases) {
     testCase.checkConstraints();
 
@@ -111,7 +111,7 @@ export function runTests(testCases: TestCase<AbstractExpectationStrategy>[], agg
 
               request.dataset = `${familyMember.initData.dataset}#master`;
 
-              familyMember.read(request, (err, data) => {
+              familyMember.read(request, (err, response) => {
                 // console.log(JSON.stringify(data, null, 2));
 
                 const timeFinish = new Date().getTime();
@@ -120,8 +120,18 @@ export function runTests(testCases: TestCase<AbstractExpectationStrategy>[], agg
                   aggregatedData[testCaseTitleWithDataset][familyMember.getTitle()].executionTime = timeFinish - timeStart;
                 }
 
+                if (response && response.diagnostic) {
+                  diagnosticData.push({
+                    title: `${title} [#${currentTestIndex}]`,
+                    diagnostic: response.diagnostic,
+                    executionTime: aggregatedData[testCaseTitleWithDataset][familyMember.getTitle()].executionTime
+                  });
+                }
+
                 try {
-                  flow.testIt(err, data, familyMember.dataSource.name, currentTestIndex);
+                  const content = response && response.content ? response.content : response;
+
+                  flow.testIt(err, content, familyMember.dataSource.name, currentTestIndex);
 
                   done();
                 } catch (err) {

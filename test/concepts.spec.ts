@@ -1,12 +1,13 @@
 import { executionSummaryTable, runTests } from '../src/test-utils';
 import { TestCase } from '../src/test-case';
 import { popwpp, sg, sodertornsmodellen } from '../src/settings/datasources';
-import { ExactExpectationStrategy } from '../src/expectations/exact-expectation-strategy';
 import { GenericExpectationStrategy } from "../src/expectations/generic-expectation-strategy";
 import { WsReader } from "../src/family-definition/ws-reader";
+import { writeDiagnostic } from "../src/expectations/utils";
 
 describe('Concepts supporting', () => {
   const aggregatedData = {};
+  const diagnosticData = [];
   const testCases = [
     new TestCase()
       .forDataSource(sg)
@@ -222,7 +223,8 @@ describe('Concepts supporting', () => {
 
   after(() => {
     executionSummaryTable(testCases, aggregatedData);
+    writeDiagnostic(__filename, diagnosticData);
   });
 
-  runTests(testCases, aggregatedData);
+  runTests(testCases, aggregatedData, diagnosticData);
 });

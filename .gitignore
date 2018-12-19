@@ -11,6 +11,7 @@ yarn-error.log*
 !src/third-party/**/*.js
 
 test/result
+test/diagnostics
 
 # Runtime data
 pids

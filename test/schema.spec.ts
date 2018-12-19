@@ -6,10 +6,12 @@ import { QuickExactExpectationStrategy } from '../src/expectations/quick-exact-e
 import { WsReader } from "../src/family-definition/ws-reader";
 import { DdfCsvReader } from "../src/family-definition/ddf-csv-reader";
 import { WsReaderMongoless } from "../src/family-definition/ws-reader-mongoless";
+import { writeDiagnostic } from "../src/expectations/utils";
 
 describe('Schema supporting', () => {
   describe('for concepts', () => {
     const aggregatedData = {};
+    const diagnosticData = [];
     const testCases = [
       new TestCase()
         .forDataSource(sg)
@@ -27,12 +29,14 @@ describe('Schema supporting', () => {
 
     after(() => {
       executionSummaryTable(testCases, aggregatedData);
+      writeDiagnostic(__filename, diagnosticData);
     });
 
-    runTests(testCases, aggregatedData);
+    runTests(testCases, aggregatedData, diagnosticData);
   });
   describe('for entities', () => {
     const aggregatedData = {};
+    const diagnosticData = [];
     const testCases = [
       new TestCase()
         .forDataSource(sg)
@@ -50,12 +54,14 @@ describe('Schema supporting', () => {
 
     after(() => {
       executionSummaryTable(testCases, aggregatedData);
+      writeDiagnostic(__filename, diagnosticData);
     });
 
-    runTests(testCases, aggregatedData);
+    runTests(testCases, aggregatedData, diagnosticData);
   });
   describe('for datapoints', () => {
     const aggregatedData = {};
+    const diagnosticData = [];
     const testCases = [
       new TestCase()
         .forDataSource(sg)
@@ -99,12 +105,14 @@ describe('Schema supporting', () => {
 
     after(() => {
       executionSummaryTable(testCases, aggregatedData);
+      writeDiagnostic(__filename, diagnosticData);
     });
 
-    runTests(testCases, aggregatedData);
+    runTests(testCases, aggregatedData, diagnosticData);
   });
   describe('for general query', () => {
     const aggregatedData = {};
+    const diagnosticData = [];
     const testCases = [
       new TestCase()
         .forDataSource(sg)
@@ -123,8 +131,9 @@ describe('Schema supporting', () => {
 
     after(() => {
       executionSummaryTable(testCases, aggregatedData);
+      writeDiagnostic(__filename, diagnosticData);
     });
 
-    runTests(testCases, aggregatedData);
+    runTests(testCases, aggregatedData, diagnosticData);
   });
 });

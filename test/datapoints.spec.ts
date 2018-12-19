@@ -16,9 +16,11 @@ import { OnlySameQuantityExpectationStrategy } from '../src/expectations/only-sa
 import { WsReader } from "../src/family-definition/ws-reader";
 import { WsReaderMongoless } from "../src/family-definition/ws-reader-mongoless";
 import { DdfCsvReader } from "../src/family-definition/ddf-csv-reader";
+import { writeDiagnostic } from "../src/expectations/utils";
 
 describe('Datapoints supporting', () => {
   const aggregatedData = {};
+  const diagnosticData = [];
   const testCases = [
     new TestCase()
       .forDataSource(sg)
@@ -3789,7 +3791,8 @@ describe('Datapoints supporting', () => {
 
   after(() => {
     executionSummaryTable(testCases, aggregatedData);
+    writeDiagnostic(__filename, diagnosticData);
   });
 
-  runTests(testCases, aggregatedData);
+  runTests(testCases, aggregatedData, diagnosticData);
 });

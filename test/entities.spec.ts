@@ -6,11 +6,13 @@ import { familyMembers } from '../src/settings/family-members';
 import { popwpp, popwppbig, presentation, sankey, sg, sodertornsmodellen } from '../src/settings/datasources';
 import { OnlySameQuantityExpectationStrategy } from "../src/expectations/only-same-quantity-expectation-strategy";
 import { GenericExpectationStrategy } from "../src/expectations/generic-expectation-strategy";
+import { writeDiagnostic } from "../src/expectations/utils";
 
 const expect = chai.expect;
 
 describe('Basic entities supporting', () => {
   const aggregatedData = {};
+  const diagnosticData = [];
   const testCases = [
     new TestCase()
       .forDataSource(sg)
@@ -401,9 +403,10 @@ describe('Basic entities supporting', () => {
 
   after(() => {
     executionSummaryTable(testCases, aggregatedData);
+    writeDiagnostic(__filename, diagnosticData);
   });
 
-  runTests(testCases, aggregatedData);
+  runTests(testCases, aggregatedData, diagnosticData);
 });
 
 describe('Additional entities supporting', () => {
@@ -499,7 +502,8 @@ describe('Additional entities supporting', () => {
           });
         }));
 
-        return Promise.all(actions).then(results => {
+        return Promise.all(actions).then((_results: any) => {
+          const results = _results.content || _results;
           const allEntities = <any[]>nth(results, 0);
           const unStateEntities = <any[]>nth(results, 1);
           const nonUnStateEntities = <any[]>nth(results, 2);

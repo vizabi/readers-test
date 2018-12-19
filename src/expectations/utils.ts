@@ -10,3 +10,13 @@ export function writeDiff(error: string, testIndex: number, fixtureDataStr, data
   fs.writeFileSync(path.resolve(dir, 'original.json'), fixtureDataStr);
   fs.writeFileSync(path.resolve(dir, 'result.json'), dataStr + error);
 }
+
+export function writeDiagnostic(scriptFilePath, data) {
+  const scriptFileName = path.basename(scriptFilePath);
+  const scriptDirName = path.dirname(scriptFilePath);
+  const dirPath = path.resolve(scriptDirName, 'diagnostics');
+  const filePath = path.resolve(dirPath, `${scriptFileName}.diag.json`);
+
+  mkdirp.sync(dirPath);
+  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+}
