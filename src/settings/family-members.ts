@@ -8,7 +8,7 @@ import { GcpReader } from '../family-definition/gcp-reader';
 
 const ghWsAcc = 'buchslava';
 const s3Based = 'http://35.241.134.155/api/ddf/ql';
-const gcpBased = 'http://104.155.35.201/api/ddf/ql';
+const gcpBased = 'http://34.76.80.131/api/ddf/ql';
 
 export const familyMembers: AbstractFamilyMember[] = [
 
